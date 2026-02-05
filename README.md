@@ -86,6 +86,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 
 ### Finance & Markets
 
+- [paylobster](https://www.paylobster.com/) — Payment infrastructure for AI agents (tips, donations, USDC on Base)
 - [stock-market-pro](https://github.com/openclaw/openclaw/tree/main/skills/stock-market-pro) — Professional stock analysis and charts
 - [yahoo-data-fetcher](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-data-fetcher) — Real-time stock quotes
 
