@@ -442,6 +442,7 @@ Skills published to ClawHub by the community:
 - [reminder](https://clawhub.com/skills/reminder) — Simple reminder skill
 - [smart-memory](https://clawhub.com/skills/smart-memory) — Context-aware memory with dual retrieval modes (vector + Focus Agent)
 - [tdd-guide](https://clawhub.com/skills/tdd-guide) — Test-driven development workflow with test generation and coverage analysis
+- [taiwan-payments](https://github.com/Oelshafei1/skills) — Taiwan third-party payment integration (NewebPay, ECPay, PAYUNi) for AI agents
 
 ### Memory & Context
 
@@ -529,6 +530,8 @@ Tools that work with or extend OpenClaw:
 - [openclaw-credential-proxy](https://github.com/mildside-crypto/openclaw-credential-proxy) — A transparent Credential Proxy system (token isolation) used by OpenClaw to isolate API credentials
 - [coolify-openclaw](https://github.com/cadiszu/coolify-openclaw) — Coolify deployment for OpenClaw
 - [keep-up](https://github.com/byoungd/keep-up) — Local First AI Native 24/7 Cowork and Clawdbot for multiple AI CLI tools (Gemini CLI, Claude Code, Codex, OpenCode, etc.)
+- [openclawd-termux](https://github.com/mithun50/openclawd-termux) — Run OpenClaw AI Gateway on Android via Termux — one-command setup with proot-distro
+- [idx.md](https://github.com/Keith-CY/idx.md) — Markdown registry for AI agent libraries with indexed HEAD/BODY content
 
 ---
 
@@ -649,4 +652,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T05:00Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T06:38Z by Awesome-OpenClaw Updater --> <!-- Added: openclawd-termux, idx.md, taiwan-payments -->
