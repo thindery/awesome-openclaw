@@ -14,11 +14,13 @@
 - [Skills](#skills)
   - [Productivity](#productivity)
   - [Development](#development)
+  - [AI & Voice](#ai--voice)
   - [Media & Content](#media--content)
   - [Data & Research](#data--research)
   - [Infrastructure](#infrastructure)
   - [Social & Community](#social--community)
   - [Finance & Markets](#finance--markets)
+  - [Specialized Roles](#specialized-roles)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Example Projects](#example-projects)
@@ -47,16 +49,22 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [apple-reminders](https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders) — Manage Apple Reminders on macOS
 - [bear-notes](https://github.com/openclaw/openclaw/tree/main/skills/bear-notes) — Search and manage Bear notes
 - [chitin](https://clawhub.com/skills/chitin) — Personality persistence for AI agents
+- [cron-scheduling](https://clawhub.com/skills/cron-scheduling) — Schedule recurring tasks with cron and templates
 - [credential-manager](https://clawhub.com/skills/credential-manager) — MANDATORY security foundation for OpenClaw credential management
+- [daily-briefing](https://clawhub.com/skills/daily-briefing) — Warm daily briefing with weather, calendar, reminders
 - [focus-deep-work](https://clawhub.com/skills/focus-deep-work) — Deep work and productivity enhancement
 - [healthcheck](https://github.com/openclaw/openclaw/tree/main/skills/healthcheck) — Track water intake and sleep
 - [jasper-recall](https://clawhub.com/skills/jasper-recall) — Memory and recall system
+- [microsoft-todo](https://clawhub.com/skills/microsoft-todo) — Manage Microsoft To Do tasks via the `todo` CLI
 - [notion](https://github.com/openclaw/openclaw/tree/main/skills/notion) — Notion workspace integration for pages and databases
 - [obsidian](https://github.com/openclaw/openclaw/tree/main/skills/obsidian) — Obsidian vault search and note management
 - [outlook-email](https://clawhub.com/skills/outlook-email) — Microsoft Outlook/Live.com email client
+- [qmd-skill-main](https://clawhub.com/skills/qmd-skill-main) — Local hybrid search for markdown notes and docs
 - [remarkable-tablet](https://clawhub.com/skills/remarkable-tablet) — Fetch handwritten notes from reMarkable tablet
 - [rescuetime](https://clawhub.com/skills/rescuetime) — Fetch productivity data from RescueTime
 - [session-logs](https://github.com/openclaw/openclaw/tree/main/skills/session-logs) — Session activity logging and tracking
+- [shell-scripting](https://clawhub.com/skills/shell-scripting) — Write robust, portable shell scripts
+- [smart-memory](https://clawhub.com/skills/smart-memory) — Context-aware memory with dual retrieval modes
 - [summarize](https://github.com/openclaw/openclaw/tree/main/skills/summarize) — Text summarization tool
 - [things-mac](https://github.com/openclaw/openclaw/tree/main/skills/things-mac) — Manage Things 3 tasks on macOS
 - [trello](https://github.com/openclaw/openclaw/tree/main/skills/trello) — Trello board and card management
@@ -70,12 +78,15 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [agent-council](https://clawhub.com/skills/agent-council) — Toolkit for creating autonomous AI agent councils
 - [ai-auth-check](https://clawhub.com/skills/ai-auth-check) — Audit authentication flows for security vulnerabilities
 - [ai-code-review](https://clawhub.com/skills/ai-code-review) — Automated code review with AI suggestions
+- [ai-persona-os](https://clawhub.com/skills/ai-persona-os) — Production-grade agent OS with persona management
 - [ai-quota-check](https://clawhub.com/skills/ai-quota-check) — Default quota checker for LLM API usage
 - [clawhub](https://github.com/openclaw/openclaw/tree/main/skills/clawhub) — Search, install, and publish skills from ClawHub
+- [codex-orchestrator](https://clawhub.com/skills/codex-orchestrator) — Monitor, control, and orchestrate background Codex sessions
 - [coding-agent](https://github.com/openclaw/openclaw/tree/main/skills/coding-agent) — Spawn Codex/Claude Code for complex coding tasks
 - [computer-use-1-0-1](https://clawhub.com/skills/computer-use-1-0-1) — Full desktop computer use for headless Linux servers
 - [credential-manager](https://clawhub.com/skills/credential-manager) — MANDATORY security foundation for credential management
 - [desktop-control](https://clawhub.com/skills/desktop-control) — Advanced desktop automation with mouse, keyboard, screenshots
+- [api-gateway](https://clawhub.com/skills/api-gateway) — API gateway for third-party APIs with managed auth
 - [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) — Automate web browser interactions using natural language
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) — Gemini CLI integration for AI summaries and generation
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) — GitHub CLI integration (issues, PRs, actions)
@@ -83,10 +94,14 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [markdpwn-formatter](https://clawhub.com/skills/markdown-formatter) — Format and beautify markdown documents
 - [model-usage](https://github.com/openclaw/openclaw/tree/main/skills/model-usage) — Track and analyze model token usage and costs
 - [nano-pdf](https://github.com/openclaw/openclaw/tree/main/skills/nano-pdf) — Document processing and PDF manipulation
+- [n8n-api](https://clawhub.com/skills/n8n-api) — Operate n8n workflows via REST API
 - [noopolis](https://clawhub.com/skills/noopolis) — Be a Noopolis citizen (constitution, proposals, economy)
 - [oracle](https://github.com/openclaw/openclaw/tree/main/skills/oracle) — Oracle database integration and queries
-- [peekaboo](https://github.com/openclaw/openclaw/tree/main/skills/peekaboo) — Screen/window peeking and capture
+- [pdf-extract](https://clawhub.com/skills/pdf-extract) — Extract text from PDFs for LLM processing
 - [pdf-text-extractor](https://clawhub.com/skills/pdf-text-extractor) — Extract text from PDFs with OCR support
+- [peekaboo](https://github.com/openclaw/openclaw/tree/main/skills/peekaboo) — Screen/window peeking and capture
+- [playwright-cli-2](https://clawhub.com/skills/playwright-cli-2) — Browser automation via Playwright
+- [pptx](https://clawhub.com/skills/pptx) — PowerPoint (.pptx) file handling and manipulation
 - [project-orchestrator](https://clawhub.com/skills/project-orchestrator) — AI agent orchestrator with Neo4j knowledge graph
 - [prompts-workflow](https://clawhub.com/skills/prompts-workflow) — Automated workflow for collecting and publishing prompts
 - [recursive-self-improvement](https://clawhub.com/skills/recursive-self-improvement) — Auto-detect errors and fix or continuously optimize
@@ -97,6 +112,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [skillscanner](https://clawhub.com/skills/skillscanner) — Security scanner for ClawHub skills
 - [skill-search](https://clawhub.com/skills/skill-search) — Search, discover, and dynamically load skills
 - [slack](https://github.com/openclaw/openclaw/tree/main/skills/slack) — Slack workspace integration and messaging
+- [sql-toolkit](https://clawhub.com/skills/sql-toolkit) — Query, design, migrate SQL databases
 - [tmux](https://github.com/openclaw/openclaw/tree/main/skills/tmux) — Terminal multiplexer session management
 - [tunneling](https://clawhub.com/skills/tunneling) — Create free SSH tunnels to expose local ports
 - [video-frames](https://github.com/openclaw/openclaw/tree/main/skills/video-frames) — Extract and analyze video frames
@@ -119,7 +135,9 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [deepresearchwork](https://clawhub.com/skills/deepresearchwork) — Comprehensive AI research framework
 - [dreaming](https://clawhub.com/skills/dreaming) — Creative exploration during quiet hours
 - [elevenlabs-tts](https://github.com/openclaw/openclaw/tree/main/skills/elevenlabs-tts) — Premium text-to-speech with emotional tags
+- [elevenlabs-transcribe](https://clawhub.com/skills/elevenlabs-transcribe) — Transcribe audio to text using ElevenLabs Scribe
 - [ffmpeg-video-editor](https://clawhub.com/skills/ffmpeg-video-editor) — Video editing with FFmpeg
+- [gemini-image-gen](https://clawhub.com/skills/gemini-image-gen) — Generate and edit images via Google Gemini API
 - [gemini-nano-banana-pro-portraits](https://clawhub.com/skills/gemini-nano-banana-pro-portraits) — Portrait generation with Gemini Nano Banana Pro
 - [gifgrep](https://github.com/openclaw/openclaw/tree/main/skills/gifgrep) — Search and manage GIFs from Giphy
 - [image-cog](https://clawhub.com/skills/image-cog) — Image cognition and analysis
@@ -129,6 +147,8 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [nano-banana-pro](https://github.com/openclaw/openclaw/tree/main/skills/nano-banana-pro) — Advanced image generation and editing
 - [nano-banana-korean-rendering](https://clawhub.com/skills/nano-banana-korean-rendering) — Accurate rendering of non-Latin text (Korean, Japanese, Chinese) in AI images
 - [openai-image-gen](https://github.com/openclaw/openclaw/tree/main/skills/openai-image-gen) — AI image generation via OpenAI DALL-E
+- [piper-tts](https://clawhub.com/skills/piper-tts) — Local TTS using Piper ONNX voices (fast, private, no cloud)
+- [qwen-image](https://clawhub.com/skills/qwen-image) — Generate images using Qwen Image API (Alibaba Cloud DashScope)
 - [remotion-video-toolkit](https://clawhub.com/skills/remotion-video-toolkit) — Video creation toolkit with Remotion
 - [sherpa-onnx-tts](https://github.com/openclaw/openclaw/tree/main/skills/sherpa-onnx-tts) — Local text-to-speech using Sherpa ONNX
 - [sora-video-gen](https://clawhub.com/skills/sora-video-gen) — Sora video generation
@@ -144,6 +164,11 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 
 - [openai-whisper](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) — Local speech-to-text with OpenAI Whisper
 - [openai-whisper-api](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api) — Speech-to-text via OpenAI API
+- [piper-tts](https://clawhub.com/skills/piper-tts) — Local TTS using Piper ONNX voices (fast, private, no cloud)
+- [sapi-tts](https://clawhub.com/skills/sapi-tts) — Windows SAPI5 text-to-speech with Neural voices
+- [speech-to-text](https://clawhub.com/skills/speech-to-text) — Transcribe audio with Whisper models via inference.sh CLI
+- [ai-music-generation](https://clawhub.com/skills/ai-music-generation) — Generate AI music and songs with Diffrythm, Tencent Song Generation
+- [conversation-summary-api](https://clawhub.com/skills/conversation-summary-api) — Generate conversation summaries with incremental updates
 
 ### Data & Research
 
@@ -154,19 +179,24 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [deepresearchwork](https://clawhub.com/skills/deepresearchwork) — Comprehensive research framework with web search
 - [exa-search](https://clawhub.com/skills/exa-search) — Exa (exa.ai) search API for web and neural search
 - [firecrawl](https://github.com/openclaw/openclaw/tree/main/skills/firecrawl) — Web scraping via Firecrawl API
+- [firecrawl-skills](https://clawhub.com/skills/firecrawl-skills) — Web scraping and crawling via Firecrawl
 - [google-analytics-api](https://clawhub.com/skills/google-analytics-api) — Google Analytics API with managed OAuth
 - [goplaces](https://github.com/openclaw/openclaw/tree/main/skills/goplaces) — Local business and place search
 - [landing-page-generator](https://clawhub.com/skills/landing-page-generator) — Generate high-converting landing pages
 - [lead-gen-website](https://clawhub.com/skills/lead-gen-website) — Build complete local lead generation websites
 - [local-places](https://github.com/openclaw/openclaw/tree/main/skills/local-places) — Find nearby businesses and services
 - [market-pulse](https://github.com/openclaw/openclaw/tree/main/skills/market-pulse) — Market data, crypto, DeFi yields
+- [parallel-deep-research](https://clawhub.com/skills/parallel-deep-research) — Multi-source research via Parallel API
 - [proactive-agent-1-2-4](https://clawhub.com/skills/proactive-agent-1-2-4) — Transform agents from task-followers to proactive initiators
 - [prospector](https://clawhub.com/skills/prospector) — Prospecting and lead generation
 - [reddit-insights](https://github.com/openclaw/openclaw/tree/main/skills/reddit-insights) — Reddit trend analysis and market research
+- [reddit-readonly](https://clawhub.com/skills/reddit-readonly) — Browse Reddit without authentication
 - [self-improving-agent](https://clawhub.com/skills/self-improving-agent) — Capture learnings and errors for continuous improvement
 - [startups](https://github.com/openclaw/openclaw/tree/main/skills/startups) — Startup ecosystem research
 - [travel-manager](https://clawhub.com/skills/travel-manager) — Comprehensive travel planning and booking
 - [twitter-u7c](https://github.com/openclaw/openclaw/tree/main/skills/twitter-u7c) — X/Twitter monitoring and trends
+- [valyu-search](https://clawhub.com/skills/valyu-search) — Web search, content extraction, answers, and DeepResearch via Valyu
+- [web-search-2](https://clawhub.com/skills/web-search-2) — Web search with Tavily and Exa via inference.sh CLI
 - [yahoo-finance](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-finance) — Yahoo Finance data integration
 
 ### Infrastructure
@@ -174,10 +204,12 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) — Bluetooth device management and control
 - [clawdbot-logs](https://clawhub.com/skills/clawdbot-logs) — Analyze Clawdbot performance, response times, errors
 - [clawddocs-1-2-2](https://clawhub.com/skills/clawddocs-1-2-2) — Clawdbot documentation expert
+- [cloudflare-dns-updater](https://clawhub.com/skills/cloudflare-dns-updater) — Create or update proxied Cloudflare DNS A records
 - [cloudflare-gen](https://github.com/openclaw/openclaw/tree/main/skills/cloudflare-gen) — Cloudflare Workers configuration
 - [credential-manager](https://clawhub.com/skills/credential-manager) — MANDATORY security foundation for credential management
 - [domain-dns-ops](https://github.com/openclaw/openclaw/tree/main/skills/domain-dns-ops) — Domain and DNS management
 - [eightctl](https://github.com/openclaw/openclaw/tree/main/skills/eightctl) — Eight Sleep mattress control and monitoring
+- [file-search](https://clawhub.com/skills/file-search) — Fast file search using fd and ripgrep
 - [firecracker](https://clawhub.com/skills/firecracker) — AWS Firecracker microVM management
 - [google-play](https://clawhub.com/skills/google-play) — Google Play Developer API integration
 - [log-tail](https://clawhub.com/skills/log-tail) — Real-time log file monitoring
@@ -188,6 +220,8 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [openclaw-server-secure-skill](https://clawhub.com/skills/openclaw-server-secure-skill) — Secure server configuration
 - [security-audit](https://github.com/openclaw/openclaw/tree/main/skills/security-audit) — Infrastructure security scanning
 - [skill-guard](https://clawhub.com/skills/skill-guard) — Skill security vetting and validation
+- [ssh-exec](https://clawhub.com/skills/ssh-exec) — Run commands on remote Tailscale nodes
+- [ssh-tunnel](https://clawhub.com/skills/ssh-tunnel) — SSH tunneling and port forwarding
 - [tunneling](https://clawhub.com/skills/tunneling) — Create free SSH tunnels to expose local ports
 - [vercel](https://github.com/openclaw/openclaw/tree/main/skills/vercel) — Deploy and manage Vercel projects
 
@@ -220,12 +254,16 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [crypto-agent-payments](https://clawhub.com/skills/crypto-agent-payments) — Crypto wallets and payments for AI agents
 - [crypto-levels](https://clawhub.com/skills/crypto-levels) — Analyze crypto support and resistance levels
 - [crypto-price](https://clawhub.com/skills/crypto-price) — Cryptocurrency price tracking
+- [fairscale-solana](https://clawhub.com/skills/fairscale-solana) — Check Solana wallet reputation
 - [hyperliquid-trading](https://clawhub.com/skills/hyperliquid-trading) — Hyperliquid trading and analysis
 - [klaviyo](https://clawhub.com/skills/klaviyo) — Klaviyo API integration
 - [clawpify](https://clawhub.com/skills/clawpify) — Query and manage Shopify stores via GraphQL Admin API
 - [llm-wallet](https://clawhub.com/skills/llm-wallet) — LLM Wallet with x402 stablecoin payments on Polygon
 - [mailchimp](https://clawhub.com/skills/mailchimp) — Mailchimp Marketing API integration
+- [metals-agent-teneo](https://clawhub.com/skills/metals-agent-teneo) — Real-time prices for gold, silver, copper
+- [mia-polymarket-trader](https://clawhub.com/skills/mia-polymarket-trader) — Automated prediction market trading on Polymarket
 - [minara](https://clawhub.com/skills/minara) — Financial analysis and trading
+- [moltiumv2](https://clawhub.com/skills/moltiumv2) — Solana AI trade toolkit (pump.fun, Raydium, PumpSwap)
 - [onchain](https://clawhub.com/skills/onchain) — Onchain CLI for blockchain operations
 - [openclaw-1ly-payments](https://clawhub.com/skills/openclaw-1ly-payments) — Payment processing for OpenClaw
 - [openindex](https://clawhub.com/skills/openindex) — End-to-end encrypted messaging and EVM crypto wallet
@@ -238,6 +276,45 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [strykr-prism](https://clawhub.com/skills/strykr-prism) — Advanced trading and analytics
 - [x402](https://clawhub.com/skills/x402) — x402 micropayments protocol
 - [yahoo-data-fetcher](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-data-fetcher) — Real-time stock quotes
+- [zeruai](https://clawhub.com/skills/zeruai) — Register agents on Zeru ERC-8004 Identity Registry
+
+### Specialized Roles
+
+Professional-grade skills for specific job roles:
+
+**Executive & Leadership:**
+- [ceo-advisor](https://clawhub.com/skills/ceo-advisor) — Executive leadership toolkit (strategy, board governance, investor relations)
+- [cto-advisor](https://clawhub.com/skills/cto-advisor) — Technical leadership (tech debt, team scaling, DORA metrics, ADRs)
+- [product-strategist](https://clawhub.com/skills/product-strategist) — Strategic product leadership (OKRs, market analysis, vision setting)
+- [product-manager-toolkit](https://clawhub.com/skills/product-manager-toolkit) — PM toolkit (RICE prioritization, customer interviews, PRDs)
+
+**Engineering:**
+- [senior-frontend](https://clawhub.com/skills/senior-frontend) — React/Next.js/TypeScript/Tailwind (components, bundle analysis, patterns)
+- [senior-fullstack](https://clawhub.com/skills/senior-fullstack) — Fullstack toolkit (Next.js, FastAPI, MERN, Django scaffolding)
+- [senior-qa](https://clawhub.com/skills/senior-qa) — React/Next.js testing (Jest, React Testing Library, Playwright)
+- [senior-prompt-engineer](https://clawhub.com/skills/senior-prompt-engineer) — Prompt optimization, RAG, agent architectures
+- [senior-ml-engineer](https://clawhub.com/skills/senior-ml-engineer) — MLOps pipelines, LLM integration, feature stores
+- [senior-data-engineer](https://clawhub.com/skills/senior-data-engineer) — Scalable data pipelines, ETL/ELT, DataOps
+- [senior-data-scientist](https://clawhub.com/skills/senior-data-scientist) — Statistical modeling, experimentation, causal inference
+- [senior-computer-vision](https://clawhub.com/skills/senior-computer-vision) — Object detection, segmentation, vision AI (YOLO, SAM, TensorRT)
+- [senior-security](https://clawhub.com/skills/senior-security) — Threat modeling, STRIDE, secure architecture, pen testing
+- [senior-secops](https://clawhub.com/skills/senior-secops) — SecOps toolkit (vulnerability management, compliance, incident response)
+- [aws-solution-architect](https://clawhub.com/skills/aws-solution-architect) — AWS architectures for startups (serverless, IaC, cost optimization)
+
+**Design & UX:**
+- [ux-researcher-designer](https://clawhub.com/skills/ux-researcher-designer) — UX research toolkit (personas, journey maps, usability testing)
+- [ui-design-system](https://clawhub.com/skills/ui-design-system) — Design system toolkit (tokens, components, responsive calculations)
+- [tech-stack-evaluator](https://clawhub.com/skills/tech-stack-evaluator) — Technology evaluation with TCO analysis and ecosystem scoring
+
+**Marketing & Content:**
+- [marketing-strategy-pmm](https://clawhub.com/skills/marketing-strategy-pmm) — Product marketing (positioning, GTM, competitive battlecards)
+- [marketing-demand-acquisition](https://clawhub.com/skills/marketing-demand-acquisition) — Demand generation for Series A+ startups
+- [content-creator](https://clawhub.com/skills/content-creator) — SEO-optimized content with brand voice analysis
+- [social-media-analyzer](https://clawhub.com/skills/social-media-analyzer) — Social campaign analysis (engagement rates, ROI, benchmarks)
+- [copywriter](https://clawhub.com/skills/copywriter) — UX copy, marketing content, product messaging
+
+**IT & Administration:**
+- [ms365-tenant-manager](https://clawhub.com/skills/ms365-tenant-manager) — Microsoft 365 tenant administration and automation
 
 ### Gaming & Lifestyle
 
@@ -349,6 +426,22 @@ Skills published to ClawHub by the community:
 - [hardcover](https://clawhub.com/skills/hardcover) — Query reading lists and book data from Hardcover
 - [billclaw](https://github.com/fire-la/billclaw) — Bank transaction and bill data import for OpenClaw — Data sovereignty for your financial data
 - [willy-skills](https://github.com/jnology/willy-skills) — Platform skills for OpenClaw AI agents in Willform
+- [24konbini](https://clawhub.com/skills/24konbini) — Marketplace and bank for AI agents
+- [agentic-ai-gold](https://clawhub.com/skills/agentic-ai-gold) — Self-improving AI framework
+- [bing-search](https://clawhub.com/skills/bing-search) — Bing search without API key needed
+- [cloudflare-dns-updater](https://clawhub.com/skills/cloudflare-dns-updater) — Create or update proxied Cloudflare DNS A records
+- [codex-orchestrator](https://clawhub.com/skills/codex-orchestrator) — Monitor, control, and orchestrate background Codex sessions
+- [content-distributor](https://clawhub.com/skills/content-distributor) — Multi-platform content distribution for Chinese social platforms
+- [context-gatekeeper](https://clawhub.com/skills/context-gatekeeper) — Token-friendly conversation management with compact briefings
+- [claw-roam](https://clawhub.com/skills/claw-roam) — Sync OpenClaw workspace between multiple machines via Git
+- [duckduckgo-search](https://clawhub.com/skills/duckduckgo-search) — DuckDuckGo search without API key
+- [daily-briefing](https://clawhub.com/skills/daily-briefing) — Warm daily briefing with weather, calendar, reminders
+- [lobster-tank](https://clawhub.com/skills/lobster-tank) — Collaborative research platform for AI agents
+- [memory-pipeline-0-1-0](https://clawhub.com/skills/memory-pipeline-0-1-0) — Agent memory + performance system
+- [mini-piv](https://clawhub.com/skills/mini-piv) — Lightweight PIV workflow (discovery-driven feature builder)
+- [reminder](https://clawhub.com/skills/reminder) — Simple reminder skill
+- [smart-memory](https://clawhub.com/skills/smart-memory) — Context-aware memory with dual retrieval modes (vector + Focus Agent)
+- [tdd-guide](https://clawhub.com/skills/tdd-guide) — Test-driven development workflow with test generation and coverage analysis
 
 ### Memory & Context
 
