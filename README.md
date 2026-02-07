@@ -334,6 +334,13 @@ Tools that work with or extend OpenClaw:
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) — Trading assistant with Hyperliquid API integration
 - [crabwalk](https://github.com/luccast/crabwalk) — Real-time companion monitor for OpenClaw agents ⭐ 700+
 - [botmaker](https://github.com/jgarzik/botmaker) — UI/app to create containerized OpenClaw bots
+- [burrow](https://github.com/sydneyb-agent/burrow) — Private agent-to-agent communication system for Moltbook and OpenClaw
+- [fleetcentric](https://github.com/fleetcentric/fleetcentric) — OpenClaw Config Generator for Fleets
+- [hard-shell](https://github.com/gettweek/hard-shell) — Hardened OpenClaw + Tweek Docker distribution with defense-in-depth security
+- [openclaw-credential-manager](https://github.com/teeclaw/openclaw-credential-manager) — Secure credential management for OpenClaw
+- [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
+- [skill-hub](https://github.com/pass-ctrl-ai/skill-hub) — OpenClaw skill hub for exported skills
+- [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) — The infrastructure layer for the agentic era on Starknet
 
 ---
 
@@ -370,6 +377,7 @@ Real projects built with OpenClaw:
 - [hairyf/clawflow](https://github.com/hairyf/clawflow) — Engineering, Observable, and Collaborative OpenClaw Framework
 - [trianglegrrl/emotion-engine](https://github.com/trianglegrrl/emotion-engine) — PAD + Ekman + OCEAN emotional model plugin for agents
 - [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) — Cost-optimized personal AI with multi-provider routing 🐚
+- [sett-arena](https://github.com/Rainhoole/sett-arena) — The Fighting Pit of Sett (Powered by OpenClaw) — A Mini Twitter Clone
 - [mibolaji/ClawPad](https://github.com/mibolaji/ClawPad) — Simplify agentic systems on older machines
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) — AI agent task management system
 - [openclaw-agent-squad](https://github.com/crayon-doing-petri/openclaw-agent-squad) — AI agent squad coordination framework
@@ -444,4 +452,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T03:54Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T04:00Z by Awesome-OpenClaw Updater -->
