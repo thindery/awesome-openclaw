@@ -22,6 +22,7 @@
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Example Projects](#example-projects)
+- [Regional Resources](#regional-resources)
 - [Community](#community)
 
 ---
@@ -48,7 +49,10 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [healthcheck](https://github.com/openclaw/openclaw/tree/main/skills/healthcheck) — Track water intake and sleep
 - [notion](https://github.com/openclaw/openclaw/tree/main/skills/notion) — Notion workspace integration for pages and databases
 - [obsidian](https://github.com/openclaw/openclaw/tree/main/skills/obsidian) — Obsidian vault search and note management
+- [session-logs](https://github.com/openclaw/openclaw/tree/main/skills/session-logs) — Session activity logging and tracking
+- [summarize](https://github.com/openclaw/openclaw/tree/main/skills/summarize) — Text summarization tool
 - [things-mac](https://github.com/openclaw/openclaw/tree/main/skills/things-mac) — Manage Things 3 tasks on macOS
+- [trello](https://github.com/openclaw/openclaw/tree/main/skills/trello) — Trello board and card management
 - [topydo](https://github.com/openclaw/openclaw/tree/main/skills/topydo) — todo.txt management with dependencies and priorities
 
 ### Development
@@ -60,8 +64,17 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) — Gemini CLI integration for AI summaries and generation
 - [model-usage](https://github.com/openclaw/openclaw/tree/main/skills/model-usage) — Track and analyze model token usage and costs
 - [nano-pdf](https://github.com/openclaw/openclaw/tree/main/skills/nano-pdf) — Document processing and PDF manipulation
+- [oracle](https://github.com/openclaw/openclaw/tree/main/skills/oracle) — Oracle database integration and queries
+- [peekaboo](https://github.com/openclaw/openclaw/tree/main/skills/peekaboo) — Screen/window peeking and capture
+- [sag](https://github.com/openclaw/openclaw/tree/main/skills/sag) — Semantic agent gateway for tool orchestration
 - [security-auditor](https://github.com/openclaw/openclaw/tree/main/skills/security-auditor) — Code security reviews and OWASP checks
 - [skill-creator](https://github.com/openclaw/openclaw/tree/main/skills/skill-creator) — Build and package new skills
+- [slack](https://github.com/openclaw/openclaw/tree/main/skills/slack) — Slack workspace integration and messaging
+- [tmux](https://github.com/openclaw/openclaw/tree/main/skills/tmux) — Terminal multiplexer session management
+- [video-frames](https://github.com/openclaw/openclaw/tree/main/skills/video-frames) — Extract and analyze video frames
+- [voice-call](https://github.com/openclaw/openclaw/tree/main/skills/voice-call) — Voice calling capabilities and management
+- [wacli](https://github.com/openclaw/openclaw/tree/main/skills/wacli) — WhatsApp CLI integration and messaging
+- [weather](https://github.com/openclaw/openclaw/tree/main/skills/weather) — Weather information and forecasts
 
 ### Media & Content
 
@@ -72,7 +85,14 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [gifgrep](https://github.com/openclaw/openclaw/tree/main/skills/gifgrep) — Search and manage GIFs from Giphy
 - [kokoro-tts](https://github.com/openclaw/openclaw/tree/main/skills/kokoro-tts) — Free local TTS engine
 - [nano-banana-pro](https://github.com/openclaw/openclaw/tree/main/skills/nano-banana-pro) — Advanced image generation and editing
+- [openai-image-gen](https://github.com/openclaw/openclaw/tree/main/skills/openai-image-gen) — AI image generation via OpenAI DALL-E
+- [sherpa-onnx-tts](https://github.com/openclaw/openclaw/tree/main/skills/sherpa-onnx-tts) — Local text-to-speech using Sherpa ONNX
 - [x-publisher](https://github.com/openclaw/openclaw/tree/main/skills/x-publisher) — Publish posts to X/Twitter
+
+### AI & Voice
+
+- [openai-whisper](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) — Local speech-to-text with OpenAI Whisper
+- [openai-whisper-api](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api) — Speech-to-text via OpenAI API
 
 ### Data & Research
 
@@ -98,6 +118,13 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [security-audit](https://github.com/openclaw/openclaw/tree/main/skills/security-audit) — Infrastructure security scanning
 - [vercel](https://github.com/openclaw/openclaw/tree/main/skills/vercel) — Deploy and manage Vercel projects
 
+### Smart Home & IoT
+
+- [openhue](https://github.com/openclaw/openclaw/tree/main/skills/openhue) — Philips Hue smart lighting control
+- [sonoscli](https://github.com/openclaw/openclaw/tree/main/skills/sonoscli) — Sonos speaker system control
+- [spotify-player](https://github.com/openclaw/openclaw/tree/main/skills/spotify-player) — Spotify music playback control
+- [songsee](https://github.com/openclaw/openclaw/tree/main/skills/songsee) — Song and music discovery
+
 ### Social & Community
 
 - [bird](https://github.com/openclaw/openclaw/tree/main/skills/bird) — Bluesky social media integration
@@ -108,7 +135,6 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [himalaya](https://github.com/openclaw/openclaw/tree/main/skills/himalaya) — Email management via Himalaya CLI
 - [imsg](https://github.com/openclaw/openclaw/tree/main/skills/imsg) — macOS Messages app integration
 - [message](https://github.com/openclaw/openclaw/tree/main/skills/message) — Send messages across Discord, Telegram, Slack, WhatsApp, Signal
-- [blogwatcher](https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher) — Monitor and track blog/RSS feeds
 
 ### Finance & Markets
 
@@ -145,6 +171,9 @@ Skills published to ClawHub by the community:
 
 - [openclaw-cortex](https://github.com/heliosarchitect/openclaw-cortex) — Hybrid memory architecture with temporal awareness
 - [openclaw-engram](https://github.com/joshuaswarren/openclaw-engram) — Persistent long-term memory with LLM extraction and QMD search
+- [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) — Perfect memory and recall for agents
+- [clawdbrunner/openclaw-graphiti-memory](https://github.com/clawdbrunner/openclaw-graphiti-memory) — Hybrid memory using Graphiti temporal knowledge graph
+- [membrane](https://github.com/GustyCube/membrane) — Selective learning and memory substrate with typed, revisable, decayable memory
 
 ---
 
@@ -167,10 +196,16 @@ Tools that work with or extend OpenClaw:
 - [tuxbaby/openclaw-dashboard](https://github.com/tuxbaby/openclaw-dashboard) — Enhanced monitoring with workspace browser
 - [rodbland2021/claw-session-viewer](https://github.com/rodbland2021/claw-session-viewer) — Real-time web dashboard for monitoring sessions
 - [qualiabot/openclaw-session-browser](https://github.com/qualiabot/openclaw-session-browser) — Session browser for agent insights
+- [VACInc/openclaw-tool-call-viewer](https://github.com/VACInc/openclaw-tool-call-viewer) — Web UI for browsing session tool call history
 - [crowsecure](https://github.com/diogopaes/crowsecure) — Security & Trust Layer for OpenClaw Skills
 - [ClawSecAI/ClawSec-skill](https://github.com/ClawSecAI/ClawSec-skill) — AI-powered security audits for OpenClaw
 - [AbYousef739/clawskillshield](https://github.com/AbYousef739/clawskillshield) — Local-first security scanner for skills
 - [MikeeBuilds/clawpinch](https://github.com/MikeeBuilds/clawpinch) — Security audit toolkit (63 checks across 8 categories)
+- [superglue-ai/clawguardian](https://github.com/superglue-ai/clawguardian) — Security plugin for OpenClaw that detects and filters sensitive data in tool calls
+- [knostic/openclaw-shield](https://github.com/knostic/openclaw-shield) — Security plugin that prevents secret leaks, PII exposure, and destructive command execution
+- [knostic/openclaw-detect](https://github.com/knostic/openclaw-detect) — Detection scripts for MDM deployment to identify OpenClaw installations
+- [knostic/openclaw-telemetry](https://github.com/knostic/openclaw-telemetry) — Telemetry for OpenClaw tool calls, LLM usage, agent lifecycle events
+- [backslash-security/Claw-Hunter](https://github.com/backslash-security/Claw-Hunter) — MDM security tool to detect and secure OpenClaw/Moltbot shadow AI agents
 - [clawgate](https://github.com/M64GitHub/clawgate) — Zero-trust file/git access using cryptographic capability tokens
 - [ClawK](https://github.com/fraction12/ClawK) — Native macOS companion app with menubar (sessions, heartbeats, cron)
 - [opengloves](https://github.com/buxue2025/opengloves) — Standalone mobile web chat for OpenClaw (iOS, Android)
@@ -183,6 +218,14 @@ Tools that work with or extend OpenClaw:
 - [natan89/awesome-openclaw-skills](https://github.com/natan89/awesome-openclaw-skills) — Catalog of 1715+ community skills
 - [Endogen/ralph-loop](https://github.com/Endogen/ralph-loop) — Event-driven Ralph pattern for AI agent loops
 - [synapz-org/synapz-agent](https://github.com/synapz-org/synapz-agent) — OpenClaw agent workspace template (Bittensor native)
+- [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) — Self-learning API skill generator that auto-discovers APIs from browser traffic
+- [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) — Self-writing meta-extension for OpenClaw
+- [crshdn/mission-control](https://github.com/crshdn/mission-control) — AI Agent Orchestration Dashboard for task management and multi-agent collaboration
+- [runkids/skillshare](https://github.com/runkids/skillshare) — Sync skills across AI CLI tools (Claude Code, OpenClaw, OpenCode)
+- [hintjen/RoboClaw](https://github.com/hintjen/RoboClaw) — Community-powered OpenClaw deployment and orchestration layer
+- [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) — Trading assistant with Hyperliquid API integration
+- [crabwalk](https://github.com/luccast/crabwalk) — Real-time companion monitor for OpenClaw agents ⭐ 700+
+- [botmaker](https://github.com/jgarzik/botmaker) — UI/app to create containerized OpenClaw bots
 
 ---
 
@@ -191,6 +234,8 @@ Tools that work with or extend OpenClaw:
 - [Getting Started with OpenClaw](https://docs.openclaw.ai/getting-started) — Official quickstart
 - [Building Your First Skill](https://docs.openclaw.ai/skills/creating) — Create custom tools
 - [Multi-Agent Architecture](https://docs.openclaw.ai/patterns/multi-agent) — Coordinate agent teams
+- [openclaw101](https://github.com/mengjian-github/openclaw101) — Chinese learning resource — master OpenClaw in 7 days
+- [openclawcourse](https://github.com/kiankyars/openclawcourse) — 1-hour crash course on OpenClaw
 
 *Want to write a tutorial? [Submit a PR!](./CONTRIBUTING.md)*
 
@@ -222,11 +267,41 @@ Real projects built with OpenClaw:
 - [bottube](https://github.com/Scottcjn/bottube) — BoTTube video sharing platform for AI agents
 - [openclaw-xmpp](https://github.com/kazakhan/openclaw-xmpp) — XMPP chat protocol integration
 - [openclaw-mission-control](https://github.com/megahertz8/openclaw-mission-control) — Mission control dashboard for OpenClaw
+- [manish-raana/openclaw-mission-control](https://github.com/manish-raana/openclaw-mission-control) — Real-time web UI for monitoring agents and workflows (Convex + React)
 - [personal-agent](https://github.com/hackeshackes/personal-agent) — Chinese personal AI agent (iOS/Android app)
 - [openclaw-multi-brain](https://github.com/Dannydvm/openclaw-multi-brain) — Multi-brain agent coordination system
-- [fire-zu/billclaw](https://github.com/fire-zu/billclaw) — Bank transaction and bill data import for OpenClaw
+- [clawstr](https://github.com/clawstr/clawstr) — Social network for AI agents on Nostr
+- [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) — YouTube Transcript API skills for AI agents
+- [voocel/openclaw-mini](https://github.com/voocel/openclaw-mini) — Minimalist OpenClaw core architecture implementation
+- [JasonHonKL/PardusClawer](https://github.com/JasonHonKL/PardusClawer) — OpenClaw for data scientists
+- [openakita/openakita](https://github.com/openakita/openakita) — Open-source AI assistant framework with skills and agent architecture
+- [openclaw-cloud](https://github.com/openperf/openclaw-cloud) — Give your AI Agent a cloud-native life
+- [cloud-claw](https://github.com/miantiao-me/cloud-claw) — Run OpenClaw with One Click on Cloudflare Containers
+- [openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) — OpenClaw deployment with Coolify
+- [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) — Moltbot skill library for crypto trading, DeFi, automation
+- [riphook](https://github.com/merciagents/riphook) — Deterministic security layer for OpenClaw, Cursor and Claude Code
+- [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 Cowork and OpenClaw for multiple AI CLI tools (⭐ 12.4k)
 
 *Have a project? [Add it here!](./CONTRIBUTING.md)*
+
+---
+
+## Regional Resources
+
+### Chinese / 中文资源
+
+- [OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) — Complete Chinese localization with tutorials
+- [openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) — Chinese plugins for Feishu, DingTalk, QQ, WeCom, WeChat
+- [OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM) — Docker with pre-configured Chinese IM platform integrations
+- [openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) — Feishu/Lark bot integration
+- [openclaw-plugin-wecom](https://github.com/sunnoy/openclaw-plugin-wecom) — Enterprise WeChat (WeCom) AI bot plugin
+- [openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) — DingTalk bot channel plugin
+- [dingtalk-moltbot-connector](https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector) — DingTalk DEAP Agent connector with AI Card streaming ⭐ 1.1k
+- [openclaw-setup](https://github.com/anomixer/openclaw-setup) — Quick setup guide with Ollama + Telegram
+- [clawdbot-ai/awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) — Chinese skill library translation
+- [mozi](https://github.com/King-Chau/mozi) — Lightweight Clawdbot for Chinese LLMs with Feishu/Dingding/WeCom/QQ support
+- [OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) — One-click deployment tool for ClawdBot
+- [xiaomo-starter-kit](https://github.com/mengjian-github/xiaomo-starter-kit) — Chinese AI assistant template with 5-minute setup
 
 ---
 
@@ -249,3 +324,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+<!-- Last updated: 2026-02-07T03:27Z by Awesome-OpenClaw Updater -->
