@@ -347,6 +347,8 @@ Skills published to ClawHub by the community:
 - [affiliate-master](https://clawhub.com/skills/affiliate-master) — Full-stack affiliate marketing automation
 - [url-shorten](https://clawhub.com/skills/url-shorten) — Shorten URLs via TinyURL or Bitly API
 - [hardcover](https://clawhub.com/skills/hardcover) — Query reading lists and book data from Hardcover
+- [billclaw](https://github.com/fire-la/billclaw) — Bank transaction and bill data import for OpenClaw — Data sovereignty for your financial data
+- [willy-skills](https://github.com/jnology/willy-skills) — Platform skills for OpenClaw AI agents in Willform
 
 ### Memory & Context
 
@@ -357,6 +359,7 @@ Skills published to ClawHub by the community:
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) — Perfect memory and recall for agents
 - [clawdbrunner/openclaw-graphiti-memory](https://github.com/clawdbrunner/openclaw-graphiti-memory) — Hybrid memory using Graphiti temporal knowledge graph
 - [membrane](https://github.com/GustyCube/membrane) — Selective learning and memory substrate with typed, revisable, decayable memory
+- [openclaw-memory-sync](https://github.com/mpesavento/openclaw-memory-sync) — OpenClaw skill for parsing session JSONL logs and backfilling/validating memory files
 
 ---
 
@@ -429,6 +432,10 @@ Tools that work with or extend OpenClaw:
 - [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) — Proxy for using Antigravity Claude/Gemini models in Claude Code and OpenClaw
 - [eclipse-openclaw-template](https://github.com/gdr3941/eclipse-openclaw-template) — OpenClaw workspace template for Eclipse partners
 - [openclaw-stt-tts](https://github.com/CHRISILDAVID/openclaw-stt-tts) — Realtime voice-voice conversation system for OpenClaw
+- [openclaw-studio](https://github.com/outsourc-e/openclaw-studio) — VSCode for AI Agents - Desktop interface for OpenClaw Gateway
+- [openclaw-credential-proxy](https://github.com/mildside-crypto/openclaw-credential-proxy) — A transparent Credential Proxy system (token isolation) used by OpenClaw to isolate API credentials
+- [coolify-openclaw](https://github.com/cadiszu/coolify-openclaw) — Coolify deployment for OpenClaw
+- [keep-up](https://github.com/byoungd/keep-up) — Local First AI Native 24/7 Cowork and Clawdbot for multiple AI CLI tools (Gemini CLI, Claude Code, Codex, OpenCode, etc.)
 
 ---
 
@@ -499,6 +506,8 @@ Real projects built with OpenClaw:
 - [astra-os](https://github.com/rosakowski/astra-os) — Personal AI operating system built on OpenClaw. Automated workflows, sub-agents, and scheduled tasks for life management
 - [openclaw-agents-team-skill](https://github.com/liuqin164/openclaw-agents-team-skill) — YAML-based Multi-Agent software development workflow for OpenClaw
 - [english-learning-app](https://github.com/kongpemg1212-code/english-learning-app) — Interactive English Learning App powered by OpenClaw
+- [ftw](https://github.com/SmokeAlot420/ftw) — First Try Works — vibecoding takes 47 tries, FTW takes one. Multi-agent validation workflow for Claude Code and OpenClaw
+- [ra-men-skills](https://github.com/ra-men-org/openclaw-skills) — OpenClaw agent skills — /remember, /recall, options scanner, X timeline analyzer
 
 *Have a project? [Add it here!](./CONTRIBUTING.md)*
 
@@ -547,4 +556,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T04:39Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T05:00Z by Awesome-OpenClaw Updater -->
