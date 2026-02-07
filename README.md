@@ -57,7 +57,10 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 
 ### Development
 
-- [clawhub](https://github.com/openclaw/openclaw/tree/main/skills/clawhub) — Search, install, and publish skills from ClawHub
+- [ai-code-review](https://clawhub.com/skills/ai-code-review) — Automated code review with AI suggestions
+- [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) — Self-directed task continuation without waiting for prompts
+- [clawhub](https://github.com/openclaw/openclaw/tree/main/skills/clawhub)
+- [prompts-workflow](https://clawhub.com/skills/prompts-workflow) — Automated workflow for collecting and publishing prompts — Search, install, and publish skills from ClawHub
 - [coding-agent](https://github.com/openclaw/openclaw/tree/main/skills/coding-agent) — Spawn Codex/Claude Code for complex coding tasks
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) — GitHub CLI integration (issues, PRs, actions)
 - [git-workflows](https://github.com/openclaw/openclaw/tree/main/skills/git-workflows) — Advanced git operations (rebase, bisect, worktrees)
@@ -67,6 +70,8 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [oracle](https://github.com/openclaw/openclaw/tree/main/skills/oracle) — Oracle database integration and queries
 - [peekaboo](https://github.com/openclaw/openclaw/tree/main/skills/peekaboo) — Screen/window peeking and capture
 - [sag](https://github.com/openclaw/openclaw/tree/main/skills/sag) — Semantic agent gateway for tool orchestration
+- [ai-auth-check](https://clawhub.com/skills/ai-auth-check) — Audit authentication flows for security vulnerabilities
+- [security-audit-toolkit](https://clawhub.com/skills/security-audit-toolkit) — Comprehensive security scanning toolkit
 - [security-auditor](https://github.com/openclaw/openclaw/tree/main/skills/security-auditor) — Code security reviews and OWASP checks
 - [skill-creator](https://github.com/openclaw/openclaw/tree/main/skills/skill-creator) — Build and package new skills
 - [slack](https://github.com/openclaw/openclaw/tree/main/skills/slack) — Slack workspace integration and messaging
@@ -87,6 +92,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [nano-banana-pro](https://github.com/openclaw/openclaw/tree/main/skills/nano-banana-pro) — Advanced image generation and editing
 - [openai-image-gen](https://github.com/openclaw/openclaw/tree/main/skills/openai-image-gen) — AI image generation via OpenAI DALL-E
 - [sherpa-onnx-tts](https://github.com/openclaw/openclaw/tree/main/skills/sherpa-onnx-tts) — Local text-to-speech using Sherpa ONNX
+- [blrd](https://clawhub.com/skills/blrd) — X/Twitter CLI for reading, searching, and posting
 - [x-publisher](https://github.com/openclaw/openclaw/tree/main/skills/x-publisher) — Publish posts to X/Twitter
 
 ### AI & Voice
@@ -96,6 +102,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 
 ### Data & Research
 
+- [ai-diff-summary](https://clawhub.com/skills/ai-diff-summary) — Summarize git diffs in plain English
 - [apewisdom](https://github.com/openclaw/openclaw/tree/main/skills/apewisdom) — Reddit stock sentiment tracking
 - [blogwatcher](https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher) — Monitor and track blog/RSS feeds
 - [firecrawl](https://github.com/openclaw/openclaw/tree/main/skills/firecrawl) — Web scraping via Firecrawl API
@@ -103,6 +110,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [local-places](https://github.com/openclaw/openclaw/tree/main/skills/local-places) — Find nearby businesses and services
 - [market-pulse](https://github.com/openclaw/openclaw/tree/main/skills/market-pulse) — Market data, crypto, DeFi yields
 - [reddit-insights](https://github.com/openclaw/openclaw/tree/main/skills/reddit-insights) — Reddit trend analysis and market research
+- [self-improving-agent](https://clawhub.com/skills/self-improving-agent) — Capture learnings and errors for continuous improvement
 - [startups](https://github.com/openclaw/openclaw/tree/main/skills/startups) — Startup ecosystem research
 - [twitter-u7c](https://github.com/openclaw/openclaw/tree/main/skills/twitter-u7c) — X/Twitter monitoring and trends
 - [yahoo-finance](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-finance) — Yahoo Finance data integration
@@ -110,6 +118,8 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 ### Infrastructure
 
 - [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) — Bluetooth device management and control
+- [clawdbot-logs](https://clawhub.com/skills/clawdbot-logs) — Analyze Clawdbot performance, response times, errors
+- [log-tail](https://clawhub.com/skills/log-tail) — Real-time log file monitoring
 - [cloudflare-gen](https://github.com/openclaw/openclaw/tree/main/skills/cloudflare-gen) — Cloudflare Workers configuration
 - [domain-dns-ops](https://github.com/openclaw/openclaw/tree/main/skills/domain-dns-ops) — Domain and DNS management
 - [eightctl](https://github.com/openclaw/openclaw/tree/main/skills/eightctl) — Eight Sleep mattress control and monitoring
@@ -164,8 +174,12 @@ Skills published to ClawHub by the community:
 - [ocft](https://clawhub.com/skills/ocft) — OpenClaw File Transfer utility
 - [skill-guard](https://clawhub.com/skills/skill-guard) — Skill security vetting and validation
 - [skill-scaffold](https://clawhub.com/skills/skill-scaffold) — Rapid skill scaffolding generator
+- [openclaw-agent-optimize-skill](https://clawhub.com/skills/openclaw-agent-optimize-skill) — Optimize agent setup and performance
+- [openclaw-agent-token-optimizer](https://clawhub.com/skills/openclaw-agent-token-optimizer) — Advanced token usage optimization
 - [token-optimizer](https://clawhub.com/skills/token-optimizer) — LLM token usage optimization
+- [web-deploy](https://clawhub.com/skills/web-deploy) — Deploy web applications and static sites
 - [wooclaw-lite](https://clawhub.com/skills/wooclaw-lite) — WordPress/WooCommerce connector
+- [clawdaddy](https://clawhub.com/skills/clawdaddy) — The world's most helpful assistant
 
 ### Memory & Context
 
@@ -279,6 +293,13 @@ Real projects built with OpenClaw:
 - [cloud-claw](https://github.com/miantiao-me/cloud-claw) — Run OpenClaw with One Click on Cloudflare Containers
 - [openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) — OpenClaw deployment with Coolify
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) — Moltbot skill library for crypto trading, DeFi, automation
+- [JamesTsetsekas/openclaw-skill-lnbits](https://github.com/JamesTsetsekas/openclaw-skill-lnbits) — LNbits Wallet Manager for OpenClaw
+- [DevelopmentCats/homeassistant-assist](https://github.com/DevelopmentCats/homeassistant-assist) — Home Assistant skill using Assist API
+- [shimaenaga1123/rustclaw](https://github.com/shimaenaga1123/rustclaw) — Rust-based Discord AI assistant
+- [hankl/microbot](https://github.com/hankl/microbot) — Lightweight personal AI assistant
+- [OrangeClaw/sparkinsight](https://github.com/OrangeClaw/sparkinsight) — Cross-agent memory system with ORANGE token rewards
+- [wkyleg/personal-genomics](https://github.com/wkyleg/personal-genomics) — Analyze your DNA with OpenClaw
+- [penggaolai/ai-news-app](https://github.com/penggaolai/ai-news-app) — Daily Top 10 AI news dashboard with glassmorphism UI
 - [riphook](https://github.com/merciagents/riphook) — Deterministic security layer for OpenClaw, Cursor and Claude Code
 - [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 Cowork and OpenClaw for multiple AI CLI tools (⭐ 12.4k)
 
@@ -325,4 +346,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T03:27Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T03:40Z by Awesome-OpenClaw Updater -->
