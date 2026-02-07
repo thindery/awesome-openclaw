@@ -76,6 +76,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [computer-use-1-0-1](https://clawhub.com/skills/computer-use-1-0-1) — Full desktop computer use for headless Linux servers
 - [credential-manager](https://clawhub.com/skills/credential-manager) — MANDATORY security foundation for credential management
 - [desktop-control](https://clawhub.com/skills/desktop-control) — Advanced desktop automation with mouse, keyboard, screenshots
+- [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) — Automate web browser interactions using natural language
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) — Gemini CLI integration for AI summaries and generation
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) — GitHub CLI integration (issues, PRs, actions)
 - [git-workflows](https://github.com/openclaw/openclaw/tree/main/skills/git-workflows) — Advanced git operations (rebase, bisect, worktrees)
@@ -126,6 +127,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [marketing-promo-video](https://clawhub.com/skills/marketing-promo-video) — Marketing promotional video creation
 - [molty-pics](https://clawhub.com/skills/molty-pics) — Image-first social feed for OpenClaw bots
 - [nano-banana-pro](https://github.com/openclaw/openclaw/tree/main/skills/nano-banana-pro) — Advanced image generation and editing
+- [nano-banana-korean-rendering](https://clawhub.com/skills/nano-banana-korean-rendering) — Accurate rendering of non-Latin text (Korean, Japanese, Chinese) in AI images
 - [openai-image-gen](https://github.com/openclaw/openclaw/tree/main/skills/openai-image-gen) — AI image generation via OpenAI DALL-E
 - [remotion-video-toolkit](https://clawhub.com/skills/remotion-video-toolkit) — Video creation toolkit with Remotion
 - [sherpa-onnx-tts](https://github.com/openclaw/openclaw/tree/main/skills/sherpa-onnx-tts) — Local text-to-speech using Sherpa ONNX
@@ -220,6 +222,7 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 - [crypto-price](https://clawhub.com/skills/crypto-price) — Cryptocurrency price tracking
 - [hyperliquid-trading](https://clawhub.com/skills/hyperliquid-trading) — Hyperliquid trading and analysis
 - [klaviyo](https://clawhub.com/skills/klaviyo) — Klaviyo API integration
+- [clawpify](https://clawhub.com/skills/clawpify) — Query and manage Shopify stores via GraphQL Admin API
 - [llm-wallet](https://clawhub.com/skills/llm-wallet) — LLM Wallet with x402 stablecoin payments on Polygon
 - [mailchimp](https://clawhub.com/skills/mailchimp) — Mailchimp Marketing API integration
 - [minara](https://clawhub.com/skills/minara) — Financial analysis and trading
@@ -269,6 +272,7 @@ Skills published to ClawHub by the community:
 - [web-deploy](https://clawhub.com/skills/web-deploy) — Deploy web applications and static sites
 - [wooclaw-lite](https://clawhub.com/skills/wooclaw-lite) — WordPress/WooCommerce connector
 - [clawdaddy](https://clawhub.com/skills/clawdaddy) — The world's most helpful assistant
+- [soul-shepherd](https://clawhub.com/skills/soul-shepherd) — SOUL.md personality management and agent identity
 
 ### Memory & Context
 
@@ -345,6 +349,8 @@ Tools that work with or extend OpenClaw:
 - [openclaw-advanced-voice](https://github.com/gnaritas/openclaw-advanced-voice) — Advanced voice calling plugin with System 1/2 architecture and security challenges
 - [souls-directory](https://github.com/thedaviddias/souls-directory) — Directory of SOUL.md personality files for OpenClaw agents
 - [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) — Proxy for using Antigravity Claude/Gemini models in Claude Code and OpenClaw
+- [eclipse-openclaw-template](https://github.com/gdr3941/eclipse-openclaw-template) — OpenClaw workspace template for Eclipse partners
+- [openclaw-stt-tts](https://github.com/CHRISILDAVID/openclaw-stt-tts) — Realtime voice-voice conversation system for OpenClaw
 
 ---
 
@@ -421,6 +427,10 @@ Real projects built with OpenClaw:
 
 ## Regional Resources
 
+### Thailand / ไทย
+
+- [Openclaw-Thailand-Guide](https://github.com/JonusNattapong/Openclaw-Thailand-Guide) — OpenClaw setup guide and resources for Thailand
+
 ### Chinese / 中文资源
 
 - [OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) — Complete Chinese localization with tutorials
@@ -458,4 +468,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T04:20Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T04:24Z by Awesome-OpenClaw Updater -->
