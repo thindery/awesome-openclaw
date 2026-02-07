@@ -291,6 +291,7 @@ Tools that work with or extend OpenClaw:
 - [ClawHub CLI](https://clawhub.com) — Install, update, and publish skills
 - [OpenClaw Dashboard](https://github.com/openclaw/openclaw) — Web UI for managing agents
 - [Lobster](https://github.com/openclaw/lobster) — Typed local-first macro engine for composable workflows
+- [LobsterBoard](https://github.com/Curbob/LobsterBoard) — OpenClaw Dashboard Builder - Create custom dashboards
 - [ClawGo](https://github.com/openclaw/clawgo) — Clawd node implementation in Go
 - [openclaw-ansible](https://github.com/openclaw/openclaw-ansible) — Automated hardened Clawdbot installation with Tailscale
 - [nix-openclaw](https://github.com/openclaw/nix-openclaw) — Nix packages for Clawdbot
@@ -343,6 +344,7 @@ Tools that work with or extend OpenClaw:
 - [hard-shell](https://github.com/gettweek/hard-shell) — Hardened OpenClaw + Tweek Docker distribution with defense-in-depth security
 - [openclaw-credential-manager](https://github.com/teeclaw/openclaw-credential-manager) — Secure credential management for OpenClaw
 - [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
+- [session-cost](https://github.com/khaney64/session-cost) — OpenClaw session scanner to summarize model costs for given range
 - [skill-hub](https://github.com/pass-ctrl-ai/skill-hub) — OpenClaw skill hub for exported skills
 - [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) — The infrastructure layer for the agentic era on Starknet
 - [prompt-injection-defense](https://github.com/misty-step/prompt-injection-defense) — Scientific experiments on LLM security boundary tags for prompt injection defense
@@ -418,6 +420,7 @@ Real projects built with OpenClaw:
 - [penggaolai/ai-news-app](https://github.com/penggaolai/ai-news-app) — Daily Top 10 AI news dashboard with glassmorphism UI
 - [riphook](https://github.com/merciagents/riphook) — Deterministic security layer for OpenClaw, Cursor and Claude Code
 - [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 Cowork and OpenClaw for multiple AI CLI tools (⭐ 12.4k)
+- [astra-os](https://github.com/rosakowski/astra-os) — Personal AI operating system built on OpenClaw. Automated workflows, sub-agents, and scheduled tasks for life management
 - [openclaw-agents-team-skill](https://github.com/liuqin164/openclaw-agents-team-skill) — YAML-based Multi-Agent software development workflow for OpenClaw
 - [english-learning-app](https://github.com/kongpemg1212-code/english-learning-app) — Interactive English Learning App powered by OpenClaw
 
