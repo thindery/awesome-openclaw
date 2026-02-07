@@ -208,6 +208,7 @@ Tools that work with or extend OpenClaw:
 - [iamEvanYT/openclaw-docker](https://github.com/iamEvanYT/openclaw-docker) — Easy Docker setup with Tailscale
 - [openclaw-better-gateway](https://github.com/ThisIsJeron/openclaw-better-gateway) — Enhanced Gateway web UI with auto-refresh
 - [tuxbaby/openclaw-dashboard](https://github.com/tuxbaby/openclaw-dashboard) — Enhanced monitoring with workspace browser
+- [evil-cass-mission-control](https://github.com/evilcassassistant-png/mission-control) — OpenClaw agent dashboard with activity feed, calendar, and global search
 - [rodbland2021/claw-session-viewer](https://github.com/rodbland2021/claw-session-viewer) — Real-time web dashboard for monitoring sessions
 - [qualiabot/openclaw-session-browser](https://github.com/qualiabot/openclaw-session-browser) — Session browser for agent insights
 - [VACInc/openclaw-tool-call-viewer](https://github.com/VACInc/openclaw-tool-call-viewer) — Web UI for browsing session tool call history
@@ -223,6 +224,8 @@ Tools that work with or extend OpenClaw:
 - [clawgate](https://github.com/M64GitHub/clawgate) — Zero-trust file/git access using cryptographic capability tokens
 - [ClawK](https://github.com/fraction12/ClawK) — Native macOS companion app with menubar (sessions, heartbeats, cron)
 - [opengloves](https://github.com/buxue2025/opengloves) — Standalone mobile web chat for OpenClaw (iOS, Android)
+- [deploy-openclaw](https://github.com/PhucMPham/deploy-openclaw) — Interactive TUI wizard for deploying OpenClaw on Ubuntu/Debian VPS
+- [quick-open-claw](https://github.com/joseamijares/quick-open-claw) — One-click OpenClaw deployment for LATAM. Telegram + Ollama
 - [maxmode](https://github.com/7juliusearl/maxmode) — Dashboard with MaxMode workspace
 - [TheHive](https://github.com/stealthystew/TheHive) — Subagent dashboard and monitoring
 - [autoclaw-web](https://github.com/my3rdstory/autoclaw-web) — Web-based OpenClaw installer (Korean)
@@ -261,6 +264,8 @@ Real projects built with OpenClaw:
 
 - [Pantry-Pal](https://github.com/pantry-pal/pantry-pal) — AI-powered recipe and meal planning SaaS (built with OpenClaw agent team)
 - [yuna-openclaw](https://github.com/yuna-studio/yuna-openclaw) — Python-based OpenClaw implementation with community extensions (⭐ 32)
+- [carapace](https://github.com/puremachinery/carapace) — A secure, stable Rust alternative to openclaw/moltbot/clawdbot (⭐ 6)
+- [NeoClaw](https://github.com/koreysmith123/NeoClaw) — TypeScript reimagining of OpenClaw
 - [OpenclawInterSystem](https://github.com/Mayuqi-crypto/OpenclawInterSystem) — Multi-agent OpenClaw deployment framework (⭐ 5)
 - [primr](https://github.com/blisspixel/primr) — AI-powered company intelligence with OpenClaw integration
 - [openclaws.world](https://github.com/gloopieb/openclaws.world) — Global OpenClaw Security Monitor dashboard
@@ -285,6 +290,8 @@ Real projects built with OpenClaw:
 - [personal-agent](https://github.com/hackeshackes/personal-agent) — Chinese personal AI agent (iOS/Android app)
 - [openclaw-multi-brain](https://github.com/Dannydvm/openclaw-multi-brain) — Multi-brain agent coordination system
 - [clawstr](https://github.com/clawstr/clawstr) — Social network for AI agents on Nostr
+- [SecurityClaw](https://github.com/mallen-lbx/SecurityClaw) — Python security toolkit for OpenClaw agents
+- [openclaw-story](https://github.com/darwintree/openclaw-story) — TypeScript-based OpenClaw storytelling project
 - [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) — YouTube Transcript API skills for AI agents
 - [voocel/openclaw-mini](https://github.com/voocel/openclaw-mini) — Minimalist OpenClaw core architecture implementation
 - [JasonHonKL/PardusClawer](https://github.com/JasonHonKL/PardusClawer) — OpenClaw for data scientists
@@ -346,4 +353,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T03:40Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T03:54Z by Awesome-OpenClaw Updater -->
