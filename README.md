@@ -341,6 +341,10 @@ Tools that work with or extend OpenClaw:
 - [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
 - [skill-hub](https://github.com/pass-ctrl-ai/skill-hub) — OpenClaw skill hub for exported skills
 - [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) — The infrastructure layer for the agentic era on Starknet
+- [prompt-injection-defense](https://github.com/misty-step/prompt-injection-defense) — Scientific experiments on LLM security boundary tags for prompt injection defense
+- [openclaw-advanced-voice](https://github.com/gnaritas/openclaw-advanced-voice) — Advanced voice calling plugin with System 1/2 architecture and security challenges
+- [souls-directory](https://github.com/thedaviddias/souls-directory) — Directory of SOUL.md personality files for OpenClaw agents
+- [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) — Proxy for using Antigravity Claude/Gemini models in Claude Code and OpenClaw
 
 ---
 
@@ -408,6 +412,8 @@ Real projects built with OpenClaw:
 - [penggaolai/ai-news-app](https://github.com/penggaolai/ai-news-app) — Daily Top 10 AI news dashboard with glassmorphism UI
 - [riphook](https://github.com/merciagents/riphook) — Deterministic security layer for OpenClaw, Cursor and Claude Code
 - [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 Cowork and OpenClaw for multiple AI CLI tools (⭐ 12.4k)
+- [openclaw-agents-team-skill](https://github.com/liuqin164/openclaw-agents-team-skill) — YAML-based Multi-Agent software development workflow for OpenClaw
+- [english-learning-app](https://github.com/kongpemg1212-code/english-learning-app) — Interactive English Learning App powered by OpenClaw
 
 *Have a project? [Add it here!](./CONTRIBUTING.md)*
 
@@ -452,4 +458,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T04:00Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T04:20Z by Awesome-OpenClaw Updater -->
