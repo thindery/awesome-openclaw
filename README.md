@@ -273,8 +273,84 @@ Skills published to ClawHub by the community:
 - [wooclaw-lite](https://clawhub.com/skills/wooclaw-lite) — WordPress/WooCommerce connector
 - [clawdaddy](https://clawhub.com/skills/clawdaddy) — The world's most helpful assistant
 - [soul-shepherd](https://clawhub.com/skills/soul-shepherd) — SOUL.md personality management and agent identity
+- [gcalcli-calendar](https://clawhub.com/skills/gcalcli-calendar) — Google Calendar via gcalcli with smart agenda views
+- [notion-cli](https://clawhub.com/skills/notion-cli) — Notion CLI for pages, databases, and blocks
+- [local-booking](https://clawhub.com/skills/local-booking) — Book real-world services through Lokuli MCP (75+ categories)
+- [sendclaw-email](https://clawhub.com/skills/sendclaw-email) — FREE agentic email without verification
+- [task-decomposer](https://clawhub.com/skills/task-decomposer) — Decomposes complex requests into executable subtasks
+- [google-calendar-api](https://clawhub.com/skills/google-calendar-api) — Google Calendar API with managed OAuth
+- [gmail](https://clawhub.com/skills/gmail) — Gmail API with managed OAuth
+- [playwright-cli-2](https://clawhub.com/skills/playwright-cli-2) — Browser automation via Playwright
+- [clawshell](https://clawhub.com/skills/clawshell) — Human-in-the-loop security layer for high-risk commands
+- [n8n-api](https://clawhub.com/skills/n8n-api) — Operate n8n workflows via REST API
+- [sql-toolkit](https://clawhub.com/skills/sql-toolkit) — Query, design, migrate SQL databases
+- [api-gateway](https://clawhub.com/skills/api-gateway) — API gateway for third-party APIs with managed auth
+- [transcriptapi](https://clawhub.com/skills/transcriptapi) — YouTube transcripts without API quota limits
+- [pptx](https://clawhub.com/skills/pptx) — PowerPoint (.pptx) file handling and manipulation
+- [google-slides](https://clawhub.com/skills/google-slides) — Google Slides API with managed OAuth
+- [pdf-extract](https://clawhub.com/skills/pdf-extract) — Extract text from PDFs for LLM processing
+- [heygen-avatar-lite](https://clawhub.com/skills/heygen-avatar-lite) — AI digital human videos with HeyGen
+- [youtube-full](https://clawhub.com/skills/youtube-full) — Complete YouTube toolkit — transcripts, search, channels
+- [baidu-search](https://clawhub.com/skills/baidu-search) — Baidu AI Search Engine for Chinese queries
+- [firecrawl-skills](https://clawhub.com/skills/firecrawl-skills) — Web scraping and crawling via Firecrawl
+- [duckduckgo-search](https://clawhub.com/skills/duckduckgo-search) — DuckDuckGo search without API key
+- [parallel-deep-research](https://clawhub.com/skills/parallel-deep-research) — Multi-source research via Parallel API
+- [reddit-readonly](https://clawhub.com/skills/reddit-readonly) — Browse Reddit without authentication
+- [file-search](https://clawhub.com/skills/file-search) — Fast file search using fd and ripgrep
+- [bing-search](https://clawhub.com/skills/bing-search) — Bing search without API key needed
+- [discord-admin](https://clawhub.com/skills/discord-admin) — Complete Discord server administration (A-Z)
+- [whatsapp-business](https://clawhub.com/skills/whatsapp-business) — WhatsApp Business API with managed OAuth
+- [feishu-docx-powerwrite](https://clawhub.com/skills/feishu-docx-powerwrite) — Feishu/Lark Docx writing
+- [mia-polymarket-trader](https://clawhub.com/skills/mia-polymarket-trader) — Automated prediction market trading on Polymarket
+- [24konbini](https://clawhub.com/skills/24konbini) — Marketplace and bank for AI agents
+- [memory-pipeline-0-1-0](https://clawhub.com/skills/memory-pipeline-0-1-0) — Agent memory + performance system
+- [agentic-ai-gold](https://clawhub.com/skills/agentic-ai-gold) — Self-improving AI framework
+- [daily-briefing](https://clawhub.com/skills/daily-briefing) — Warm daily briefing with weather, calendar, reminders
+- [ai-persona-os](https://clawhub.com/skills/ai-persona-os) — Production-grade agent OS with persona management
+- [lobster-tank](https://clawhub.com/skills/lobster-tank) — Collaborative research platform for AI agents
+- [cron-scheduling](https://clawhub.com/skills/cron-scheduling) — Schedule recurring tasks with cron and templates
+- [shell-scripting](https://clawhub.com/skills/shell-scripting) — Write robust, portable shell scripts
+- [ssh-tunnel](https://clawhub.com/skills/ssh-tunnel) — SSH tunneling and port forwarding
+- [ssh-exec](https://clawhub.com/skills/ssh-exec) — Run commands on remote Tailscale nodes
+- [remindme](https://clawhub.com/skills/remindme) — Simple Telegram reminders for OpenClaw
+- [skill-guard](https://clawhub.com/skills/skill-guard) — Scan ClawHub skills for security vulnerabilities before installing
+- [google-play](https://clawhub.com/skills/google-play) — Google Play Developer API integration
+- [klaviyo](https://clawhub.com/skills/klaviyo) — Klaviyo API integration with managed OAuth
+- [mailchimp](https://clawhub.com/skills/mailchimp) — Mailchimp Marketing API integration
+- [asana-api](https://clawhub.com/skills/asana-api) — Asana API integration with managed OAuth
+- [trello-api](https://clawhub.com/skills/trello-api) — Trello API integration with managed OAuth
+- [pipedrive-api](https://clawhub.com/skills/pipedrive-api) — Pipedrive API integration with managed OAuth
+- [calendly-api](https://clawhub.com/skills/calendly-api) — Calendly API integration with managed OAuth
+- [clickup-api](https://clawhub.com/skills/clickup-api) — ClickUp API integration with managed OAuth
+- [youtube-api-skill](https://clawhub.com/skills/youtube-api-skill) — YouTube Data API integration with managed OAuth
+- [gemini-image-gen](https://clawhub.com/skills/gemini-image-gen) — Generate and edit images via Google Gemini API
+- [x-voice-match](https://clawhub.com/skills/x-voice-match) — Analyze X/Twitter style and generate authentic posts
+- [agent-council](https://clawhub.com/skills/agent-council) — Toolkit for creating autonomous AI agent councils
+- [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) — Automate web browser with natural language
+- [proactive-agent-1-2-4](https://clawhub.com/skills/proactive-agent-1-2-4) — Transform agents from task-followers to proactive initiators
+- [desktop-control](https://clawhub.com/skills/desktop-control) — Advanced desktop automation with mouse, keyboard, screenshots
+- [openclaw-security-monitor](https://clawhub.com/skills/openclaw-security-monitor) — Real-time security monitoring and threat scanning
+- [deepresearchwork](https://clawhub.com/skills/deepresearchwork) — Comprehensive AI research framework
+- [lead-gen-website](https://clawhub.com/skills/lead-gen-website) — Build complete local lead generation websites
+- [qmd-skill-main](https://clawhub.com/skills/qmd-skill-main) — Local hybrid search for markdown notes and docs
+- [table-image-generator](https://clawhub.com/skills/table-image-generator) — Generate clean table images from data
+- [token-optimizer](https://clawhub.com/skills/token-optimizer) — Reduce OpenClaw AI costs by 97% with Haiku routing
+- [price-tracker](https://clawhub.com/skills/price-tracker) — Monitor product prices across Amazon, eBay, Walmart
+- [exa-search](https://clawhub.com/skills/exa-search) — Exa (exa.ai) search API for web and neural search
+- [metals-agent-teneo](https://clawhub.com/skills/metals-agent-teneo) — Real-time prices for gold, silver, copper
+- [elevenlabs-transcribe](https://clawhub.com/skills/elevenlabs-transcribe) — Transcribe audio to text using ElevenLabs Scribe
+- [voyageai-skill](https://clawhub.com/skills/voyageai-skill) — Voyage AI embedding and reranking CLI
+- [project-orchestrator](https://clawhub.com/skills/project-orchestrator) — AI agent orchestrator with Neo4j knowledge graph
+- [google-workspace-admin](https://clawhub.com/skills/google-workspace-admin) — Google Workspace Admin SDK integration
+- [frinkiac](https://clawhub.com/skills/frinkiac) — Search TV show screenshots and generate memes
+- [seo-article-gen](https://clawhub.com/skills/seo-article-gen) — SEO-optimized article generator with affiliate links
+- [affiliate-master](https://clawhub.com/skills/affiliate-master) — Full-stack affiliate marketing automation
+- [url-shorten](https://clawhub.com/skills/url-shorten) — Shorten URLs via TinyURL or Bitly API
+- [hardcover](https://clawhub.com/skills/hardcover) — Query reading lists and book data from Hardcover
 
 ### Memory & Context
+
+Skills published to ClawHub by the community:
 
 - [openclaw-cortex](https://github.com/heliosarchitect/openclaw-cortex) — Hybrid memory architecture with temporal awareness
 - [openclaw-engram](https://github.com/joshuaswarren/openclaw-engram) — Persistent long-term memory with LLM extraction and QMD search
@@ -471,4 +547,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-07T04:24Z by Awesome-OpenClaw Updater -->
+<!-- Last updated: 2026-02-07T04:39Z by Awesome-OpenClaw Updater -->
