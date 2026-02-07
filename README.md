@@ -41,54 +41,86 @@ Skills are OpenClaw's superpower — they give your agents tools to interact wit
 
 ### Productivity
 
-- [things-mac](https://github.com/openclaw/openclaw/tree/main/skills/things-mac) — Manage Things 3 tasks on macOS
+- [1password](https://github.com/openclaw/openclaw/tree/main/skills/1password) — Manage 1Password vault items and passwords
+- [apple-notes](https://github.com/openclaw/openclaw/tree/main/skills/apple-notes) — Read and search Apple Notes on macOS
+- [apple-reminders](https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders) — Manage Apple Reminders on macOS
+- [bear-notes](https://github.com/openclaw/openclaw/tree/main/skills/bear-notes) — Search and manage Bear notes
 - [healthcheck](https://github.com/openclaw/openclaw/tree/main/skills/healthcheck) — Track water intake and sleep
+- [notion](https://github.com/openclaw/openclaw/tree/main/skills/notion) — Notion workspace integration for pages and databases
+- [obsidian](https://github.com/openclaw/openclaw/tree/main/skills/obsidian) — Obsidian vault search and note management
+- [things-mac](https://github.com/openclaw/openclaw/tree/main/skills/things-mac) — Manage Things 3 tasks on macOS
 - [topydo](https://github.com/openclaw/openclaw/tree/main/skills/topydo) — todo.txt management with dependencies and priorities
 
 ### Development
 
+- [clawhub](https://github.com/openclaw/openclaw/tree/main/skills/clawhub) — Search, install, and publish skills from ClawHub
+- [coding-agent](https://github.com/openclaw/openclaw/tree/main/skills/coding-agent) — Spawn Codex/Claude Code for complex coding tasks
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) — GitHub CLI integration (issues, PRs, actions)
 - [git-workflows](https://github.com/openclaw/openclaw/tree/main/skills/git-workflows) — Advanced git operations (rebase, bisect, worktrees)
-- [coding-agent](https://github.com/openclaw/openclaw/tree/main/skills/coding-agent) — Spawn Codex/Claude Code for complex coding tasks
-- [skill-creator](https://github.com/openclaw/openclaw/tree/main/skills/skill-creator) — Build and package new skills
+- [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) — Gemini CLI integration for AI summaries and generation
+- [model-usage](https://github.com/openclaw/openclaw/tree/main/skills/model-usage) — Track and analyze model token usage and costs
+- [nano-pdf](https://github.com/openclaw/openclaw/tree/main/skills/nano-pdf) — Document processing and PDF manipulation
 - [security-auditor](https://github.com/openclaw/openclaw/tree/main/skills/security-auditor) — Code security reviews and OWASP checks
+- [skill-creator](https://github.com/openclaw/openclaw/tree/main/skills/skill-creator) — Build and package new skills
 
 ### Media & Content
 
 - [ai-video-gen](https://github.com/openclaw/openclaw/tree/main/skills/ai-video-gen) — End-to-end AI video generation pipeline
+- [canvas](https://github.com/openclaw/openclaw/tree/main/skills/canvas) — Control node canvases for UI rendering and automation
+- [camsnap](https://github.com/openclaw/openclaw/tree/main/skills/camsnap) — Camera capture and image processing
 - [elevenlabs-tts](https://github.com/openclaw/openclaw/tree/main/skills/elevenlabs-tts) — Premium text-to-speech with emotional tags
+- [gifgrep](https://github.com/openclaw/openclaw/tree/main/skills/gifgrep) — Search and manage GIFs from Giphy
 - [kokoro-tts](https://github.com/openclaw/openclaw/tree/main/skills/kokoro-tts) — Free local TTS engine
+- [nano-banana-pro](https://github.com/openclaw/openclaw/tree/main/skills/nano-banana-pro) — Advanced image generation and editing
 - [x-publisher](https://github.com/openclaw/openclaw/tree/main/skills/x-publisher) — Publish posts to X/Twitter
 
 ### Data & Research
 
-- [reddit-insights](https://github.com/openclaw/openclaw/tree/main/skills/reddit-insights) — Reddit trend analysis and market research
-- [twitter-u7c](https://github.com/openclaw/openclaw/tree/main/skills/twitter-u7c) — X/Twitter monitoring and trends
-- [market-pulse](https://github.com/openclaw/openclaw/tree/main/skills/market-pulse) — Market data, crypto, DeFi yields
 - [apewisdom](https://github.com/openclaw/openclaw/tree/main/skills/apewisdom) — Reddit stock sentiment tracking
-- [yahoo-finance](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-finance) — Yahoo Finance data integration
-- [startups](https://github.com/openclaw/openclaw/tree/main/skills/startups) — Startup ecosystem research
+- [blogwatcher](https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher) — Monitor and track blog/RSS feeds
 - [firecrawl](https://github.com/openclaw/openclaw/tree/main/skills/firecrawl) — Web scraping via Firecrawl API
+- [goplaces](https://github.com/openclaw/openclaw/tree/main/skills/goplaces) — Local business and place search
+- [local-places](https://github.com/openclaw/openclaw/tree/main/skills/local-places) — Find nearby businesses and services
+- [market-pulse](https://github.com/openclaw/openclaw/tree/main/skills/market-pulse) — Market data, crypto, DeFi yields
+- [reddit-insights](https://github.com/openclaw/openclaw/tree/main/skills/reddit-insights) — Reddit trend analysis and market research
+- [startups](https://github.com/openclaw/openclaw/tree/main/skills/startups) — Startup ecosystem research
+- [twitter-u7c](https://github.com/openclaw/openclaw/tree/main/skills/twitter-u7c) — X/Twitter monitoring and trends
+- [yahoo-finance](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-finance) — Yahoo Finance data integration
 
 ### Infrastructure
 
-- [vercel](https://github.com/openclaw/openclaw/tree/main/skills/vercel) — Deploy and manage Vercel projects
-- [netlify](https://github.com/openclaw/openclaw/tree/main/skills/netlify) — Netlify site management and CI/CD
+- [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) — Bluetooth device management and control
 - [cloudflare-gen](https://github.com/openclaw/openclaw/tree/main/skills/cloudflare-gen) — Cloudflare Workers configuration
-- [security-audit](https://github.com/openclaw/openclaw/tree/main/skills/security-audit) — Infrastructure security scanning
 - [domain-dns-ops](https://github.com/openclaw/openclaw/tree/main/skills/domain-dns-ops) — Domain and DNS management
+- [eightctl](https://github.com/openclaw/openclaw/tree/main/skills/eightctl) — Eight Sleep mattress control and monitoring
+- [mcporter](https://github.com/openclaw/openclaw/tree/main/skills/mcporter) — Minecraft server management tools
+- [netlify](https://github.com/openclaw/openclaw/tree/main/skills/netlify) — Netlify site management and CI/CD
+- [security-audit](https://github.com/openclaw/openclaw/tree/main/skills/security-audit) — Infrastructure security scanning
+- [vercel](https://github.com/openclaw/openclaw/tree/main/skills/vercel) — Deploy and manage Vercel projects
 
 ### Social & Community
 
-- [message](https://github.com/openclaw/openclaw/tree/main/skills/message) — Send messages across Discord, Telegram, Slack, WhatsApp
-- [discord-voice](https://github.com/openclaw/openclaw/tree/main/skills/discord-voice) — Real-time voice in Discord channels
+- [bird](https://github.com/openclaw/openclaw/tree/main/skills/bird) — Bluesky social media integration
+- [bluebubbles](https://github.com/openclaw/openclaw/tree/main/skills/bluebubbles) — iMessage integration via BlueBubbles server
 - [browser](https://github.com/openclaw/openclaw/tree/main/skills/browser) — Web browser automation via Playwright
+- [discord](https://github.com/openclaw/openclaw/tree/main/skills/discord) — Discord server management and bot features
+- [discord-voice](https://github.com/openclaw/openclaw/tree/main/skills/discord-voice) — Real-time voice in Discord channels
+- [himalaya](https://github.com/openclaw/openclaw/tree/main/skills/himalaya) — Email management via Himalaya CLI
+- [imsg](https://github.com/openclaw/openclaw/tree/main/skills/imsg) — macOS Messages app integration
+- [message](https://github.com/openclaw/openclaw/tree/main/skills/message) — Send messages across Discord, Telegram, Slack, WhatsApp, Signal
+- [blogwatcher](https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher) — Monitor and track blog/RSS feeds
 
 ### Finance & Markets
 
 - [paylobster](https://www.paylobster.com/) — Payment infrastructure for AI agents (tips, donations, USDC on Base)
 - [stock-market-pro](https://github.com/openclaw/openclaw/tree/main/skills/stock-market-pro) — Professional stock analysis and charts
 - [yahoo-data-fetcher](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-data-fetcher) — Real-time stock quotes
+- [billclaw](https://github.com/fire-zu/billclaw) — Bank transaction and bill data import
+
+### Gaming & Lifestyle
+
+- [gog](https://github.com/openclaw/openclaw/tree/main/skills/gog) — GOG.com game library management
+- [food-order](https://github.com/openclaw/openclaw/tree/main/skills/food-order) — Food ordering integration (experimental)
 
 ### Community Skills (ClawHub Registry)
 
@@ -117,15 +149,29 @@ Tools that work with or extend OpenClaw:
 
 - [ClawHub CLI](https://clawhub.com) — Install, update, and publish skills
 - [OpenClaw Dashboard](https://github.com/openclaw/openclaw) — Web UI for managing agents
-- [Peekaboo](https://github.com/openclaw/openclaw/tree/main/skills/peekaboo) — macOS UI automation
+- [Lobster](https://github.com/openclaw/lobster) — Typed local-first macro engine for composable workflows
+- [ClawGo](https://github.com/openclaw/clawgo) — Clawd node implementation in Go
+- [openclaw-ansible](https://github.com/openclaw/openclaw-ansible) — Automated hardened Clawdbot installation with Tailscale
+- [nix-openclaw](https://github.com/openclaw/nix-openclaw) — Nix packages for Clawdbot
 - [openclaw-desktop](https://github.com/abe-ichthyo/openclaw-desktop) — Native desktop app for OpenClaw Gateway (Tauri/Rust)
 - [cove](https://github.com/MaudeCode/cove) — A cozy WebUI for OpenClaw chat
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) — Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) — Docker containerization for OpenClaw
+- [iamEvanYT/openclaw-docker](https://github.com/iamEvanYT/openclaw-docker) — Easy Docker setup with Tailscale
 - [openclaw-better-gateway](https://github.com/ThisIsJeron/openclaw-better-gateway) — Enhanced Gateway web UI with auto-refresh
+- [tuxbaby/openclaw-dashboard](https://github.com/tuxbaby/openclaw-dashboard) — Enhanced monitoring with workspace browser
+- [rodbland2021/claw-session-viewer](https://github.com/rodbland2021/claw-session-viewer) — Real-time web dashboard for monitoring sessions
+- [qualiabot/openclaw-session-browser](https://github.com/qualiabot/openclaw-session-browser) — Session browser for agent insights
 - [crowsecure](https://github.com/diogopaes/crowsecure) — Security & Trust Layer for OpenClaw Skills
+- [ClawSecAI/ClawSec-skill](https://github.com/ClawSecAI/ClawSec-skill) — AI-powered security audits for OpenClaw
+- [AbYousef739/clawskillshield](https://github.com/AbYousef739/clawskillshield) — Local-first security scanner for skills
+- [MikeeBuilds/clawpinch](https://github.com/MikeeBuilds/clawpinch) — Security audit toolkit (63 checks across 8 categories)
+- [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) — Directory of SOUL.md personality files
 - [openclaw-cardputer](https://github.com/mininerva/openclaw-cardputer) — OpenClaw firmware for Cardputer ADV devices
 - [openclaw-ai-sdk-provider](https://github.com/VIDA-Global/openclaw-ai-sdk-provider) — Vercel AI SDK provider for OpenClaw API
+- [natan89/awesome-openclaw-skills](https://github.com/natan89/awesome-openclaw-skills) — Catalog of 1715+ community skills
+- [Endogen/ralph-loop](https://github.com/Endogen/ralph-loop) — Event-driven Ralph pattern for AI agent loops
+- [synapz-org/synapz-agent](https://github.com/synapz-org/synapz-agent) — OpenClaw agent workspace template (Bittensor native)
 
 ---
 
@@ -153,6 +199,13 @@ Real projects built with OpenClaw:
 - [convex-skill](https://github.com/fruteroclub/convex-skill) — Convex backend integration for OpenClaw agents
 - [Openclaw-Launcher](https://github.com/ZevinLeo/Openclaw-Launcher) — Universal launcher for OpenClaw (⭐ 7)
 - [nostr-openclaw-dm-plugin](https://github.com/dubzrn/nostr-openclaw-dm-plugin) — Nostr DM integration for OpenClaw
+- [troykelly/openclaw-projects](https://github.com/troykelly/openclaw-projects) — Postgres-backed project + task management for Clawdbot
+- [marian2js/opengoat](https://github.com/marian2js/opengoat) — Orchestrate agents on Codex, Claude Code, Cursor, OpenClaw, Lovable 🐐
+- [hairyf/clawflow](https://github.com/hairyf/clawflow) — Engineering, Observable, and Collaborative OpenClaw Framework
+- [trianglegrrl/emotion-engine](https://github.com/trianglegrrl/emotion-engine) — PAD + Ekman + OCEAN emotional model plugin for agents
+- [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) — Cost-optimized personal AI with multi-provider routing 🐚
+- [mibolaji/ClawPad](https://github.com/mibolaji/ClawPad) — Simplify agentic systems on older machines
+- [fire-zu/billclaw](https://github.com/fire-zu/billclaw) — Bank transaction and bill data import for OpenClaw
 
 *Have a project? [Add it here!](./CONTRIBUTING.md)*
 
