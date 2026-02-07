@@ -141,6 +141,11 @@ Skills published to ClawHub by the community:
 - [token-optimizer](https://clawhub.com/skills/token-optimizer) — LLM token usage optimization
 - [wooclaw-lite](https://clawhub.com/skills/wooclaw-lite) — WordPress/WooCommerce connector
 
+### Memory & Context
+
+- [openclaw-cortex](https://github.com/heliosarchitect/openclaw-cortex) — Hybrid memory architecture with temporal awareness
+- [openclaw-engram](https://github.com/joshuaswarren/openclaw-engram) — Persistent long-term memory with LLM extraction and QMD search
+
 ---
 
 ## Tools
@@ -166,7 +171,13 @@ Tools that work with or extend OpenClaw:
 - [ClawSecAI/ClawSec-skill](https://github.com/ClawSecAI/ClawSec-skill) — AI-powered security audits for OpenClaw
 - [AbYousef739/clawskillshield](https://github.com/AbYousef739/clawskillshield) — Local-first security scanner for skills
 - [MikeeBuilds/clawpinch](https://github.com/MikeeBuilds/clawpinch) — Security audit toolkit (63 checks across 8 categories)
-- [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) — Directory of SOUL.md personality files
+- [clawgate](https://github.com/M64GitHub/clawgate) — Zero-trust file/git access using cryptographic capability tokens
+- [ClawK](https://github.com/fraction12/ClawK) — Native macOS companion app with menubar (sessions, heartbeats, cron)
+- [opengloves](https://github.com/buxue2025/opengloves) — Standalone mobile web chat for OpenClaw (iOS, Android)
+- [maxmode](https://github.com/7juliusearl/maxmode) — Dashboard with MaxMode workspace
+- [TheHive](https://github.com/stealthystew/TheHive) — Subagent dashboard and monitoring
+- [autoclaw-web](https://github.com/my3rdstory/autoclaw-web) — Web-based OpenClaw installer (Korean)
+- [openclaw-zh](https://github.com/coda8/openclaw-zh) — Chinese localization resources
 - [openclaw-cardputer](https://github.com/mininerva/openclaw-cardputer) — OpenClaw firmware for Cardputer ADV devices
 - [openclaw-ai-sdk-provider](https://github.com/VIDA-Global/openclaw-ai-sdk-provider) — Vercel AI SDK provider for OpenClaw API
 - [natan89/awesome-openclaw-skills](https://github.com/natan89/awesome-openclaw-skills) — Catalog of 1715+ community skills
@@ -205,6 +216,14 @@ Real projects built with OpenClaw:
 - [trianglegrrl/emotion-engine](https://github.com/trianglegrrl/emotion-engine) — PAD + Ekman + OCEAN emotional model plugin for agents
 - [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) — Cost-optimized personal AI with multi-provider routing 🐚
 - [mibolaji/ClawPad](https://github.com/mibolaji/ClawPad) — Simplify agentic systems on older machines
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) — AI agent task management system
+- [openclaw-agent-squad](https://github.com/crayon-doing-petri/openclaw-agent-squad) — AI agent squad coordination framework
+- [Ced-Agent-Telegram-Bot-for-OpenClaw](https://github.com/HordyVelocity/Ced-Agent-Telegram-Bot-for-OpenClaw) — Telegram bot integration
+- [bottube](https://github.com/Scottcjn/bottube) — BoTTube video sharing platform for AI agents
+- [openclaw-xmpp](https://github.com/kazakhan/openclaw-xmpp) — XMPP chat protocol integration
+- [openclaw-mission-control](https://github.com/megahertz8/openclaw-mission-control) — Mission control dashboard for OpenClaw
+- [personal-agent](https://github.com/hackeshackes/personal-agent) — Chinese personal AI agent (iOS/Android app)
+- [openclaw-multi-brain](https://github.com/Dannydvm/openclaw-multi-brain) — Multi-brain agent coordination system
 - [fire-zu/billclaw](https://github.com/fire-zu/billclaw) — Bank transaction and bill data import for OpenClaw
 
 *Have a project? [Add it here!](./CONTRIBUTING.md)*
