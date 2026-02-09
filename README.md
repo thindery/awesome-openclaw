@@ -491,6 +491,7 @@ Tools that work with or extend OpenClaw:
 - [knostic/openclaw-telemetry](https://github.com/knostic/openclaw-telemetry) — Telemetry for OpenClaw tool calls, LLM usage, agent lifecycle events
 - [backslash-security/Claw-Hunter](https://github.com/backslash-security/Claw-Hunter) — MDM security tool to detect and secure OpenClaw/Moltbot shadow AI agents
 - [clawgate](https://github.com/M64GitHub/clawgate) — Zero-trust file/git access using cryptographic capability tokens
+- [ClawSysMon](https://github.com/mayur-dot-ai/ClawSysMon.com) — System Monitor and Process Watcher Dashboard for OpenClaw
 - [ClawK](https://github.com/fraction12/ClawK) — Native macOS companion app with menubar (sessions, heartbeats, cron)
 - [opengloves](https://github.com/buxue2025/opengloves) — Standalone mobile web chat for OpenClaw (iOS, Android)
 - [deploy-openclaw](https://github.com/PhucMPham/deploy-openclaw) — Interactive TUI wizard for deploying OpenClaw on Ubuntu/Debian VPS
@@ -526,6 +527,9 @@ Tools that work with or extend OpenClaw:
 - [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) — Proxy for using Antigravity Claude/Gemini models in Claude Code and OpenClaw
 - [eclipse-openclaw-template](https://github.com/gdr3941/eclipse-openclaw-template) — OpenClaw workspace template for Eclipse partners
 - [openclaw-stt-tts](https://github.com/CHRISILDAVID/openclaw-stt-tts) — Realtime voice-voice conversation system for OpenClaw
+- [openclaw-dashboard](https://github.com/vivekchand/openclaw-dashboard) — Real-time observability dashboard for OpenClaw AI agents
+- [owlclaw](https://github.com/yeemio/owlclaw) — Governance, traceability, and auditability for OpenClaw and other agent frameworks
+- [vexscan](https://github.com/edimuj/vexscan) — Security scanner for AI agent plugins, skills, MCPs, and configurations
 - [openclaw-studio](https://github.com/outsourc-e/openclaw-studio) — VSCode for AI Agents - Desktop interface for OpenClaw Gateway
 - [openclaw-credential-proxy](https://github.com/mildside-crypto/openclaw-credential-proxy) — A transparent Credential Proxy system (token isolation) used by OpenClaw to isolate API credentials
 - [coolify-openclaw](https://github.com/cadiszu/coolify-openclaw) — Coolify deployment for OpenClaw
