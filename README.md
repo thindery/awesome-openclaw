@@ -526,6 +526,18 @@ Tools that work with or extend OpenClaw:
 - [souls-directory](https://github.com/thedaviddias/souls-directory) — Directory of SOUL.md personality files for OpenClaw agents
 - [antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) — Proxy for using Antigravity Claude/Gemini models in Claude Code and OpenClaw
 - [eclipse-openclaw-template](https://github.com/gdr3941/eclipse-openclaw-template) — OpenClaw workspace template for Eclipse partners
+- [mithun50/openclawd-termux](https://github.com/mithun50/openclawd-termux) — Run OpenClaw AI Gateway on Android via Termux
+- [openakita/openakita](https://github.com/openakita/openakita) — Open-source AI assistant framework with skills
+- [mibolaji/ClawPad](https://github.com/mibolaji/ClawPad) — Simplify agentic systems on older machines
+- [Keith-CY/idx.md](https://github.com/Keith-CY/idx.md) — Markdown registry for AI agent libraries
+- [hairyf/clawflow](https://github.com/hairyf/clawflow) — Engineering, Observable, and Collaborative OpenClaw Framework
+- [troykelly/openclaw-projects](https://github.com/troykelly/openclaw-projects) — Postgres-backed project + task management with work graphs
+- [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) — Cost-optimized personal AI assistant with multi-provider routing
+- [polats/free-the-claw](https://github.com/polats/free-the-claw) — Run OpenClaw for free using NVIDIA NIM
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) — Memory system for 24/7 proactive agents
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) — AI memory OS for LLM/Agent systems
+- [nhevers/MoltBrain](https://github.com/nhevers/MoltBrain) — Long-term memory layer that learns project context
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) — CLI tool tracking token usage with global leaderboard
 - [openclaw-stt-tts](https://github.com/CHRISILDAVID/openclaw-stt-tts) — Realtime voice-voice conversation system for OpenClaw
 - [openclaw-dashboard](https://github.com/vivekchand/openclaw-dashboard) — Real-time observability dashboard for OpenClaw AI agents
 - [owlclaw](https://github.com/yeemio/owlclaw) — Governance, traceability, and auditability for OpenClaw and other agent frameworks
