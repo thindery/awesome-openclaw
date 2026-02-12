@@ -112,6 +112,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [skillscanner](https://clawhub.com/skills/skillscanner) - Security scanner for ClawHub skills
 - [skill-search](https://clawhub.com/skills/skill-search) - Search, discover, and dynamically load skills
 - [slack](https://github.com/openclaw/openclaw/tree/main/skills/slack) - Slack workspace integration and messaging
+- [reflect](https://clawhub.com/skills/reflect) - Self-improvement through conversation analysis and learning extraction
+- [self-improving-agent](https://clawhub.com/skills/self-improving-agent) - Capture learnings and errors for continuous improvement
+- [parallel-agents](https://clawhub.com/skills/parallel-agents) - Dispatch multiple subagents for independent tasks simultaneously
 - [sql-toolkit](https://clawhub.com/skills/sql-toolkit) - Query, design, migrate SQL databases
 - [tmux](https://github.com/openclaw/openclaw/tree/main/skills/tmux) - Terminal multiplexer session management
 - [tunneling](https://clawhub.com/skills/tunneling) - Create free SSH tunnels to expose local ports
@@ -213,6 +216,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [firecracker](https://clawhub.com/skills/firecracker) - AWS Firecracker microVM management
 - [google-play](https://clawhub.com/skills/google-play) - Google Play Developer API integration
 - [log-tail](https://clawhub.com/skills/log-tail) - Real-time log file monitoring
+- [log-tail-systemd](https://clawhub.com/skills/log-tail-systemd) - Stream logs from systemd journal (journalctl wrapper)
 - [mcporter](https://github.com/openclaw/openclaw/tree/main/skills/mcporter) - Minecraft server management tools
 - [netlify](https://github.com/openclaw/openclaw/tree/main/skills/netlify) - Netlify site management and CI/CD
 - [openclaw-auto-updater](https://clawhub.com/skills/openclaw-auto-updater) - Safe scheduled auto-updater for skills
@@ -670,4 +674,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-11T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: tokscale, crabwalk, Rowboat, ClawPool, ClawHosters, Claudit, openclaw-studio, openclaw-kubernetes-operator, AionUi, MemOS -->
+<!-- Last updated: 2026-02-12T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: reflect, self-improving-agent, parallel-agents, json-validator -->
