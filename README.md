@@ -478,8 +478,10 @@ Tools that work with or extend OpenClaw:
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) - Docker containerization for OpenClaw
 - [iamEvanYT/openclaw-docker](https://github.com/iamEvanYT/openclaw-docker) - Easy Docker setup with Tailscale
+- [openclaw-lxd](https://github.com/thishandp7/openclaw-lxd) - Safe VM setup to run OpenClaw in LXD containers with Docker Compose
 - [openclaw-better-gateway](https://github.com/ThisIsJeron/openclaw-better-gateway) - Enhanced Gateway web UI with auto-refresh
 - [tuxbaby/openclaw-dashboard](https://github.com/tuxbaby/openclaw-dashboard) - Enhanced monitoring with workspace browser
+- [Openclaw-Dasboard](https://github.com/realriplab/Openclaw-Dasboard) - Real-time agent monitoring dashboard with Cloudflare Workers + live demo
 - [evil-cass-mission-control](https://github.com/evilcassassistant-png/mission-control) - OpenClaw agent dashboard with activity feed, calendar, and global search
 - [godel](https://github.com/davidkimai/godel) - Godel OpenClaw and Pi Agent Orchestration Platform
 - [opengloves](https://github.com/buxue2025/opengloves) - Standalone mobile web chat for OpenClaw (iOS, Android)
