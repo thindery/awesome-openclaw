@@ -556,6 +556,24 @@ Tools that work with or extend OpenClaw:
 - [keep-up](https://github.com/byoungd/keep-up) - Local First AI Native 24/7 Cowork and Clawdbot for multiple AI CLI tools (Gemini CLI, Claude Code, Codex, OpenCode, etc.)
 - [openclawd-termux](https://github.com/mithun50/openclawd-termux) - Run OpenClaw AI Gateway on Android via Termux - one-command setup with proot-distro
 - [idx.md](https://github.com/Keith-CY/idx.md) - Markdown registry for AI agent libraries with indexed HEAD/BODY content
+- [centminmod/explain-openclaw](https://github.com/centminmod/explain-openclaw) - Multi-AI documentation for OpenClaw: architecture, security audits, deployment guide
+- [clawd800/pumpclaw](https://github.com/clawd800/pumpclaw) - Free token launcher for AI agents on Base. Uniswap V4. 80% creator fees. LP locked forever
+- [coolify-openclaw](https://github.com/cadiszu/coolify-openclaw) - Coolify deployment for OpenClaw
+- [ent0n29/samantha](https://github.com/ent0n29/samantha) - Give your agents a voice and talk with them, typing is over
+- [hairyf/clawflow](https://github.com/hairyf/clawflow) - Engineering, Observable, and Collaborative OpenClaw Framework
+- [jcoulaud/openclaw-telegram-manager](https://github.com/jcoulaud/openclaw-telegram-manager) - OpenClaw plugin that gives each Telegram forum topic its own persistent workspace
+- [keep-starknet-strange/starkclaw](https://github.com/keep-starknet-strange/starkclaw) - On-chain safety rails for your agent
+- [keep-up](https://github.com/byoungd/keep-up) - Local First AI Native 24/7 Cowork and Clawdbot for multiple AI CLI tools
+- [mithun50/openclawd-termux](https://github.com/mithun50/openclawd-termux) - Run OpenClaw AI Gateway on Android via Termux
+- [odefun/ode](https://github.com/odefun/ode) - Work anywhere with your favourite coding agents connected, channel based project config, session map 1-1 to message thread
+- [openclaw-credential-proxy](https://github.com/mildside-crypto/openclaw-credential-proxy) - A transparent Credential Proxy system (token isolation) used by OpenClaw to isolate API credentials
+- [openclaw-studio](https://github.com/outsourc-e/openclaw-studio) - VSCode for AI Agents - Desktop interface for OpenClaw Gateway
+- [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) - All-in-one command center for OpenClaw agents
+- [owlclaw](https://github.com/yeemio/owlclaw) - Governance, traceability, and auditability for OpenClaw and other agent frameworks
+- [polats/free-the-claw](https://github.com/polats/free-the-claw) - Run OpenClaw for free using NVIDIA NIM
+- [scallopbot](https://github.com/tashfeenahmed/scallopbot) - Cost-optimized personal AI assistant with multi-provider routing
+- [Steadman-Labs/quaid](https://github.com/Steadman-Labs/quaid) - Memory and project management plugin for OpenClaw
+- [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs, and configurations
 
 ---
 
