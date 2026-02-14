@@ -475,6 +475,7 @@ Tools that work with or extend OpenClaw:
 - [nix-openclaw](https://github.com/openclaw/nix-openclaw) - Nix packages for Clawdbot
 - [openclaw-desktop](https://github.com/abe-ichthyo/openclaw-desktop) - Native desktop app for OpenClaw Gateway (Tauri/Rust)
 - [cove](https://github.com/MaudeCode/cove) - A cozy WebUI for OpenClaw chat
+- [OpenClaw Launcher](https://github.com/earino/OpenClawLauncher) - macOS menu bar app solving Local Network permission for LAN devices ⭐ NEW
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) - Docker containerization for OpenClaw
 - [iamEvanYT/openclaw-docker](https://github.com/iamEvanYT/openclaw-docker) - Easy Docker setup with Tailscale
@@ -502,6 +503,9 @@ Tools that work with or extend OpenClaw:
 - [ClawK](https://github.com/fraction12/ClawK) - Native macOS companion app with menubar (sessions, heartbeats, cron)
 - [opengloves](https://github.com/buxue2025/opengloves) - Standalone mobile web chat for OpenClaw (iOS, Android)
 - [deploy-openclaw](https://github.com/PhucMPham/deploy-openclaw) - Interactive TUI wizard for deploying OpenClaw on Ubuntu/Debian VPS
+- [DevClaw](https://github.com/laurentenhoor/devclaw) - Multi-project dev/QA pipeline orchestration with autonomous scheduling and role-based model selection ⭐ HN Show
+- [pgclaw](https://github.com/calebwin/pgclaw) - Postgres extension adding "claw" data type - ACID-compliant AI agents in every row ⭐ HN Show
+- [ClawDash](https://github.com/ishoplus/ClawDash) - Glassmorphic dashboard for OpenClaw with real-time monitoring, analytics, and file browser (⭐ 1)
 - [quick-open-claw](https://github.com/joseamijares/quick-open-claw) - One-click OpenClaw deployment for LATAM. Telegram + Ollama
 - [maxmode](https://github.com/7juliusearl/maxmode) - Dashboard with MaxMode workspace
 - [TheHive](https://github.com/stealthystew/TheHive) - Subagent dashboard and monitoring
@@ -641,6 +645,7 @@ Real projects built with OpenClaw:
 - [penggaolai/ai-news-app](https://github.com/penggaolai/ai-news-app) - Daily Top 10 AI news dashboard with glassmorphism UI
 - [riphook](https://github.com/merciagents/riphook) - Deterministic security layer for OpenClaw, Cursor and Claude Code
 - [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for multiple AI CLI tools (⭐ 12.4k)
+- [MarketBot](https://github.com/EthanAlgoX/MarketBot) - Finance-customized OpenClaw with desktop Electron app and market intelligence ⭐ NEW
 - [astra-os](https://github.com/rosakowski/astra-os) - Personal AI operating system built on OpenClaw. Automated workflows, sub-agents, and scheduled tasks for life management
 - [openclaw-agents-team-skill](https://github.com/liuqin164/openclaw-agents-team-skill) - YAML-based Multi-Agent software development workflow for OpenClaw
 - [english-learning-app](https://github.com/kongpemg1212-code/english-learning-app) - Interactive English Learning App powered by OpenClaw
@@ -694,4 +699,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-12T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: reflect, self-improving-agent, parallel-agents, json-validator -->
+<!-- Last updated: 2026-02-14T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: DevClaw, pgclaw, ClawDash, OpenClaw Launcher, MarketBot -->
