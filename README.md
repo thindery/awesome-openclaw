@@ -329,6 +329,7 @@ Professional-grade skills for specific job roles:
 
 Skills published to ClawHub by the community:
 
+- [spoons-skills](https://github.com/10kspoons/spoons-skills) - Shared OpenClaw skills for 10,000 Spoons community ⭐ NEW
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without prompts
 - [agent-bridge-kit](https://clawhub.com/skills/agent-bridge-kit) - Bridge kit for agent communication
 - [agent-payy](https://clawhub.com/skills/agentpayy) - Payment processing for agents
@@ -476,6 +477,7 @@ Tools that work with or extend OpenClaw:
 - [openclaw-desktop](https://github.com/abe-ichthyo/openclaw-desktop) - Native desktop app for OpenClaw Gateway (Tauri/Rust)
 - [cove](https://github.com/MaudeCode/cove) - A cozy WebUI for OpenClaw chat
 - [OpenClaw Launcher](https://github.com/earino/OpenClawLauncher) - macOS menu bar app solving Local Network permission for LAN devices ⭐ NEW
+- [lobster](https://github.com/eternalai-org/lobster) - Open source OpenClaw hardware device ⭐ NEW
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) - Docker containerization for OpenClaw
 - [iamEvanYT/openclaw-docker](https://github.com/iamEvanYT/openclaw-docker) - Easy Docker setup with Tailscale
@@ -623,6 +625,7 @@ Real projects built with OpenClaw:
 - [openclaw-xmpp](https://github.com/kazakhan/openclaw-xmpp) - XMPP chat protocol integration
 - [openclaw-mission-control](https://github.com/megahertz8/openclaw-mission-control) - Mission control dashboard for OpenClaw
 - [manish-raana/openclaw-mission-control](https://github.com/manish-raana/openclaw-mission-control) - Real-time web UI for monitoring agents and workflows (Convex + React)
+- [rikispiks-max/openclaw-mission-control](https://github.com/rikispiks-max/openclaw-mission-control) - Ultra-premium dashboard with Next.js 15 + Convex + Tailwind CSS v4 + Framer Motion, glass morphism design ⭐ NEW
 - [personal-agent](https://github.com/hackeshackes/personal-agent) - Chinese personal AI agent (iOS/Android app)
 - [openclaw-multi-brain](https://github.com/Dannydvm/openclaw-multi-brain) - Multi-brain agent coordination system
 - [clawstr](https://github.com/clawstr/clawstr) - Social network for AI agents on Nostr
@@ -699,4 +702,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-14T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: DevClaw, pgclaw, ClawDash, OpenClaw Launcher, MarketBot -->
+<!-- Last updated: 2026-02-15T03:00Z by Awesome-OpenClaw Updater --> <!-- Added: rikispiks-max/openclaw-mission-control, lobster (hardware), spoons-skills -->
