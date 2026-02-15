@@ -532,6 +532,20 @@ Tools that work with or extend OpenClaw:
 - [openclaw-credential-manager](https://github.com/teeclaw/openclaw-credential-manager) - Secure credential management for OpenClaw
 - [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
 - [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 cowork for OpenClaw, Gemini CLI, Claude Code, Codex, OpenCode, and more ⭐ 12.4k
+- [cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants ⭐ NEW
+- [1Panel](https://github.com/1Panel-dev/1Panel) - Intuitive web interface for managing OpenClaw agents, local LLMs, websites, databases, containers ⭐ NEW
+- [buildwithclaude](https://github.com/davepoon/buildwithclaude) - Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections ⭐ NEW
+- [Tencent AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - Full-stack AI Red Teaming platform for securing AI ecosystems ⭐ NEW
+- [ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Agent-native LLM router powering OpenClaw ⭐ NEW
+- [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian note-taking ⭐ NEW
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw ⭐ NEW
+- [mimiclaw](https://github.com/memovai/mimiclaw) - Run OpenClaw on a $5 chip. No OS, No Node.js, No VPS ⭐ NEW
+- [moltis](https://github.com/moltis-org/moltis) - Personal AI assistant built in Rust with multi-provider LLMs, long-term memory, MCP tools ⭐ NEW
+- [NagaAgent](https://github.com/RTGS2017/NagaAgent) - Simple yet powerful agent framework for personal assistants ⭐ NEW
+- [secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) - Personal 24x7 AI assistant on WhatsApp, Telegram, Signal, iMessage with 500+ app integrations ⭐ NEW
+- [cloudflare-moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw on Cloudflare Workers ⭐ NEW
+- [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
+- [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Community collection of OpenClaw use cases for making life easier ⭐ NEW
 - [session-cost](https://github.com/khaney64/session-cost) - OpenClaw session scanner to summarize model costs for given range
 - [skill-hub](https://github.com/pass-ctrl-ai/skill-hub) - OpenClaw skill hub for exported skills
 - [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) - The infrastructure layer for the agentic era on Starknet
@@ -702,4 +716,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-15T03:00Z by Awesome-OpenClaw Updater --> <!-- Added: rikispiks-max/openclaw-mission-control, lobster (hardware), spoons-skills -->
+<!-- Last updated: 2026-02-15T16:15Z by Awesome-OpenClaw Updater --> <!-- Added: 14 new tools (cherry-studio, 1Panel, buildwithclaude, AI-Infra-Guard, ClawRouter, obsidian-skills, planning-with-files, mimiclaw, moltis, NagaAgent, secure-openclaw, cloudflare-moltworker, nanoclaw, awesome-openclaw-usecases) -->
