@@ -532,6 +532,7 @@ Tools that work with or extend OpenClaw:
 - [openclaw-credential-manager](https://github.com/teeclaw/openclaw-credential-manager) - Secure credential management for OpenClaw
 - [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
 - [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 cowork for OpenClaw, Gemini CLI, Claude Code, Codex, OpenCode, and more ⭐ 12.4k
+- [ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired implementation in Rust focused on privacy and security ⭐ NEW
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants ⭐ NEW
 - [1Panel](https://github.com/1Panel-dev/1Panel) - Intuitive web interface for managing OpenClaw agents, local LLMs, websites, databases, containers ⭐ NEW
 - [buildwithclaude](https://github.com/davepoon/buildwithclaude) - Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections ⭐ NEW
@@ -546,6 +547,19 @@ Tools that work with or extend OpenClaw:
 - [cloudflare-moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw on Cloudflare Workers ⭐ NEW
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Community collection of OpenClaw use cases for making life easier ⭐ NEW
+- [poncho](https://github.com/cesr/poncho-ai) - General agent harness for web - version-controlled, git-native, serverless-friendly ⭐ NEW
+- [agentpriv](https://github.com/nichkej/agentpriv) - "Sudo for AI Agents" - permission layer with allow/deny/ask gates ⭐ NEW
+- [air-blackbox](https://github.com/nostalgicskinco/air-blackbox-gateway) - Tamper-evident flight recorder for AI agents with HMAC-SHA256 audit chains ⭐ NEW
+- [csl-core](https://github.com/Chimera-Protocol/csl-core) - Policy engine using Z3 formal verification for AI agent safety constraints ⭐ NEW
+- [polymcp](https://github.com/poly-mcp/PolyMCP) - MCP tools framework with autonomous PolyClaw agent orchestration ⭐ NEW
+- [ledgersync](https://github.com/Metacog-AI/ledgersync) - Cross-agent shared-memory protocol for AI coding tools ⭐ NEW
+- [ClawWork](https://github.com/HKUDS/ClawWork) - OpenClaw as your AI coworker - automation framework for earnings ⭐ NEW
+- [VisionClaw](https://github.com/sseanliu/VisionClaw) - Real-time AI assistant for Meta Ray-Ban smart glasses with voice + vision ⭐ NEW
+- [clawsec](https://github.com/prompt-security/clawsec) - Complete security skill suite for OpenClaw with drift detection and automated audits ⭐ NEW
+- [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system standalone library for any AI agent ⭐ NEW
+- [clawlet](https://github.com/mosaxiv/clawlet) - Ultra-lightweight & efficient personal AI assistant ⭐ NEW
+- [x-research-skill](https://github.com/rohunvora/x-research-skill) - X/Twitter research skill for Claude Code and OpenClaw ⭐ NEW
+- [pinion-os](https://github.com/chu2bard/pinion-os) - Client SDK and skill framework for x402 micropayments on Base ⭐ NEW
 - [session-cost](https://github.com/khaney64/session-cost) - OpenClaw session scanner to summarize model costs for given range
 - [skill-hub](https://github.com/pass-ctrl-ai/skill-hub) - OpenClaw skill hub for exported skills
 - [starknet-agentic](https://github.com/keep-starknet-strange/starknet-agentic) - The infrastructure layer for the agentic era on Starknet
@@ -716,4 +730,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-15T16:15Z by Awesome-OpenClaw Updater --> <!-- Added: 14 new tools (cherry-studio, 1Panel, buildwithclaude, AI-Infra-Guard, ClawRouter, obsidian-skills, planning-with-files, mimiclaw, moltis, NagaAgent, secure-openclaw, cloudflare-moltworker, nanoclaw, awesome-openclaw-usecases) -->
+<!-- Last updated: 2026-02-18T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 16 new tools (ironclaw, poncho, agentpriv, air-blackbox, csl-core, polymcp, ledgersync, ClawWork, VisionClaw, clawsec, memsearch, clawlet, x-research-skill, pinion-os, plus 2 refreshed) -->
