@@ -532,6 +532,20 @@ Tools that work with or extend OpenClaw:
 - [openclaw-credential-manager](https://github.com/teeclaw/openclaw-credential-manager) - Secure credential management for OpenClaw
 - [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
 - [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 cowork for OpenClaw, Gemini CLI, Claude Code, Codex, OpenCode, and more ⭐ 12.4k
+- [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents ⭐ 489
+- [poco-agent](https://github.com/poco-ai/poco-agent) - Manus-style autonomous agent powered by cloud-based Claude Code ⭐ 689
+- [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - AI Agent Orchestrator with memory search, code graph queries, agent-to-agent messaging ⭐ 331
+- [opengoat](https://github.com/marian2js/opengoat) - Build organizations of OpenClaw agents that coordinate across Codex, Claude Code, Cursor, Lovable 🐐 ⭐ 81
+- [ypi](https://github.com/rawwerks/ypi) - Recursive coding agent inspired by RLMs ⭐ 115
+- [bub](https://github.com/PsiACE/bub) - Build anything with AI agents ⭐ 372
+- [openclaw-langfuse](https://github.com/MCKRUZ/openclaw-langfuse) - Langfuse LLM observability plugin — traces every agent turn with sessions, token usage, latency, cost
+- [skillpm](https://github.com/eddieran/skillpm) - Local-first skill package manager with rollback-safe install/sync
+- [xint](https://github.com/0xNyk/xint) - X Intelligence CLI — search, monitor, analyze, engage on X/Twitter
+- [AgentPassVault](https://github.com/joshua5201/AgentPassVault) - Zero-knowledge secret manager for autonomous AI agents
+- [serena](https://github.com/oraios/serena) - Powerful coding agent toolkit with semantic retrieval and MCP server ⭐ 20k+
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents (Browser, Shell, File, MCP, VSCode) ⭐ 2.5k
+- [Peekaboo](https://github.com/steipete/Peekaboo) - macOS screenshot MCP server with visual question answering ⭐ 2.2k
+- [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and skills ⭐ 1.5k
 - [ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired implementation in Rust focused on privacy and security ⭐ NEW
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants ⭐ NEW
 - [1Panel](https://github.com/1Panel-dev/1Panel) - Intuitive web interface for managing OpenClaw agents, local LLMs, websites, databases, containers ⭐ NEW
@@ -730,4 +744,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-18T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 16 new tools (ironclaw, poncho, agentpriv, air-blackbox, csl-core, polymcp, ledgersync, ClawWork, VisionClaw, clawsec, memsearch, clawlet, x-research-skill, pinion-os, plus 2 refreshed) -->
+<!-- Last updated: 2026-02-19T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 15 new tools (clawe, poco-agent, ai-maestro, opengoat, ypi, bub, openclaw-langfuse, skillpm, xint, AgentPassVault, serena, agent-infra/sandbox, Peekaboo, snyk/agent-scan) -->
