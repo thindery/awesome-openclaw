@@ -549,6 +549,7 @@ Tools that work with or extend OpenClaw:
 - [ironclaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired implementation in Rust focused on privacy and security ⭐ NEW
 - [cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants ⭐ NEW
 - [1Panel](https://github.com/1Panel-dev/1Panel) - Intuitive web interface for managing OpenClaw agents, local LLMs, websites, databases, containers ⭐ NEW
+- [ClawX](https://github.com/ValueCell-ai/ClawX) - Desktop GUI for OpenClaw agents - turns CLI-based AI orchestration into a desktop experience ⭐ NEW
 - [buildwithclaude](https://github.com/davepoon/buildwithclaude) - Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections ⭐ NEW
 - [Tencent AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - Full-stack AI Red Teaming platform for securing AI ecosystems ⭐ NEW
 - [ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Agent-native LLM router powering OpenClaw ⭐ NEW
