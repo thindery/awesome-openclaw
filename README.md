@@ -478,6 +478,16 @@ Tools that work with or extend OpenClaw:
 - [cove](https://github.com/MaudeCode/cove) - A cozy WebUI for OpenClaw chat
 - [OpenClaw Launcher](https://github.com/earino/OpenClawLauncher) - macOS menu bar app solving Local Network permission for LAN devices ⭐ NEW
 - [lobster](https://github.com/eternalai-org/lobster) - Open source OpenClaw hardware device ⭐ NEW
+- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust — deploy anywhere 🦀 ⭐ NEW
+- [ZeroClaw-Android](https://github.com/Natfii/ZeroClaw-Android) - Run AI agents 24/7 on Android with 25+ LLM providers, encrypted storage ⭐ NEW
+- [quoroom](https://github.com/quoroom-ai/room) - Public experiment: AI agent swarm earning money with open visibility ⭐ NEW
+- [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs ⭐ NEW
+- [vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans ⭐ NEW
+- [browserwing](https://github.com/browserwing/browserwing) - Turn browser actions into MCP commands for efficient agent control ⭐ NEW
+- [agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents ⭐ NEW
+- [camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser for visiting sites that block AI agents ⭐ NEW
+- [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for OpenClaw Gateway ⭐ NEW
+- [figma-use](https://github.com/dannote/figma-use) - Control Figma from CLI — full read/write access for AI agents ⭐ NEW
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) - Docker containerization for OpenClaw
 - [iamEvanYT/openclaw-docker](https://github.com/iamEvanYT/openclaw-docker) - Easy Docker setup with Tailscale
@@ -538,6 +548,10 @@ Tools that work with or extend OpenClaw:
 - [opengoat](https://github.com/marian2js/opengoat) - Build organizations of OpenClaw agents that coordinate across Codex, Claude Code, Cursor, Lovable 🐐 ⭐ 81
 - [ypi](https://github.com/rawwerks/ypi) - Recursive coding agent inspired by RLMs ⭐ 115
 - [bub](https://github.com/PsiACE/bub) - Build anything with AI agents ⭐ 372
+- [bashobot](https://github.com/uraimo/bashobot) - OpenClaw-inspired personal assistant in 100% Bash 🦞 ⭐ NEW
+- [ztm-plugin](https://github.com/flomesh-io/openclaw-channel-plugin-ztm) - ZTM (Zero Trust Mesh) Chat integration for decentralized P2P messaging ⭐ NEW
+- [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) - Practical OpenClaw issue/fix playbook from real incidents ⭐ NEW
+- [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code with tmux orchestration ⭐ NEW
 - [openclaw-langfuse](https://github.com/MCKRUZ/openclaw-langfuse) - Langfuse LLM observability plugin — traces every agent turn with sessions, token usage, latency, cost
 - [skillpm](https://github.com/eddieran/skillpm) - Local-first skill package manager with rollback-safe install/sync
 - [xint](https://github.com/0xNyk/xint) - X Intelligence CLI — search, monitor, analyze, engage on X/Twitter
@@ -745,4 +759,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-19T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 15 new tools (clawe, poco-agent, ai-maestro, opengoat, ypi, bub, openclaw-langfuse, skillpm, xint, AgentPassVault, serena, agent-infra/sandbox, Peekaboo, snyk/agent-scan) -->
+<!-- Last updated: 2026-02-20T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 18 new tools (zeroclaw, ZeroClaw-Android, quoroom, agent-browser, vibium, browserwing, agent-device, camofox-browser, mission-control, figma-use, bashobot, ztm-plugin, openclaw-lighthouse, multi-agent-shogun, openclaw-stability, salesforce-query, ape-claw, codeblog-app) -->
