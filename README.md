@@ -532,6 +532,12 @@ Tools that work with or extend OpenClaw:
 - [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - Self-writing meta-extension for OpenClaw
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for task management and multi-agent collaboration
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Sync skills across AI CLI tools (Claude Code, OpenClaw, OpenCode)
+- [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP — aggregate all MCP servers behind just 2 tools (search + execute) ⭐ NEW
+- [openclaw-secure-kit](https://github.com/NinoSkopac/openclaw-secure-kit) - Secure-by-default OpenClaw on Ubuntu with verifiable security reports ⭐ NEW
+- [openclaw-browser-relay-resilient](https://github.com/Unayung/openclaw-browser-relay) - Resilient Browser Relay fork with auto-reconnect and MV3 state persistence ⭐ NEW
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official MCP server for browser automation via Playwright ⭐ NEW
+- [AgentStack](https://github.com/agentstack-ai/AgentStack) - Scaffold and build robust AI agent projects from the command line ⭐ NEW
+- [cline](https://github.com/cline/cline) - VS Code extension with autonomous coding agent using MCP and browser ⭐ NEW
 - [hintjen/RoboClaw](https://github.com/hintjen/RoboClaw) - Community-powered OpenClaw deployment and orchestration layer
 - [molt-bot/openclaw-trading-assistant](https://github.com/molt-bot/openclaw-trading-assistant) - Trading assistant with Hyperliquid API integration
 - [crabwalk](https://github.com/luccast/crabwalk) - Real-time companion monitor for OpenClaw agents ⭐ 700+
