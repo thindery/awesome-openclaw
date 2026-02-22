@@ -476,16 +476,25 @@ Tools that work with or extend OpenClaw:
 - [nix-openclaw](https://github.com/openclaw/nix-openclaw) - Nix packages for Clawdbot
 - [openclaw-desktop](https://github.com/abe-ichthyo/openclaw-desktop) - Native desktop app for OpenClaw Gateway (Tauri/Rust)
 - [cove](https://github.com/MaudeCode/cove) - A cozy WebUI for OpenClaw chat
-- [OpenClaw Launcher](https://github.com/earino/OpenClawLauncher) - macOS menu bar app solving Local Network permission for LAN devices ⭐ NEW
-- [lobster](https://github.com/eternalai-org/lobster) - Open source OpenClaw hardware device ⭐ NEW
+- [OpenClaw Launcher](https://github.com/earino/OpenClawLauncher) - macOS menu bar app solving Local Network permission for LAN devices
+- [lobster](https://github.com/eternalai-org/lobster) - Open source OpenClaw hardware device
+- [OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant Add-on for OpenClaw (174⭐) ⭐ NEW
+- [DinoScan](https://github.com/RekitRex21/Dino_Scan) - Air-gapped security scanner for OpenClaw skills ⭐ NEW
+- [ClawBridge](https://github.com/dreamwing/clawbridge) - Mobile dashboard for monitoring agents, token costs, tasks ⭐ NEW
+- [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP — aggregate all MCP servers behind 2 tools ⭐ NEW
+- [Saga](https://github.com/showhn/Saga) - Jira-like project tracker MCP server for AI agents ⭐ NEW
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust — deploy anywhere 🦀 ⭐ NEW
 - [ZeroClaw-Android](https://github.com/Natfii/ZeroClaw-Android) - Run AI agents 24/7 on Android with 25+ LLM providers, encrypted storage ⭐ NEW
 - [quoroom](https://github.com/quoroom-ai/room) - Public experiment: AI agent swarm earning money with open visibility ⭐ NEW
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs ⭐ NEW
 - [vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans ⭐ NEW
 - [browserwing](https://github.com/browserwing/browserwing) - Turn browser actions into MCP commands for efficient agent control ⭐ NEW
-- [agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents ⭐ NEW
-- [camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser for visiting sites that block AI agents ⭐ NEW
+- [agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
+- [camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser for visiting sites that block AI agents
+- [ClawHub CLI](https://clawhub.com) - Install, update, and publish skills
+- [Poco-Agent](https://github.com/poco-ai/poco-agent) - Manus-style autonomous agent powered by Claude Code (709⭐) ⭐ NEW
+- [Nucleus](https://github.com/eidetic-works/mcp-server-nucleus) - Sovereign Control Plane for AI Agents ⭐ NEW
+- [clawdbot-hub](https://github.com/joshlevylabs/clawdbot-hub) - Command center dashboard for Clawdbot ⭐ NEW
 - [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for OpenClaw Gateway ⭐ NEW
 - [figma-use](https://github.com/dannote/figma-use) - Control Figma from CLI — full read/write access for AI agents ⭐ NEW
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
@@ -534,8 +543,11 @@ Tools that work with or extend OpenClaw:
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Sync skills across AI CLI tools (Claude Code, OpenClaw, OpenCode)
 - [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP — aggregate all MCP servers behind just 2 tools (search + execute) ⭐ NEW
 - [openclaw-secure-kit](https://github.com/NinoSkopac/openclaw-secure-kit) - Secure-by-default OpenClaw on Ubuntu with verifiable security reports ⭐ NEW
-- [openclaw-browser-relay-resilient](https://github.com/Unayung/openclaw-browser-relay) - Resilient Browser Relay fork with auto-reconnect and MV3 state persistence ⭐ NEW
-- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official MCP server for browser automation via Playwright ⭐ NEW
+- [openclaw-browser-relay-resilient](https://github.com/Unayung/openclaw-browser-relay) - Resilient Browser Relay fork with auto-reconnect and MV3 state persistence
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official MCP server for browser automation via Playwright
+- [mission-control](https://github.com/imadaitelarabi/openclaw-mc) - Real-time monitoring and management interface for OpenClaw Gateway ⭐ NEW
+- [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs (Rust) ⭐ NEW
+- [CanaryAI](https://github.com/jx887/homebrew-canaryai) - Security monitoring on Claude Code actions ⭐ NEW
 - [AgentStack](https://github.com/agentstack-ai/AgentStack) - Scaffold and build robust AI agent projects from the command line ⭐ NEW
 - [cline](https://github.com/cline/cline) - VS Code extension with autonomous coding agent using MCP and browser ⭐ NEW
 - [hintjen/RoboClaw](https://github.com/hintjen/RoboClaw) - Community-powered OpenClaw deployment and orchestration layer
@@ -548,6 +560,7 @@ Tools that work with or extend OpenClaw:
 - [openclaw-credential-manager](https://github.com/teeclaw/openclaw-credential-manager) - Secure credential management for OpenClaw
 - [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
 - [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 cowork for OpenClaw, Gemini CLI, Claude Code, Codex, OpenCode, and more ⭐ 12.4k
+- [MarketBot](https://github.com/EthanAlgoX/MarketBot) - Finance-customized OpenClaw with desktop Electron app and market intelligence ⭐ NEW
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents ⭐ 489
 - [poco-agent](https://github.com/poco-ai/poco-agent) - Manus-style autonomous agent powered by cloud-based Claude Code ⭐ 689
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - AI Agent Orchestrator with memory search, code graph queries, agent-to-agent messaging ⭐ 331
@@ -765,4 +778,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-20T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 18 new tools (zeroclaw, ZeroClaw-Android, quoroom, agent-browser, vibium, browserwing, agent-device, camofox-browser, mission-control, figma-use, bashobot, ztm-plugin, openclaw-lighthouse, multi-agent-shogun, openclaw-stability, salesforce-query, ape-claw, codeblog-app) -->
+<!-- Last updated: 2026-02-22T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools (OpenClawHomeAssistant, DinoScan, ClawBridge, Poco-Agent, Nucleus, cmcp, Saga, clawdbot-hub, mission-control, vexscan, CanaryAI, gemini-research-mcp) -->
