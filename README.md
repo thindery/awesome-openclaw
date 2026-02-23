@@ -642,7 +642,6 @@ Tools that work with or extend OpenClaw:
 - [clawd800/pumpclaw](https://github.com/clawd800/pumpclaw) - Free token launcher for AI agents on Base. Uniswap V4. 80% creator fees. LP locked forever
 - [coolify-openclaw](https://github.com/cadiszu/coolify-openclaw) - Coolify deployment for OpenClaw
 - [ent0n29/samantha](https://github.com/ent0n29/samantha) - Give your agents a voice and talk with them, typing is over
-- [hairyf/clawflow](https://github.com/hairyf/clawflow) - Engineering, Observable, and Collaborative OpenClaw Framework
 - [jcoulaud/openclaw-telegram-manager](https://github.com/jcoulaud/openclaw-telegram-manager) - OpenClaw plugin that gives each Telegram forum topic its own persistent workspace
 - [keep-starknet-strange/starkclaw](https://github.com/keep-starknet-strange/starkclaw) - On-chain safety rails for your agent
 - [keep-up](https://github.com/byoungd/keep-up) - Local First AI Native 24/7 Cowork and Clawdbot for multiple AI CLI tools
@@ -653,7 +652,6 @@ Tools that work with or extend OpenClaw:
 - [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) - All-in-one command center for OpenClaw agents
 - [owlclaw](https://github.com/yeemio/owlclaw) - Governance, traceability, and auditability for OpenClaw and other agent frameworks
 - [polats/free-the-claw](https://github.com/polats/free-the-claw) - Run OpenClaw for free using NVIDIA NIM
-- [scallopbot](https://github.com/tashfeenahmed/scallopbot) - Cost-optimized personal AI assistant with multi-provider routing
 - [Steadman-Labs/quaid](https://github.com/Steadman-Labs/quaid) - Memory and project management plugin for OpenClaw
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs, and configurations
 - [TaxClaw](https://github.com/DougButdorf/TaxClaw) - Local-first tax document extraction for W-2, 1099s, K-1 forms with SQLite storage ⭐ NEW
@@ -695,7 +693,6 @@ Real projects built with OpenClaw:
 - [nostr-openclaw-dm-plugin](https://github.com/dubzrn/nostr-openclaw-dm-plugin) - Nostr DM integration for OpenClaw
 - [troykelly/openclaw-projects](https://github.com/troykelly/openclaw-projects) - Postgres-backed project + task management for Clawdbot
 - [marian2js/opengoat](https://github.com/marian2js/opengoat) - Orchestrate agents on Codex, Claude Code, Cursor, OpenClaw, Lovable 🐐
-- [hairyf/clawflow](https://github.com/hairyf/clawflow) - Engineering, Observable, and Collaborative OpenClaw Framework
 - [trianglegrrl/emotion-engine](https://github.com/trianglegrrl/emotion-engine) - PAD + Ekman + OCEAN emotional model plugin for agents
 - [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) - Cost-optimized personal AI with multi-provider routing 🐚
 - [sett-arena](https://github.com/Rainhoole/sett-arena) - The Fighting Pit of Sett (Powered by OpenClaw) - A Mini Twitter Clone
@@ -784,4 +781,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-23T03:05Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools (TaxClaw, ClawBox, clawhuddle, OCVoice, prompthistory, clawhealth-app) -->
+<!-- Last updated: 2026-02-23T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
