@@ -656,6 +656,12 @@ Tools that work with or extend OpenClaw:
 - [scallopbot](https://github.com/tashfeenahmed/scallopbot) - Cost-optimized personal AI assistant with multi-provider routing
 - [Steadman-Labs/quaid](https://github.com/Steadman-Labs/quaid) - Memory and project management plugin for OpenClaw
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs, and configurations
+- [TaxClaw](https://github.com/DougButdorf/TaxClaw) - Local-first tax document extraction for W-2, 1099s, K-1 forms with SQLite storage ⭐ NEW
+- [ClawBox](https://github.com/HoneyClans/ClawBox) - Zero-code OpenClaw with beautiful Web UI — no CLI, no Docker, no JSON config ⭐ NEW
+- [clawhuddle](https://github.com/allen-hsu/clawhuddle) - Self-hosted OpenClaw for teams — isolated instances per team member with zero maintenance ⭐ NEW
+- [OCVoice](https://github.com/Rheace-domiscan/OCVoice) - Voice-first OpenClaw interface — native app for iOS, Android, macOS, Windows using Flutter ⭐ NEW
+- [prompthistory](https://github.com/junhoyeo/prompthistory) - CLI tool to search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex ⭐ NEW
+- [clawhealth-app](https://github.com/jeffbander/clawhealth-app) - HIPAA-compliant AI patient care coordination for cardiology with physician dashboard ⭐ NEW
 
 ---
 
@@ -778,4 +784,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-22T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools (OpenClawHomeAssistant, DinoScan, ClawBridge, Poco-Agent, Nucleus, cmcp, Saga, clawdbot-hub, mission-control, vexscan, CanaryAI, gemini-research-mcp) -->
+<!-- Last updated: 2026-02-23T03:05Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools (TaxClaw, ClawBox, clawhuddle, OCVoice, prompthistory, clawhealth-app) -->
