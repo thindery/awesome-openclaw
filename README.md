@@ -482,7 +482,9 @@ Tools that work with or extend OpenClaw:
 - [DinoScan](https://github.com/RekitRex21/Dino_Scan) - Air-gapped security scanner for OpenClaw skills ⭐ NEW
 - [ClawBridge](https://github.com/dreamwing/clawbridge) - Mobile dashboard for monitoring agents, token costs, tasks ⭐ NEW
 - [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP — aggregate all MCP servers behind 2 tools ⭐ NEW
+- [llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware ⭐ NEW
 - [Saga](https://github.com/showhn/Saga) - Jira-like project tracker MCP server for AI agents ⭐ NEW
+- [Antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command ⭐ NEW
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust — deploy anywhere 🦀 ⭐ NEW
 - [ZeroClaw-Android](https://github.com/Natfii/ZeroClaw-Android) - Run AI agents 24/7 on Android with 25+ LLM providers, encrypted storage ⭐ NEW
 - [quoroom](https://github.com/quoroom-ai/room) - Public experiment: AI agent swarm earning money with open visibility ⭐ NEW
