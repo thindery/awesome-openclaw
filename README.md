@@ -467,6 +467,8 @@ Skills published to ClawHub by the community:
 
 Tools that work with or extend OpenClaw:
 
+- [GalacticCIC](https://github.com/SpaceTrucker2196/GalacticCIC) - OpenClaw CLI Dashboard inspired by HTOP ⭐ NEW
+- [openclaw-deploy](https://github.com/xujfcn/openclaw-deploy) - One-click deployment with CrazyRouter + Claude Opus 4.6 ⭐ NEW
 - [ClawHub CLI](https://clawhub.com) - Install, update, and publish skills
 - [OpenClaw Dashboard](https://github.com/openclaw/openclaw) - Web UI for managing agents
 - [Lobster](https://github.com/openclaw/lobster) - Typed local-first macro engine for composable workflows
