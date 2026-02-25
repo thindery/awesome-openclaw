@@ -548,6 +548,12 @@ Tools that work with or extend OpenClaw:
 - [openclaw-browser-relay-resilient](https://github.com/Unayung/openclaw-browser-relay) - Resilient Browser Relay fork with auto-reconnect and MV3 state persistence
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official MCP server for browser automation via Playwright
 - [mission-control](https://github.com/imadaitelarabi/openclaw-mc) - Real-time monitoring and management interface for OpenClaw Gateway ⭐ NEW
+- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
+- [refly](https://github.com/refly-ai/refly) - First open-source agent skills builder - define skills by vibe workflow, run on Claude Code/Cursor/Codex ⭐ NEW
+- [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents ⭐ NEW
+- [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination ⭐ NEW
+- [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
+- [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs (Rust) ⭐ NEW
 - [CanaryAI](https://github.com/jx887/homebrew-canaryai) - Security monitoring on Claude Code actions ⭐ NEW
 - [AgentStack](https://github.com/agentstack-ai/AgentStack) - Scaffold and build robust AI agent projects from the command line ⭐ NEW
@@ -609,6 +615,8 @@ Tools that work with or extend OpenClaw:
 - [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system standalone library for any AI agent ⭐ NEW
 - [clawlet](https://github.com/mosaxiv/clawlet) - Ultra-lightweight & efficient personal AI assistant ⭐ NEW
 - [x-research-skill](https://github.com/rohunvora/x-research-skill) - X/Twitter research skill for Claude Code and OpenClaw ⭐ NEW
+- [prompthistory](https://github.com/junhoyeo/prompthistory) - CLI tool to search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex ⭐ NEW
+- [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code with tmux orchestration ⭐ NEW
 - [pinion-os](https://github.com/chu2bard/pinion-os) - Client SDK and skill framework for x402 micropayments on Base ⭐ NEW
 - [session-cost](https://github.com/khaney64/session-cost) - OpenClaw session scanner to summarize model costs for given range
 - [skill-hub](https://github.com/pass-ctrl-ai/skill-hub) - OpenClaw skill hub for exported skills
@@ -783,4 +791,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-23T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
+<!-- Last updated: 2026-02-25T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
