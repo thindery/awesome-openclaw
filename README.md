@@ -44,6 +44,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [FreeRide](https://github.com/Shaivpidadi/FreeRide) - Unlimited free AI by automatically managing OpenRouter's free models in OpenClaw ⭐ NEW
 - [1password](https://github.com/openclaw/openclaw/tree/main/skills/1password) - Manage 1Password vault items and passwords
 - [apple-notes](https://github.com/openclaw/openclaw/tree/main/skills/apple-notes) - Read and search Apple Notes on macOS
 - [apple-reminders](https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders) - Manage Apple Reminders on macOS
@@ -74,6 +75,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
 - [agent-council](https://clawhub.com/skills/agent-council) - Toolkit for creating autonomous AI agent councils
 - [ai-auth-check](https://clawhub.com/skills/ai-auth-check) - Audit authentication flows for security vulnerabilities
@@ -204,6 +206,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
+- [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform (178⭐) ⭐ NEW
 - [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) - Bluetooth device management and control
 - [clawdbot-logs](https://clawhub.com/skills/clawdbot-logs) - Analyze Clawdbot performance, response times, errors
 - [clawddocs-1-2-2](https://clawhub.com/skills/clawddocs-1-2-2) - Clawdbot documentation expert
@@ -231,6 +234,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Smart Home & IoT
 
+- [ClawSpotify](https://github.com/ejatapibeda/ClawSpotify) - Free Spotify API integration skill for OpenClaw
 - [openhue](https://github.com/openclaw/openclaw/tree/main/skills/openhue) - Philips Hue smart lighting control
 - [sonoscli](https://github.com/openclaw/openclaw/tree/main/skills/sonoscli) - Sonos speaker system control
 - [spotify-player](https://github.com/openclaw/openclaw/tree/main/skills/spotify-player) - Spotify music playback control
@@ -602,7 +606,17 @@ Tools that work with or extend OpenClaw:
 - [moltis](https://github.com/moltis-org/moltis) - Personal AI assistant built in Rust with multi-provider LLMs, long-term memory, MCP tools ⭐ NEW
 - [NagaAgent](https://github.com/RTGS2017/NagaAgent) - Simple yet powerful agent framework for personal assistants ⭐ NEW
 - [secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) - Personal 24x7 AI assistant on WhatsApp, Telegram, Signal, iMessage with 500+ app integrations ⭐ NEW
-- [cloudflare-moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw on Cloudflare Workers ⭐ NEW
+- [openclaw-mesh](https://github.com/justfeltlikerunning/openclaw-mesh) - MESH: Message Envelope for Structured Handoffs. Inter-agent communication protocol for OpenClaw fleets ⭐ NEW
+- [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform with managed hosting (178⭐) ⭐ NEW
+- [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - MCP security scanner with prompt injection firewall, package hallucination detection (61⭐) ⭐ NEW
+- [openlegion](https://github.com/openlegion-ai/openlegion) - Docker-isolated autonomous AI agent fleet platform for production use (50⭐) ⭐ NEW
+- [Skills-Hub](https://github.com/smouj/Skills-Hub) - OpenClaw agent skills hub for AI automation and multi-agent orchestration ⭐ NEW
+- [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized OpenClaw alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
+- [TaxClaw](https://github.com/DougButdorf/TaxClaw) - Local-first tax document extraction for W-2, 1099s, K-1 forms with SQLite storage ⭐ NEW
+- [ClawBox](https://github.com/HoneyClans/ClawBox) - Zero-code OpenClaw with beautiful Web UI — no CLI, no Docker ⭐ NEW
+- [clawhuddle](https://github.com/allen-hsu/clawhuddle) - Self-hosted OpenClaw for teams with isolated instances per member ⭐ NEW
+- [OCVoice](https://github.com/Rheace-domiscan/OCVoice) - Voice-first OpenClaw interface — native Flutter app for iOS, Android, macOS, Windows ⭐ NEW
+- [clawhealth-app](https://github.com/jeffbander/clawhealth-app) - HIPAA-compliant AI patient care coordination for cardiology with physician dashboard ⭐ NEW
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Community collection of OpenClaw use cases for making life easier ⭐ NEW
 - [poncho](https://github.com/cesr/poncho-ai) - General agent harness for web - version-controlled, git-native, serverless-friendly ⭐ NEW
@@ -793,4 +807,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-25T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
+<!-- Last updated: 2026-02-26T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
