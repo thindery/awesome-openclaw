@@ -471,6 +471,30 @@ Skills published to ClawHub by the community:
 
 Tools that work with or extend OpenClaw:
 
+### Orchestration & Management
+
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent by NousResearch with persistent memory, multi-platform messaging (Telegram, Discord, Slack, WhatsApp), and skill learning ⭐ NEW
+- [DeerFlow](https://github.com/bytedance/deer-flow) - Super agent harness by ByteDance that researches, codes, and creates using sandboxes, memories, tools, skills and subagents ⭐ NEW
+- [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
+- [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
+### Orchestration & Management
+
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent by NousResearch with persistent memory, multi-platform messaging (Telegram, Discord, Slack, WhatsApp), and skill learning ⭐ NEW
+- [DeerFlow](https://github.com/bytedance/deer-flow) - Super agent harness by ByteDance that researches, codes, and creates using sandboxes, memories, tools, skills and subagents ⭐ NEW
+- [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
+- [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
+- [OpenSandbox](https://github.com/alibaba/OpenSandbox) - General-purpose sandbox platform for AI applications from Alibaba with Docker/Kubernetes runtimes for coding agents, GUI agents ⭐ NEW
+
+### Desktop & UI Automation
+
+- [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation ⭐ NEW
+- [Midscene.js](https://github.com/web-infra-dev/midscene) - Vision-based UI automation for web, iOS, Android with natural language control ⭐ NEW
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack from ByteDance connecting AI models and agent infrastructure ⭐ NEW
+
+### AI Companions & Agents
+
+- [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
+
 - [GalacticCIC](https://github.com/SpaceTrucker2196/GalacticCIC) - OpenClaw CLI Dashboard inspired by HTOP ⭐ NEW
 - [openclaw-deploy](https://github.com/xujfcn/openclaw-deploy) - One-click deployment with CrazyRouter + Claude Opus 4.6 ⭐ NEW
 - [ClawHub CLI](https://clawhub.com) - Install, update, and publish skills
@@ -807,4 +831,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-26T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
+<!-- Last updated: 2026-02-28T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
