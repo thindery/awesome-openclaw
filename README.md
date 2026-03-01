@@ -484,6 +484,9 @@ Tools that work with or extend OpenClaw:
 - [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
 - [OpenSandbox](https://github.com/alibaba/OpenSandbox) - General-purpose sandbox platform for AI applications from Alibaba with Docker/Kubernetes runtimes for coding agents, GUI agents ⭐ NEW
+- [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
+- [serena](https://github.com/oraios/serena) - Powerful coding agent toolkit with semantic retrieval and MCP server ⭐ 20k+
+- [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
 
 ### Desktop & UI Automation
 
@@ -831,4 +834,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-02-28T10:00Z by Awesome-OpenClaw Updater --> <!-- Removed: Duplicate entries (clawflow x2, scallopbot x1), list verified clean -->
+<!-- Last updated: 2026-03-01T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 8 new tools/skills (pgclaw, agent-infra/sandbox, AIRI, serena, Peekaboo, cherry-studio, ironclaw, snyk/agent-scan, ClawRouter, mcp-use, incidentfox, playwright-mcp) -->
