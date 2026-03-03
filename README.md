@@ -124,6 +124,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [voice-call](https://github.com/openclaw/openclaw/tree/main/skills/voice-call) - Voice calling capabilities and management
 - [wacli](https://github.com/openclaw/openclaw/tree/main/skills/wacli) - WhatsApp CLI integration and messaging
 - [weather](https://github.com/openclaw/openclaw/tree/main/skills/weather) - Weather information and forecasts
+- [openclaw-selfdocs](https://github.com/arleyGuoLei/openclaw-selfdocs) - Embeds essential OpenClaw knowledge directly into agent context for faster assistance ⭐ NEW
 
 ### Media & Content
 
@@ -164,6 +165,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [video-subtitles](https://clawhub.com/skills/video-subtitles) - Video subtitle generation
 - [x-publisher](https://github.com/openclaw/openclaw/tree/main/skills/x-publisher) - Publish posts to X/Twitter
 - [youtube-transcript](https://clawhub.com/skills/youtube-transcript) - YouTube transcript extraction
+- [mp4-to-mp3-extractor](https://github.com/wangminrui2022/mp4-to-mp3-extractor) - Batch extract MP3 audio from MP4 videos using FFmpeg ⭐ NEW
 
 ### AI & Voice
 
@@ -473,17 +475,30 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
+- [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw — Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
+- [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command (278⭐) ⭐ NEW
+- [happyclaw](https://github.com/riba2534/happyclaw) - Community-driven happy enhancements for OpenClaw (192⭐) ⭐ NEW
+- [OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents (163⭐) ⭐ NEW
+- [XAgent](https://github.com/xorbitsai/xagent) - Production-ready AI agents with dynamic planning (155⭐) ⭐ NEW
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent by NousResearch with persistent memory, multi-platform messaging (Telegram, Discord, Slack, WhatsApp), and skill learning ⭐ NEW
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Super agent harness by ByteDance that researches, codes, and creates using sandboxes, memories, tools, skills and subagents ⭐ NEW
 - [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
 ### Orchestration & Management
 
+- [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
+- [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw — Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
+- [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command (278⭐) ⭐ NEW
+- [happyclaw](https://github.com/riba2534/happyclaw) - Community-driven happy enhancements for OpenClaw (192⭐) ⭐ NEW
+- [OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents (163⭐) ⭐ NEW
+- [XAgent](https://github.com/xorbitsai/xagent) - Production-ready AI agents with dynamic planning (155⭐) ⭐ NEW
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent by NousResearch with persistent memory, multi-platform messaging (Telegram, Discord, Slack, WhatsApp), and skill learning ⭐ NEW
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Super agent harness by ByteDance that researches, codes, and creates using sandboxes, memories, tools, skills and subagents ⭐ NEW
 - [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
 - [OpenSandbox](https://github.com/alibaba/OpenSandbox) - General-purpose sandbox platform for AI applications from Alibaba with Docker/Kubernetes runtimes for coding agents, GUI agents ⭐ NEW
+- [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
 - [serena](https://github.com/oraios/serena) - Powerful coding agent toolkit with semantic retrieval and MCP server ⭐ 20k+
 - [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
@@ -531,6 +546,7 @@ Tools that work with or extend OpenClaw:
 - [Nucleus](https://github.com/eidetic-works/mcp-server-nucleus) - Sovereign Control Plane for AI Agents ⭐ NEW
 - [clawdbot-hub](https://github.com/joshlevylabs/clawdbot-hub) - Command center dashboard for Clawdbot ⭐ NEW
 - [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for OpenClaw Gateway ⭐ NEW
+- [openclaw-molt-mcp](https://github.com/sandraschi/openclaw-molt-mcp) - MCP bridge connecting Cursor/Antigrav/Claude with OpenClaw and Moltbook ecosystems (3⭐) ⭐ NEW
 - [figma-use](https://github.com/dannote/figma-use) - Control Figma from CLI — full read/write access for AI agents ⭐ NEW
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) - Docker containerization for OpenClaw
