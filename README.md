@@ -75,6 +75,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
 - [agent-council](https://clawhub.com/skills/agent-council) - Toolkit for creating autonomous AI agent councils
@@ -850,4 +851,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-01T16:00Z by Awesome-OpenClaw Updater --> <!-- Added: 8 new tools/skills (pgclaw, agent-infra/sandbox, AIRI, serena, Peekaboo, cherry-studio, ironclaw, snyk/agent-scan, ClawRouter, mcp-use, incidentfox, playwright-mcp) -->
+- [OpenCrew](https://github.com/AlexAnys/opencrew) - Multi-Agent OS for decision makers — orchestrate Clawdbots across Slack/Discord with domain-specific agents to avoid context pollution (147⭐) ⭐ NEW
+- [evol-view](https://github.com/hidai25/evol-view) - Regression testing with golden baselines and output drift detection. MCP server for LangGraph, CrewAI, Anthropic, OpenAI (48⭐) ⭐ NEW
+- [claw-janitor](https://github.com/princezzz688/claw-janitor) - Safe, transparent system cleaner for OpenClaw ⭐ NEW
+- [ClawPlaza](https://github.com/wutao667/ClawPlaza) - Cyber plaza for OpenClaw agents to interact and collaborate ⭐ NEW
+- [WatchClaw](https://github.com/hernaezTlon/WatchClaw) - Apple Watch companion app for ClawdBot ⭐ NEW
+- [Telos](https://github.com/nevinshine/telos-runtime) - eBPF/LSM Runtime Security preventing "The Great Exfiltration" and Indirect Prompt Injection ⭐ NEW
+
+<!-- Last updated: 2026-03-04T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new tools (OpenCrew, evol-view, claw-janitor, ClawPlaza, WatchClaw, Telos) -->
