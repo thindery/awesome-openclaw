@@ -177,6 +177,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [speech-to-text](https://clawhub.com/skills/speech-to-text) - Transcribe audio with Whisper models via inference.sh CLI
 - [ai-music-generation](https://clawhub.com/skills/ai-music-generation) - Generate AI music and songs with Diffrythm, Tencent Song Generation
 - [conversation-summary-api](https://clawhub.com/skills/conversation-summary-api) - Generate conversation summaries with incremental updates
+- [voice-skill-sip](https://github.com/nia-agent-cyber/openai-voice-skill) - Voice skill for AI agents with sub-200ms latency via native SIP ⭐ NEW
 
 ### Data & Research
 
@@ -545,6 +546,9 @@ Tools that work with or extend OpenClaw:
 - [Antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command ⭐ NEW
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust — deploy anywhere 🦀 ⭐ NEW
 - [ZeroClaw-Android](https://github.com/Natfii/ZeroClaw-Android) - Run AI agents 24/7 on Android with 25+ LLM providers, encrypted storage ⭐ NEW
+- [HiClaw](https://github.com/higress-group/hiclaw) - Open-source Agent Teams system with IM-based multi-Agent collaboration (296⭐) ⭐ NEW
+- [Jido](https://github.com/nistep/jido) - Elixir Agent Framework with actor-model concurrency and distributed agent orchestration ⭐ NEW
+- [CachiBot](https://github.com/cachidev/cachibot) - AI agent platform with desktop apps, Android support, and multi-agent rooms (312⭐) ⭐ NEW
 - [quoroom](https://github.com/quoroom-ai/room) - Public experiment: AI agent swarm earning money with open visibility ⭐ NEW
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs ⭐ NEW
 - [vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans ⭐ NEW
@@ -614,6 +618,7 @@ Tools that work with or extend OpenClaw:
 - [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination ⭐ NEW
 - [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
+- [Zetherion](https://github.com/jimtin/zetherion-ai) - Secure personal AI assistant with encrypted memory and privacy-first design ⭐ NEW
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs (Rust) ⭐ NEW
 - [CanaryAI](https://github.com/jx887/homebrew-canaryai) - Security monitoring on Claude Code actions ⭐ NEW
 - [AgentStack](https://github.com/agentstack-ai/AgentStack) - Scaffold and build robust AI agent projects from the command line ⭐ NEW
@@ -861,11 +866,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-- [OpenCrew](https://github.com/AlexAnys/opencrew) - Multi-Agent OS for decision makers — orchestrate Clawdbots across Slack/Discord with domain-specific agents to avoid context pollution (147⭐) ⭐ NEW
-- [evol-view](https://github.com/hidai25/evol-view) - Regression testing with golden baselines and output drift detection. MCP server for LangGraph, CrewAI, Anthropic, OpenAI (48⭐) ⭐ NEW
-- [claw-janitor](https://github.com/princezzz688/claw-janitor) - Safe, transparent system cleaner for OpenClaw ⭐ NEW
-- [ClawPlaza](https://github.com/wutao667/ClawPlaza) - Cyber plaza for OpenClaw agents to interact and collaborate ⭐ NEW
-- [WatchClaw](https://github.com/hernaezTlon/WatchClaw) - Apple Watch companion app for ClawdBot ⭐ NEW
-- [Telos](https://github.com/nevinshine/telos-runtime) - eBPF/LSM Runtime Security preventing "The Great Exfiltration" and Indirect Prompt Injection ⭐ NEW
+- [HiClaw](https://github.com/higress-group/hiclaw) - Open-source Agent Teams system with IM-based multi-Agent collaboration (296⭐) ⭐ NEW
+- [Jido](https://github.com/nistep/jido) - Elixir Agent Framework with actor-model concurrency and distributed agent orchestration ⭐ NEW
+- [CachiBot](https://github.com/cachidev/cachibot) - AI agent platform with desktop apps, Android support, and multi-agent rooms (312⭐) ⭐ NEW
+- [Zetherion](https://github.com/jimtin/zetherion-ai) - Secure personal AI assistant with encrypted memory and privacy-first design ⭐ NEW
+- [voice-skill-sip](https://github.com/nia-agent-cyber/openai-voice-skill) - Voice skill for AI agents with sub-200ms latency via native SIP ⭐ NEW
 
-<!-- Last updated: 2026-03-04T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new tools (OpenCrew, evol-view, claw-janitor, ClawPlaza, WatchClaw, Telos) -->
+<!-- Last updated: 2026-03-05T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 5 new tools (HiClaw, Jido, CachiBot, Zetherion, voice-skill-sip) -->
