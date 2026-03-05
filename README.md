@@ -486,6 +486,14 @@ Tools that work with or extend OpenClaw:
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Super agent harness by ByteDance that researches, codes, and creates using sandboxes, memories, tools, skills and subagents ⭐ NEW
 - [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
+- [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
+- [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) - AugmentedMike AI OS layer built on the OpenClaw ecosystem ⭐ NEW
+
+### Memory & Persistence
+
+- [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with auto-backups and web dashboard ⭐ NEW
+- [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system plugin for OpenClaw ⭐ NEW
+
 ### Orchestration & Management
 
 - [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
@@ -529,6 +537,7 @@ Tools that work with or extend OpenClaw:
 - [lobster](https://github.com/eternalai-org/lobster) - Open source OpenClaw hardware device
 - [OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant Add-on for OpenClaw (174⭐) ⭐ NEW
 - [DinoScan](https://github.com/RekitRex21/Dino_Scan) - Air-gapped security scanner for OpenClaw skills ⭐ NEW
+- [caelguard-community](https://github.com/Justincredible-tech/caelguard-community) - Free agent security tools — ShellGuard Scanner + Token Audit ⭐ NEW
 - [ClawBridge](https://github.com/dreamwing/clawbridge) - Mobile dashboard for monitoring agents, token costs, tasks ⭐ NEW
 - [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP — aggregate all MCP servers behind 2 tools ⭐ NEW
 - [llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware ⭐ NEW
@@ -540,6 +549,7 @@ Tools that work with or extend OpenClaw:
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs ⭐ NEW
 - [vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans ⭐ NEW
 - [browserwing](https://github.com/browserwing/browserwing) - Turn browser actions into MCP commands for efficient agent control ⭐ NEW
+- [rent-my-browser](https://github.com/0xPasho/rent-my-browser) - Marketplace for renting idle browsers for automated tasks ⭐ NEW
 - [agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser for visiting sites that block AI agents
 - [ClawHub CLI](https://clawhub.com) - Install, update, and publish skills
