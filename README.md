@@ -477,6 +477,10 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels (505⭐) ⭐ NEW
+- [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for the terminal with hash-anchored edits, LSP, browser, and subagents (1726⭐) ⭐ NEW
+- [jat](https://github.com/joewinke/jat) - World's first Agentic IDE with visual dashboard, parallel workflows, and 50+ bash tools (155⭐) ⭐ NEW
+- [arctic-cli/interface](https://github.com/arctic-cli/interface) - Multi-provider AI coding interface for Codex, Gemini, Anthropic, Copilot in terminal (82⭐) ⭐ NEW
 - [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
 - [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw — Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command (278⭐) ⭐ NEW
@@ -492,6 +496,9 @@ Tools that work with or extend OpenClaw:
 
 ### Memory & Persistence
 
+- [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST, and hierarchical feature graph (1389⭐) ⭐ NEW
+- [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
+- [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access with 37 tools (81⭐) ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with auto-backups and web dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system plugin for OpenClaw ⭐ NEW
 
@@ -536,6 +543,9 @@ Tools that work with or extend OpenClaw:
 - [cove](https://github.com/MaudeCode/cove) - A cozy WebUI for OpenClaw chat
 - [OpenClaw Launcher](https://github.com/earino/OpenClawLauncher) - macOS menu bar app solving Local Network permission for LAN devices
 - [lobster](https://github.com/eternalai-org/lobster) - Open source OpenClaw hardware device
+- [Athena-Public](https://github.com/winstonkoh87/Athena-Public) - The Linux OS for AI agents — persistent memory, autonomy, and time-awareness (418⭐) ⭐ NEW
+- [n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - Self-hosted AI agent on n8n + Supabase + Claude with Telegram interface (116⭐) ⭐ NEW
+- [maxclaw](https://github.com/Lichas/maxclaw) - OpenClaw-style local-first AI agent in Go - low-memory, private, UI-ready (95⭐) ⭐ NEW
 - [OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant Add-on for OpenClaw (174⭐) ⭐ NEW
 - [DinoScan](https://github.com/RekitRex21/Dino_Scan) - Air-gapped security scanner for OpenClaw skills ⭐ NEW
 - [caelguard-community](https://github.com/Justincredible-tech/caelguard-community) - Free agent security tools — ShellGuard Scanner + Token Audit ⭐ NEW
@@ -617,6 +627,8 @@ Tools that work with or extend OpenClaw:
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents ⭐ NEW
 - [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination ⭐ NEW
 - [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
+- [adk-rust](https://github.com/zavora-ai/adk-rust) - Rust Agent Development Kit with real-time voice, model-agnostic design, modular tools (161⭐) ⭐ NEW
+- [stimm](https://github.com/stimm-ai/stimm) - Open source voice agent platform with ultra-low latency AI pipelines over WebRTC (39⭐) ⭐ NEW
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
 - [Zetherion](https://github.com/jimtin/zetherion-ai) - Secure personal AI assistant with encrypted memory and privacy-first design ⭐ NEW
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs (Rust) ⭐ NEW
@@ -659,6 +671,9 @@ Tools that work with or extend OpenClaw:
 - [buildwithclaude](https://github.com/davepoon/buildwithclaude) - Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections ⭐ NEW
 - [Tencent AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - Full-stack AI Red Teaming platform for securing AI ecosystems ⭐ NEW
 - [ClawRouter](https://github.com/BlockRunAI/ClawRouter) - Agent-native LLM router powering OpenClaw ⭐ NEW
+- [multicli](https://github.com/osanoai/multicli) - Gemini, Codex, and Claude all in a single MCP tool for use by any coding agent (16⭐) ⭐ NEW
+- [better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) - Markdown-first MCP server for Notion API optimized for AI agents (13⭐) ⭐ NEW
+- [turbovault](https://github.com/Epistates/turbovault) - MCP server that transforms your Obsidian vault into an intelligent knowledge system (34⭐) ⭐ NEW
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian note-taking ⭐ NEW
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw ⭐ NEW
 - [mimiclaw](https://github.com/memovai/mimiclaw) - Run OpenClaw on a $5 chip. No OS, No Node.js, No VPS ⭐ NEW
@@ -753,6 +768,7 @@ Tools that work with or extend OpenClaw:
 - [Getting Started with OpenClaw](https://docs.openclaw.ai/getting-started) - Official quickstart
 - [Building Your First Skill](https://docs.openclaw.ai/skills/creating) - Create custom tools
 - [Multi-Agent Architecture](https://docs.openclaw.ai/patterns/multi-agent) - Coordinate agent teams
+- [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe Coding From 0 to 1 — comprehensive tutorial on product prototyping, AI integration, and development (3372⭐) ⭐ NEW
 - [openclaw101](https://github.com/mengjian-github/openclaw101) - Chinese learning resource - master OpenClaw in 7 days
 - [openclawcourse](https://github.com/kiankyars/openclawcourse) - 1-hour crash course on OpenClaw
 
@@ -866,10 +882,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-- [HiClaw](https://github.com/higress-group/hiclaw) - Open-source Agent Teams system with IM-based multi-Agent collaboration (296⭐) ⭐ NEW
-- [Jido](https://github.com/nistep/jido) - Elixir Agent Framework with actor-model concurrency and distributed agent orchestration ⭐ NEW
-- [CachiBot](https://github.com/cachidev/cachibot) - AI agent platform with desktop apps, Android support, and multi-agent rooms (312⭐) ⭐ NEW
-- [Zetherion](https://github.com/jimtin/zetherion-ai) - Secure personal AI assistant with encrypted memory and privacy-first design ⭐ NEW
-- [voice-skill-sip](https://github.com/nia-agent-cyber/openai-voice-skill) - Voice skill for AI agents with sub-200ms latency via native SIP ⭐ NEW
-
-<!-- Last updated: 2026-03-05T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 5 new tools (HiClaw, Jido, CachiBot, Zetherion, voice-skill-sip) -->
+<!-- Last updated: 2026-03-06T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 18 new tools (goclaw, oh-my-pi, jat, adk-rust, contextplus, Athena-Public, n8n-claw, maxclaw, stimm, arctic-cli, graphthulhu, multicli, turbovault, better-notion-mcp, easymemory, easy-vibe, and 4 more) -->
