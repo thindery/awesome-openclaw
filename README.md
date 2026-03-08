@@ -146,6 +146,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [elevenlabs-transcribe](https://clawhub.com/skills/elevenlabs-transcribe) - Transcribe audio to text using ElevenLabs Scribe
 - [ffmpeg-video-editor](https://clawhub.com/skills/ffmpeg-video-editor) - Video editing with FFmpeg
 - [gemini-image-gen](https://clawhub.com/skills/gemini-image-gen) - Generate and edit images via Google Gemini API
+- [banana-claws](https://github.com/snowcrab-dev/banana-claws) - OpenRouter image generation skill with queue-first workflow ⭐ NEW
 - [gemini-nano-banana-pro-portraits](https://clawhub.com/skills/gemini-nano-banana-pro-portraits) - Portrait generation with Gemini Nano Banana Pro
 - [gifgrep](https://github.com/openclaw/openclaw/tree/main/skills/gifgrep) - Search and manage GIFs from Giphy
 - [image-cog](https://clawhub.com/skills/image-cog) - Image cognition and analysis
@@ -483,6 +484,8 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [golden-claw](https://github.com/theBlackEndDev/golden-claw) - One-click OpenClaw orchestrator installer with sub-agents (PAI, Gemini CLI, Codex CLI, Claude Code), skills, channels, voice pipeline ⭐ NEW
+- [codex-gateway](https://github.com/baibairui/codex-gateway) - Codex CLI-based OpenClaw gateway in TypeScript (5⭐) ⭐ NEW
 - [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels (505⭐) ⭐ NEW
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for the terminal with hash-anchored edits, LSP, browser, and subagents (1726⭐) ⭐ NEW
 - [jat](https://github.com/joewinke/jat) - World's first Agentic IDE with visual dashboard, parallel workflows, and 50+ bash tools (155⭐) ⭐ NEW
