@@ -212,7 +212,13 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
-- [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform (178⭐) ⭐ NEW
+- [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (22,889⭐) ⭐ NEW
+- [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs (19,929⭐) ⭐ NEW
+- [google-workspace-cli](https://github.com/googleworkspace/cli) - One CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat with AI agent skills (15,952⭐) ⭐ NEW
+- [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway (1,748⭐) ⭐ NEW
+- [spacebot](https://github.com/spacedriveapp/spacebot) - AI agent for teams, communities, and multi-user environments (1,621⭐) ⭐ NEW
+- [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for multi-agent collaboration (1,233⭐) ⭐ NEW
+- [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform (178⭐)
 - [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents (6240⭐) ⭐ NEW
 - [superset](https://github.com/superset-sh/superset) - IDE for AI Agents Era - Run army of Claude Code, Codex locally (5452⭐) ⭐ NEW  
@@ -581,7 +587,8 @@ Tools that work with or extend OpenClaw:
 - [clawdbot-hub](https://github.com/joshlevylabs/clawdbot-hub) - Command center dashboard for Clawdbot ⭐ NEW
 - [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for OpenClaw Gateway ⭐ NEW
 - [openclaw-molt-mcp](https://github.com/sandraschi/openclaw-molt-mcp) - MCP bridge connecting Cursor/Antigrav/Claude with OpenClaw and Moltbook ecosystems (3⭐) ⭐ NEW
-- [figma-use](https://github.com/dannote/figma-use) - Control Figma from CLI — full read/write access for AI agents ⭐ NEW
+- [figma-use](https://github.com/dannote/figma-use) - Control Figma from CLI — full read/write access for AI agents
+- [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST, hierarchical feature graph (1,389⭐) ⭐ NEW
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) - Docker containerization for OpenClaw
 - [iamEvanYT/openclaw-docker](https://github.com/iamEvanYT/openclaw-docker) - Easy Docker setup with Tailscale
@@ -700,7 +707,8 @@ Tools that work with or extend OpenClaw:
 - [secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) - Personal 24x7 AI assistant on WhatsApp, Telegram, Signal, iMessage with 500+ app integrations ⭐ NEW
 - [openclaw-mesh](https://github.com/justfeltlikerunning/openclaw-mesh) - MESH: Message Envelope for Structured Handoffs. Inter-agent communication protocol for OpenClaw fleets ⭐ NEW
 - [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform with managed hosting (178⭐) ⭐ NEW
-- [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - MCP security scanner with prompt injection firewall, package hallucination detection (61⭐) ⭐ NEW
+- [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - MCP security scanner with prompt injection firewall, package hallucination detection (61⭐)
+- [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools — Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW
 - [Superagent](https://github.com/superagent-ai/superagent) - AI security against prompt injection and data leaks (6448⭐) ⭐ NEW
 - [prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) - Comprehensive collection of prompt injection defenses (646⭐) ⭐ NEW
 - [zeroleaks](https://github.com/ZeroLeaks-LLM/zeroleaks) - AI Security Scanner for prompt injection vulnerabilities (510⭐) ⭐ NEW
@@ -729,7 +737,9 @@ Tools that work with or extend OpenClaw:
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4621⭐) ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system ⭐ NEW
-- [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory with hybrid retrieval (vector + keyword + graph) ⭐ NEW
+- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
+- [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
+- [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory with hybrid retrieval (vector + keyword + graph)
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for Logseq/Obsidian full knowledge graph access (81⭐) ⭐ NEW
 - [clawlet](https://github.com/mosaxiv/clawlet) - Ultra-lightweight & efficient personal AI assistant ⭐ NEW
 - [x-research-skill](https://github.com/rohunvora/x-research-skill) - X/Twitter research skill for Claude Code and OpenClaw ⭐ NEW
@@ -910,4 +920,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-06T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 18 new tools (goclaw, oh-my-pi, jat, adk-rust, contextplus, Athena-Public, n8n-claw, maxclaw, stimm, arctic-cli, graphthulhu, multicli, turbovault, better-notion-mcp, easymemory, easy-vibe, and 4 more) -->
+<!-- Last updated: 2026-03-08T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools (picoclaw, agent-browser, google-workspace-cli, openclaw-mission-control, spacebot, mission-control, vestige, engram, contextplus, FuzzingLabs/mcp-security-hub, and 2 more) -->
