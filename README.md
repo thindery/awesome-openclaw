@@ -642,6 +642,8 @@ Tools that work with or extend OpenClaw:
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright MCP Server for browser and API automation in Claude/Cursor (5282⭐) ⭐ NEW
 - [5ire](https://github.com/nanbingxyz/5ire) - Cross-platform desktop AI assistant and MCP client with local knowledge base (5060⭐) ⭐ NEW
 - [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server for iOS/macOS development with Xcode (4595⭐) ⭐ NEW
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (28208⭐) ⭐ NEW
+- [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor (13502⭐) ⭐ NEW
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Mobile automation MCP for iOS/Android, emulators and real devices (3732⭐) ⭐ NEW
 - [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel file manipulation MCP server (3426⭐) ⭐ NEW
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - Convert almost anything to Markdown via MCP (2436⭐) ⭐ NEW
@@ -735,6 +737,8 @@ Tools that work with or extend OpenClaw:
 - [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system standalone library for any AI agent ⭐ NEW
 - [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents - instant retrieval, long-term memory (13282⭐) ⭐ NEW
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4621⭐) ⭐ NEW
+- [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents like OpenClaw (12759⭐) ⭐ NEW
+- [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (13111⭐) ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system ⭐ NEW
 - [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
