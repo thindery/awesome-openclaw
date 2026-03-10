@@ -490,8 +490,10 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [DenchClaw](https://github.com/DenchHQ/DenchClaw) - Fully managed OpenClaw framework for CRM automation and outreach agents with web UI (130⭐) ⭐ NEW
 - [golden-claw](https://github.com/theBlackEndDev/golden-claw) - One-click OpenClaw orchestrator installer with sub-agents (PAI, Gemini CLI, Codex CLI, Claude Code), skills, channels, voice pipeline ⭐ NEW
 - [codex-gateway](https://github.com/baibairui/codex-gateway) - Codex CLI-based OpenClaw gateway in TypeScript (5⭐) ⭐ NEW
+- [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers with A2A/MCP support, Rust-based (1.9k⭐) ⭐ NEW
 - [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels (505⭐) ⭐ NEW
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for the terminal with hash-anchored edits, LSP, browser, and subagents (1726⭐) ⭐ NEW
 - [jat](https://github.com/joewinke/jat) - World's first Agentic IDE with visual dashboard, parallel workflows, and 50+ bash tools (155⭐) ⭐ NEW
@@ -511,6 +513,7 @@ Tools that work with or extend OpenClaw:
 
 ### Memory & Persistence
 
+- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file system search, diff editing with 50+ tools (5.6k⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST, and hierarchical feature graph (1389⭐) ⭐ NEW
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access with 37 tools (81⭐) ⭐ NEW
@@ -519,6 +522,8 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation with 400+ MCP servers (~21k⭐) ⭐ NEW
+- [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server for Claude to build n8n workflows with 1,084 node documentation ⭐ NEW
 - [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
 - [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw — Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command (278⭐) ⭐ NEW
@@ -537,6 +542,8 @@ Tools that work with or extend OpenClaw:
 
 ### Desktop & UI Automation
 
+- [page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language without browser extensions (trending) ⭐ NEW
+- [Smux](https://github.com/gergomiklos/smux) - Terminal multiplexer built for AI agents with split terminals and notifications (macOS) ⭐ NEW
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation ⭐ NEW
 - [Midscene.js](https://github.com/web-infra-dev/midscene) - Vision-based UI automation for web, iOS, Android with natural language control ⭐ NEW
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack from ByteDance connecting AI models and agent infrastructure ⭐ NEW
@@ -924,4 +931,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-08T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools (picoclaw, agent-browser, google-workspace-cli, openclaw-mission-control, spacebot, mission-control, vestige, engram, contextplus, FuzzingLabs/mcp-security-hub, and 2 more) -->
+<!-- Last updated: 2026-03-10T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools (DenchClaw, Activepieces, agentgateway, DesktopCommanderMCP, page-agent, Smux, n8n-mcp) -->
