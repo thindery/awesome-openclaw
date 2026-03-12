@@ -490,6 +490,12 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Assemble](https://github.com/assemble/assemble) - Claude Code for parallel AI team execution - multi-agent task runner ⭐ NEW
+- [Modulus](https://github.com/modulus/modulus) - Cross-repository knowledge orchestration for coding agents ⭐ NEW
+- [Railyard](https://github.com/railyard/railyard) - Open and secure runtime for Claude Code with sandboxed execution ⭐ NEW
+- [G0](https://github.com/g0/g0) - The control layer for AI agents - scan, test, monitor, comply ⭐ NEW
+- [Zehrava Gate](https://github.com/zehrava/gate) - Control plane that sits between AI agents and production ⭐ NEW
+- [Clauductor](https://github.com/clauductor/clauductor) - Web UI for Claude Code with real-time work graph visualization ⭐ NEW
 - [DenchClaw](https://github.com/DenchHQ/DenchClaw) - Fully managed OpenClaw framework for CRM automation and outreach agents with web UI (130⭐) ⭐ NEW
 - [golden-claw](https://github.com/theBlackEndDev/golden-claw) - One-click OpenClaw orchestrator installer with sub-agents (PAI, Gemini CLI, Codex CLI, Claude Code), skills, channels, voice pipeline ⭐ NEW
 - [codex-gateway](https://github.com/baibairui/codex-gateway) - Codex CLI-based OpenClaw gateway in TypeScript (5⭐) ⭐ NEW
@@ -513,6 +519,11 @@ Tools that work with or extend OpenClaw:
 
 ### Memory & Persistence
 
+- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
+- [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents - instant retrieval, long-term memory (13282⭐) ⭐ NEW
+- [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4621⭐) ⭐ NEW
+- [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents like OpenClaw (12759⭐) ⭐ NEW
+- [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (13111⭐) ⭐ NEW
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file system search, diff editing with 50+ tools (5.6k⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST, and hierarchical feature graph (1389⭐) ⭐ NEW
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
@@ -522,6 +533,7 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Prisma MCP Server](https://github.com/prisma/mcp-server) - Official Prisma MCP server for database operations ⭐ NEW
 - [Activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation with 400+ MCP servers (~21k⭐) ⭐ NEW
 - [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server for Claude to build n8n workflows with 1,084 node documentation ⭐ NEW
 - [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
@@ -542,6 +554,8 @@ Tools that work with or extend OpenClaw:
 
 ### Desktop & UI Automation
 
+- [Lumen](https://github.com/lumen/lumen) - Vision-first browser agent - state of the art, open source ⭐ NEW
+- [Draxl](https://github.com/draxl/draxl) - Agent-native source code with stable AST node IDs ⭐ NEW
 - [page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language without browser extensions (trending) ⭐ NEW
 - [Smux](https://github.com/gergomiklos/smux) - Terminal multiplexer built for AI agents with split terminals and notifications (macOS) ⭐ NEW
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation ⭐ NEW
@@ -666,6 +680,8 @@ Tools that work with or extend OpenClaw:
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
 - [Zetherion](https://github.com/jimtin/zetherion-ai) - Secure personal AI assistant with encrypted memory and privacy-first design ⭐ NEW
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs (Rust) ⭐ NEW
+- [Rampart](https://github.com/rampart/rampart) - Open-source firewall for AI agents (v0.8) - control agent access ⭐ NEW
+- [Repovex](https://github.com/repovex/repovex) - GitHub repo health scores for your whole organization ⭐ NEW
 - [CanaryAI](https://github.com/jx887/homebrew-canaryai) - Security monitoring on Claude Code actions ⭐ NEW
 - [AgentStack](https://github.com/agentstack-ai/AgentStack) - Scaffold and build robust AI agent projects from the command line ⭐ NEW
 - [cline](https://github.com/cline/cline) - VS Code extension with autonomous coding agent using MCP and browser ⭐ NEW
@@ -931,4 +947,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-10T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools (DenchClaw, Activepieces, agentgateway, DesktopCommanderMCP, page-agent, Smux, n8n-mcp) -->
+<!-- Last updated: 2026-03-12T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools (Assemble, Modulus, Railyard, Rampart, G0, Zehrava Gate, Clauductor, Lumen, Draxl, Repovex, Prisma MCP, OpenViking, memvid, MemMachine) -->
