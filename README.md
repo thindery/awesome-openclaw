@@ -76,6 +76,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Development
 
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents - advanced MCP server letting AI agents run 150+ cybersecurity tools for pentesting and vulnerability discovery (7268⭐) ⭐ NEW
+- [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation — inspired by Karpathy's autoresearch (5⭐) ⭐ NEW
 - [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
@@ -180,6 +181,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [ai-music-generation](https://clawhub.com/skills/ai-music-generation) - Generate AI music and songs with Diffrythm, Tencent Song Generation
 - [conversation-summary-api](https://clawhub.com/skills/conversation-summary-api) - Generate conversation summaries with incremental updates
 - [voice-skill-sip](https://github.com/nia-agent-cyber/openai-voice-skill) - Voice skill for AI agents with sub-200ms latency via native SIP ⭐ NEW
+- [sillytavern-cards-skill](https://github.com/pearyj/sillytavern-cards-skill) - OpenClaw skill for importing & roleplaying with SillyTavern character cards. Chat with your favorite characters on WhatsApp, Telegram, Discord (3⭐) ⭐ NEW
 
 ### Data & Research
 
@@ -302,6 +304,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [x402](https://clawhub.com/skills/x402) - x402 micropayments protocol
 - [yahoo-data-fetcher](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-data-fetcher) - Real-time stock quotes
 - [zeruai](https://clawhub.com/skills/zeruai) - Register agents on Zeru ERC-8004 Identity Registry
+- [finclaw](https://github.com/NeuZhou/finclaw) - AI-Powered Financial Intelligence Engine. 8 Master Strategies, 3 Markets, 227 Tests. Verified +29.1% annual alpha (4⭐) ⭐ NEW
 
 ### Specialized Roles
 
@@ -490,6 +493,9 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous (405⭐) ⭐ NEW
+- [daneel](https://github.com/fcarucci/daneel) - OpenClaw Live Dashboard and Mission Control (3⭐) ⭐ NEW
+- [hiveforge](https://github.com/JustCod101/hiveforge) - Dynamic Agent Swarm Engine based on OpenClaw — "Markdown as Agent" multi-agent system (3⭐) ⭐ NEW
 - [Assemble](https://github.com/assemble/assemble) - Claude Code for parallel AI team execution - multi-agent task runner ⭐ NEW
 - [Modulus](https://github.com/modulus/modulus) - Cross-repository knowledge orchestration for coding agents ⭐ NEW
 - [Railyard](https://github.com/railyard/railyard) - Open and secure runtime for Claude Code with sandboxed execution ⭐ NEW
@@ -516,6 +522,7 @@ Tools that work with or extend OpenClaw:
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
 - [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) - AugmentedMike AI OS layer built on the OpenClaw ecosystem ⭐ NEW
+- [miniclaw](https://github.com/Wscats/miniclaw) - 极简 ReAct Agent 引擎，零依赖、单文件、纯 JavaScript 教学导向 (3⭐) ⭐ NEW
 
 ### Memory & Persistence
 
@@ -636,6 +643,7 @@ Tools that work with or extend OpenClaw:
 - [knostic/openclaw-shield](https://github.com/knostic/openclaw-shield) - Security plugin that prevents secret leaks, PII exposure, and destructive command execution
 - [knostic/openclaw-detect](https://github.com/knostic/openclaw-detect) - Detection scripts for MDM deployment to identify OpenClaw installations
 - [knostic/openclaw-telemetry](https://github.com/knostic/openclaw-telemetry) - Telemetry for OpenClaw tool calls, LLM usage, agent lifecycle events
+- [costclaw-telemetry](https://github.com/Aperturesurvivor/costclaw-telemetry) - Reduce your OpenClaw agent costs. Free real-time LLM cost tracking + dashboard. Installs in 60 seconds (7⭐) ⭐ NEW
 - [backslash-security/Claw-Hunter](https://github.com/backslash-security/Claw-Hunter) - MDM security tool to detect and secure OpenClaw/Moltbot shadow AI agents
 - [clawgate](https://github.com/M64GitHub/clawgate) - Zero-trust file/git access using cryptographic capability tokens
 - [ClawSysMon](https://github.com/mayur-dot-ai/ClawSysMon.com) - System Monitor and Process Watcher Dashboard for OpenClaw
