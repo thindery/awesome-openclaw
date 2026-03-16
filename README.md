@@ -77,7 +77,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents - advanced MCP server letting AI agents run 150+ cybersecurity tools for pentesting and vulnerability discovery (7268⭐) ⭐ NEW
 - [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation — inspired by Karpathy's autoresearch (5⭐) ⭐ NEW
+- [goal-md](https://github.com/jmilinovich/goal-md) - Goal-specification file for autonomous coding agents. Generalizes Karpathy's autoresearch to domains with constructed metrics (24⭐ HN) ⭐ NEW
 - [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
+- [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
 - [agent-council](https://clawhub.com/skills/agent-council) - Toolkit for creating autonomous AI agent councils
@@ -493,6 +495,8 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
+- [GitAgent](https://www.gitagent.sh/) - Open standard that turns any Git repo into an AI agent with 142 points on HN Show ⭐ NEW
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous (405⭐) ⭐ NEW
 - [daneel](https://github.com/fcarucci/daneel) - OpenClaw Live Dashboard and Mission Control (3⭐) ⭐ NEW
 - [hiveforge](https://github.com/JustCod101/hiveforge) - Dynamic Agent Swarm Engine based on OpenClaw — "Markdown as Agent" multi-agent system (3⭐) ⭐ NEW
@@ -580,6 +584,7 @@ Tools that work with or extend OpenClaw:
 
 - [GalacticCIC](https://github.com/SpaceTrucker2196/GalacticCIC) - OpenClaw CLI Dashboard inspired by HTOP ⭐ NEW
 - [openclaw-deploy](https://github.com/xujfcn/openclaw-deploy) - One-click deployment with CrazyRouter + Claude Opus 4.6 ⭐ NEW
+- [openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free OpenAI API access using your ChatGPT account - local proxy for Codex models (44⭐ HN) ⭐ NEW
 - [ClawHub CLI](https://clawhub.com) - Install, update, and publish skills
 - [OpenClaw Dashboard](https://github.com/openclaw/openclaw) - Web UI for managing agents
 - [Lobster](https://github.com/openclaw/lobster) - Typed local-first macro engine for composable workflows
@@ -960,4 +965,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-12T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools (Assemble, Modulus, Railyard, Rampart, G0, Zehrava Gate, Clauductor, Lumen, Draxl, Repovex, Prisma MCP, OpenViking, memvid, MemMachine) -->
+<!-- Last updated: 2026-03-16T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 5 new tools (Context Gateway, GitAgent, goal-md, Fabraix Playground, openai-oauth) -->
