@@ -551,6 +551,11 @@ Tools that work with or extend OpenClaw:
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
 - [serena](https://github.com/oraios/serena) - Powerful coding agent toolkit with semantic retrieval and MCP server ⭐ 20k+
 - [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
+- [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration and memory (22,250⭐) ⭐ NEW
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees (8,917⭐) ⭐ NEW
+- [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized AI agents, real-time dashboard, and full audit trails (8,936⭐) ⭐ NEW
+- [mission-control](https://github.com/builderz-labs/mission-control) - Open-source dashboard for AI agent orchestration — manage fleets, track tasks, monitor costs (2,430⭐) ⭐ NEW
+- [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard via OpenClaw Gateway (2,175⭐) ⭐ NEW
 
 ### Desktop & UI Automation
 
