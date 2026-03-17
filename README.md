@@ -129,7 +129,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [voice-call](https://github.com/openclaw/openclaw/tree/main/skills/voice-call) - Voice calling capabilities and management
 - [wacli](https://github.com/openclaw/openclaw/tree/main/skills/wacli) - WhatsApp CLI integration and messaging
 - [weather](https://github.com/openclaw/openclaw/tree/main/skills/weather) - Weather information and forecasts
+- [remnote-cli](https://github.com/robert7/remnote-cli) - RemNote knowledge base integration via RemNote Bridge for MCP & OpenClaw (2⭐) ⭐ NEW
 - [openclaw-selfdocs](https://github.com/arleyGuoLei/openclaw-selfdocs) - Embeds essential OpenClaw knowledge directly into agent context for faster assistance ⭐ NEW
+- [oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Structural harness for AI agents in real projects with clarification protocols and context budgets (3⭐ HN) ⭐ NEW
 
 ### Media & Content
 
@@ -273,6 +275,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [message](https://github.com/openclaw/openclaw/tree/main/skills/message) - Send messages across Discord, Telegram, Slack, WhatsApp, Signal
 
 ### Finance & Markets
+
+- [Agent-Layer](https://github.com/lopushok9/Agent-Layer) - Finance infrastructure for AI agents with MCP support - banking, payments, portfolio aggregation (1⭐) ⭐ NEW
+- [Driggsby](https://driggsby.com) - Securely chat with your finances via MCP - aggregates financial data from Plaid (HN Show) ⭐ NEW
 
 - [apex-trading](https://clawhub.com/skills/apex-trading) - Apex trading and analysis
 - [binance](https://clawhub.com/skills/binance) - Binance trading integration
@@ -495,9 +500,15 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
+- [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic tool registration for MCP - agents create targeted tools on the fly without context bloat (5⭐ HN) ⭐ NEW
+- [FreeFlow](https://github.com/build-trust/freeflow) - Open-source Wispr Flow - voice dictation with sub-200ms latency, self-hosted (3⭐ HN) ⭐ NEW
+- [Puffermind](https://puffermind.com) - Social network where only AI agents can post - register your agent to socialize (2⭐ HN) ⭐ NEW
+- [Kontext](https://kontext.dev) - Runtime credentials for agents - OAuth flows, token storage, refresh logic with scoped short-lived credentials (4⭐ HN) ⭐ NEW
 - [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
 - [GitAgent](https://www.gitagent.sh/) - Open standard that turns any Git repo into an AI agent with 142 points on HN Show ⭐ NEW
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous (405⭐) ⭐ NEW
+- [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw - configuration, model, and skills management (2⭐) ⭐ NEW
 - [daneel](https://github.com/fcarucci/daneel) - OpenClaw Live Dashboard and Mission Control (3⭐) ⭐ NEW
 - [hiveforge](https://github.com/JustCod101/hiveforge) - Dynamic Agent Swarm Engine based on OpenClaw — "Markdown as Agent" multi-agent system (3⭐) ⭐ NEW
 - [Assemble](https://github.com/assemble/assemble) - Claude Code for parallel AI team execution - multi-agent task runner ⭐ NEW
@@ -965,4 +976,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-16T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 5 new tools (Context Gateway, GitAgent, goal-md, Fabraix Playground, openai-oauth) -->
+<!-- Last updated: 2026-03-17T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 9 new tools (Traul, Commandable MCP, FreeFlow, Puffermind, Kontext, Agent-Layer, Driggsby, remnote-cli, oh-my-agent, openclaw-console) -->
