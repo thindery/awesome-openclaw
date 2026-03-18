@@ -506,6 +506,22 @@ Tools that work with or extend OpenClaw:
 - [Puffermind](https://puffermind.com) - Social network where only AI agents can post - register your agent to socialize (2⭐ HN) ⭐ NEW
 - [Kontext](https://kontext.dev) - Runtime credentials for agents - OAuth flows, token storage, refresh logic with scoped short-lived credentials (4⭐ HN) ⭐ NEW
 - [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
+- [mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server - browser automation via Chrome extension (10,666⭐) ⭐ NEW
+- [mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright MCP Server for browser and API automation (5,282⭐) ⭐ NEW
+- [5ire](https://github.com/nanbingxyz/5ire) - Cross-platform desktop AI assistant and MCP client with local knowledge base (5,060⭐) ⭐ NEW
+- [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server for iOS/macOS development with Xcode (4,595⭐) ⭐ NEW
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (28,208⭐) ⭐ NEW
+- [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents (13,502⭐) ⭐ NEW
+- [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Mobile automation MCP for iOS/Android, emulators and real devices (3,732⭐) ⭐ NEW
+- [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel file manipulation MCP server (3,426⭐) ⭐ NEW
+- [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - Convert almost anything to Markdown via MCP (2,436⭐) ⭐ NEW
+- [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
+- [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
+- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file system search, diff editing (5.6k⭐) ⭐ NEW
+- [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access (81⭐) ⭐ NEW
+- [turbovault](https://github.com/Epistates/turbovault) - MCP server that transforms Obsidian vault into intelligent knowledge system (34⭐) ⭐ NEW
+- [better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) - Markdown-first MCP server for Notion API (13⭐) ⭐ NEW
+- [multicli](https://github.com/osanoai/multicli) - Gemini, Codex, and Claude all in a single MCP tool for coding agents (16⭐) ⭐ NEW
 - [GitAgent](https://www.gitagent.sh/) - Open standard that turns any Git repo into an AI agent with 142 points on HN Show ⭐ NEW
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous (405⭐) ⭐ NEW
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw - configuration, model, and skills management (2⭐) ⭐ NEW
@@ -546,10 +562,9 @@ Tools that work with or extend OpenClaw:
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4621⭐) ⭐ NEW
 - [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents like OpenClaw (12759⭐) ⭐ NEW
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (13111⭐) ⭐ NEW
-- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file system search, diff editing with 50+ tools (5.6k⭐) ⭐ NEW
-- [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST, and hierarchical feature graph (1389⭐) ⭐ NEW
+- [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
+- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
-- [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access with 37 tools (81⭐) ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with auto-backups and web dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system plugin for OpenClaw ⭐ NEW
 
@@ -976,4 +991,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-17T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 9 new tools (Traul, Commandable MCP, FreeFlow, Puffermind, Kontext, Agent-Layer, Driggsby, remnote-cli, oh-my-agent, openclaw-console) -->
+<!-- Last updated: 2026-03-18T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 42 new tools including MCP servers (chrome-devtools, Figma, Playwright, Excel, arXiv), memory systems (engram, vestige), security tools (FuzzingLabs MCP Security Hub, Superagent, zeroleaks), and infrastructure (5ire, XcodeBuildMCP, multicli) -->
