@@ -44,6 +44,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, openclaw & Gemini CLI (30.5k⭐) ⭐ NEW
 - [FreeRide](https://github.com/Shaivpidadi/FreeRide) - Unlimited free AI by automatically managing OpenRouter's free models in OpenClaw ⭐ NEW
 - [1password](https://github.com/openclaw/openclaw/tree/main/skills/1password) - Manage 1Password vault items and passwords
 - [apple-notes](https://github.com/openclaw/openclaw/tree/main/skills/apple-notes) - Read and search Apple Notes on macOS
@@ -75,6 +76,14 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
+- [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
+- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents via MCP (28.2k⭐) ⭐ NEW
+- [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server (28.1k⭐) ⭐ NEW
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation (29.3k⭐) ⭐ NEW
+- [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor (25.8k⭐) ⭐ NEW
+- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals (15.5k⭐) ⭐ NEW
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents - advanced MCP server letting AI agents run 150+ cybersecurity tools for pentesting and vulnerability discovery (7268⭐) ⭐ NEW
 - [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation — inspired by Karpathy's autoresearch (5⭐) ⭐ NEW
 - [goal-md](https://github.com/jmilinovich/goal-md) - Goal-specification file for autonomous coding agents. Generalizes Karpathy's autoresearch to domains with constructed metrics (24⭐ HN) ⭐ NEW
@@ -189,6 +198,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Data & Research
 
+- [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts (49.3k⭐) ⭐ NEW
 - [ai-diff-summary](https://clawhub.com/skills/ai-diff-summary) - Summarize git diffs in plain English
 - [apewisdom](https://github.com/openclaw/openclaw/tree/main/skills/apewisdom) - Reddit stock sentiment tracking
 - [blogwatcher](https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher) - Monitor and track blog/RSS feeds
@@ -507,6 +517,19 @@ Tools that work with or extend OpenClaw:
 - [Kontext](https://kontext.dev) - Runtime credentials for agents - OAuth flows, token storage, refresh logic with scoped short-lived credentials (4⭐ HN) ⭐ NEW
 - [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
 - [mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server - browser automation via Chrome extension (10,666⭐) ⭐ NEW
+- [mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright MCP Server for browser and API automation (5,282⭐) ⭐ NEW
+- [5ire](https://github.com/nanbingxyz/5ire) - Cross-platform desktop AI assistant and MCP client with local knowledge base (5,060⭐) ⭐ NEW
+- [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server for iOS/macOS development with Xcode (4,595⭐) ⭐ NEW
+- [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Mobile automation MCP for iOS/Android, emulators and real devices (3,732⭐) ⭐ NEW
+- [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel file manipulation MCP server (3,426⭐) ⭐ NEW
+- [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - Convert almost anything to Markdown via MCP (2,436⭐) ⭐ NEW
+- [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
+- [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
+- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file search, diff editing (5.6k⭐) ⭐ NEW
+- [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access (81⭐) ⭐ NEW
+- [turbovault](https://github.com/Epistates/turbovault) - MCP server transforms Obsidian vault into intelligent knowledge system (34⭐) ⭐ NEW
+- [better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) - Markdown-first MCP server for Notion API (13⭐) ⭐ NEW
+- [multicli](https://github.com/osanoai/multicli) - Gemini, Codex, and Claude all in a single MCP tool for coding agents (16⭐) ⭐ NEW
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright MCP Server for browser and API automation (5,282⭐) ⭐ NEW
 - [5ire](https://github.com/nanbingxyz/5ire) - Cross-platform desktop AI assistant and MCP client with local knowledge base (5,060⭐) ⭐ NEW
 - [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server for iOS/macOS development with Xcode (4,595⭐) ⭐ NEW
