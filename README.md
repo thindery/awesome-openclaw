@@ -217,6 +217,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [apewisdom](https://github.com/openclaw/openclaw/tree/main/skills/apewisdom) - Reddit stock sentiment tracking
 - [blogwatcher](https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher) - Monitor and track blog/RSS feeds
 - [conclave-testnet](https://clawhub.com/skills/conclave-testnet) - Collaborative idea game for AI agents
+- [my-training-data](https://github.com/ShanksChen/my-training-data) - Automated training data pipeline from Intervals.icu for AI coaching analysis with ACWR, monotony, and phase detection metrics ⭐ NEW
 - [deepresearchwork](https://clawhub.com/skills/deepresearchwork) - Comprehensive research framework with web search
 - [exa-search](https://clawhub.com/skills/exa-search) - Exa (exa.ai) search API for web and neural search
 - [firecrawl](https://github.com/openclaw/openclaw/tree/main/skills/firecrawl) - Web scraping via Firecrawl API
@@ -525,6 +526,9 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
+- [Memphis](https://github.com/Memphis-Chains/memphis) - OpenClaw Memory Layer - production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
+- [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
 - [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
 - [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic tool registration for MCP - agents create targeted tools on the fly without context bloat (5⭐ HN) ⭐ NEW
 - [FreeFlow](https://github.com/build-trust/freeflow) - Open-source Wispr Flow - voice dictation with sub-200ms latency, self-hosted (3⭐ HN) ⭐ NEW
@@ -555,6 +559,9 @@ Tools that work with or extend OpenClaw:
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - Convert almost anything to Markdown via MCP (2,436⭐) ⭐ NEW
 - [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
+- [sqltools_mcp](https://github.com/Tony-Enninful/sqltools_mcp) - SQLTools MCP for multi-database support without multiple servers - MySQL, PostgreSQL, SQL Server, DM8, SQLite ⭐ NEW
+- [smart-coding-mcp](https://github.com/Moxnyyy/smart-coding-mcp) - Smart Coding MCP with intelligent embeddings for code search (AI-driven) ⭐ NEW
+- [argus-mcp](https://github.com/dykeruv/argus-mcp) - AI-driven code review MCP server using Zero-Trust model ⭐ NEW
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file system search, diff editing (5.6k⭐) ⭐ NEW
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access (81⭐) ⭐ NEW
 - [turbovault](https://github.com/Epistates/turbovault) - MCP server that transforms Obsidian vault into intelligent knowledge system (34⭐) ⭐ NEW
@@ -600,6 +607,8 @@ Tools that work with or extend OpenClaw:
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4621⭐) ⭐ NEW
 - [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents like OpenClaw (12759⭐) ⭐ NEW
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (13111⭐) ⭐ NEW
+- [memory-lancedb-mcp](https://github.com/cablate/memory-lancedb-mcp) - MCP server for LanceDB-backed long-term memory with hybrid retrieval (Vector + BM25), cross-encoder rerank, and multi-scope isolation ⭐ NEW
+- [memphis](https://github.com/Memphis-Chains/memphis) - Production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
 - [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
 - [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
