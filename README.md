@@ -52,6 +52,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [bear-notes](https://github.com/openclaw/openclaw/tree/main/skills/bear-notes) - Search and manage Bear notes
 - [chitin](https://clawhub.com/skills/chitin) - Personality persistence for AI agents
 - [cron-scheduling](https://clawhub.com/skills/cron-scheduling) - Schedule recurring tasks with cron and templates
+- [clawkeep](https://github.com/SuperTechGod/clawkeep) - AES-256 encrypted secrets manager for OpenClaw agents. Secure vault for API keys with machine binding, IP restriction, and bot auto-unlock ⭐ NEW
 - [credential-manager](https://clawhub.com/skills/credential-manager) - MANDATORY security foundation for OpenClaw credential management
 - [daily-briefing](https://clawhub.com/skills/daily-briefing) - Warm daily briefing with weather, calendar, reminders
 - [focus-deep-work](https://clawhub.com/skills/focus-deep-work) - Deep work and productivity enhancement
@@ -115,6 +116,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [api-gateway](https://clawhub.com/skills/api-gateway) - API gateway for third-party APIs with managed auth
 - [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) - Automate web browser interactions using natural language
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) - Gemini CLI integration for AI summaries and generation
+- [openclaw-ollama-proxy](https://github.com/jose-mattew/openclaw-ollama-proxy) - Fix slow Qwen3 thinking mode in OpenClaw + Ollama. Flask proxy that auto-injects think:false for instant responses ⭐ NEW
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) - GitHub CLI integration (issues, PRs, actions)
 - [git-workflows](https://github.com/openclaw/openclaw/tree/main/skills/git-workflows) - Advanced git operations (rebase, bisect, worktrees)
 - [markdpwn-formatter](https://clawhub.com/skills/markdown-formatter) - Format and beautify markdown documents
@@ -1027,4 +1029,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-20T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 14 new tools including MCP servers (XcodeBuildMCP, mobile-mcp, Peekaboo, Figma-Context-MCP, mcp-use), skill management tools (skillsctl, oracle-skills-cli, faire, plugin-packager), and agent infrastructure (agent-infra/sandbox) -->
+<!-- Last updated: 2026-03-20T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 14 new tools including MCP servers (XcodeBuildMCP, mobile-mcp, Peekaboo, Figma-Context-MCP, mcp-use), skill management tools (skillsctl, oracle-skills-cli, faire, plugin-packager), and agent infrastructure (agent-infra/sandbox) -->rastructure (agent-infra/sandbox) -->
