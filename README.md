@@ -213,6 +213,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Data & Research
 
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts (49.3k⭐) ⭐ NEW
+- [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API and agentic skill with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw ⭐ NEW
 - [ai-diff-summary](https://clawhub.com/skills/ai-diff-summary) - Summarize git diffs in plain English
 - [apewisdom](https://github.com/openclaw/openclaw/tree/main/skills/apewisdom) - Reddit stock sentiment tracking
 - [blogwatcher](https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher) - Monitor and track blog/RSS feeds
@@ -599,10 +600,14 @@ Tools that work with or extend OpenClaw:
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
 - [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) - AugmentedMike AI OS layer built on the OpenClaw ecosystem ⭐ NEW
 - [miniclaw](https://github.com/Wscats/miniclaw) - 极简 ReAct Agent 引擎，零依赖、单文件、纯 JavaScript 教学导向 (3⭐) ⭐ NEW
+- [CloudUI](https://github.com/siteboon/claudecodeui) - Web and mobile GUI for Claude Code, Cursor CLI, and Codex with session management and plugin system ⭐ NEW
+- [Pi Mono](https://github.com/badlogic/pi-mono) - AI agent toolkit with coding agent CLI, unified LLM API, TUI/Web UI libraries, Slack bot, and vLLM pods ⭐ NEW
 
 ### Memory & Persistence
 
+- [ClawMem](https://github.com/yoloshii/clawmem) - On-device memory for Claude Code and OpenClaw with hybrid RAG, MCP server, and context-surfacing hooks ⭐ NEW
 - [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
+- [QMD](https://github.com/tobi/qmd) - Mini CLI search engine for docs and notes - BM25 + vector hybrid search with MCP server for agentic workflows ⭐ NEW
 - [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents - instant retrieval, long-term memory (13282⭐) ⭐ NEW
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4621⭐) ⭐ NEW
 - [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents like OpenClaw (12759⭐) ⭐ NEW
