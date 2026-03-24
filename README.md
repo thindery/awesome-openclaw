@@ -83,21 +83,23 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation (33.1k⭐) ⭐ NEW  
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents via MCP (28.2k⭐) ⭐ NEW
 - [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server (28.1k⭐) ⭐ NEW
-- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation (29.3k⭐) ⭐ NEW
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor (25.8k⭐) ⭐ NEW
+- [Cq](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - Stack Overflow for AI coding agents (182⭐ HN) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals (15.5k⭐) ⭐ NEW
-- [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents - advanced MCP server letting AI agents run 150+ cybersecurity tools for pentesting and vulnerability discovery (7268⭐) ⭐ NEW
+- [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - MCP Agents running 150+ cybersecurity tools for pentesting and vulnerability discovery (7268⭐) ⭐ NEW
 - [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server and CLI for iOS and macOS development tools - build, test, analyze projects (4820⭐) ⭐ NEW
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - MCP server for mobile automation and scraping on iOS, Android, emulators, simulators (4002⭐) ⭐ NEW
+- [ProofShot](https://proofshot.argil.io/) - Give AI coding agents eyes to verify the UI they build (65⭐ HN) ⭐ NEW
 - [Peekaboo](https://github.com/steipete/Peekaboo) - macOS CLI and MCP server for AI agents to capture screenshots with visual Q&A (2891⭐) ⭐ NEW
-- [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor (13,816⭐) ⭐ NEW
+- [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server for Figma layout info to AI coding agents (13,816⭐) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude & MCP Servers (9466⭐) ⭐ NEW
-- [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation — inspired by Karpathy's autoresearch (5⭐) ⭐ NEW
-- [goal-md](https://github.com/jmilinovich/goal-md) - Goal-specification file for autonomous coding agents. Generalizes Karpathy's autoresearch to domains with constructed metrics (24⭐ HN) ⭐ NEW
-- [stata-skill](https://github.com/dylantmoore/stata-skill) - Claude Code skill for writing correct, idiomatic Stata code — covers syntax, data management, econometrics, causal inference (26⭐) ⭐ NEW
-- [oracle-skills-cli](https://github.com/Soul-Brews-Studio/oracle-skills-cli) - Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ AI coding agents (27⭐) ⭐ NEW
+- [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation (5⭐) ⭐ NEW
+- [goal-md](https://github.com/jmilinovich/goal-md) - Goal-specification file for autonomous coding agents (24⭐ HN) ⭐ NEW
+- [stata-skill](https://github.com/dylantmoore/stata-skill) - Claude Code skill for writing correct, idiomatic Stata code (26⭐) ⭐ NEW
+- [oracle-skills-cli](https://github.com/Soul-Brews-Studio/oracle-skills-cli) - Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ agents (27⭐) ⭐ NEW
 - [skillsctl](https://github.com/nebari-dev/skillsctl) - CLI and registry server for discovering, installing, and publishing Claude Code skills (6⭐) ⭐ NEW
 - [faire](https://github.com/jack-michaud/faire) - Eval driven Claude Code skills for quality skill development (5⭐) ⭐ NEW
 - [plugin-packager](https://github.com/hummer98/plugin-packager) - Convert Claude Code skill repositories into dual-distributable packages (3⭐) ⭐ NEW
@@ -545,6 +547,9 @@ Tools that work with or extend OpenClaw:
 - [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
 - [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
 - [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic tool registration for MCP - agents create targeted tools on the fly without context bloat (5⭐ HN) ⭐ NEW
+- [Odyssey](https://github.com/liquidos-ai/Odyssey) - Run AI agents across environments with proper sandboxing and orchestration (7⭐ HN Show Mar 2026) ⭐ NEW
+- [zbot](https://github.com/LingaoM/zbot) - AI agent for MCU with Telegram chat (runs on Zephyr or Linux) (4⭐ HN Show Mar 2026) ⭐ NEW
+- [Kern](https://github.com/oguzbilgic/kern-ai) - One agent. One folder. One mind. Every channel - minimal agent harness (4⭐ HN Show Mar 2026) ⭐ NEW
 - [FreeFlow](https://github.com/build-trust/freeflow) - Open-source Wispr Flow - voice dictation with sub-200ms latency, self-hosted (3⭐ HN) ⭐ NEW
 - [Puffermind](https://puffermind.com) - Social network where only AI agents can post - register your agent to socialize (2⭐ HN) ⭐ NEW
 - [Kontext](https://kontext.dev) - Runtime credentials for agents - OAuth flows, token storage, refresh logic with scoped short-lived credentials (4⭐ HN) ⭐ NEW
