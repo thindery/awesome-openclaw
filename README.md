@@ -80,6 +80,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [CowAgent](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with thinking, planning, and skill capabilities. Supports OpenClaw MCP and multi-platform (WeChat, Feishu, DingTalk, WeCom, QQ) (42.5k⭐) ⭐ NEW
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
@@ -692,6 +693,9 @@ Tools that work with or extend OpenClaw:
 - [cove](https://github.com/MaudeCode/cove) - A cozy WebUI for OpenClaw chat
 - [OpenClaw Launcher](https://github.com/earino/OpenClawLauncher) - macOS menu bar app solving Local Network permission for LAN devices
 - [lobster](https://github.com/eternalai-org/lobster) - Open source OpenClaw hardware device
+- [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface supporting Ollama, OpenAI API, and MCP for self-hosted LLMs (128.6k⭐) ⭐ NEW
+- [Dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development with MCP support (134.4k⭐) ⭐ NEW
+- [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and MCP support (181k⭐) ⭐ NEW
 - [Athena-Public](https://github.com/winstonkoh87/Athena-Public) - The Linux OS for AI agents — persistent memory, autonomy, and time-awareness (418⭐) ⭐ NEW
 - [n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - Self-hosted AI agent on n8n + Supabase + Claude with Telegram interface (116⭐) ⭐ NEW
 - [maxclaw](https://github.com/Lichas/maxclaw) - OpenClaw-style local-first AI agent in Go - low-memory, private, UI-ready (95⭐) ⭐ NEW
@@ -1063,4 +1067,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-20T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 14 new tools including MCP servers (XcodeBuildMCP, mobile-mcp, Peekaboo, Figma-Context-MCP, mcp-use), skill management tools (skillsctl, oracle-skills-cli, faire, plugin-packager), and agent infrastructure (agent-infra/sandbox) -->rastructure (agent-infra/sandbox) -->
+<!-- Last updated: 2026-03-25T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools - Agent Platforms (Open WebUI, Dify, n8n), Integration (CowAgent), and MCP Tool (mcp-chrome) -->
