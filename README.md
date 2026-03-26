@@ -663,7 +663,9 @@ Tools that work with or extend OpenClaw:
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees (8,917⭐) ⭐ NEW
 - [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized AI agents, real-time dashboard, and full audit trails (8,936⭐) ⭐ NEW
 - [mission-control](https://github.com/builderz-labs/mission-control) - Open-source dashboard for AI agent orchestration — manage fleets, track tasks, monitor costs (2,430⭐) ⭐ NEW
+- [Optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents in K8s — from ticket to merged PR with autonomous feedback loops (236⭐ HN Show) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard via OpenClaw Gateway (2,175⭐) ⭐ NEW
+- [Optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents. Auto-resumes on CI failures, polls PRs, and merges when ready. Kubernetes-native (236⭐) ⭐ NEW
 
 ### Desktop & UI Automation
 
@@ -700,6 +702,7 @@ Tools that work with or extend OpenClaw:
 - [n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - Self-hosted AI agent on n8n + Supabase + Claude with Telegram interface (116⭐) ⭐ NEW
 - [maxclaw](https://github.com/Lichas/maxclaw) - OpenClaw-style local-first AI agent in Go - low-memory, private, UI-ready (95⭐) ⭐ NEW
 - [OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant Add-on for OpenClaw (174⭐) ⭐ NEW
+- [SentinelGate](https://github.com/Sentinel-Gate/Sentinelgate) - MCP proxy with access control for AI agents. CEL policies, RBAC, and full audit trail ⭐ NEW
 - [DinoScan](https://github.com/RekitRex21/Dino_Scan) - Air-gapped security scanner for OpenClaw skills ⭐ NEW
 - [caelguard-community](https://github.com/Justincredible-tech/caelguard-community) - Free agent security tools — ShellGuard Scanner + Token Audit ⭐ NEW
 - [ClawBridge](https://github.com/dreamwing/clawbridge) - Mobile dashboard for monitoring agents, token costs, tasks ⭐ NEW
