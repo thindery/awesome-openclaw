@@ -98,6 +98,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Peekaboo](https://github.com/steipete/Peekaboo) - macOS CLI and MCP server for AI agents to capture screenshots with visual Q&A (2891⭐) ⭐ NEW
 - [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server for Figma layout info to AI coding agents (13,816⭐) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude & MCP Servers (9466⭐) ⭐ NEW
+- [9router](https://github.com/decolua/9router) - Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models (1345⭐) ⭐ NEW
+- [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐) ⭐ NEW
 - [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation (5⭐) ⭐ NEW
 - [goal-md](https://github.com/jmilinovich/goal-md) - Goal-specification file for autonomous coding agents (24⭐ HN) ⭐ NEW
 - [stata-skill](https://github.com/dylantmoore/stata-skill) - Claude Code skill for writing correct, idiomatic Stata code (26⭐) ⭐ NEW
@@ -570,6 +572,7 @@ Tools that work with or extend OpenClaw:
 - [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file search, diff editing (5.6k⭐) ⭐ NEW
+- [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐) ⭐ NEW
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access (81⭐) ⭐ NEW
 - [turbovault](https://github.com/Epistates/turbovault) - MCP server transforms Obsidian vault into intelligent knowledge system (34⭐) ⭐ NEW
 - [better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) - Markdown-first MCP server for Notion API (13⭐) ⭐ NEW
@@ -629,6 +632,7 @@ Tools that work with or extend OpenClaw:
 
 ### Memory & Persistence
 
+- [supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era (20.3k⭐) ⭐ NEW
 - [ClawMem](https://github.com/yoloshii/clawmem) - On-device memory for Claude Code and OpenClaw with hybrid RAG, MCP server, and context-surfacing hooks ⭐ NEW
 - [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
 - [QMD](https://github.com/tobi/qmd) - Mini CLI search engine for docs and notes - BM25 + vector hybrid search with MCP server for agentic workflows ⭐ NEW
@@ -962,6 +966,7 @@ Tools that work with or extend OpenClaw:
 - [Building Your First Skill](https://docs.openclaw.ai/skills/creating) - Create custom tools
 - [Multi-Agent Architecture](https://docs.openclaw.ai/patterns/multi-agent) - Coordinate agent teams
 - [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe Coding From 0 to 1 — comprehensive tutorial on product prototyping, AI integration, and development (3372⭐) ⭐ NEW
+- [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Build a Claude Code-like agent harness from 0 to 1 - bash-based nano agent tutorial (41.5k⭐) ⭐ NEW
 - [openclaw101](https://github.com/mengjian-github/openclaw101) - Chinese learning resource - master OpenClaw in 7 days
 - [openclawcourse](https://github.com/kiankyars/openclawcourse) - 1-hour crash course on OpenClaw
 
@@ -1076,4 +1081,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-27T21:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new tools - Security (AgentShield), Deployment (Jetclaw), Desktop Manager (NeemClaw), Meeting Agent, Battle Arena -->
+<!-- Last updated: 2026-03-28T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new tools - Router (9router), Integration (atlassian-mcp-server), Memory (supermemory), Tutorial (learn-claude-code) -->
