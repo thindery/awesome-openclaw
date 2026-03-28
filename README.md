@@ -60,6 +60,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [daily-briefing](https://clawhub.com/skills/daily-briefing) - Warm daily briefing with weather, calendar, reminders
 - [focus-deep-work](https://clawhub.com/skills/focus-deep-work) - Deep work and productivity enhancement
 - [healthcheck](https://github.com/openclaw/openclaw/tree/main/skills/healthcheck) - Track water intake and sleep
+- [Meeting Agent](https://github.com/Smokefarmer/meeting-agent) - AI Meeting Assistant — transcribes, extracts action items, auto-creates GitHub issues and calendar events (Hack_001) (Mar 27) ⭐ NEW
 - [jasper-recall](https://clawhub.com/skills/jasper-recall) - Memory and recall system
 - [microsoft-todo](https://clawhub.com/skills/microsoft-todo) - Manage Microsoft To Do tasks via the `todo` CLI
 - [notion](https://github.com/openclaw/openclaw/tree/main/skills/notion) - Notion workspace integration for pages and databases
@@ -289,6 +290,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-security-monitor](https://clawhub.com/skills/openclaw-security-monitor) - Real-time security monitoring
 - [openclaw-server-secure-skill](https://clawhub.com/skills/openclaw-server-secure-skill) - Secure server configuration
 - [security-audit](https://github.com/openclaw/openclaw/tree/main/skills/security-audit) - Infrastructure security scanning
+- [AgentShield](https://github.com/Kanevry/openclaw-agentshield) - Real-time AI Agent Security Plugin — Prompt injection defense, tool call guardrails, live security dashboard (Mar 27) ⭐ NEW
 - [skill-guard](https://clawhub.com/skills/skill-guard) - Skill security vetting and validation
 - [ssh-exec](https://clawhub.com/skills/ssh-exec) - Run commands on remote Tailscale nodes
 - [ssh-tunnel](https://clawhub.com/skills/ssh-tunnel) - SSH tunneling and port forwarding
@@ -545,6 +547,8 @@ Tools that work with or extend OpenClaw:
 ### Orchestration & Management
 
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
+- [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
+- [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
 - [Memphis](https://github.com/Memphis-Chains/memphis) - OpenClaw Memory Layer - production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
 - [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
 - [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
@@ -985,6 +989,7 @@ Real projects built with OpenClaw:
 - [marian2js/opengoat](https://github.com/marian2js/opengoat) - Orchestrate agents on Codex, Claude Code, Cursor, OpenClaw, Lovable 🐐
 - [trianglegrrl/emotion-engine](https://github.com/trianglegrrl/emotion-engine) - PAD + Ekman + OCEAN emotional model plugin for agents
 - [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) - Cost-optimized personal AI with multi-provider routing 🐚
+- [OpenClaw Battle Arena](https://github.com/Infans-Digitalis-ai/openclaw-battle-arena) - Agent-vs-agent 2D fighting sim — bots control fighters via WebSocket, authoritative game host enforces rules (Pygame) (Mar 27) ⭐ NEW
 - [sett-arena](https://github.com/Rainhoole/sett-arena) - The Fighting Pit of Sett (Powered by OpenClaw) - A Mini Twitter Clone
 - [mibolaji/ClawPad](https://github.com/mibolaji/ClawPad) - Simplify agentic systems on older machines
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - AI agent task management system
@@ -1071,4 +1076,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-25T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools - Agent Platforms (Open WebUI, Dify, n8n), Integration (CowAgent), and MCP Tool (mcp-chrome) -->
+<!-- Last updated: 2026-03-27T21:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new tools - Security (AgentShield), Deployment (Jetclaw), Desktop Manager (NeemClaw), Meeting Agent, Battle Arena -->
