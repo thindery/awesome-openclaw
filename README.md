@@ -550,6 +550,7 @@ Tools that work with or extend OpenClaw:
 ### Orchestration & Management
 
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
+- [anamnesis](https://github.com/gayawellness/anamnesis) - 4D Strategic Memory Engine for Autonomous AI Agents — store wisdom, not just facts. Python with MCP integration (15⭐) ⭐ NEW
 - [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
 - [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
 - [Memphis](https://github.com/Memphis-Chains/memphis) - OpenClaw Memory Layer - production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
@@ -979,6 +980,7 @@ Tools that work with or extend OpenClaw:
 
 Real projects built with OpenClaw:
 
+- [Building a Digital Doorman](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) - IRC-based OpenClaw agent on a $7/month VPS with public/private agent separation and A2A protocol ⭐ NEW
 - [atlas-openclaw](https://github.com/CCHerbst/atlas-openclaw) - OpenClaw deployment configuration for Atlas CTO assistant ⭐ NEW
 - [Pantry-Pal](https://github.com/pantry-pal/pantry-pal) - AI-powered recipe and meal planning SaaS (built with OpenClaw agent team)
 - [yuna-openclaw](https://github.com/yuna-studio/yuna-openclaw) - Python-based OpenClaw implementation with community extensions (⭐ 32)
@@ -1083,4 +1085,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-28T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new tools - Router (9router), Integration (atlassian-mcp-server), Memory (supermemory), Tutorial (learn-claude-code) -->
+<!-- Last updated: 2026-03-29T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 2 new items - anamnesis (4D memory engine), Building a Digital Doorman example -->
