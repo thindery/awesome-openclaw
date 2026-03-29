@@ -257,6 +257,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
+- [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - Automatic rate limit recovery across 9 AI providers. Zero downtime, resilient dispatching layer ⭐ NEW
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (22,889⭐) ⭐ NEW
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs (19,929⭐) ⭐ NEW
 - [google-workspace-cli](https://github.com/googleworkspace/cli) - One CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat with AI agent skills (15,952⭐) ⭐ NEW
@@ -978,6 +979,7 @@ Tools that work with or extend OpenClaw:
 
 Real projects built with OpenClaw:
 
+- [atlas-openclaw](https://github.com/CCHerbst/atlas-openclaw) - OpenClaw deployment configuration for Atlas CTO assistant ⭐ NEW
 - [Pantry-Pal](https://github.com/pantry-pal/pantry-pal) - AI-powered recipe and meal planning SaaS (built with OpenClaw agent team)
 - [yuna-openclaw](https://github.com/yuna-studio/yuna-openclaw) - Python-based OpenClaw implementation with community extensions (⭐ 32)
 - [carapace](https://github.com/puremachinery/carapace) - A secure, stable Rust alternative to openclaw/moltbot/clawdbot (⭐ 6)
