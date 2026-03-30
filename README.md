@@ -549,6 +549,7 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration — watch agents think, branch, and coordinate with interactive node graphs ⭐ NEW
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [anamnesis](https://github.com/gayawellness/anamnesis) - 4D Strategic Memory Engine for Autonomous AI Agents — store wisdom, not just facts. Python with MCP integration (15⭐) ⭐ NEW
 - [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
@@ -589,6 +590,7 @@ Tools that work with or extend OpenClaw:
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - Convert almost anything to Markdown via MCP (2,436⭐) ⭐ NEW
 - [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
+- [pglens](https://github.com/janbjorge/pglens) - 27 read-only PostgreSQL tools for AI agents via MCP — schema inspection, data exploration, query execution, health monitoring (10⭐ HN) ⭐ NEW
 - [sqltools_mcp](https://github.com/Tony-Enninful/sqltools_mcp) - SQLTools MCP for multi-database support without multiple servers - MySQL, PostgreSQL, SQL Server, DM8, SQLite ⭐ NEW
 - [smart-coding-mcp](https://github.com/Moxnyyy/smart-coding-mcp) - Smart Coding MCP with intelligent embeddings for code search (AI-driven) ⭐ NEW
 - [argus-mcp](https://github.com/dykeruv/argus-mcp) - AI-driven code review MCP server using Zero-Trust model ⭐ NEW
@@ -883,6 +885,7 @@ Tools that work with or extend OpenClaw:
 - [LangBot](https://github.com/langbot-app/LangBot) - Production-grade multi-platform IM bot platform with MCP support, RAG knowledge base, web management panel. Supports Discord, Telegram, Slack, LINE, WeChat, Lark, DingTalk, QQ (⭐ 15.6k) ⭐ NEW
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent by NousResearch with built-in learning loop, persistent memory, skill auto-creation, multi-platform messaging (Telegram, Discord, Slack, WhatsApp, Signal), and cron scheduling (⭐ 11.1k) ⭐ NEW
 - [poncho](https://github.com/cesr/poncho-ai) - General agent harness for web - version-controlled, git-native, serverless-friendly ⭐ NEW
+- [csl-core](https://github.com/Chimera-Protocol/csl-core) - Policy Language for AI Agents with Z3-verified policy enforcement. Deterministic safety constraints outside the model ⭐ NEW
 - [agentpriv](https://github.com/nichkej/agentpriv) - "Sudo for AI Agents" - permission layer with allow/deny/ask gates ⭐ NEW
 - [air-blackbox](https://github.com/nostalgicskinco/air-blackbox-gateway) - Tamper-evident flight recorder for AI agents with HMAC-SHA256 audit chains ⭐ NEW
 - [csl-core](https://github.com/Chimera-Protocol/csl-core) - Policy engine using Z3 formal verification for AI agent safety constraints ⭐ NEW
@@ -1085,4 +1088,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-29T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 2 new items - anamnesis (4D memory engine), Building a Digital Doorman example -->
+<!-- Last updated: 2026-03-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new items - agent-flow (orchestration visualization), pglens (PostgreSQL MCP), csl-core (policy language), agentpriv (permission layer) -->
