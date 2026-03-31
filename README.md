@@ -575,6 +575,10 @@ Tools that work with or extend OpenClaw:
 - [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file search, diff editing (5.6k⭐) ⭐ NEW
+- [talons](https://github.com/SeboLuo/talons) - Enterprise-grade web control center for OpenClaw. Next.js 15 + React 19 + Horizon UI for orchestrating agents, plugins, knowledge bases ⭐ NEW (Mar 30)
+- [clawlink](https://github.com/XingP14/clawlink) - Multi-Agent Communication Hub - topic-based chat relay for distributed OpenClaw agents ⭐ NEW (Mar 30)
+- [codesop](https://github.com/veniai/codesop) - AI Coding SOP — unified workflow standardization for Claude Code, OpenClaw, and Codex CLI ⭐ NEW (Mar 30)
+- [OpenClawCostTrackerPro](https://github.com/ai4mcpservers/OpenClawCostTrackerPro) - Desktop dashboard tracking API costs across all providers, models, sessions. Auto-detects OpenClaw calls ⭐ NEW (Mar 30)
 - [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐) ⭐ NEW
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access (81⭐) ⭐ NEW
 - [turbovault](https://github.com/Epistates/turbovault) - MCP server transforms Obsidian vault into intelligent knowledge system (34⭐) ⭐ NEW
