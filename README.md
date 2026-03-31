@@ -126,6 +126,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) - Automate web browser interactions using natural language
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) - Gemini CLI integration for AI summaries and generation
 - [openclaw-ollama-proxy](https://github.com/jose-mattew/openclaw-ollama-proxy) - Fix slow Qwen3 thinking mode in OpenClaw + Ollama. Flask proxy that auto-injects think:false for instant responses ⭐ NEW
+- [openclaw-model-bridge](https://github.com/bisdom-cell/openclaw-model-bridge) - Connect any LLM to OpenClaw — production-tested middleware for Qwen3-235B and beyond (⭐ 8) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals - 12 lessons covering MCP architecture, server/client development, and real-world applications (⭐ 15.5k) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents (⭐ 9.5k) ⭐ NEW
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) - GitHub CLI integration (issues, PRs, actions)
@@ -983,6 +984,13 @@ Tools that work with or extend OpenClaw:
 
 ---
 
+## Tools
+
+Standalone tools that work with or extend OpenClaw:
+
+- [tokscale](https://github.com/junhoyeo/tokscale) - CLI tool for tracking token usage from OpenClaw, Claude Code, Codex, Gemini, Cursor with global leaderboard (⭐ 1.4k)
+- [prompthistory](https://github.com/junhoyeo/prompthistory) - Search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex (⭐ NEW)
+
 ## Example Projects
 
 Real projects built with OpenClaw:
@@ -1037,7 +1045,7 @@ Real projects built with OpenClaw:
 - [wkyleg/personal-genomics](https://github.com/wkyleg/personal-genomics) - Analyze your DNA with OpenClaw
 - [penggaolai/ai-news-app](https://github.com/penggaolai/ai-news-app) - Daily Top 10 AI news dashboard with glassmorphism UI
 - [riphook](https://github.com/merciagents/riphook) - Deterministic security layer for OpenClaw, Cursor and Claude Code
-- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for multiple AI CLI tools (⭐ 12.4k)
+- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for multiple AI CLI tools (⭐ 20.6k)
 - [MarketBot](https://github.com/EthanAlgoX/MarketBot) - Finance-customized OpenClaw with desktop Electron app and market intelligence ⭐ NEW
 - [astra-os](https://github.com/rosakowski/astra-os) - Personal AI operating system built on OpenClaw. Automated workflows, sub-agents, and scheduled tasks for life management
 - [openclaw-agents-team-skill](https://github.com/liuqin164/openclaw-agents-team-skill) - YAML-based Multi-Agent software development workflow for OpenClaw
@@ -1092,4 +1100,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new items - agent-flow (orchestration visualization), pglens (PostgreSQL MCP), csl-core (policy language), agentpriv (permission layer) -->
+<!-- Last updated: 2026-03-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new items - agent-flow (orchestration visualization), pglens (PostgreSQL MCP), csl-core (policy language), agentpriv (permission layer) -->riv (permission layer) -->ed AionUi star count. -->riv (permission layer) -->
