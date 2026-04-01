@@ -98,6 +98,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Peekaboo](https://github.com/steipete/Peekaboo) - macOS CLI and MCP server for AI agents to capture screenshots with visual Q&A (2891⭐) ⭐ NEW
 - [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server for Figma layout info to AI coding agents (13,816⭐) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude & MCP Servers (9466⭐) ⭐ NEW
+- [context-pilot](https://github.com/diegoalvarezf/context-pilot) - Intelligent context middleware for AI coding agents — MCP-compatible, 100% local ⭐ NEW (Apr 2026)
+- [moonx010/hive-memory](https://github.com/moonx010/hive-memory) - Cross-project memory for AI coding agents. MCP server that maintains context across workspaces. Fully local ⭐ NEW (Apr 2026)
 - [9router](https://github.com/decolua/9router) - Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models (1345⭐) ⭐ NEW
 - [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐) ⭐ NEW
 - [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation (5⭐) ⭐ NEW
@@ -110,6 +112,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
 - [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
+- [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools — Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW (Apr 2026)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
 - [agent-council](https://clawhub.com/skills/agent-council) - Toolkit for creating autonomous AI agent councils
 - [ai-auth-check](https://clawhub.com/skills/ai-auth-check) - Audit authentication flows for security vulnerabilities
@@ -656,6 +659,10 @@ Tools that work with or extend OpenClaw:
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with auto-backups and web dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system plugin for OpenClaw ⭐ NEW
+- [SynapseLayer/essencial](https://github.com/SynapseLayer/essencial) - Zero-Knowledge memory layer for AI agents. MCP-native, LangChain-compatible ⭐ NEW (Apr 2026)
+- [pluribus](https://github.com/johnnyjoy/pluribus) - Persistent memory MCP server for AI agents (MCP + REST) ⭐ NEW (Apr 2026)
+- [aurelius](https://github.com/Blysspeak/aurelius) - Self-hosted knowledge graph memory for developers and AI agents. MCP server with graph UI ⭐ NEW (Apr 2026)
+- [DreamGraph MCP](https://github.com/mmethodz/dreamgraph) - Autonomous cognitive layer with MCP integration ⭐ NEW HN (Apr 2026)
 
 ### Orchestration & Management
 
@@ -735,6 +742,7 @@ Tools that work with or extend OpenClaw:
 - [CachiBot](https://github.com/cachidev/cachibot) - AI agent platform with desktop apps, Android support, and multi-agent rooms (312⭐) ⭐ NEW
 - [quoroom](https://github.com/quoroom-ai/room) - Public experiment: AI agent swarm earning money with open visibility ⭐ NEW
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs ⭐ NEW
+- [Pardus Browser](https://github.com/JasonHonKL/PardusBrowser) - A browser for AI agents without Chromium ⭐ NEW HN (Apr 2026)
 - [vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans ⭐ NEW
 - [browserwing](https://github.com/browserwing/browserwing) - Turn browser actions into MCP commands for efficient agent control ⭐ NEW
 - [rent-my-browser](https://github.com/0xPasho/rent-my-browser) - Marketplace for renting idle browsers for automated tasks ⭐ NEW
@@ -1099,5 +1107,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+<!-- Last updated: 2026-03-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new items - agent-flow (orchestration visualization), pglens (PostgreSQL MCP), csl-core (policy language), agentpriv (permission layer) -->riv (permission layer) -->ed AionUi star count. -->riv (permission layer) -->ed all copyright and related or neighboring rights to this work.
 
 <!-- Last updated: 2026-03-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new items - agent-flow (orchestration visualization), pglens (PostgreSQL MCP), csl-core (policy language), agentpriv (permission layer) -->riv (permission layer) -->ed AionUi star count. -->riv (permission layer) -->
