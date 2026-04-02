@@ -35,6 +35,8 @@
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
+- [awesome-researchclaw](https://github.com/SUSTech-GenAI/awesome-researchclaw) - Curated list of ResearchClaw ecosystem, AI research agents, autonomous paper-writing tools (⭐ 40, Apr 2026) ⭐ NEW
+- [awesome-ai-agent-incidents](https://github.com/h5i-dev/awesome-ai-agent-incidents) - Curated corpus of incidents, attack vectors, failure modes for autonomous AI agents (⭐ 13, Apr 2026) ⭐ NEW
 
 ---
 
@@ -272,6 +274,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway with multi-agent support (⭐ 1,748) ⭐ NEW
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server for secure execution (⭐ 3,115) ⭐ NEW
 - [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform (178⭐)
+- [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua University's fully autonomous AI agent execution framework for OpenClaw. Enables 24/7 operation with harness engineering (⭐ 48, Apr 2026) ⭐ NEW
 - [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents (6240⭐) ⭐ NEW
 - [superset](https://github.com/superset-sh/superset) - IDE for AI Agents Era - Run army of Claude Code, Codex locally (5452⭐) ⭐ NEW  
@@ -533,6 +536,8 @@ Skills published to ClawHub by the community:
 ### Memory & Context
 
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. Structurally organized like a file system with auto-categorization, cross-references, and cost-efficient long-running memory (⭐ 12.8k) ⭐ NEW
+- [claude-brain](https://github.com/mikeadolan/claude-brain) - Persistent memory for Claude Code. Local SQLite + MCP + hooks for seamless context continuity (⭐ 3, Apr 2026) ⭐ NEW
+- [data-feeder](https://github.com/Ptroger/data-feeder) - Declarative data feeds for AI agents. YAML config → MCP server with caching, scheduling, and auth (Apr 2026) ⭐ NEW
 - [Memori Labs](https://github.com/MemoriLabs/Memori) - Memory system hitting 81.95% accuracy on LoCoMo benchmark with only 1,294 tokens per query (vs 26,000+ full-context). 20x cost reduction, 67% fewer tokens than competitors. Switch LLMs and your agent still remembers (Mar 2026) ⭐ NEW
 
 Skills published to ClawHub by the community:
@@ -997,7 +1002,10 @@ Tools that work with or extend OpenClaw:
 Standalone tools that work with or extend OpenClaw:
 
 - [tokscale](https://github.com/junhoyeo/tokscale) - CLI tool for tracking token usage from OpenClaw, Claude Code, Codex, Gemini, Cursor with global leaderboard (⭐ 1.4k)
-- [prompthistory](https://github.com/junhoyeo/prompthistory) - Search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex (⭐ NEW)
+- [token-smithers](https://github.com/shacharbard/token-smithers) - MCP token efficiency butler. Compression proxy saving up to 60% on tool results, schemas, instructions. Zero-config, works with any MCP server (Apr 2026) ⭐ NEW
+- [prompthistory](https://github.com/junhoyeo/prompthistory) - Search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex (Apr 2026) ⭐ NEW
+- [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway — monitor health, manage AI agent sessions, chat with agents, administer cron, logs & approvals (⭐ 3, Apr 2026) ⭐ NEW
+- [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces — for free. Any LLM, Telegram support, auto-sync, built-in keep-alive (⭐ 5, Apr 2026) ⭐ NEW
 
 ## Example Projects
 
@@ -1108,6 +1116,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new items - agent-flow (orchestration visualization), pglens (PostgreSQL MCP), csl-core (policy language), agentpriv (permission layer) -->riv (permission layer) -->ed AionUi star count. -->riv (permission layer) -->ed all copyright and related or neighboring rights to this work.
-
-<!-- Last updated: 2026-03-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new items - agent-flow (orchestration visualization), pglens (PostgreSQL MCP), csl-core (policy language), agentpriv (permission layer) -->riv (permission layer) -->ed AionUi star count. -->riv (permission layer) -->
+<!-- Last updated: 2026-04-02T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 8 new items - OpenHarness (autonomous framework), awesome-researchclaw (research agents), token-smithers (MCP token efficiency), claude-brain (persistent memory), data-feeder (declarative feeds), claw-console (web UI), HuggingClaw (HF Spaces), awesome-ai-agent-incidents (security)ed AionUi star count. -->riv (permission layer) -->
