@@ -696,6 +696,9 @@ Tools that work with or extend OpenClaw:
 - [Optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents in K8s — from ticket to merged PR with autonomous feedback loops (236⭐ HN Show) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard via OpenClaw Gateway (2,175⭐) ⭐ NEW
 - [Optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents. Auto-resumes on CI failures, polls PRs, and merges when ready. Kubernetes-native (236⭐) ⭐ NEW
+- [openclaw-codex-app-server](https://github.com/pwrdrvr/openclaw-codex-app-server) - OpenClaw plugin that brings Codex to Telegram and Discord via the Codex App Server protocol (159⭐) ⭐ NEW
+- [astrolabe](https://github.com/logancsack/astrolabe) - Smart model router for OpenClaw agents ⭐ NEW
+- [openclaw-skills-explorer](https://github.com/nitzzzu/openclaw-skills-explorer) - ClawEye: a catalog for the OpenClaw agentic skills registry ⭐ NEW
 
 ### Desktop & UI Automation
 
