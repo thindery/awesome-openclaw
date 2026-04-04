@@ -39,6 +39,13 @@
 - [awesome-ai-agent-incidents](https://github.com/h5i-dev/awesome-ai-agent-incidents) - Curated corpus of incidents, attack vectors, failure modes for autonomous AI agents (⭐ 13, Apr 2026) ⭐ NEW
 - [openclaw-cc-contrib](https://github.com/Jofiction918/openclaw-cc-contrib) - Memory system skills extracted from Claude Code contributions (⭐ 8, Apr 2026) ⭐ NEW
 - [context-mode](https://github.com/mksglu/context-mode) - MCP virtualization layer for managing AI agent context (6.4k⭐, Apr 2026) ⭐ NEW
+- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents from Volcengine - hierarchical memory, resources, and skills via filesystem paradigm (⭐ 20.9k, Apr 2026) ⭐ NEW
+- [AionUi](https://github.com/iOfficeAI/AionUi) - 24/7 cowork app for OpenClaw, Claude Code, Codex, OpenCode, and other AI agents (⭐ 21k, Apr 2026) ⭐ NEW
+- [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust - deploy anywhere (⭐ 29.4k, Apr 2026) ⭐ NEW
+- [NanoClaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration (⭐ 26.4k, Apr 2026) ⭐ NEW
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent with persistent memory, multi-platform messaging, and skill learning (⭐ 24.5k, Apr 2026) ⭐ NEW
+- [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua's fully autonomous AI agent execution framework for 24/7 operation (⭐ 48, Apr 2026) ⭐ NEW
+- [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
 
 ---
 
@@ -49,7 +56,11 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Productivity
 
 - [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, openclaw & Gemini CLI (30.5k⭐) ⭐ NEW
-- [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian - create/edit Markdown with wikilinks, Bases with views/filters, JSON Canvas, and Obsidian CLI integration. Compatible with Claude Code, Codex, OpenCode (⭐ 16.1k) ⭐ NEW
+- [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian - create/edit Markdown with wikilinks, Bases with views/filters, JSON Canvas, and Obsidian CLI integration (⭐ 19.5k, Apr 2026) ⭐ NEW
+- [cowboy-claude](https://github.com/ghostcowboy/cowboy-claude) - Run Claude Code on bare metal Linux with GPU passthrough - ultimate performance for agent workflows (⭐ 5.2k, Apr 2026) ⭐ NEW
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet - search Twitter, Reddit, YouTube, GitHub, no API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
+- [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized agents, real-time dashboard, audit trails (⭐ 8.9k, Apr 2026) ⭐ NEW
+- [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - automatic rate limit recovery across 9 AI providers (⭐ NEW Apr 2026) ⭐ NEW
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw. Structured project planning using markdown files with persistent context across sessions (⭐ 16.9k) ⭐ NEW
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw (⭐ 15.6k) ⭐ NEW
 - [FreeRide](https://github.com/Shaivpidadi/FreeRide) - Unlimited free AI by automatically managing OpenRouter's free models in OpenClaw ⭐ NEW
@@ -269,7 +280,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
-- [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - Automatic rate limit recovery across 9 AI providers. Zero downtime, resilient dispatching layer ⭐ NEW
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet - search Twitter, Reddit, YouTube, GitHub, no API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
+- [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized agents, real-time dashboard, audit trails (⭐ 8.9k, Apr 2026) ⭐ NEW
 - [botmaker](https://github.com/truongan5/botmaker) - Manage AI chatbots with OpenClaw - web UI for creating and configuring containerized agents (⭐ NEW Apr 2026)
 - [hackthejob](https://github.com/mo7amadhassan/hackthejob) - Automate your job search with OpenClaw-driven agents (⭐ NEW Apr 2026)
 - [xiaomo-starter-kit](https://github.com/byrktrofficial/xiaomo-starter-kit) - OpenClaw starter template with pre-configured skills and channels (⭐ NEW Apr 2026)
@@ -550,6 +562,8 @@ Skills published to ClawHub by the community:
 
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. Structurally organized like a file system with auto-categorization, cross-references, and cost-efficient long-running memory (⭐ 12.8k) ⭐ NEW
 - [claude-brain](https://github.com/mikeadolan/claude-brain) - Persistent memory for Claude Code. Local SQLite + MCP + hooks for seamless context continuity (⭐ 3, Apr 2026) ⭐ NEW
+- [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - automatic rate limit recovery across 9 AI providers (⭐ NEW Apr 2026) ⭐ NEW
+- [cowboy-claude](https://github.com/ghostcowboy/cowboy-claude) - Run Claude Code on bare metal Linux with GPU passthrough - ultimate performance for agent workflows (⭐ 5.2k, Apr 2026) ⭐ NEW
 - [data-feeder](https://github.com/Ptroger/data-feeder) - Declarative data feeds for AI agents. YAML config → MCP server with caching, scheduling, and auth (Apr 2026) ⭐ NEW
 - [Memsearch](https://github.com/zilliztech/memsearch) - Persistent, cross-agent, cross-session memory for AI agents via Zilliz (⭐ HN Show Apr 2026) ⭐ NEW
 - [Bitterbot](https://github.com/Bitterbot-AI/bitterbot-desktop) - Local-first agent memory loop with dream engine for state consolidation (⭐ HN Show Apr 2026) ⭐ NEW
