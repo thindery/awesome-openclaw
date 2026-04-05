@@ -939,8 +939,10 @@ Tools that work with or extend OpenClaw:
 - [clawhealth-app](https://github.com/jeffbander/clawhealth-app) - HIPAA-compliant AI patient care coordination for cardiology with physician dashboard ⭐ NEW
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Community collection of OpenClaw use cases for making life easier ⭐ NEW
+- [EdgeClaw](https://github.com/OpenBMB/edgeclaw) - Edge-Cloud Collaborative AI Agent based on OpenClaw with Claude Code-like features including ClawXTool suite and ClawXSkill intelligent discovery (⭐ 8.7k, Apr 2026) ⭐ NEW
 - [LangBot](https://github.com/langbot-app/LangBot) - Production-grade multi-platform IM bot platform with MCP support, RAG knowledge base, web management panel. Supports Discord, Telegram, Slack, LINE, WeChat, Lark, DingTalk, QQ (⭐ 15.6k) ⭐ NEW
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent by NousResearch with built-in learning loop, persistent memory, skill auto-creation, multi-platform messaging (Telegram, Discord, Slack, WhatsApp, Signal), and cron scheduling (⭐ 11.1k) ⭐ NEW
+- [Supermemory](https://github.com/supermemoryai/supermemory) - Memory and context layer for AI - #1 on LongMemEval, LoCoMo, and ConvoMem benchmarks. Extracts facts, handles temporal changes, auto-maintains user profiles (⭐ 18.2k, Apr 2026) ⭐ NEW
 - [poncho](https://github.com/cesr/poncho-ai) - General agent harness for web - version-controlled, git-native, serverless-friendly ⭐ NEW
 - [csl-core](https://github.com/Chimera-Protocol/csl-core) - Policy Language for AI Agents with Z3-verified policy enforcement. Deterministic safety constraints outside the model ⭐ NEW
 - [agentpriv](https://github.com/nichkej/agentpriv) - "Sudo for AI Agents" - permission layer with allow/deny/ask gates ⭐ NEW
@@ -1155,4 +1157,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-04-02T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 8 new items - OpenHarness (autonomous framework), awesome-researchclaw (research agents), token-smithers (MCP token efficiency), claude-brain (persistent memory), data-feeder (declarative feeds), claw-console (web UI), HuggingClaw (HF Spaces), awesome-ai-agent-incidents (security)ed AionUi star count. -->riv (permission layer) -->
+<!-- Last updated: 2026-04-05T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new items - Supermemory (AI memory), EdgeClaw (Edge-Cloud agent), LangBot (multi-platform bot), Hermes Agent (self-improving), AgentStack (scaffold CLI), Cline (IDE agent), MCP Security Hub (offensive security), Poco Agent (Manus-style), cherry-studio (AI productivity), 1Panel (web UI), ClawX (desktop GUI), OpenViking (context database) -->
