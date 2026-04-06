@@ -35,17 +35,17 @@
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
-- [awesome-researchclaw](https://github.com/SUSTech-GenAI/awesome-researchclaw) - Curated list of ResearchClaw ecosystem, AI research agents, autonomous paper-writing tools (⭐ 40, Apr 2026) ⭐ NEW
-- [awesome-ai-agent-incidents](https://github.com/h5i-dev/awesome-ai-agent-incidents) - Curated corpus of incidents, attack vectors, failure modes for autonomous AI agents (⭐ 13, Apr 2026) ⭐ NEW
-- [openclaw-cc-contrib](https://github.com/Jofiction918/openclaw-cc-contrib) - Memory system skills extracted from Claude Code contributions (⭐ 8, Apr 2026) ⭐ NEW
-- [context-mode](https://github.com/mksglu/context-mode) - MCP virtualization layer for managing AI agent context (6.4k⭐, Apr 2026) ⭐ NEW
-- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents from Volcengine - hierarchical memory, resources, and skills via filesystem paradigm (⭐ 20.9k, Apr 2026) ⭐ NEW
-- [AionUi](https://github.com/iOfficeAI/AionUi) - 24/7 cowork app for OpenClaw, Claude Code, Codex, OpenCode, and other AI agents (⭐ 21k, Apr 2026) ⭐ NEW
-- [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust - deploy anywhere (⭐ 29.4k, Apr 2026) ⭐ NEW
-- [NanoClaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration (⭐ 26.4k, Apr 2026) ⭐ NEW
-- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent with persistent memory, multi-platform messaging, and skill learning (⭐ 24.5k, Apr 2026) ⭐ NEW
-- [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua's fully autonomous AI agent execution framework for 24/7 operation (⭐ 48, Apr 2026) ⭐ NEW
-- [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
+- [awesome-researchclaw](https://github.com/SUSTech-GenAI/awesome-researchclaw) - Curated list of ResearchClaw ecosystem, AI research agents, autonomous paper-writing tools (⭐ 40, Apr 2026)
+- [awesome-ai-agent-incidents](https://github.com/h5i-dev/awesome-ai-agent-incidents) - Curated corpus of incidents, attack vectors, failure modes for autonomous AI agents (⭐ 13, Apr 2026)
+- [openclaw-cc-contrib](https://github.com/Jofiction918/openclaw-cc-contrib) - Memory system skills extracted from Claude Code contributions (⭐ 8, Apr 2026)
+- [context-mode](https://github.com/mksglu/context-mode) - MCP virtualization layer for managing AI agent context (6.4k⭐, Apr 2026)
+- [AionUi](https://github.com/iOfficeAI/AionUi) - 24/7 cowork app for OpenClaw, Claude Code, Codex, OpenCode, and other AI agents (⭐ 21k, Apr 2026)
+- [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust - deploy anywhere (⭐ 29.4k, Apr 2026)
+- [NanoClaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration (⭐ 26.4k, Apr 2026)
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent with persistent memory, multi-platform messaging, and skill learning (⭐ 24.5k, Apr 2026)
+- [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua's fully autonomous AI agent execution framework for 24/7 operation (⭐ 48, Apr 2026)
+- [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐)
+- [Modo](https://github.com/mohshomis/modo) - Open-source alternative to Kiro, Cursor, and Windsurf - agentic code editor (⭐ HN Show, Apr 2026)
 
 ---
 
