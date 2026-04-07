@@ -61,6 +61,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet - search Twitter, Reddit, YouTube, GitHub, no API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
 - [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized agents, real-time dashboard, audit trails (⭐ 8.9k, Apr 2026) ⭐ NEW
 - [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - automatic rate limit recovery across 9 AI providers (⭐ NEW Apr 2026) ⭐ NEW
+- [mikuBot](https://github.com/NeuralArchLabs/mikuBot) - Windows-native AI assistant optimized for OpenClaw integration — minimal setup, maximum performance ⭐ NEW (Apr 2026)
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw. Structured project planning using markdown files with persistent context across sessions (⭐ 16.9k) ⭐ NEW
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw (⭐ 15.6k) ⭐ NEW
 - [FreeRide](https://github.com/Shaivpidadi/FreeRide) - Unlimited free AI by automatically managing OpenRouter's free models in OpenClaw ⭐ NEW
@@ -120,6 +121,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [9router](https://github.com/decolua/9router) - Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models (1345⭐) ⭐ NEW
 - [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐) ⭐ NEW
 - [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation (5⭐) ⭐ NEW
+- [stint](https://github.com/frankmatheron/stint) - Local-first MCP server for freelance time tracking — AI-driven productivity insights ⭐ NEW (Apr 2026)
+- [DeltaScope](https://github.com/Fanduzi/DeltaScope) - Offline-first SQL audit engine for MySQL/TiDB with MCP server — CLI, HTTP API, CI pipeline integration ⭐ NEW (Apr 2026)
+- [ferridriver](https://github.com/salamaashoush/ferridriver) - High-performance browser automation in Rust with MCP server — Playwright-compatible API, WebKit + CDP backends ⭐ NEW (Apr 2026)
 - [goal-md](https://github.com/jmilinovich/goal-md) - Goal-specification file for autonomous coding agents (24⭐ HN) ⭐ NEW
 - [stata-skill](https://github.com/dylantmoore/stata-skill) - Claude Code skill for writing correct, idiomatic Stata code (26⭐) ⭐ NEW
 - [oracle-skills-cli](https://github.com/Soul-Brews-Studio/oracle-skills-cli) - Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ agents (27⭐) ⭐ NEW
@@ -128,6 +132,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [plugin-packager](https://github.com/hummer98/plugin-packager) - Convert Claude Code skill repositories into dual-distributable packages (3⭐) ⭐ NEW
 - [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
 - [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
+- [jambonz-mcp-server](https://github.com/jambonz/mcp-server) - Jambonz MCP server for voice AI agents — telephony integration with sub-200ms latency ⭐ NEW (Apr 2026)
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools — Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW (Apr 2026)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
@@ -289,6 +294,13 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [koi-dashboard-v2](https://github.com/koiopenclaw-max/koi-dashboard-v2) - OpenClaw Status Monitor dashboard for agent monitoring (⭐ NEW Apr 2026)
 - [openclaw-cloudflare](https://github.com/kidsadapotay/openclaw-cloudflare) - AI code reviews on Cloudflare Workers for serverless agent workflows (⭐ NEW Apr 2026)
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (22,889⭐) ⭐ NEW
+- [tickflow-assist](https://github.com/robinspt/tickflow-assist) - A-share stock monitoring skill for OpenClaw with real-time tracking, post-market analysis, and price alerts via TickFlow API ⭐ NEW (Apr 2026)
+- [ai-court-skill](https://github.com/wanikua/ai-court-skill) - Discord AI multi-agent team with Chinese "Six Ministries" role structure — Oracle Cloud deployment ⭐ NEW (Apr 2026)
+- [clawdbot-skill-hevy](https://github.com/berryk/clawdbot-skill-hevy) - Hevy workout tracking with AI-powered fitness insights and trend analysis ⭐ NEW (Apr 2026)
+- [clawdbot-skill-garmin](https://github.com/berryk/clawdbot-skill-garmin) - Garmin fitness tracking with automated data collection and AI coaching metrics ⭐ NEW (Apr 2026)
+- [clawdbot-tonal](https://github.com/dlwiest/clawdbot-tonal) - Tonal fitness integration — muscle readiness scores, workout history, strength tracking ⭐ NEW (Apr 2026)
+- [dwlf-skill](https://github.com/andywilliams/dwlf-skill) - DWLF market analysis platform skill — conversational access to indicators, signals, and strategies ⭐ NEW (Apr 2026)
+- [tribe-v2-skill](https://github.com/MersivMedia/tribe-v2-skill) - TRIBE v2 brain response prediction skill for Clawdbot — Meta neuroscience AI model integration ⭐ NEW (Apr 2026)
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs (19,929⭐) ⭐ NEW
 - [google-workspace-cli](https://github.com/googleworkspace/cli) - One CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat with AI agent skills (15,952⭐) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway (1,748⭐) ⭐ NEW
