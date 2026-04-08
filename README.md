@@ -46,6 +46,9 @@
 - [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua's fully autonomous AI agent execution framework for 24/7 operation (⭐ 48, Apr 2026)
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐)
 - [Modo](https://github.com/mohshomis/modo) - Open-source alternative to Kiro, Cursor, and Windsurf - agentic code editor (⭐ HN Show, Apr 2026)
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent with built-in learning loop, creates skills from experience, improves during use. Multi-platform messaging (⭐ 36k, Apr 2026) ⭐ NEW
+- [DeerFlow](https://github.com/bytedance/deer-flow) - Long-horizon SuperAgent harness that researches, codes, and creates. Sub-agents, sandboxes, memory, message gateway (⭐ 59.5k, Apr 2026) ⭐ NEW
+- [Page Agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language, no extension needed. Optional MCP server (⭐ 16.3k, Apr 2026) ⭐ NEW
 
 ---
 
@@ -274,6 +277,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [proactive-agent-1-2-4](https://clawhub.com/skills/proactive-agent-1-2-4) - Transform agents from task-followers to proactive initiators
 - [prospector](https://clawhub.com/skills/prospector) - Prospecting and lead generation
 - [reddit-insights](https://github.com/openclaw/openclaw/tree/main/skills/reddit-insights) - Reddit trend analysis and market research
+- [last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket - synthesizes grounded summaries with citations (⭐ 19.7k, Apr 2026) ⭐ NEW
+- [MiroFish](https://github.com/666ghj/MiroFish) - Swarm intelligence engine for prediction. Multi-agent digital sandbox simulation with thousands of evolving agents (⭐ 51.7k, Apr 2026) ⭐ NEW
 - [reddit-readonly](https://clawhub.com/skills/reddit-readonly) - Browse Reddit without authentication
 - [self-improving-agent](https://clawhub.com/skills/self-improving-agent) - Capture learnings and errors for continuous improvement
 - [startups](https://github.com/openclaw/openclaw/tree/main/skills/startups) - Startup ecosystem research
@@ -402,6 +407,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [yahoo-data-fetcher](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-data-fetcher) - Real-time stock quotes
 - [zeruai](https://clawhub.com/skills/zeruai) - Register agents on Zeru ERC-8004 Identity Registry
 - [finclaw](https://github.com/NeuZhou/finclaw) - AI-Powered Financial Intelligence Engine. 8 Master Strategies, 3 Markets, 227 Tests. Verified +29.1% annual alpha (4⭐) ⭐ NEW
+- [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent LLM financial trading framework with specialized agents: fundamental analysts, sentiment experts, technical analysts, traders, and risk management (⭐ 48.5k, Apr 2026) ⭐ NEW
 
 ### Specialized Roles
 
@@ -572,6 +578,7 @@ Skills published to ClawHub by the community:
 
 ### Memory & Context
 
+- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents (including OpenClaw) with filesystem paradigm for unified memory, resources, and skills. Features L0/L1/L2 tiered context loading and visualized retrieval (⭐ 21.6k, Apr 2026) ⭐ NEW
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. Structurally organized like a file system with auto-categorization, cross-references, and cost-efficient long-running memory (⭐ 12.8k) ⭐ NEW
 - [claude-brain](https://github.com/mikeadolan/claude-brain) - Persistent memory for Claude Code. Local SQLite + MCP + hooks for seamless context continuity (⭐ 3, Apr 2026) ⭐ NEW
 - [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - automatic rate limit recovery across 9 AI providers (⭐ NEW Apr 2026) ⭐ NEW
