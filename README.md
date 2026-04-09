@@ -49,6 +49,9 @@
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent with built-in learning loop, creates skills from experience, improves during use. Multi-platform messaging (⭐ 36k, Apr 2026) ⭐ NEW
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Long-horizon SuperAgent harness that researches, codes, and creates. Sub-agents, sandboxes, memory, message gateway (⭐ 59.5k, Apr 2026) ⭐ NEW
 - [Page Agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language, no extension needed. Optional MCP server (⭐ 16.3k, Apr 2026) ⭐ NEW
+- [skrun](https://github.com/skrun-dev/skrun) - Deploy any Agent Skill as an API via POST /run. Multi-model, stateful, open source (⭐ HN Show, Apr 2026) ⭐ NEW
+- [tui-use](https://github.com/onesuper/tui-use) - Let AI agents control interactive terminal programs — REPLs, debuggers, TUI apps, anything bash can't reach (⭐ HN Show, Apr 2026) ⭐ NEW
+- [AgentDM](https://agentdm.ai) - Agent to agent messaging over MCP and A2A. Connect Claude to Claude, Claude to OpenAI, any MCP-compatible agent (⭐ HN Show, Apr 2026) ⭐ NEW
 
 ---
 
@@ -102,8 +105,12 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 - [SkillCompass](https://github.com/Evol-ai/SkillCompass) - Diagnose and Improve Claude Code/OpenClaw Skills Across 6 Dimensions - evaluation-driven skill evolution engine (⭐ HN Show Apr 2026) ⭐ NEW
 - [Open-agent-SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Claude Code's internals extracted and open-sourced - drop-in replacement for claude-agent-sdk (⭐ HN Show Apr 2026) ⭐ NEW
+- [oss-security-audit](https://github.com/backnotprop/oss-security-audit) - Agent skill that audits open-source repository supply chain security based on Astral's framework (⭐ HN Show Apr 2026) ⭐ NEW
+- [guardians](https://github.com/metareflection/guardians) - Static verification for AI agent workflows - prevents prompt injection like SQL injection (⭐ HN Show Apr 2026) ⭐ NEW
+- [Open-agent-SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Claude Code's internals extracted and open-sourced - drop-in replacement for claude-agent-sdk (⭐ HN Show Apr 2026) ⭐ NEW
 - [CowAgent](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with thinking, planning, and skill capabilities. Supports OpenClaw MCP and multi-platform (WeChat, Feishu, DingTalk, WeCom, QQ) (42.5k⭐) ⭐ NEW
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
+- [tui-use](https://github.com/onesuper/tui-use) - Let AI agents control interactive terminal programs — REPLs, debuggers, TUI apps (⭐ HN Show Apr 2026) ⭐ NEW
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation (33.1k⭐) ⭐ NEW  
