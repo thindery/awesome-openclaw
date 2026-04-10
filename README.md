@@ -629,6 +629,7 @@ Tools that work with or extend OpenClaw:
 - [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
 - [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
 - [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic tool registration for MCP - agents create targeted tools on the fly without context bloat (5⭐ HN) ⭐ NEW
+- [DashClaw](https://github.com/ucsandman/DashClaw) - Decision infrastructure for AI agents - intercept actions, enforce guard policies, require approvals, audit trails (198⭐) ⭐ NEW
 - [Odyssey](https://github.com/liquidos-ai/Odyssey) - Run AI agents across environments with proper sandboxing and orchestration (7⭐ HN Show Mar 2026) ⭐ NEW
 - [zbot](https://github.com/LingaoM/zbot) - AI agent for MCU with Telegram chat (runs on Zephyr or Linux) (4⭐ HN Show Mar 2026) ⭐ NEW
 - [Kern](https://github.com/oguzbilgic/kern-ai) - One agent. One folder. One mind. Every channel - minimal agent harness (4⭐ HN Show Mar 2026) ⭐ NEW
@@ -730,6 +731,7 @@ Tools that work with or extend OpenClaw:
 - [pluribus](https://github.com/johnnyjoy/pluribus) - Persistent memory MCP server for AI agents (MCP + REST) ⭐ NEW (Apr 2026)
 - [aurelius](https://github.com/Blysspeak/aurelius) - Self-hosted knowledge graph memory for developers and AI agents. MCP server with graph UI ⭐ NEW (Apr 2026)
 - [DreamGraph MCP](https://github.com/mmethodz/dreamgraph) - Autonomous cognitive layer with MCP integration ⭐ NEW HN (Apr 2026)
+- [SQLite Memory](https://github.com/sqliteai/sqlite-memory) - Markdown-based AI agent memory with semantic search and offline-first sync (25⭐) ⭐ NEW
 
 ### Orchestration & Management
 
@@ -771,6 +773,7 @@ Tools that work with or extend OpenClaw:
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation ⭐ NEW
 - [Midscene.js](https://github.com/web-infra-dev/midscene) - Vision-based UI automation for web, iOS, Android with natural language control ⭐ NEW
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack from ByteDance connecting AI models and agent infrastructure ⭐ NEW
+- [Understudy](https://github.com/understudy-ai/understudy) - Local-first desktop agent that learns tasks from GUI demonstrations, then performs them autonomously (411⭐, MIT) ⭐ NEW
 
 ### AI Companions & Agents
 
