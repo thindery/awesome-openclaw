@@ -263,6 +263,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Data & Research
 
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts (49.3k⭐) ⭐ NEW
+- [Zimi](https://github.com/epheterson/zimi) - Offline ZIM archive access for AI agents and humans - UI, API, and more (Apr 2026) ⭐ NEW
 - [my-training-data](https://github.com/ShanksChen/my-training-data) - Automated training data pipeline from Intervals.icu for AI coaching analysis with ACWR, monotony, and phase detection metrics (⭐ 4.2k) ⭐ NEW
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API and agentic skill with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw ⭐ NEW
 - [ai-diff-summary](https://clawhub.com/skills/ai-diff-summary) - Summarize git diffs in plain English
@@ -298,6 +299,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Infrastructure
 
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet - search Twitter, Reddit, YouTube, GitHub, no API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
+- [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
+- [DashClaw](https://github.com/ucsandman/DashClaw) - Self-hosted Mission Control for AI Agents with Node + Python SDKs, Behavior Guardrails, Cost Tracking (Apr 2026) ⭐ NEW
 - [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized agents, real-time dashboard, audit trails (⭐ 8.9k, Apr 2026) ⭐ NEW
 - [botmaker](https://github.com/truongan5/botmaker) - Manage AI chatbots with OpenClaw - web UI for creating and configuring containerized agents (⭐ NEW Apr 2026)
 - [hackthejob](https://github.com/mo7amadhassan/hackthejob) - Automate your job search with OpenClaw-driven agents (⭐ NEW Apr 2026)
@@ -458,6 +461,7 @@ Professional-grade skills for specific job roles:
 
 - [gog](https://github.com/openclaw/openclaw/tree/main/skills/gog) - GOG.com game library management
 - [food-order](https://github.com/openclaw/openclaw/tree/main/skills/food-order) - Food ordering integration (experimental)
+- [OctoAlly](https://github.com/octoally/octoally) - Local-first terminal dashboard for AI coding agents with local Whisper voice control and multi-agent orchestration (Apr 2026) ⭐ NEW
 
 ### Community Skills (ClawHub Registry)
 
