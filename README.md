@@ -50,7 +50,7 @@
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Long-horizon SuperAgent harness that researches, codes, and creates. Sub-agents, sandboxes, memory, message gateway (⭐ 59.5k, Apr 2026) ⭐ NEW
 - [Page Agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language, no extension needed. Optional MCP server (⭐ 16.3k, Apr 2026) ⭐ NEW
 - [skrun](https://github.com/skrun-dev/skrun) - Deploy any Agent Skill as an API via POST /run. Multi-model, stateful, open source (⭐ HN Show, Apr 2026) ⭐ NEW
-- [tui-use](https://github.com/onesuper/tui-use) - Let AI agents control interactive terminal programs — REPLs, debuggers, TUI apps, anything bash can't reach (⭐ HN Show, Apr 2026) ⭐ NEW
+- [tui-use](https://github.com/onesuper/tui-use) - Let AI agents control interactive terminal programs - REPLs, debuggers, TUI apps, anything bash can't reach (⭐ HN Show, Apr 2026) ⭐ NEW
 - [AgentDM](https://agentdm.ai) - Agent to agent messaging over MCP and A2A. Connect Claude to Claude, Claude to OpenAI, any MCP-compatible agent (⭐ HN Show, Apr 2026) ⭐ NEW
 
 ---
@@ -67,7 +67,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet - search Twitter, Reddit, YouTube, GitHub, no API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
 - [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized agents, real-time dashboard, audit trails (⭐ 8.9k, Apr 2026) ⭐ NEW
 - [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - automatic rate limit recovery across 9 AI providers (⭐ NEW Apr 2026) ⭐ NEW
-- [mikuBot](https://github.com/NeuralArchLabs/mikuBot) - Windows-native AI assistant optimized for OpenClaw integration — minimal setup, maximum performance ⭐ NEW (Apr 2026)
+- [mikuBot](https://github.com/NeuralArchLabs/mikuBot) - Windows-native AI assistant optimized for OpenClaw integration - minimal setup, maximum performance ⭐ NEW (Apr 2026)
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw. Structured project planning using markdown files with persistent context across sessions (⭐ 16.9k) ⭐ NEW
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw (⭐ 15.6k) ⭐ NEW
 - [FreeRide](https://github.com/Shaivpidadi/FreeRide) - Unlimited free AI by automatically managing OpenRouter's free models in OpenClaw ⭐ NEW
@@ -82,7 +82,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [daily-briefing](https://clawhub.com/skills/daily-briefing) - Warm daily briefing with weather, calendar, reminders
 - [focus-deep-work](https://clawhub.com/skills/focus-deep-work) - Deep work and productivity enhancement
 - [healthcheck](https://github.com/openclaw/openclaw/tree/main/skills/healthcheck) - Track water intake and sleep
-- [Meeting Agent](https://github.com/Smokefarmer/meeting-agent) - AI Meeting Assistant — transcribes, extracts action items, auto-creates GitHub issues and calendar events (Hack_001) (Mar 27) ⭐ NEW
+- [Meeting Agent](https://github.com/Smokefarmer/meeting-agent) - AI Meeting Assistant - transcribes, extracts action items, auto-creates GitHub issues and calendar events (Hack_001) (Mar 27) ⭐ NEW
 - [jasper-recall](https://clawhub.com/skills/jasper-recall) - Memory and recall system
 - [microsoft-todo](https://clawhub.com/skills/microsoft-todo) - Manage Microsoft To Do tasks via the `todo` CLI
 - [notion](https://github.com/openclaw/openclaw/tree/main/skills/notion) - Notion workspace integration for pages and databases
@@ -105,15 +105,18 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 - [SkillCompass](https://github.com/Evol-ai/SkillCompass) - Diagnose and Improve Claude Code/OpenClaw Skills Across 6 Dimensions - evaluation-driven skill evolution engine (⭐ HN Show Apr 2026) ⭐ NEW
 - [Open-agent-SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Claude Code's internals extracted and open-sourced - drop-in replacement for claude-agent-sdk (⭐ HN Show Apr 2026) ⭐ NEW
+- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals - 12 lessons covering MCP architecture, server/client development, and real-world applications (⭐ 15.5k) ⭐ NEW
+- [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents (⭐ 9.5k) ⭐ NEW
+- [BrowserMCP](https://github.com/browsermcp/mcp) - Browser MCP server that allows AI applications to control your browser via native Chrome extension (⭐ 6.2k, Apr 2026) ⭐ NEW
+- [OpenChrome](https://github.com/shaun0927/openchrome) - Open-source browser automation MCP server - control your real Chrome from any AI agent (⭐ 173, Apr 2026) ⭐ NEW
 - [oss-security-audit](https://github.com/backnotprop/oss-security-audit) - Agent skill that audits open-source repository supply chain security based on Astral's framework (⭐ HN Show Apr 2026) ⭐ NEW
 - [guardians](https://github.com/metareflection/guardians) - Static verification for AI agent workflows - prevents prompt injection like SQL injection (⭐ HN Show Apr 2026) ⭐ NEW
-- [Open-agent-SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Claude Code's internals extracted and open-sourced - drop-in replacement for claude-agent-sdk (⭐ HN Show Apr 2026) ⭐ NEW
 - [CowAgent](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with thinking, planning, and skill capabilities. Supports OpenClaw MCP and multi-platform (WeChat, Feishu, DingTalk, WeCom, QQ) (42.5k⭐) ⭐ NEW
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
-- [tui-use](https://github.com/onesuper/tui-use) - Let AI agents control interactive terminal programs — REPLs, debuggers, TUI apps (⭐ HN Show Apr 2026) ⭐ NEW
+- [tui-use](https://github.com/onesuper/tui-use) - Let AI agents control interactive terminal programs - REPLs, debuggers, TUI apps (⭐ HN Show Apr 2026) ⭐ NEW
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
-- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation (33.1k⭐) ⭐ NEW  
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation (33.1k⭐) ⭐ NEW
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents via MCP (28.2k⭐) ⭐ NEW
 - [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server (28.1k⭐) ⭐ NEW
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor (25.8k⭐) ⭐ NEW
@@ -126,25 +129,25 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Peekaboo](https://github.com/steipete/Peekaboo) - macOS CLI and MCP server for AI agents to capture screenshots with visual Q&A (2891⭐) ⭐ NEW
 - [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server for Figma layout info to AI coding agents (13,816⭐) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude & MCP Servers (9466⭐) ⭐ NEW
-- [context-pilot](https://github.com/diegoalvarezf/context-pilot) - Intelligent context middleware for AI coding agents — MCP-compatible, 100% local ⭐ NEW (Apr 2026)
+- [context-pilot](https://github.com/diegoalvarezf/context-pilot) - Intelligent context middleware for AI coding agents - MCP-compatible, 100% local ⭐ NEW (Apr 2026)
 - [moonx010/hive-memory](https://github.com/moonx010/hive-memory) - Cross-project memory for AI coding agents. MCP server that maintains context across workspaces. Fully local ⭐ NEW (Apr 2026)
 - [9router](https://github.com/decolua/9router) - Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models (1345⭐) ⭐ NEW
 - [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐) ⭐ NEW
 - [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation (5⭐) ⭐ NEW
-- [stint](https://github.com/frankmatheron/stint) - Local-first MCP server for freelance time tracking — AI-driven productivity insights ⭐ NEW (Apr 2026)
-- [DeltaScope](https://github.com/Fanduzi/DeltaScope) - Offline-first SQL audit engine for MySQL/TiDB with MCP server — CLI, HTTP API, CI pipeline integration ⭐ NEW (Apr 2026)
-- [ferridriver](https://github.com/salamaashoush/ferridriver) - High-performance browser automation in Rust with MCP server — Playwright-compatible API, WebKit + CDP backends ⭐ NEW (Apr 2026)
+- [stint](https://github.com/frankmatheron/stint) - Local-first MCP server for freelance time tracking - AI-driven productivity insights ⭐ NEW (Apr 2026)
+- [DeltaScope](https://github.com/Fanduzi/DeltaScope) - Offline-first SQL audit engine for MySQL/TiDB with MCP server - CLI, HTTP API, CI pipeline integration ⭐ NEW (Apr 2026)
+- [ferridriver](https://github.com/salamaashoush/ferridriver) - High-performance browser automation in Rust with MCP server - Playwright-compatible API, WebKit + CDP backends ⭐ NEW (Apr 2026)
 - [goal-md](https://github.com/jmilinovich/goal-md) - Goal-specification file for autonomous coding agents (24⭐ HN) ⭐ NEW
 - [stata-skill](https://github.com/dylantmoore/stata-skill) - Claude Code skill for writing correct, idiomatic Stata code (26⭐) ⭐ NEW
 - [oracle-skills-cli](https://github.com/Soul-Brews-Studio/oracle-skills-cli) - Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ agents (27⭐) ⭐ NEW
 - [skillsctl](https://github.com/nebari-dev/skillsctl) - CLI and registry server for discovering, installing, and publishing Claude Code skills (6⭐) ⭐ NEW
 - [faire](https://github.com/jack-michaud/faire) - Eval driven Claude Code skills for quality skill development (5⭐) ⭐ NEW
 - [plugin-packager](https://github.com/hummer98/plugin-packager) - Convert Claude Code skill repositories into dual-distributable packages (3⭐) ⭐ NEW
-- [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
+- [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes - companion to AI Evals course (424⭐) ⭐ NEW
 - [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
-- [jambonz-mcp-server](https://github.com/jambonz/mcp-server) - Jambonz MCP server for voice AI agents — telephony integration with sub-200ms latency ⭐ NEW (Apr 2026)
+- [jambonz-mcp-server](https://github.com/jambonz/mcp-server) - Jambonz MCP server for voice AI agents - telephony integration with sub-200ms latency ⭐ NEW (Apr 2026)
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
-- [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools — Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW (Apr 2026)
+- [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools - Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW (Apr 2026)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
 - [agent-council](https://clawhub.com/skills/agent-council) - Toolkit for creating autonomous AI agent councils
 - [ai-auth-check](https://clawhub.com/skills/ai-auth-check) - Audit authentication flows for security vulnerabilities
@@ -161,9 +164,12 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) - Automate web browser interactions using natural language
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) - Gemini CLI integration for AI summaries and generation
 - [openclaw-ollama-proxy](https://github.com/jose-mattew/openclaw-ollama-proxy) - Fix slow Qwen3 thinking mode in OpenClaw + Ollama. Flask proxy that auto-injects think:false for instant responses ⭐ NEW
-- [openclaw-model-bridge](https://github.com/bisdom-cell/openclaw-model-bridge) - Connect any LLM to OpenClaw — production-tested middleware for Qwen3-235B and beyond (⭐ 8) ⭐ NEW
+- [openclaw-model-bridge](https://github.com/bisdom-cell/openclaw-model-bridge) - Connect any LLM to OpenClaw - production-tested middleware for Qwen3-235B and beyond (⭐ 8) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals - 12 lessons covering MCP architecture, server/client development, and real-world applications (⭐ 15.5k) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents (⭐ 9.5k) ⭐ NEW
+- [BrowserMCP](https://github.com/browsermcp/mcp) - Browser MCP server that allows AI applications to control your browser via native Chrome extension (⭐ 6.2k, Apr 2026) ⭐ NEW
+- [OpenChrome](https://github.com/shaun0927/openchrome) - Open-source browser automation MCP server - control your real Chrome from any AI agent (⭐ 173, Apr 2026) ⭐ NEW
+- [Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp) - Connect AI agents to the web through managed browser infrastructure (⭐ HN Show) ⭐ NEW
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) - GitHub CLI integration (issues, PRs, actions)
 - [git-workflows](https://github.com/openclaw/openclaw/tree/main/skills/git-workflows) - Advanced git operations (rebase, bisect, worktrees)
 - [markdpwn-formatter](https://clawhub.com/skills/markdown-formatter) - Format and beautify markdown documents
@@ -308,27 +314,27 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Adverant-Nexus-Plugin](https://github.com/Antobtez/Adverant-Nexus-Plugin-OpenClaw) - 100+ pre-built skills with OpenClaw plugin integration (⭐ NEW Apr 2026)
 - [koi-dashboard-v2](https://github.com/koiopenclaw-max/koi-dashboard-v2) - OpenClaw Status Monitor dashboard for agent monitoring (⭐ NEW Apr 2026)
 - [openclaw-cloudflare](https://github.com/kidsadapotay/openclaw-cloudflare) - AI code reviews on Cloudflare Workers for serverless agent workflows (⭐ NEW Apr 2026)
-- [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (22,889⭐) ⭐ NEW
+- [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere - automate the mundane, unleash your creativity (22,889⭐) ⭐ NEW
 - [tickflow-assist](https://github.com/robinspt/tickflow-assist) - A-share stock monitoring skill for OpenClaw with real-time tracking, post-market analysis, and price alerts via TickFlow API ⭐ NEW (Apr 2026)
-- [ai-court-skill](https://github.com/wanikua/ai-court-skill) - Discord AI multi-agent team with Chinese "Six Ministries" role structure — Oracle Cloud deployment ⭐ NEW (Apr 2026)
+- [ai-court-skill](https://github.com/wanikua/ai-court-skill) - Discord AI multi-agent team with Chinese "Six Ministries" role structure - Oracle Cloud deployment ⭐ NEW (Apr 2026)
 - [clawdbot-skill-hevy](https://github.com/berryk/clawdbot-skill-hevy) - Hevy workout tracking with AI-powered fitness insights and trend analysis ⭐ NEW (Apr 2026)
 - [clawdbot-skill-garmin](https://github.com/berryk/clawdbot-skill-garmin) - Garmin fitness tracking with automated data collection and AI coaching metrics ⭐ NEW (Apr 2026)
-- [clawdbot-tonal](https://github.com/dlwiest/clawdbot-tonal) - Tonal fitness integration — muscle readiness scores, workout history, strength tracking ⭐ NEW (Apr 2026)
-- [dwlf-skill](https://github.com/andywilliams/dwlf-skill) - DWLF market analysis platform skill — conversational access to indicators, signals, and strategies ⭐ NEW (Apr 2026)
-- [tribe-v2-skill](https://github.com/MersivMedia/tribe-v2-skill) - TRIBE v2 brain response prediction skill for Clawdbot — Meta neuroscience AI model integration ⭐ NEW (Apr 2026)
+- [clawdbot-tonal](https://github.com/dlwiest/clawdbot-tonal) - Tonal fitness integration - muscle readiness scores, workout history, strength tracking ⭐ NEW (Apr 2026)
+- [dwlf-skill](https://github.com/andywilliams/dwlf-skill) - DWLF market analysis platform skill - conversational access to indicators, signals, and strategies ⭐ NEW (Apr 2026)
+- [tribe-v2-skill](https://github.com/MersivMedia/tribe-v2-skill) - TRIBE v2 brain response prediction skill for Clawdbot - Meta neuroscience AI model integration ⭐ NEW (Apr 2026)
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs (19,929⭐) ⭐ NEW
 - [google-workspace-cli](https://github.com/googleworkspace/cli) - One CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat with AI agent skills (15,952⭐) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway (1,748⭐) ⭐ NEW
 - [spacebot](https://github.com/spacedriveapp/spacebot) - AI agent for teams, communities, and multi-user environments (1,621⭐) ⭐ NEW
 - [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for multi-agent collaboration (1,233⭐) ⭐ NEW
-- [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, fast OpenClaw deployment — automate the mundane, deploy anywhere. Minimal resource requirements for edge devices (⭐ 22.9k) ⭐ NEW
+- [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, fast OpenClaw deployment - automate the mundane, deploy anywhere. Minimal resource requirements for edge devices (⭐ 22.9k) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway with multi-agent support (⭐ 1,748) ⭐ NEW
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server for secure execution (⭐ 3,115) ⭐ NEW
 - [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform (178⭐)
 - [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua University's fully autonomous AI agent execution framework for OpenClaw. Enables 24/7 operation with harness engineering (⭐ 48, Apr 2026) ⭐ NEW
 - [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents (6240⭐) ⭐ NEW
-- [superset](https://github.com/superset-sh/superset) - IDE for AI Agents Era - Run army of Claude Code, Codex locally (5452⭐) ⭐ NEW  
+- [superset](https://github.com/superset-sh/superset) - IDE for AI Agents Era - Run army of Claude Code, Codex locally (5452⭐) ⭐ NEW
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for terminal with hash-anchored edits (1726⭐) ⭐ NEW
 - [emdash](https://github.com/generalaction/emdash) - Agentic Development Environment (YC W26) - Run agents in parallel (2409⭐) ⭐ NEW
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server (3115⭐) ⭐ NEW
@@ -351,7 +357,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-security-monitor](https://clawhub.com/skills/openclaw-security-monitor) - Real-time security monitoring
 - [openclaw-server-secure-skill](https://clawhub.com/skills/openclaw-server-secure-skill) - Secure server configuration
 - [security-audit](https://github.com/openclaw/openclaw/tree/main/skills/security-audit) - Infrastructure security scanning
-- [AgentShield](https://github.com/Kanevry/openclaw-agentshield) - Real-time AI Agent Security Plugin — Prompt injection defense, tool call guardrails, live security dashboard (Mar 27) ⭐ NEW
+- [AgentShield](https://github.com/Kanevry/openclaw-agentshield) - Real-time AI Agent Security Plugin - Prompt injection defense, tool call guardrails, live security dashboard (Mar 27) ⭐ NEW
 - [skill-guard](https://clawhub.com/skills/skill-guard) - Skill security vetting and validation
 - [ssh-exec](https://clawhub.com/skills/ssh-exec) - Run commands on remote Tailscale nodes
 - [ssh-tunnel](https://clawhub.com/skills/ssh-tunnel) - SSH tunneling and port forwarding
@@ -618,7 +624,7 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
-- [agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration — watch agents think, branch, and coordinate with interactive node graphs ⭐ NEW
+- [agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration - watch agents think, branch, and coordinate with interactive node graphs ⭐ NEW
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [Wazear](https://wazear.space) - Visual AI orchestrator where agents review each other's work - create pipelines with planner, architect roles (⭐ HN Show Apr 2026) ⭐ NEW
 - [Trytet](https://trytet.com) - Deterministic WASM substrate for stateful AI agents - snapshot, hibernate, branch agent execution (⭐ HN Show Apr 2026) ⭐ NEW
@@ -626,9 +632,9 @@ Tools that work with or extend OpenClaw:
 - [Hybro](https://hybro.ai) - Unify local and remote AI agents in a single agent network - OpenClaw runs locally, connects to remote agents (⭐ HN Show Apr 2026) ⭐ NEW
 - [Castra](https://github.com/amangsingh/castra) - Strip orchestration rights from LLMs - 7-role RBAC, dual-gate approval, cryptographic audit chain (⭐ HN Show Apr 2026) ⭐ NEW
 - [OpenHarness](https://github.com/zhijiewong/openharness) - Open-source terminal coding agent for any LLM - Ollama, OpenAI, Anthropic, Deepseek, Qwen (⭐ HN Show Apr 2026) ⭐ NEW
-- [anamnesis](https://github.com/gayawellness/anamnesis) - 4D Strategic Memory Engine for Autonomous AI Agents — store wisdom, not just facts. Python with MCP integration (15⭐) ⭐ NEW
-- [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
-- [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
+- [anamnesis](https://github.com/gayawellness/anamnesis) - 4D Strategic Memory Engine for Autonomous AI Agents - store wisdom, not just facts. Python with MCP integration (15⭐) ⭐ NEW
+- [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit - one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
+- [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder - beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
 - [Memphis](https://github.com/Memphis-Chains/memphis) - OpenClaw Memory Layer - production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
 - [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
 - [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
@@ -653,7 +659,7 @@ Tools that work with or extend OpenClaw:
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file search, diff editing (5.6k⭐) ⭐ NEW
 - [talons](https://github.com/SeboLuo/talons) - Enterprise-grade web control center for OpenClaw. Next.js 15 + React 19 + Horizon UI for orchestrating agents, plugins, knowledge bases ⭐ NEW (Mar 30)
 - [clawlink](https://github.com/XingP14/clawlink) - Multi-Agent Communication Hub - topic-based chat relay for distributed OpenClaw agents ⭐ NEW (Mar 30)
-- [codesop](https://github.com/veniai/codesop) - AI Coding SOP — unified workflow standardization for Claude Code, OpenClaw, and Codex CLI ⭐ NEW (Mar 30)
+- [codesop](https://github.com/veniai/codesop) - AI Coding SOP - unified workflow standardization for Claude Code, OpenClaw, and Codex CLI ⭐ NEW (Mar 30)
 - [OpenClawCostTrackerPro](https://github.com/ai4mcpservers/OpenClawCostTrackerPro) - Desktop dashboard tracking API costs across all providers, models, sessions. Auto-detects OpenClaw calls ⭐ NEW (Mar 30)
 - [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐) ⭐ NEW
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access (81⭐) ⭐ NEW
@@ -670,7 +676,7 @@ Tools that work with or extend OpenClaw:
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - Convert almost anything to Markdown via MCP (2,436⭐) ⭐ NEW
 - [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
-- [pglens](https://github.com/janbjorge/pglens) - 27 read-only PostgreSQL tools for AI agents via MCP — schema inspection, data exploration, query execution, health monitoring (10⭐ HN) ⭐ NEW
+- [pglens](https://github.com/janbjorge/pglens) - 27 read-only PostgreSQL tools for AI agents via MCP - schema inspection, data exploration, query execution, health monitoring (10⭐ HN) ⭐ NEW
 - [sqltools_mcp](https://github.com/Tony-Enninful/sqltools_mcp) - SQLTools MCP for multi-database support without multiple servers - MySQL, PostgreSQL, SQL Server, DM8, SQLite ⭐ NEW
 - [smart-coding-mcp](https://github.com/Moxnyyy/smart-coding-mcp) - Smart Coding MCP with intelligent embeddings for code search (AI-driven) ⭐ NEW
 - [argus-mcp](https://github.com/dykeruv/argus-mcp) - AI-driven code review MCP server using Zero-Trust model ⭐ NEW
@@ -683,7 +689,7 @@ Tools that work with or extend OpenClaw:
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous (405⭐) ⭐ NEW
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw - configuration, model, and skills management (2⭐) ⭐ NEW
 - [daneel](https://github.com/fcarucci/daneel) - OpenClaw Live Dashboard and Mission Control (3⭐) ⭐ NEW
-- [hiveforge](https://github.com/JustCod101/hiveforge) - Dynamic Agent Swarm Engine based on OpenClaw — "Markdown as Agent" multi-agent system (3⭐) ⭐ NEW
+- [hiveforge](https://github.com/JustCod101/hiveforge) - Dynamic Agent Swarm Engine based on OpenClaw - "Markdown as Agent" multi-agent system (3⭐) ⭐ NEW
 - [Assemble](https://github.com/assemble/assemble) - Claude Code for parallel AI team execution - multi-agent task runner ⭐ NEW
 - [Modulus](https://github.com/modulus/modulus) - Cross-repository knowledge orchestration for coding agents ⭐ NEW
 - [Railyard](https://github.com/railyard/railyard) - Open and secure runtime for Claude Code with sandboxed execution ⭐ NEW
@@ -699,7 +705,7 @@ Tools that work with or extend OpenClaw:
 - [jat](https://github.com/joewinke/jat) - World's first Agentic IDE with visual dashboard, parallel workflows, and 50+ bash tools (155⭐) ⭐ NEW
 - [arctic-cli/interface](https://github.com/arctic-cli/interface) - Multi-provider AI coding interface for Codex, Gemini, Anthropic, Copilot in terminal (82⭐) ⭐ NEW
 - [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
-- [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw — Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
+- [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw - Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command (278⭐) ⭐ NEW
 - [happyclaw](https://github.com/riba2534/happyclaw) - Community-driven happy enhancements for OpenClaw (192⭐) ⭐ NEW
 - [OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents (163⭐) ⭐ NEW
@@ -708,9 +714,9 @@ Tools that work with or extend OpenClaw:
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Super agent harness by ByteDance that researches, codes, and creates using sandboxes, memories, tools, skills and subagents ⭐ NEW
 - [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
-- [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
+- [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw - configuration, model, and skills management ⭐ NEW
 - [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) - AugmentedMike AI OS layer built on the OpenClaw ecosystem ⭐ NEW
-- [miniclaw](https://github.com/Wscats/miniclaw) - 极简 ReAct Agent 引擎，零依赖、单文件、纯 JavaScript 教学导向 (3⭐) ⭐ NEW
+- [miniclaw](https://github.com/Wscats/miniclaw) - 极简 ReAct Agent 引擎,零依赖、单文件、纯 JavaScript 教学导向 (3⭐) ⭐ NEW
 - [CloudUI](https://github.com/siteboon/claudecodeui) - Web and mobile GUI for Claude Code, Cursor CLI, and Codex with session management and plugin system ⭐ NEW
 - [Pi Mono](https://github.com/badlogic/pi-mono) - AI agent toolkit with coding agent CLI, unified LLM API, TUI/Web UI libraries, Slack bot, and vLLM pods ⭐ NEW
 
@@ -727,7 +733,7 @@ Tools that work with or extend OpenClaw:
 - [memory-lancedb-mcp](https://github.com/cablate/memory-lancedb-mcp) - MCP server for LanceDB-backed long-term memory with hybrid retrieval (Vector + BM25), cross-encoder rerank, and multi-scope isolation ⭐ NEW
 - [memphis](https://github.com/Memphis-Chains/memphis) - Production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
 - [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
-- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
+- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents - FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with auto-backups and web dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system plugin for OpenClaw ⭐ NEW
@@ -743,7 +749,7 @@ Tools that work with or extend OpenClaw:
 - [Activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation with 400+ MCP servers (~21k⭐) ⭐ NEW
 - [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server for Claude to build n8n workflows with 1,084 node documentation ⭐ NEW
 - [Skyll](https://github.com/assafelovic/skyll) - AI agents that discover and learn skills autonomously (214⭐) ⭐ NEW
-- [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw — Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
+- [ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) - Visual management panel for OpenClaw - Go-based dashboard with 20+ channels (148⭐) ⭐ NEW
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command (278⭐) ⭐ NEW
 - [happyclaw](https://github.com/riba2534/happyclaw) - Community-driven happy enhancements for OpenClaw (192⭐) ⭐ NEW
 - [OwnPilot](https://github.com/ownpilot/OwnPilot) - Privacy-first personal AI assistant platform with autonomous agents (163⭐) ⭐ NEW
@@ -753,15 +759,15 @@ Tools that work with or extend OpenClaw:
 - [Ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, and RAG integration ⭐ NEW
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
 - [OpenSandbox](https://github.com/alibaba/OpenSandbox) - General-purpose sandbox platform for AI applications from Alibaba with Docker/Kubernetes runtimes for coding agents, GUI agents ⭐ NEW
-- [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
+- [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw - configuration, model, and skills management ⭐ NEW
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
 - [serena](https://github.com/oraios/serena) - Powerful coding agent toolkit with semantic retrieval and MCP server ⭐ 20k+
 - [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration and memory (22,250⭐) ⭐ NEW
-- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees (8,917⭐) ⭐ NEW
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees (8,917⭐) ⭐ NEW
 - [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized AI agents, real-time dashboard, and full audit trails (8,936⭐) ⭐ NEW
-- [mission-control](https://github.com/builderz-labs/mission-control) - Open-source dashboard for AI agent orchestration — manage fleets, track tasks, monitor costs (2,430⭐) ⭐ NEW
-- [Optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents in K8s — from ticket to merged PR with autonomous feedback loops (236⭐ HN Show) ⭐ NEW
+- [mission-control](https://github.com/builderz-labs/mission-control) - Open-source dashboard for AI agent orchestration - manage fleets, track tasks, monitor costs (2,430⭐) ⭐ NEW
+- [Optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents in K8s - from ticket to merged PR with autonomous feedback loops (236⭐ HN Show) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard via OpenClaw Gateway (2,175⭐) ⭐ NEW
 - [Optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents. Auto-resumes on CI failures, polls PRs, and merges when ready. Kubernetes-native (236⭐) ⭐ NEW
 - [openclaw-codex-app-server](https://github.com/pwrdrvr/openclaw-codex-app-server) - OpenClaw plugin that brings Codex to Telegram and Discord via the Codex App Server protocol (159⭐) ⭐ NEW
@@ -800,19 +806,19 @@ Tools that work with or extend OpenClaw:
 - [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface supporting Ollama, OpenAI API, and MCP for self-hosted LLMs (128.6k⭐) ⭐ NEW
 - [Dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development with MCP support (134.4k⭐) ⭐ NEW
 - [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and MCP support (181k⭐) ⭐ NEW
-- [Athena-Public](https://github.com/winstonkoh87/Athena-Public) - The Linux OS for AI agents — persistent memory, autonomy, and time-awareness (418⭐) ⭐ NEW
+- [Athena-Public](https://github.com/winstonkoh87/Athena-Public) - The Linux OS for AI agents - persistent memory, autonomy, and time-awareness (418⭐) ⭐ NEW
 - [n8n-claw](https://github.com/freddy-schuetz/n8n-claw) - Self-hosted AI agent on n8n + Supabase + Claude with Telegram interface (116⭐) ⭐ NEW
 - [maxclaw](https://github.com/Lichas/maxclaw) - OpenClaw-style local-first AI agent in Go - low-memory, private, UI-ready (95⭐) ⭐ NEW
 - [OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) - Home Assistant Add-on for OpenClaw (174⭐) ⭐ NEW
 - [SentinelGate](https://github.com/Sentinel-Gate/Sentinelgate) - MCP proxy with access control for AI agents. CEL policies, RBAC, and full audit trail ⭐ NEW
 - [DinoScan](https://github.com/RekitRex21/Dino_Scan) - Air-gapped security scanner for OpenClaw skills ⭐ NEW
-- [caelguard-community](https://github.com/Justincredible-tech/caelguard-community) - Free agent security tools — ShellGuard Scanner + Token Audit ⭐ NEW
+- [caelguard-community](https://github.com/Justincredible-tech/caelguard-community) - Free agent security tools - ShellGuard Scanner + Token Audit ⭐ NEW
 - [ClawBridge](https://github.com/dreamwing/clawbridge) - Mobile dashboard for monitoring agents, token costs, tasks ⭐ NEW
-- [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP — aggregate all MCP servers behind 2 tools ⭐ NEW
+- [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP - aggregate all MCP servers behind 2 tools ⭐ NEW
 - [llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware ⭐ NEW
 - [Saga](https://github.com/showhn/Saga) - Jira-like project tracker MCP server for AI agents ⭐ NEW
 - [Antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command ⭐ NEW
-- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust — deploy anywhere 🦀 ⭐ NEW
+- [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, fully autonomous AI assistant in Rust - deploy anywhere 🦀 ⭐ NEW
 - [ZeroClaw-Android](https://github.com/Natfii/ZeroClaw-Android) - Run AI agents 24/7 on Android with 25+ LLM providers, encrypted storage ⭐ NEW
 - [HiClaw](https://github.com/higress-group/hiclaw) - Open-source Agent Teams system with IM-based multi-Agent collaboration (296⭐) ⭐ NEW
 - [Jido](https://github.com/nistep/jido) - Elixir Agent Framework with actor-model concurrency and distributed agent orchestration ⭐ NEW
@@ -831,7 +837,7 @@ Tools that work with or extend OpenClaw:
 - [clawdbot-hub](https://github.com/joshlevylabs/clawdbot-hub) - Command center dashboard for Clawdbot ⭐ NEW
 - [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for OpenClaw Gateway ⭐ NEW
 - [openclaw-molt-mcp](https://github.com/sandraschi/openclaw-molt-mcp) - MCP bridge connecting Cursor/Antigrav/Claude with OpenClaw and Moltbook ecosystems (3⭐) ⭐ NEW
-- [figma-use](https://github.com/dannote/figma-use) - Control Figma from CLI — full read/write access for AI agents
+- [figma-use](https://github.com/dannote/figma-use) - Control Figma from CLI - full read/write access for AI agents
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST, hierarchical feature graph (1,389⭐) ⭐ NEW
 - [openclaw-configurator](https://github.com/packyme/openclaw-configurator) - Configuration management tool for OpenClaw
 - [openclaw-docker](https://github.com/alltomatos/openclaw-docker) - Docker containerization for OpenClaw
@@ -878,7 +884,7 @@ Tools that work with or extend OpenClaw:
 - [lekt9/openclaw-foundry](https://github.com/lekt9/openclaw-foundry) - Self-writing meta-extension for OpenClaw
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for task management and multi-agent collaboration
 - [runkids/skillshare](https://github.com/runkids/skillshare) - Sync skills across AI CLI tools (Claude Code, OpenClaw, OpenCode)
-- [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP — aggregate all MCP servers behind just 2 tools (search + execute) ⭐ NEW
+- [cmcp](https://github.com/assimelha/cmcp) - Code Mode MCP - aggregate all MCP servers behind just 2 tools (search + execute) ⭐ NEW
 - [openclaw-secure-kit](https://github.com/NinoSkopac/openclaw-secure-kit) - Secure-by-default OpenClaw on Ubuntu with verifiable security reports ⭐ NEW
 - [openclaw-browser-relay-resilient](https://github.com/Unayung/openclaw-browser-relay) - Resilient Browser Relay fork with auto-reconnect and MV3 state persistence
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official MCP server for browser automation via Playwright
@@ -917,8 +923,8 @@ Tools that work with or extend OpenClaw:
 - [fleetcentric](https://github.com/fleetcentric/fleetcentric) - OpenClaw Config Generator for Fleets
 - [hard-shell](https://github.com/gettweek/hard-shell) - Hardened OpenClaw + Tweek Docker distribution with defense-in-depth security
 - [openclaw-credential-manager](https://github.com/teeclaw/openclaw-credential-manager) - Secure credential management for OpenClaw
-- [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) — Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
-- [AionUi](https://github.com/iOfficeAI/AionUi) — Free, local, open-source 24/7 cowork for OpenClaw, Gemini CLI, Claude Code, Codex, OpenCode, and more ⭐ 12.4k
+- [openclaw-railway-custom](https://github.com/benjee-inc/openclaw-railway-custom) - Railway template with extra skills (bird, clawhub, mcporter, gog, gh, himalaya, summarize, yt-dlp)
+- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 cowork for OpenClaw, Gemini CLI, Claude Code, Codex, OpenCode, and more ⭐ 12.4k
 - [MarketBot](https://github.com/EthanAlgoX/MarketBot) - Finance-customized OpenClaw with desktop Electron app and market intelligence ⭐ NEW
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents ⭐ 489
 - [poco-agent](https://github.com/poco-ai/poco-agent) - Manus-style autonomous agent powered by cloud-based Claude Code ⭐ 689
@@ -930,9 +936,9 @@ Tools that work with or extend OpenClaw:
 - [ztm-plugin](https://github.com/flomesh-io/openclaw-channel-plugin-ztm) - ZTM (Zero Trust Mesh) Chat integration for decentralized P2P messaging ⭐ NEW
 - [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) - Practical OpenClaw issue/fix playbook from real incidents ⭐ NEW
 - [multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code with tmux orchestration ⭐ NEW
-- [openclaw-langfuse](https://github.com/MCKRUZ/openclaw-langfuse) - Langfuse LLM observability plugin — traces every agent turn with sessions, token usage, latency, cost
+- [openclaw-langfuse](https://github.com/MCKRUZ/openclaw-langfuse) - Langfuse LLM observability plugin - traces every agent turn with sessions, token usage, latency, cost
 - [skillpm](https://github.com/eddieran/skillpm) - Local-first skill package manager with rollback-safe install/sync
-- [xint](https://github.com/0xNyk/xint) - X Intelligence CLI — search, monitor, analyze, engage on X/Twitter
+- [xint](https://github.com/0xNyk/xint) - X Intelligence CLI - search, monitor, analyze, engage on X/Twitter
 - [AgentPassVault](https://github.com/joshua5201/AgentPassVault) - Zero-knowledge secret manager for autonomous AI agents
 - [serena](https://github.com/oraios/serena) - Powerful coding agent toolkit with semantic retrieval and MCP server ⭐ 20k+
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents (Browser, Shell, File, MCP, VSCode) ⭐ 2.5k
@@ -957,7 +963,7 @@ Tools that work with or extend OpenClaw:
 - [openclaw-mesh](https://github.com/justfeltlikerunning/openclaw-mesh) - MESH: Message Envelope for Structured Handoffs. Inter-agent communication protocol for OpenClaw fleets ⭐ NEW
 - [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform with managed hosting (178⭐) ⭐ NEW
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - MCP security scanner with prompt injection firewall, package hallucination detection (61⭐)
-- [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools — Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW
+- [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools - Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW
 - [Superagent](https://github.com/superagent-ai/superagent) - AI security against prompt injection and data leaks (6448⭐) ⭐ NEW
 - [prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) - Comprehensive collection of prompt injection defenses (646⭐) ⭐ NEW
 - [zeroleaks](https://github.com/ZeroLeaks-LLM/zeroleaks) - AI Security Scanner for prompt injection vulnerabilities (510⭐) ⭐ NEW
@@ -966,9 +972,9 @@ Tools that work with or extend OpenClaw:
 - [Skills-Hub](https://github.com/smouj/Skills-Hub) - OpenClaw agent skills hub for AI automation and multi-agent orchestration ⭐ NEW
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized OpenClaw alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
 - [TaxClaw](https://github.com/DougButdorf/TaxClaw) - Local-first tax document extraction for W-2, 1099s, K-1 forms with SQLite storage ⭐ NEW
-- [ClawBox](https://github.com/HoneyClans/ClawBox) - Zero-code OpenClaw with beautiful Web UI — no CLI, no Docker ⭐ NEW
+- [ClawBox](https://github.com/HoneyClans/ClawBox) - Zero-code OpenClaw with beautiful Web UI - no CLI, no Docker ⭐ NEW
 - [clawhuddle](https://github.com/allen-hsu/clawhuddle) - Self-hosted OpenClaw for teams with isolated instances per member ⭐ NEW
-- [OCVoice](https://github.com/Rheace-domiscan/OCVoice) - Voice-first OpenClaw interface — native Flutter app for iOS, Android, macOS, Windows ⭐ NEW
+- [OCVoice](https://github.com/Rheace-domiscan/OCVoice) - Voice-first OpenClaw interface - native Flutter app for iOS, Android, macOS, Windows ⭐ NEW
 - [clawhealth-app](https://github.com/jeffbander/clawhealth-app) - HIPAA-compliant AI patient care coordination for cardiology with physician dashboard ⭐ NEW
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Community collection of OpenClaw use cases for making life easier ⭐ NEW
@@ -993,7 +999,7 @@ Tools that work with or extend OpenClaw:
 - [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (13111⭐) ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system ⭐ NEW
-- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
+- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents - FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
 - [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory with hybrid retrieval (vector + keyword + graph)
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for Logseq/Obsidian full knowledge graph access (81⭐) ⭐ NEW
@@ -1049,9 +1055,9 @@ Tools that work with or extend OpenClaw:
 - [Steadman-Labs/quaid](https://github.com/Steadman-Labs/quaid) - Memory and project management plugin for OpenClaw
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs, and configurations
 - [TaxClaw](https://github.com/DougButdorf/TaxClaw) - Local-first tax document extraction for W-2, 1099s, K-1 forms with SQLite storage ⭐ NEW
-- [ClawBox](https://github.com/HoneyClans/ClawBox) - Zero-code OpenClaw with beautiful Web UI — no CLI, no Docker, no JSON config ⭐ NEW
-- [clawhuddle](https://github.com/allen-hsu/clawhuddle) - Self-hosted OpenClaw for teams — isolated instances per team member with zero maintenance ⭐ NEW
-- [OCVoice](https://github.com/Rheace-domiscan/OCVoice) - Voice-first OpenClaw interface — native app for iOS, Android, macOS, Windows using Flutter ⭐ NEW
+- [ClawBox](https://github.com/HoneyClans/ClawBox) - Zero-code OpenClaw with beautiful Web UI - no CLI, no Docker, no JSON config ⭐ NEW
+- [clawhuddle](https://github.com/allen-hsu/clawhuddle) - Self-hosted OpenClaw for teams - isolated instances per team member with zero maintenance ⭐ NEW
+- [OCVoice](https://github.com/Rheace-domiscan/OCVoice) - Voice-first OpenClaw interface - native app for iOS, Android, macOS, Windows using Flutter ⭐ NEW
 - [prompthistory](https://github.com/junhoyeo/prompthistory) - CLI tool to search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex ⭐ NEW
 - [clawhealth-app](https://github.com/jeffbander/clawhealth-app) - HIPAA-compliant AI patient care coordination for cardiology with physician dashboard ⭐ NEW
 
@@ -1062,7 +1068,7 @@ Tools that work with or extend OpenClaw:
 - [Getting Started with OpenClaw](https://docs.openclaw.ai/getting-started) - Official quickstart
 - [Building Your First Skill](https://docs.openclaw.ai/skills/creating) - Create custom tools
 - [Multi-Agent Architecture](https://docs.openclaw.ai/patterns/multi-agent) - Coordinate agent teams
-- [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe Coding From 0 to 1 — comprehensive tutorial on product prototyping, AI integration, and development (3372⭐) ⭐ NEW
+- [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe Coding From 0 to 1 - comprehensive tutorial on product prototyping, AI integration, and development (3372⭐) ⭐ NEW
 - [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Build a Claude Code-like agent harness from 0 to 1 - bash-based nano agent tutorial (41.5k⭐) ⭐ NEW
 - [openclaw101](https://github.com/mengjian-github/openclaw101) - Chinese learning resource - master OpenClaw in 7 days
 - [openclawcourse](https://github.com/kiankyars/openclawcourse) - 1-hour crash course on OpenClaw
@@ -1078,8 +1084,8 @@ Standalone tools that work with or extend OpenClaw:
 - [tokscale](https://github.com/junhoyeo/tokscale) - CLI tool for tracking token usage from OpenClaw, Claude Code, Codex, Gemini, Cursor with global leaderboard (⭐ 1.4k)
 - [token-smithers](https://github.com/shacharbard/token-smithers) - MCP token efficiency butler. Compression proxy saving up to 60% on tool results, schemas, instructions. Zero-config, works with any MCP server (Apr 2026) ⭐ NEW
 - [prompthistory](https://github.com/junhoyeo/prompthistory) - Search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex (Apr 2026) ⭐ NEW
-- [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway — monitor health, manage AI agent sessions, chat with agents, administer cron, logs & approvals (⭐ 3, Apr 2026) ⭐ NEW
-- [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces — for free. Any LLM, Telegram support, auto-sync, built-in keep-alive (⭐ 5, Apr 2026) ⭐ NEW
+- [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway - monitor health, manage AI agent sessions, chat with agents, administer cron, logs & approvals (⭐ 3, Apr 2026) ⭐ NEW
+- [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces - for free. Any LLM, Telegram support, auto-sync, built-in keep-alive (⭐ 5, Apr 2026) ⭐ NEW
 
 ## Example Projects
 
@@ -1103,7 +1109,7 @@ Real projects built with OpenClaw:
 - [marian2js/opengoat](https://github.com/marian2js/opengoat) - Orchestrate agents on Codex, Claude Code, Cursor, OpenClaw, Lovable 🐐
 - [trianglegrrl/emotion-engine](https://github.com/trianglegrrl/emotion-engine) - PAD + Ekman + OCEAN emotional model plugin for agents
 - [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) - Cost-optimized personal AI with multi-provider routing 🐚
-- [OpenClaw Battle Arena](https://github.com/Infans-Digitalis-ai/openclaw-battle-arena) - Agent-vs-agent 2D fighting sim — bots control fighters via WebSocket, authoritative game host enforces rules (Pygame) (Mar 27) ⭐ NEW
+- [OpenClaw Battle Arena](https://github.com/Infans-Digitalis-ai/openclaw-battle-arena) - Agent-vs-agent 2D fighting sim - bots control fighters via WebSocket, authoritative game host enforces rules (Pygame) (Mar 27) ⭐ NEW
 - [sett-arena](https://github.com/Rainhoole/sett-arena) - The Fighting Pit of Sett (Powered by OpenClaw) - A Mini Twitter Clone
 - [mibolaji/ClawPad](https://github.com/mibolaji/ClawPad) - Simplify agentic systems on older machines
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - AI agent task management system
