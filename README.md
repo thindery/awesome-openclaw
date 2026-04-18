@@ -32,6 +32,10 @@
 ## Official Resources
 
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw) - Main repository
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's multi-language framework for building, orchestrating, and deploying AI agents with Python/.NET support, graph-based workflows, and DevUI (⭐ 9.6k) ⭐ NEW
+- [Google A2A Protocol](https://github.com/google/A2A) - Agent2Agent open protocol enabling communication and interoperability between agentic applications (⭐ 23.3k) ⭐ NEW
+- [Mozilla any-agent](https://github.com/mozilla-ai/any-agent) - Single interface to use and evaluate different agent frameworks (TinyAgent, Google ADK, LangChain, LlamaIndex, OpenAI Agents, Smolagents) (⭐ 1.1k) ⭐ NEW
+- [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with episodic, profile, and working memory types, MCP server support (⭐ 4.1k) ⭐ NEW
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
@@ -148,6 +152,13 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [jambonz-mcp-server](https://github.com/jambonz/mcp-server) - Jambonz MCP server for voice AI agents - telephony integration with sub-200ms latency ⭐ NEW (Apr 2026)
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools - Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW (Apr 2026)
+- [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
+- [DashClaw](https://github.com/ucsandman/DashClaw) - Self-hosted "Mission Control" for AI Agents with Node + Python SDKs, Behavior Guardrails, Cost Tracking (Apr 2026) ⭐ NEW
+- [OctoAlly](https://github.com/octoally/octoally) - Local-first terminal dashboard for AI coding agents with local Whisper voice control and multi-agent orchestration (Apr 2026) ⭐ NEW
+- [Iris](https://github.com/iris/iris) - MCP-native eval and observability tool for AI agents - know when outputs are wrong, not just HTTP 200 (⭐ HN Show Apr 2026) ⭐ NEW
+- [MCPX](https://github.com/lydakis/mcpx) - Turn any MCP server into a composable CLI for agents - Unix-style command composition for agent workflows (⭐ HN Show Apr 2026) ⭐ NEW
+- [Nanobot](https://github.com/nanobot/nanobot) - Turn MCP servers into full AI agents - framework for agent capabilities on top of MCP (⭐ HN Show Apr 2026) ⭐ NEW
+- [Crow](https://github.com/crow-mcp/crow) - Self-hosted MCP platform with persistent memory, research tools, encrypted P2P sharing. Local SQLite, no cloud required (⭐ HN Show Apr 2026) ⭐ NEW
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
 - [agent-council](https://clawhub.com/skills/agent-council) - Toolkit for creating autonomous AI agent councils
 - [ai-auth-check](https://clawhub.com/skills/ai-auth-check) - Audit authentication flows for security vulnerabilities
@@ -162,6 +173,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [desktop-control](https://clawhub.com/skills/desktop-control) - Advanced desktop automation with mouse, keyboard, screenshots
 - [api-gateway](https://clawhub.com/skills/api-gateway) - API gateway for third-party APIs with managed auth
 - [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) - Automate web browser interactions using natural language
+- [mcp-js](https://github.com/r33drichards/mcp-js) - MCP server exposing V8 JavaScript runtime as a tool for AI agents with persistent heap snapshots via S3/local filesystem (⭐ 38) ⭐ NEW
+- [apify-mcp-agent](https://github.com/apify/actor-mastra-mcp-agent) - AI agent using Mastra.ai with Apify MCP Server for web data extraction and dataset outputs (⭐ 15) ⭐ NEW
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) - Gemini CLI integration for AI summaries and generation
 - [openclaw-ollama-proxy](https://github.com/jose-mattew/openclaw-ollama-proxy) - Fix slow Qwen3 thinking mode in OpenClaw + Ollama. Flask proxy that auto-injects think:false for instant responses ⭐ NEW
 - [openclaw-model-bridge](https://github.com/bisdom-cell/openclaw-model-bridge) - Connect any LLM to OpenClaw - production-tested middleware for Qwen3-235B and beyond (⭐ 8) ⭐ NEW
@@ -593,9 +606,14 @@ Skills published to ClawHub by the community:
 - [tdd-guide](https://clawhub.com/skills/tdd-guide) - Test-driven development workflow with test generation and coverage analysis
 - [taiwan-payments](https://github.com/Oelshafei1/skills) - Taiwan third-party payment integration (NewebPay, ECPay, PAYUNi) for AI agents
 
-### Memory & Context
+### Memory & Persistence
 
-- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents (including OpenClaw) with filesystem paradigm for unified memory, resources, and skills. Features L0/L1/L2 tiered context loading and visualized retrieval (⭐ 21.6k, Apr 2026) ⭐ NEW
+- [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with episodic, profile, and working memory. Graph-based storage, MCP server support, integrations for LangChain, LangGraph, CrewAI, LlamaIndex (⭐ 4.1k) ⭐ NEW
+- [Redis Agent Memory Server](https://github.com/redis/agent-memory-server) - Fast and flexible memory for agents using Redis with Python/Java/TypeScript clients (⭐ 230) ⭐ NEW
+- [AgentKeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer for AI agents with cross-model memory continuity (⭐ 115) ⭐ NEW
+- [smysle/agent-memory](https://github.com/smysle/agent-memory) - Sleep-cycle memory architecture for AI agents — journal, consolidate, recall with zero dependencies (⭐ 10) ⭐ NEW
+- [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents (⭐ 12.8k, Apr 2026) ⭐ NEW
+- [Memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents with instant retrieval and long-term persistence (⭐ 13.3k) ⭐ NEW
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. Structurally organized like a file system with auto-categorization, cross-references, and cost-efficient long-running memory (⭐ 12.8k) ⭐ NEW
 - [claude-brain](https://github.com/mikeadolan/claude-brain) - Persistent memory for Claude Code. Local SQLite + MCP + hooks for seamless context continuity (⭐ 3, Apr 2026) ⭐ NEW
 - [omni-relay](https://github.com/parkwoo/omni-relay) - Multi-cloud AI failover for OpenClaw - automatic rate limit recovery across 9 AI providers (⭐ NEW Apr 2026) ⭐ NEW
