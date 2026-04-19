@@ -32,10 +32,16 @@
 ## Official Resources
 
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw) - Main repository
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements patterns from Anthropic's "Building Effective Agents" guide (⭐ 8,273, Apr 2026) ⭐ NEW
+- [Letta](https://github.com/letta-ai/letta) - Platform for building stateful agents with advanced memory that can learn and self-improve over time (⭐ 22K, Apr 2026) ⭐ NEW
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's multi-language framework for building, orchestrating, and deploying AI agents with Python/.NET support, graph-based workflows, and DevUI (⭐ 9.6k) ⭐ NEW
 - [Google A2A Protocol](https://github.com/google/A2A) - Agent2Agent open protocol enabling communication and interoperability between agentic applications (⭐ 23.3k) ⭐ NEW
 - [Mozilla any-agent](https://github.com/mozilla-ai/any-agent) - Single interface to use and evaluate different agent frameworks (TinyAgent, Google ADK, LangChain, LlamaIndex, OpenAI Agents, Smolagents) (⭐ 1.1k) ⭐ NEW
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with episodic, profile, and working memory types, MCP server support (⭐ 4.1k) ⭐ NEW
+- [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents with instant retrieval and long-term memory. Single-file portable memory (.mv2 format) (⭐ 15k, Apr 2026) ⭐ NEW
+- [5ire](https://github.com/nanbingxyz/5ire) - Cross-platform desktop AI assistant and MCP client with local knowledge base, usage analytics, prompts library (⭐ 5.2k, Apr 2026) ⭐ NEW
+- [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
+- [SentinelGate](https://github.com/Sentinel-Gate/Sentinelgate) - MCP proxy with access control for AI agents. CEL policies, RBAC, and full audit trail ⭐ NEW
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
@@ -50,7 +56,7 @@
 - [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua's fully autonomous AI agent execution framework for 24/7 operation (⭐ 48, Apr 2026)
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐)
 - [Modo](https://github.com/mohshomis/modo) - Open-source alternative to Kiro, Cursor, and Windsurf - agentic code editor (⭐ HN Show, Apr 2026)
-- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent with built-in learning loop, creates skills from experience, improves during use. Multi-platform messaging (⭐ 36k, Apr 2026) ⭐ NEW
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent by NousResearch with built-in learning loop, creates skills from experience, improves during use. Multi-platform messaging (Telegram, Discord, Slack, WhatsApp, Signal) (⭐ 101k, Apr 2026) ⭐ NEW
 - [DeerFlow](https://github.com/bytedance/deer-flow) - Long-horizon SuperAgent harness that researches, codes, and creates. Sub-agents, sandboxes, memory, message gateway (⭐ 59.5k, Apr 2026) ⭐ NEW
 - [Page Agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language, no extension needed. Optional MCP server (⭐ 16.3k, Apr 2026) ⭐ NEW
 - [skrun](https://github.com/skrun-dev/skrun) - Deploy any Agent Skill as an API via POST /run. Multi-model, stateful, open source (⭐ HN Show, Apr 2026) ⭐ NEW
@@ -437,6 +443,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [zeruai](https://clawhub.com/skills/zeruai) - Register agents on Zeru ERC-8004 Identity Registry
 - [finclaw](https://github.com/NeuZhou/finclaw) - AI-Powered Financial Intelligence Engine. 8 Master Strategies, 3 Markets, 227 Tests. Verified +29.1% annual alpha (4⭐) ⭐ NEW
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent LLM financial trading framework with specialized agents: fundamental analysts, sentiment experts, technical analysts, traders, and risk management (⭐ 48.5k, Apr 2026) ⭐ NEW
+- [MiroFish](https://github.com/666ghj/MiroFish) - Swarm intelligence engine for prediction. Multi-agent digital sandbox simulation with thousands of evolving agents (⭐ 51.7k, Apr 2026) ⭐ NEW
 
 ### Specialized Roles
 
