@@ -39,6 +39,12 @@
 - [Mozilla any-agent](https://github.com/mozilla-ai/any-agent) - Single interface to use and evaluate different agent frameworks (TinyAgent, Google ADK, LangChain, LlamaIndex, OpenAI Agents, Smolagents) (⭐ 1.1k) ⭐ NEW
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with episodic, profile, and working memory types, MCP server support (⭐ 4.1k) ⭐ NEW
 - [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents with instant retrieval and long-term memory. Single-file portable memory (.mv2 format) (⭐ 15k, Apr 2026) ⭐ NEW
+- [PolyMCP](https://github.com/poly-mcp/PolyMCP) - Build MCP agents for production with Python + TypeScript workflow for exposing tools, connecting MCP servers, orchestrating agents (⭐ 164, Apr 2026) ⭐ NEW
+- [EloPhanto](https://github.com/elophanto/EloPhanto) - Self-evolving AI agent that builds its own tools, browses web, writes code, sends emails autonomously (⭐ 38, Apr 2026) ⭐ NEW
+- [MCPJungle](https://github.com/mcpjungle/mcpjungle) - Self-hosted MCP Gateway for AI agents - enterprise registry and proxy in Go (⭐ 954, Apr 2026) ⭐ NEW
+- [Nanobot](https://github.com/nanobot-ai/nanobot) - Turn MCP servers into full AI agents with reasoning, system prompts, tool orchestration (⭐ 1.3k, Apr 2026) ⭐ NEW
+- [Kilntainers](https://github.com/Kiln-AI/Kilntainers) - MCP server to give every agent ephemeral Linux sandboxes for executing shell commands (⭐ 34, Apr 2026) ⭐ NEW
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - Official Go SDK for Model Context Protocol servers and clients, maintained with Google (⭐ 4.4k, Apr 2026) ⭐ NEW
 - [5ire](https://github.com/nanbingxyz/5ire) - Cross-platform desktop AI assistant and MCP client with local knowledge base, usage analytics, prompts library (⭐ 5.2k, Apr 2026) ⭐ NEW
 - [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
 - [SentinelGate](https://github.com/Sentinel-Gate/Sentinelgate) - MCP proxy with access control for AI agents. CEL policies, RBAC, and full audit trail ⭐ NEW
@@ -348,7 +354,13 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard for multi-agent collaboration (1,233⭐) ⭐ NEW
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, fast OpenClaw deployment - automate the mundane, deploy anywhere. Minimal resource requirements for edge devices (⭐ 22.9k) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway with multi-agent support (⭐ 1,748) ⭐ NEW
-- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server for secure execution (⭐ 3,115) ⭐ NEW
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server for secure execution (⭐ 3,115, Apr 2026) ⭐ NEW
+- [Kilntainers](https://github.com/Kiln-AI/Kilntainers) - MCP server to give every agent ephemeral Linux sandboxes for executing shell commands (⭐ 34, Apr 2026) ⭐ NEW
+- [poly-mcp/PolyMCP](https://github.com/poly-mcp/PolyMCP) - Build MCP agents for production with Python + TypeScript workflow for exposing tools, connecting MCP servers, orchestrating agents (⭐ 164, Apr 2026) ⭐ NEW
+- [EloPhanto](https://github.com/elophanto/EloPhanto) - Self-evolving AI agent that builds its own tools, browses web, writes code, sends emails autonomously (⭐ 38, Apr 2026) ⭐ NEW
+- [MCPJungle](https://github.com/mcpjungle/mcpjungle) - Self-hosted MCP Gateway for AI agents - enterprise registry and proxy in Go (⭐ 954, Apr 2026) ⭐ NEW
+- [Nanobot](https://github.com/nanobot-ai/nanobot) - Turn MCP servers into full AI agents with reasoning, system prompts, tool orchestration (⭐ 1.3k, Apr 2026) ⭐ NEW
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - Official Go SDK for Model Context Protocol servers and clients, maintained with Google (⭐ 4.4k, Apr 2026) ⭐ NEW
 - [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform (178⭐)
 - [OpenHarness](https://github.com/thu-nmrc/OpenHarness) - Tsinghua University's fully autonomous AI agent execution framework for OpenClaw. Enables 24/7 operation with harness engineering (⭐ 48, Apr 2026) ⭐ NEW
 - [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
