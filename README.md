@@ -68,6 +68,17 @@
 - [skrun](https://github.com/skrun-dev/skrun) - Deploy any Agent Skill as an API via POST /run. Multi-model, stateful, open source (⭐ HN Show, Apr 2026) ⭐ NEW
 - [tui-use](https://github.com/onesuper/tui-use) - Let AI agents control interactive terminal programs - REPLs, debuggers, TUI apps, anything bash can't reach (⭐ HN Show, Apr 2026) ⭐ NEW
 - [AgentDM](https://agentdm.ai) - Agent to agent messaging over MCP and A2A. Connect Claude to Claude, Claude to OpenAI, any MCP-compatible agent (⭐ HN Show, Apr 2026) ⭐ NEW
+- [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. Structurally organized like a file system with auto-categorization, cross-references, and cost-efficient long-running memory (⭐ 13.3k, Apr 2026) ⭐ NEW
+- [Bitterbot](https://github.com/Bitterbot-AI/bitterbot-desktop) - Local-first agent memory loop with dream engine for state consolidation. Persistent memory, emotional intelligence, and P2P skills economy (⭐ 723, Apr 2026) ⭐ NEW
+- [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system, standalone library for any AI agent. Cross-platform, hybrid retrieval with Zilliz vector database (⭐ 1.3k, Apr 2026) ⭐ NEW
+- [AgentKeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer for AI agents with cross-model memory continuity. Memory survives provider switches, crashes, and restarts (⭐ 115, Apr 2026) ⭐ NEW
+- [ClawMem](https://github.com/yoloshii/ClawMem) - On-device memory for Claude Code and OpenClaw. Hybrid RAG, MCP server, and context-surfacing hooks (⭐ 118, Apr 2026) ⭐ NEW
+- [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. Session management and parallel execution (⭐ 7k, Apr 2026) ⭐ NEW
+- [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally with orchestration dashboard (⭐ 5.5k, Apr 2026) ⭐ NEW
+- [Smux](https://github.com/gergomiklos/smux) - Terminal multiplexer built for AI agents with split tabs and notifications. macOS-native, Claude Code optimized (⭐ 24, Apr 2026) ⭐ NEW
+- [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation (⭐ 10.7k, Apr 2026) ⭐ NEW
+- [cowboy-claude](https://github.com/ghostcowboy/cowboy-claude) - Run Claude Code on bare metal Linux with GPU passthrough for ultimate agent performance (⭐ 5.2k, Apr 2026) ⭐ NEW
+- [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub - one CLI, zero API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
 
 ---
 
