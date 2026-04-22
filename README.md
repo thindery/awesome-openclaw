@@ -79,6 +79,13 @@
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation (⭐ 10.7k, Apr 2026) ⭐ NEW
 - [cowboy-claude](https://github.com/ghostcowboy/cowboy-claude) - Run Claude Code on bare metal Linux with GPU passthrough for ultimate agent performance (⭐ 5.2k, Apr 2026) ⭐ NEW
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub - one CLI, zero API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
+- [Pincer](https://github.com/pincerhq/pincer) - Self-hosted AI agent you text on WhatsApp, Telegram, or Discord. Web search, email, calendar, script execution, conversation memory - nothing leaves your server (⭐ HN Show, Apr 2026) ⭐ NEW
+- [SIDJUA](https://github.com/GoetzKohlberg/sidjua) - Governance-first AI agent orchestration platform with full audit trails, policy enforcement, and multi-agent coordination (⭐ 12, Apr 2026) ⭐ NEW
+- [Ductwork](https://github.com/dneil5648/ductwork) - Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, standalone or distributed modes (⭐ HN Show, Apr 2026) ⭐ NEW
+- [Mercury](https://github.com/Michaelliv/mercury) - 🪽 Mercury — No-code orchestration for human and agent teams with visual workflow builder (⭐ 108, Apr 2026) ⭐ NEW
+- [Auto-Co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7 with expert personas (CEO, CTO, CFO, etc.), ship real software (⭐ 23, HN Show Apr 2026) ⭐ NEW
+- [AgentVerse](https://github.com/Yuan-ManX/AgentVerse) - Open social network for AI agents — connect, collaborate, and evolve in an AI-native network (⭐ HN Show Apr 2026) ⭐ NEW
+- [Iris MCP Server](https://github.com/iris-eval/mcp-server) - The agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets (⭐ 6, Apr 2026) ⭐ NEW
 
 ---
 
@@ -793,6 +800,14 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [DollhouseMCP](https://github.com/DollhouseMCP/mcp-server) - Open-source MCP server for composable AI building blocks with identity-based permissioning and bimodal agent loop (28⭐, HN Show Apr 2026) ⭐ NEW
+- [Pincer](https://github.com/pincerhq/pincer) - Self-hosted AI agent you text on WhatsApp, Telegram, or Discord. Web search, email, calendar, script execution with conversation memory (⭐ HN Show Apr 2026) ⭐ NEW
+- [SIDJUA](https://github.com/GoetzKohlberg/sidjua) - Governance-first AI agent orchestration platform with full audit trails and policy enforcement (⭐ 12, Apr 2026) ⭐ NEW
+- [Ductwork](https://github.com/dneil5648/ductwork) - Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, standalone or distributed (⭐ HN Show Apr 2026) ⭐ NEW
+- [Mercury](https://github.com/Michaelliv/mercury) - No-code orchestration for human and agent teams with visual workflow builder (⭐ 108, Apr 2026) ⭐ NEW
+- [Auto-Co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7 with expert personas, ship real software (⭐ 23, HN Show Apr 2026) ⭐ NEW
+- [AgentVerse](https://github.com/Yuan-ManX/AgentVerse) - Open social network for AI agents — connect, collaborate, and evolve in an AI-native network (⭐ HN Show Apr 2026) ⭐ NEW
+- [Iris MCP Server](https://github.com/iris-eval/mcp-server) - The agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets (⭐ 6, Apr 2026) ⭐ NEW
 - [Prisma MCP Server](https://github.com/prisma/mcp-server) - Official Prisma MCP server for database operations ⭐ NEW
 - [Activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation with 400+ MCP servers (~21k⭐) ⭐ NEW
 - [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server for Claude to build n8n workflows with 1,084 node documentation ⭐ NEW
