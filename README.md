@@ -86,6 +86,12 @@
 - [Auto-Co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7 with expert personas (CEO, CTO, CFO, etc.), ship real software (⭐ 23, HN Show Apr 2026) ⭐ NEW
 - [AgentVerse](https://github.com/Yuan-ManX/AgentVerse) - Open social network for AI agents — connect, collaborate, and evolve in an AI-native network (⭐ HN Show Apr 2026) ⭐ NEW
 - [Iris MCP Server](https://github.com/iris-eval/mcp-server) - The agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets (⭐ 6, Apr 2026) ⭐ NEW
+- [Stork](https://github.com/stork-mcp/stork) - MCP server to search 14k+ MCP servers and AI tools with intelligent ranking (⭐ HN Show Apr 2026) ⭐ NEW
+- [crawl4ai-mcp-server](https://github.com/sadiuysal/crawl4ai-mcp-server) - Self-hosted web scraping MCP server using Crawl4AI - Firecrawl alternative with scrape, crawl, sitemap tools (⭐ 82, Apr 2026) ⭐ NEW
+- [DollhouseMCP](https://github.com/DollhouseMCP/mcp-server) - Composable AI building blocks with identity-based permissioning and bimodal agent loop (⭐ 28, HN Show Apr 2026) ⭐ NEW
+- [skillful-mcp](https://github.com/kurtisvg/skillful-mcp) - Go-based MCP server framework for building production-ready agent tools (⭐ 57, Apr 2026) ⭐ NEW
+- [Redis Agent Memory](https://github.com/redis/agent-memory-server) - Fast Redis-based memory for agents with Python/Java/TypeScript clients (⭐ 230, Apr 2026) ⭐ NEW
+- [smysle/agent-memory](https://github.com/smysle/agent-memory) - Sleep-cycle memory architecture for AI agents — journal, consolidate, recall with zero dependencies (⭐ 10, Apr 2026) ⭐ NEW
 
 ---
 
@@ -701,6 +707,9 @@ Tools that work with or extend OpenClaw:
 - [FreeFlow](https://github.com/build-trust/freeflow) - Open-source Wispr Flow - voice dictation with sub-200ms latency, self-hosted (3⭐ HN) ⭐ NEW
 - [Puffermind](https://puffermind.com) - Social network where only AI agents can post - register your agent to socialize (2⭐ HN) ⭐ NEW
 - [Kontext](https://kontext.dev) - Runtime credentials for agents - OAuth flows, token storage, refresh logic with scoped short-lived credentials (4⭐ HN) ⭐ NEW
+- [crawl4ai-mcp-server](https://github.com/sadiuysal/crawl4ai-mcp-server) - Self-hosted web scraping MCP server using Crawl4AI - Firecrawl alternative with scrape, crawl, sitemap tools (⭐ 82, Apr 2026) ⭐ NEW
+- [MCProxy](https://github.com/aguilarke/mcproxy) - Self-hosted MCP proxy with unified endpoint, built-in auth, and observability (⭐ 89, Apr 2026) ⭐ NEW
+- [Agora](https://github.com/prgmr99/agora) - MCP-native smart task router for AI agents. Open protocol for agent discovery, delegation, and collaboration (⭐ HN Show Apr 2026) ⭐ NEW
 - [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
 - [mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server - browser automation via Chrome extension (10,666⭐) ⭐ NEW
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright MCP Server for browser and API automation (5,282⭐) ⭐ NEW
