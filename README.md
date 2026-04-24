@@ -32,11 +32,27 @@
 ## Official Resources
 
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw) - Main repository
+- [IronClaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired Rust implementation focused on privacy/security with WASM sandbox, credential protection, and prompt injection defense (⭐ 12K, Apr 2026) ⭐ NEW
+- [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
+- [HiveBox](https://github.com/TetiAI/hivebox) - Lightweight Linux sandbox for AI agents with kernel-native isolation, MCP bridge, and web dashboard. Single Rust binary (Apr 2026) ⭐ NEW
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements patterns from Anthropic's "Building Effective Agents" guide (⭐ 8,273, Apr 2026) ⭐ NEW
 - [Letta](https://github.com/letta-ai/letta) - Platform for building stateful agents with advanced memory that can learn and self-improve over time (⭐ 22K, Apr 2026) ⭐ NEW
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's multi-language framework for building, orchestrating, and deploying AI agents with Python/.NET support, graph-based workflows, and DevUI (⭐ 9.6k) ⭐ NEW
 - [Google A2A Protocol](https://github.com/google/A2A) - Agent2Agent open protocol enabling communication and interoperability between agentic applications (⭐ 23.3k) ⭐ NEW
 - [Mozilla any-agent](https://github.com/mozilla-ai/any-agent) - Single interface to use and evaluate different agent frameworks (TinyAgent, Google ADK, LangChain, LlamaIndex, OpenAI Agents, Smolagents) (⭐ 1.1k) ⭐ NEW
+- [IronClaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired Rust implementation focused on privacy/security with WASM sandbox, credential protection, and prompt injection defense (⭐ 12K, Apr 2026) ⭐ NEW
+- [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
+- [HiveBox](https://github.com/TetiAI/hivebox) - Lightweight Linux sandbox for AI agents with kernel-native isolation, MCP bridge, and web dashboard. Single Rust binary (Apr 2026) ⭐ NEW
+- [Browserbase Stagehand](https://github.com/browserbase/stagehand) - AI browser automation framework with natural language control, auto-caching, and self-healing workflows (⭐ 22.3k) ⭐ NEW
+- [Vercel Agent Browser](https://github.com/vercel-labs/agent-browser) - Fast native Rust CLI for browser automation with CDP, iOS simulator support, and AI chat integration (⭐ 30.5k) ⭐ NEW
+- [Browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents (⭐ 1.2k) ⭐ NEW
+- [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents with file-system organization, auto-categorization, and cost-efficient long-running memory (⭐ 13.3k, Apr 2026) ⭐ NEW
+- [Memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system, standalone library for any AI agent with hybrid retrieval (⭐ 1.3k, Apr 2026) ⭐ NEW
+- [AgentKeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer for AI agents with cross-model memory continuity (⭐ 115, Apr 2026) ⭐ NEW
+- [smysle/agent-memory](https://github.com/smysle/agent-memory) - Sleep-cycle memory architecture for AI agents — journal, consolidate, recall with zero dependencies (⭐ 10, Apr 2026) ⭐ NEW
+- [Mercury](https://github.com/Michaelliv/mercury) - No-code orchestration for human and agent teams with visual workflow builder (⭐ 108, Apr 2026) ⭐ NEW
+- [Auto-Co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7 with expert personas, ship real software (⭐ 23, HN Show Apr 2026) ⭐ NEW
+- [Ductwork](https://github.com/dneil5648/ductwork) - Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, standalone or distributed (⭐ HN Show Apr 2026) ⭐ NEW
 - [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with episodic, profile, and working memory types, MCP server support (⭐ 4.1k) ⭐ NEW
 - [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents with instant retrieval and long-term memory. Single-file portable memory (.mv2 format) (⭐ 15k, Apr 2026) ⭐ NEW
 - [PolyMCP](https://github.com/poly-mcp/PolyMCP) - Build MCP agents for production with Python + TypeScript workflow for exposing tools, connecting MCP servers, orchestrating agents (⭐ 164, Apr 2026) ⭐ NEW
@@ -371,7 +387,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [clawdbot-tonal](https://github.com/dlwiest/clawdbot-tonal) - Tonal fitness integration - muscle readiness scores, workout history, strength tracking ⭐ NEW (Apr 2026)
 - [dwlf-skill](https://github.com/andywilliams/dwlf-skill) - DWLF market analysis platform skill - conversational access to indicators, signals, and strategies ⭐ NEW (Apr 2026)
 - [tribe-v2-skill](https://github.com/MersivMedia/tribe-v2-skill) - TRIBE v2 brain response prediction skill for Clawdbot - Meta neuroscience AI model integration ⭐ NEW (Apr 2026)
-- [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs (19,929⭐) ⭐ NEW
+- [Browserbase Stagehand](https://github.com/browserbase/stagehand) - AI browser automation framework with natural language control, auto-caching, and self-healing workflows (⭐ 22.3k) ⭐ NEW
+- [Vercel Agent Browser](https://github.com/vercel-labs/agent-browser) - Fast native Rust CLI for browser automation with CDP, iOS simulator support, and AI chat integration (⭐ 30.5k) ⭐ NEW
+- [Browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents (⭐ 1.2k) ⭐ NEW
 - [google-workspace-cli](https://github.com/googleworkspace/cli) - One CLI for Drive, Gmail, Calendar, Sheets, Docs, Chat with AI agent skills (15,952⭐) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway (1,748⭐) ⭐ NEW
 - [spacebot](https://github.com/spacedriveapp/spacebot) - AI agent for teams, communities, and multi-user environments (1,621⭐) ⭐ NEW
@@ -686,6 +704,13 @@ Tools that work with or extend OpenClaw:
 ### Orchestration & Management
 
 - [agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration - watch agents think, branch, and coordinate with interactive node graphs ⭐ NEW
+- [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
+- [Wazear](https://wazear.space) - Visual AI orchestrator where agents review each other's work - create pipelines with planner, architect roles (⭐ HN Show Apr 2026) ⭐ NEW
+- [Trytet](https://trytet.com) - Deterministic WASM substrate for stateful AI agents - snapshot, hibernate, branch agent execution (⭐ HN Show Apr 2026) ⭐ NEW
+- [OpenVole](https://github.com/flabberghasted/OpenVole) - VoleNet Distributed AI Agent Networking for multi-agent coordination (⭐ HN Show Apr 2026) ⭐ NEW
+- [Mercury](https://github.com/Michaelliv/mercury) - No-code orchestration for human and agent teams with visual workflow builder (⭐ 108, Apr 2026) ⭐ NEW
+- [Auto-Co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7 with expert personas, ship real software (⭐ 23, HN Show Apr 2026) ⭐ NEW
+- [Ductwork](https://github.com/dneil5648/ductwork) - Go-based platform for running AI agents on schedules with tasks, skills, and persistent memory. Single binary, standalone or distributed (⭐ HN Show Apr 2026) ⭐ NEW
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [Wazear](https://wazear.space) - Visual AI orchestrator where agents review each other's work - create pipelines with planner, architect roles (⭐ HN Show Apr 2026) ⭐ NEW
 - [Trytet](https://trytet.com) - Deterministic WASM substrate for stateful AI agents - snapshot, hibernate, branch agent execution (⭐ HN Show Apr 2026) ⭐ NEW
