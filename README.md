@@ -703,6 +703,8 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Roids](https://github.com/developing-gamer/roids) - Compare UI directions side by side in the browser. Open-source skill + runtime for AI coding agents (Cursor, Claude Code, Codex). When an agent generates multiple layout variants, Roids wires them into a single page with a bar to flip between them (3⭐, Apr 2026) ⭐ NEW
+- [Lilo](https://github.com/abi/lilo) - Agentic personal OS — your apps, memories, files, and agent in one workspace. Ask your agent to build apps, customize your OS, remember things. Reach it from desktop, mobile, WhatsApp, Telegram, or email (Apr 2026) ⭐ NEW
 - [agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration - watch agents think, branch, and coordinate with interactive node graphs ⭐ NEW
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [Wazear](https://wazear.space) - Visual AI orchestrator where agents review each other's work - create pipelines with planner, architect roles (⭐ HN Show Apr 2026) ⭐ NEW
