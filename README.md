@@ -203,6 +203,10 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
 - [jambonz-mcp-server](https://github.com/jambonz/mcp-server) - Jambonz MCP server for voice AI agents - telephony integration with sub-200ms latency ⭐ NEW (Apr 2026)
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server with persistent knowledge graph - 66 languages, sub-ms queries (⭐ 1.8k, Apr 2026) ⭐ NEW
+- [pilot-shell](https://github.com/maxritter/pilot-shell) - Make Claude Code production-ready with spec-driven plans, enforced quality gates, persistent knowledge (⭐ 1.7k, Apr 2026) ⭐ NEW
+- [toolhive](https://github.com/stacklok/toolhive) - Enterprise-grade platform for running and managing MCP servers (⭐ 1.7k, Apr 2026) ⭐ NEW
+- [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn - profiles, companies, jobs, messages (⭐ 1.7k, Apr 2026) ⭐ NEW
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools - Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW (Apr 2026)
 - [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
 - [DashClaw](https://github.com/ucsandman/DashClaw) - Self-hosted "Mission Control" for AI Agents with Node + Python SDKs, Behavior Guardrails, Cost Tracking (Apr 2026) ⭐ NEW
@@ -862,6 +866,18 @@ Tools that work with or extend OpenClaw:
 - [AIRI](https://github.com/moeru-ai/airi) - Self-hosted AI companion with realtime voice chat, Minecraft and Factorio playing capabilities ⭐ NEW
 - [serena](https://github.com/oraios/serena) - Powerful coding agent toolkit with semantic retrieval and MCP server ⭐ 20k+
 - [incidentfox](https://github.com/incidentfox/incidentfox) - Self-hosted AI agent for investigating production incidents with Ollama/local model support ⭐ NEW
+- [ruflo](https://github.com/ruvnet/ruflo) - Agent orchestration platform for Claude with multi-agent swarms, distributed intelligence, RAG integration (⭐ 33.2k, Apr 2026) ⭐ NEW
+- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum for MCP fundamentals through real-world examples in .NET, Java, TypeScript, Rust, Python (⭐ 15.9k, Apr 2026) ⭐ NEW
+- [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents (⭐ 9.8k, Apr 2026) ⭐ NEW
+- [unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP bridge allowing AI assistants to interact with Unity Editor - manage assets, control scenes, edit scripts (⭐ 8.9k, Apr 2026) ⭐ NEW
+- [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration for AI agents to read and modify Figma designs programmatically (⭐ 6.7k, Apr 2026) ⭐ NEW
+- [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server and CLI for iOS and macOS development tools - build, test, analyze projects (⭐ 5.3k, Apr 2026) ⭐ NEW
+- [mcp-context-forge](https://github.com/IBM/mcp-context-forge) - AI Gateway, registry, and proxy for MCP/A2A/REST/gRPC APIs with centralized discovery and guardrails (⭐ 3.6k, Apr 2026) ⭐ NEW
+- [holaOS](https://github.com/holaboss-ai/holaOS) - The computer for you and your agent - AI-native operating system (⭐ 3.4k, Apr 2026) ⭐ NEW
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server with persistent knowledge graph - 66 languages, sub-ms queries (⭐ 1.8k, Apr 2026) ⭐ NEW
+- [toolhive](https://github.com/stacklok/toolhive) - Enterprise-grade platform for running and managing MCP servers (⭐ 1.7k, Apr 2026) ⭐ NEW
+- [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn - profiles, companies, jobs, messages (⭐ 1.7k, Apr 2026) ⭐ NEW
+- [pilot-shell](https://github.com/maxritter/pilot-shell) - Make Claude Code production-ready with spec-driven plans, enforced quality gates, persistent knowledge (⭐ 1.7k, Apr 2026) ⭐ NEW
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration and memory (22,250⭐) ⭐ NEW
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees (8,917⭐) ⭐ NEW
 - [edict](https://github.com/cft0808/edict) - Multi-Agent Orchestration System with 9 specialized AI agents, real-time dashboard, and full audit trails (8,936⭐) ⭐ NEW
@@ -1185,6 +1201,12 @@ Standalone tools that work with or extend OpenClaw:
 - [prompthistory](https://github.com/junhoyeo/prompthistory) - Search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex (Apr 2026) ⭐ NEW
 - [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway - monitor health, manage AI agent sessions, chat with agents, administer cron, logs & approvals (⭐ 3, Apr 2026) ⭐ NEW
 - [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces - for free. Any LLM, Telegram support, auto-sync, built-in keep-alive (⭐ 5, Apr 2026) ⭐ NEW
+- [mcp-reticle](https://github.com/azerzeki/mcp-reticle) - Analyze and visualize MCP traffic like Wireshark - debug Model Context Protocol communications (Apr 2026) ⭐ NEW
+- [xno-skills](https://github.com/CasualSecurityInc/xno-skills) - AI agent Skills, CLI and MCP server for Nano (XNO) cryptocurrency - generate wallets, convert units, validate addresses, QR codes (Apr 2026) ⭐ NEW
+- [awesome-agent-skills](https://github.com/jrmapa/awesome-agent-skills) - Explore modular agent skills for dynamic AI development with SKILL.md packages (⭐ 6, Apr 2026) ⭐ NEW
+- [agentmux](https://github.com/adelost/agentmux) - Discord bridge for tmux-based coding agents (Claude Code, Codex) - push-to-talk for your AI pair programmer (Apr 2026) ⭐ NEW
+- [assistant](https://github.com/cedricziel/assistant) - Minimalist self-improving personal AI assistant - Ollama-powered, Agent Skills native, MCP server (⭐ 4, Apr 2026) ⭐ NEW
+- [monitoring-openclaw](https://github.com/vincentlefort/monitoring-openclaw) - Monitoring dashboard for OpenClaw infrastructure (Apr 2026) ⭐ NEW
 
 ## Example Projects
 
@@ -1295,4 +1317,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-04-05T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new items - Supermemory (AI memory), EdgeClaw (Edge-Cloud agent), LangBot (multi-platform bot), Hermes Agent (self-improving), AgentStack (scaffold CLI), Cline (IDE agent), MCP Security Hub (offensive security), Poco Agent (Manus-style), cherry-studio (AI productivity), 1Panel (web UI), ClawX (desktop GUI), OpenViking (context database) -->
+<!-- Last updated: 2026-04-25T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 15 new items - codebase-memory-mcp (code intelligence), pilot-shell (Claude production), toolhive (MCP mgmt), linkedin-mcp (social), ruflo (swarm), mcp-for-beginners (curriculum), mcp-use (framework), unity-mcp (game dev), cursor-talk-to-figma (design), XcodeBuildMCP (iOS dev), mcp-context-forge (AI gateway), holaOS (agent OS), mcp-reticle (MCP debugger), xno-skills (crypto), agentmux (tmux bridge), monitoring-openclaw (infra), awesome-agent-skills (skills registry), assistant (Ollama agent) -->
