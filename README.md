@@ -49,6 +49,10 @@
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents with file-system organization, auto-categorization, and cost-efficient long-running memory (⭐ 13.3k, Apr 2026) ⭐ NEW
 - [Memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system, standalone library for any AI agent with hybrid retrieval (⭐ 1.3k, Apr 2026) ⭐ NEW
 - [AgentKeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer for AI agents with cross-model memory continuity (⭐ 115, Apr 2026) ⭐ NEW
+- [VoltAgent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform with TypeScript framework, built-in observability, and multi-LLM support (⭐ 8.4k, Apr 2026) ⭐ NEW
+- [Mastra](https://github.com/takeru/mastra) - TypeScript AI agent framework with RAG, observability, and support for GPT-4, Claude, Gemini, Llama (trending, Apr 2026) ⭐ NEW
+- [Palmier](https://github.com/palmier-ai/palmier) - Dispatch and schedule AI agents from your phone with mobile-first orchestration (HN Show Apr 2026) ⭐ NEW
+- [Tasker](https://github.com/tasker-ai/tasker) - Open-source desktop agent for browser and OS automation with workflow recording (HN Show, Apr 2026) ⭐ NEW
 - [smysle/agent-memory](https://github.com/smysle/agent-memory) - Sleep-cycle memory architecture for AI agents — journal, consolidate, recall with zero dependencies (⭐ 10, Apr 2026) ⭐ NEW
 - [Mercury](https://github.com/Michaelliv/mercury) - No-code orchestration for human and agent teams with visual workflow builder (⭐ 108, Apr 2026) ⭐ NEW
 - [Auto-Co](https://github.com/NikitaDmitrieff/auto-co-meta) - Autonomous AI Company OS — 14 AI agents loop 24/7 with expert personas, ship real software (⭐ 23, HN Show Apr 2026) ⭐ NEW
@@ -1319,4 +1323,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-04-25T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 15 new items - codebase-memory-mcp (code intelligence), pilot-shell (Claude production), toolhive (MCP mgmt), linkedin-mcp (social), ruflo (swarm), mcp-for-beginners (curriculum), mcp-use (framework), unity-mcp (game dev), cursor-talk-to-figma (design), XcodeBuildMCP (iOS dev), mcp-context-forge (AI gateway), holaOS (agent OS), mcp-reticle (MCP debugger), xno-skills (crypto), agentmux (tmux bridge), monitoring-openclaw (infra), awesome-agent-skills (skills registry), assistant (Ollama agent) -->
+<!-- Last updated: 2026-04-26T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new items - VoltAgent (TypeScript agent framework), Mastra (AI framework with RAG), Palmier (mobile agent orchestration), Tasker (desktop automation), AgentX MCP Servers (MCP collection), deduplicated entries -->
