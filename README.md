@@ -97,6 +97,11 @@
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally with orchestration dashboard (⭐ 5.5k, Apr 2026) ⭐ NEW
 - [Smux](https://github.com/gergomiklos/smux) - Terminal multiplexer built for AI agents with split tabs and notifications. macOS-native, Claude Code optimized (⭐ 24, Apr 2026) ⭐ NEW
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation (⭐ 10.7k, Apr 2026) ⭐ NEW
+- [MiroFish](https://github.com/666ghj/MiroFish) - Swarm intelligence engine for prediction. Multi-agent digital sandbox with thousands of evolving agents (⭐ 51.7k, Apr 2026) ⭐ NEW
+- [TradingAgents](https://github.com/TauricResearch/TradingAgents) - Multi-agent LLM financial trading framework with specialized agents: fundamental analysts, sentiment experts, technical analysts, traders, and risk management (⭐ 48.5k, Apr 2026) ⭐ NEW
+- [refly-ai/refly](https://github.com/refly-ai/refly) - Open-source agent skills builder. Define skills by workflow, run on Claude Code, Cursor, Codex & more (⭐ 7.2k, Apr 2026) ⭐ NEW
+- [codeg](https://github.com/xintaofei/codeg) - Aggregate and browse AI coding agent sessions in one place. Desktop app, self-hosted server, or Docker (⭐ 925, Apr 2026) ⭐ NEW
+- [reflectt/reflectt-node](https://github.com/reflectt/reflectt-node) - Coordinate your AI agent team. Shared tasks, memory, reflections, and presence. Self-host for free (⭐ 12, Apr 2026) ⭐ NEW
 - [cowboy-claude](https://github.com/ghostcowboy/cowboy-claude) - Run Claude Code on bare metal Linux with GPU passthrough for ultimate agent performance (⭐ 5.2k, Apr 2026) ⭐ NEW
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet. Search Twitter, Reddit, YouTube, GitHub - one CLI, zero API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
 - [Pincer](https://github.com/pincerhq/pincer) - Self-hosted AI agent you text on WhatsApp, Telegram, or Discord. Web search, email, calendar, script execution, conversation memory - nothing leaves your server (⭐ HN Show, Apr 2026) ⭐ NEW
@@ -243,6 +248,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [BrowserMCP](https://github.com/browsermcp/mcp) - Browser MCP server that allows AI applications to control your browser via native Chrome extension (⭐ 6.2k, Apr 2026) ⭐ NEW
 - [OpenChrome](https://github.com/shaun0927/openchrome) - Open-source browser automation MCP server - control your real Chrome from any AI agent (⭐ 173, Apr 2026) ⭐ NEW
 - [Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp) - Connect AI agents to the web through managed browser infrastructure (⭐ HN Show) ⭐ NEW
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing (⭐ 40.2k, Apr 2026) ⭐ NEW
+- [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption (⭐ 7.6k, Apr 2026) ⭐ NEW
+- [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation (⭐ 2.5k, Apr 2026) ⭐ NEW
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) - GitHub CLI integration (issues, PRs, actions)
 - [git-workflows](https://github.com/openclaw/openclaw/tree/main/skills/git-workflows) - Advanced git operations (rebase, bisect, worktrees)
 - [markdpwn-formatter](https://clawhub.com/skills/markdown-formatter) - Format and beautify markdown documents
@@ -1323,4 +1331,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-04-26T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new items - VoltAgent (TypeScript agent framework), Mastra (AI framework with RAG), Palmier (mobile agent orchestration), Tasker (desktop automation), AgentX MCP Servers (MCP collection), deduplicated entries -->
+<!-- Last updated: 2026-04-27T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 7 new items - MiroFish (swarm prediction engine), TradingAgents (multi-agent trading), refly (agent skills builder), codeg (agent session aggregator), reflectt-node (team coordination), career-ops (job search), career-ops-skills (AI job search) -->
