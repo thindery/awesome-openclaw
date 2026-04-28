@@ -46,6 +46,8 @@
 - [Browserbase Stagehand](https://github.com/browserbase/stagehand) - AI browser automation framework with natural language control, auto-caching, and self-healing workflows (⭐ 22.3k) ⭐ NEW
 - [Vercel Agent Browser](https://github.com/vercel-labs/agent-browser) - Fast native Rust CLI for browser automation with CDP, iOS simulator support, and AI chat integration (⭐ 30.5k) ⭐ NEW
 - [Browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents (⭐ 1.2k) ⭐ NEW
+- [Skyvern](https://github.com/Skyvern-AI/Skyvern) - Automate browser based workflows using LLMs and Computer Vision. Planner-Actor-Validator architecture achieving 85.8% SOTA on WebVoyager benchmark (⭐ 21.3K, Apr 2026) ⭐ NEW
+- [Webpilot](https://github.com/webpilot-ai/Webpilot) - Reliable, fast and secure way to let your LLM control your browser, no disconnects, only one extension (⭐ 1.9k, Apr 2026) ⭐ NEW
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents with file-system organization, auto-categorization, and cost-efficient long-running memory (⭐ 13.3k, Apr 2026) ⭐ NEW
 - [Memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system, standalone library for any AI agent with hybrid retrieval (⭐ 1.3k, Apr 2026) ⭐ NEW
 - [AgentKeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer for AI agents with cross-model memory continuity (⭐ 115, Apr 2026) ⭐ NEW
@@ -219,7 +221,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools - Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW (Apr 2026)
 - [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
 - [DashClaw](https://github.com/ucsandman/DashClaw) - Self-hosted "Mission Control" for AI Agents with Node + Python SDKs, Behavior Guardrails, Cost Tracking (Apr 2026) ⭐ NEW
-- [OctoAlly](https://github.com/octoally/octoally) - Local-first terminal dashboard for AI coding agents with local Whisper voice control and multi-agent orchestration (Apr 2026) ⭐ NEW
+- [OctoAlly](https://github.com/ai-genius-automations/octoally) - AI coding session orchestration dashboard — launch, monitor, and manage Claude Code sessions from a web UI (⭐ 87, Apr 2026) ⭐ NEW
 - [Iris](https://github.com/iris/iris) - MCP-native eval and observability tool for AI agents - know when outputs are wrong, not just HTTP 200 (⭐ HN Show Apr 2026) ⭐ NEW
 - [MCPX](https://github.com/lydakis/mcpx) - Turn any MCP server into a composable CLI for agents - Unix-style command composition for agent workflows (⭐ HN Show Apr 2026) ⭐ NEW
 - [Nanobot](https://github.com/nanobot/nanobot) - Turn MCP servers into full AI agents - framework for agent capabilities on top of MCP (⭐ HN Show Apr 2026) ⭐ NEW
@@ -746,6 +748,7 @@ Tools that work with or extend OpenClaw:
 - [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
 - [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic tool registration for MCP - agents create targeted tools on the fly without context bloat (5⭐ HN) ⭐ NEW
 - [DashClaw](https://github.com/ucsandman/DashClaw) - Decision infrastructure for AI agents - intercept actions, enforce guard policies, require approvals, audit trails (198⭐) ⭐ NEW
+- [AgentBNB](https://github.com/Xiaoher-C/agentbnb) - Where AI agents hire AI agents — hiring and coordination infrastructure for the agent economy (⭐ 30, Apr 2026) ⭐ NEW
 - [Odyssey](https://github.com/liquidos-ai/Odyssey) - Run AI agents across environments with proper sandboxing and orchestration (7⭐ HN Show Mar 2026) ⭐ NEW
 - [zbot](https://github.com/LingaoM/zbot) - AI agent for MCU with Telegram chat (runs on Zephyr or Linux) (4⭐ HN Show Mar 2026) ⭐ NEW
 - [Kern](https://github.com/oguzbilgic/kern-ai) - One agent. One folder. One mind. Every channel - minimal agent harness (4⭐ HN Show Mar 2026) ⭐ NEW
