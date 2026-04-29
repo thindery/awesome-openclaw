@@ -70,6 +70,13 @@
 - [5ire](https://github.com/nanbingxyz/5ire) - Cross-platform desktop AI assistant and MCP client with local knowledge base, usage analytics, prompts library (⭐ 5.2k, Apr 2026) ⭐ NEW
 - [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
 - [SentinelGate](https://github.com/Sentinel-Gate/Sentinelgate) - MCP proxy with access control for AI agents. CEL policies, RBAC, and full audit trail ⭐ NEW
+- [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents. Automate browser tasks with 91K+ stars ⭐ NEW (Apr 2026)
+- [dapr-agents](https://github.com/dapr/dapr-agents) - Build autonomous, resilient AI agents with built-in workflow orchestration, security, statefulness and telemetry by Dapr ⭐ NEW (Apr 2026)
+- [Shannon](https://github.com/kocoro-lab/Shannon) - Production-oriented multi-agent orchestration framework in Go ⭐ NEW (Apr 2026)
+- [A-Mem](https://github.com/WujiangXu/agenticmemory) - Agentic Memory for LLM Agents (NeurIPS 2025) - code for paper on memory systems ⭐ NEW (Apr 2026)
+- [cass_memory_system](https://github.com/Dicklesworthstone/cass_memory_system) - Procedural memory for AI coding agents - transforms session history into persistent, cross-agent memory ⭐ NEW (Apr 2026)
+- [Coagent](https://github.com/OpenCSGs/coagent) - Open-source framework for building monolithic or distributed agentic systems with compositional workflows ⭐ NEW (Apr 2026)
+- [Agently](https://github.com/AgentEra/Agently) - GenAI application development framework with Event-Driven Flow for complex agent logic ⭐ NEW (Apr 2026)
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
