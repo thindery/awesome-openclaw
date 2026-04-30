@@ -394,6 +394,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
+- [Smart Cron](https://github.com/scottgl9/openclaw-smart-cron) - Plugin for gating scheduled OpenClaw runs and executing script-only jobs. Skip expensive model wakes when no work exists, run shell scripts as the job itself (⭐ NEW Apr 2026)
 - [Clawflux](https://github.com/gauravprasadgp/clawflux) - Control plane for deploying OpenClaw instances at scale. Multi-tenant deployment orchestration with Kubernetes backend, async workers, React admin UI, and audit logging (Go, Apr 2026) ⭐ NEW
 - [Scale-OpenClaw](https://github.com/cdxeve/scale-openclaw) - Collect OpenClaw trajectories at scale & Docker-free. Run 100+ parallel sandboxes on a single machine with Docker or chroot backends for SFT, distillation, and RL (Python, Apr 2026) ⭐ NEW
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give AI agents eyes to see the entire internet - search Twitter, Reddit, YouTube, GitHub, no API fees (⭐ 8.9k, Apr 2026) ⭐ NEW
