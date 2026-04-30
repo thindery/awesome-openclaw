@@ -82,6 +82,12 @@
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
 - [awesome-researchclaw](https://github.com/SUSTech-GenAI/awesome-researchclaw) - Curated list of ResearchClaw ecosystem, AI research agents, autonomous paper-writing tools (⭐ 40, Apr 2026)
 - [awesome-ai-agent-incidents](https://github.com/h5i-dev/awesome-ai-agent-incidents) - Curated corpus of incidents, attack vectors, failure modes for autonomous AI agents (⭐ 13, Apr 2026)
+- [Claw Cowork](https://github.com/ClawCowork/claw-cowork) - Self-hosted agentic AI workspace merging React frontend with full subagent loop, reflection, and MCP support (Reddit r/selfhosted, Apr 2026) ⭐ NEW
+- [Diraigent](https://github.com/dirigent/diraigent) - Self-hosted platform for orchestrating AI coding agents through structured pipelines (Reddit r/selfhosted, Apr 2026) ⭐ NEW
+- [thClaws](https://github.com/thClaws/thClaws) - Open-source agent harness platform in Rust, multi-provider, sovereign by design (⭐ 605, Apr 2026) ⭐ NEW
+- [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support, memory, skills, schedules, 23+ LLM providers (⭐ 411, Apr 2026) ⭐ NEW
+- [gitagent](https://github.com/open-gitagent/gitagent) - Universal git-native AI agent framework - agent lives inside a git repo with version-controlled identity, rules, memory, tools (⭐ 281, Apr 2026) ⭐ NEW
+- [MetaClaw](https://github.com/aiming-lab/metaclaw) - Talk to your agent — it learns and EVOLVES. Self-improving agent with genetic learning (⭐ 3.4k, Apr 2026) ⭐ NEW
 - [openclaw-cc-contrib](https://github.com/Jofiction918/openclaw-cc-contrib) - Memory system skills extracted from Claude Code contributions (⭐ 8, Apr 2026)
 - [context-mode](https://github.com/mksglu/context-mode) - MCP virtualization layer for managing AI agent context (6.4k⭐, Apr 2026)
 - [AionUi](https://github.com/iOfficeAI/AionUi) - 24/7 cowork app for OpenClaw, Claude Code, Codex, OpenCode, and other AI agents (⭐ 21k, Apr 2026)
@@ -1232,6 +1238,11 @@ Standalone tools that work with or extend OpenClaw:
 - [agentmux](https://github.com/adelost/agentmux) - Discord bridge for tmux-based coding agents (Claude Code, Codex) - push-to-talk for your AI pair programmer (Apr 2026) ⭐ NEW
 - [assistant](https://github.com/cedricziel/assistant) - Minimalist self-improving personal AI assistant - Ollama-powered, Agent Skills native, MCP server (⭐ 4, Apr 2026) ⭐ NEW
 - [monitoring-openclaw](https://github.com/vincentlefort/monitoring-openclaw) - Monitoring dashboard for OpenClaw infrastructure (Apr 2026) ⭐ NEW
+- [thClaws](https://github.com/thClaws/thClaws) - Open-source agent harness platform in Rust, multi-provider, sovereign by design (⭐ 605, Apr 2026) ⭐ NEW
+- [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support, memory, skills, schedules, 23+ LLM providers (⭐ 411, Apr 2026) ⭐ NEW
+- [gitagent](https://github.com/open-gitagent/gitagent) - Universal git-native AI agent framework - agent lives inside a git repo with version-controlled identity, rules, memory, tools (⭐ 281, Apr 2026) ⭐ NEW
+- [Claw Cowork](https://github.com/ClawCowork/claw-cowork) - Self-hosted agentic AI workspace merging React frontend with full subagent loop, reflection, and MCP support (Reddit r/selfhosted, Apr 2026) ⭐ NEW
+- [Diraigent](https://github.com/dirigent/diraigent) - Self-hosted platform for orchestrating AI coding agents through structured pipelines (Reddit r/selfhosted, Apr 2026) ⭐ NEW
 
 ## Example Projects
 
@@ -1342,4 +1353,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-04-27T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 7 new items - MiroFish (swarm prediction engine), TradingAgents (multi-agent trading), refly (agent skills builder), codeg (agent session aggregator), reflectt-node (team coordination), career-ops (job search), career-ops-skills (AI job search) -->
+<!-- Last updated: 2026-04-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools - thClaws (Rust agent harness), swarmclaw (multi-agent runtime), gitagent (git-native framework), Claw Cowork (agentic workspace), Diraigent (coding agent orchestration), vestige/engram (memory systems) -->
