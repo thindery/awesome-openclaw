@@ -183,6 +183,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [notte](https://github.com/nottelabs/notte) - Full-stack browser agent platform with site interactions, structured output, stealth sessions, and hybrid workflows (⭐ 76, HN Show May 2026) ⭐ NEW
 - [SkillCompass](https://github.com/Evol-ai/SkillCompass) - Diagnose and Improve Claude Code/OpenClaw Skills Across 6 Dimensions - evaluation-driven skill evolution engine (⭐ HN Show Apr 2026) ⭐ NEW
 - [Open-agent-SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Claude Code's internals extracted and open-sourced - drop-in replacement for claude-agent-sdk (⭐ HN Show Apr 2026) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals - 12 lessons covering MCP architecture, server/client development, and real-world applications (⭐ 15.5k) ⭐ NEW
@@ -364,6 +365,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Data & Research
 
+- [hallucinating-splines](https://github.com/andrewedunn/hallucinating-splines) - Headless city simulation platform where AI agents play mayor through REST API and MCP server (⭐ 216, HN Show May 2026) ⭐ NEW
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts (49.3k⭐) ⭐ NEW
 - [Zimi](https://github.com/epheterson/zimi) - Offline ZIM archive access for AI agents and humans - UI, API, and more (Apr 2026) ⭐ NEW
 - [my-training-data](https://github.com/ShanksChen/my-training-data) - Automated training data pipeline from Intervals.icu for AI coaching analysis with ACWR, monotony, and phase detection metrics (⭐ 4.2k) ⭐ NEW
@@ -400,6 +402,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
+- [UltraLab Agent Fleet](https://github.com/UltraLabTW/free-tier-agent-fleet) - Run AI agents on Gemini's free tier ($0/month) - content, sales leads, security scanning, 4 agents on 25 systemd timers (⭐ 16, HN Show May 2026) ⭐ NEW
 - [Smart Cron](https://github.com/scottgl9/openclaw-smart-cron) - Plugin for gating scheduled OpenClaw runs and executing script-only jobs. Skip expensive model wakes when no work exists, run shell scripts as the job itself (⭐ NEW Apr 2026)
 - [Clawflux](https://github.com/gauravprasadgp/clawflux) - Control plane for deploying OpenClaw instances at scale. Multi-tenant deployment orchestration with Kubernetes backend, async workers, React admin UI, and audit logging (Go, Apr 2026) ⭐ NEW
 - [Scale-OpenClaw](https://github.com/cdxeve/scale-openclaw) - Collect OpenClaw trajectories at scale & Docker-free. Run 100+ parallel sandboxes on a single machine with Docker or chroot backends for SFT, distillation, and RL (Python, Apr 2026) ⭐ NEW
@@ -481,6 +484,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Social & Community
 
+- [frigade](https://frigade.ai) - AI agent that learns any web product and guides users directly in the UI, generates docs, takes actions via tool-calling SDK (⭐ 69, HN Show May 2026) ⭐ NEW
 - [bird](https://github.com/openclaw/openclaw/tree/main/skills/bird) - Bluesky social media integration
 - [bluebubbles](https://github.com/openclaw/openclaw/tree/main/skills/bluebubbles) - iMessage integration via BlueBubbles server
 - [browser](https://github.com/openclaw/openclaw/tree/main/skills/browser) - Web browser automation via Playwright
@@ -536,6 +540,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Specialized Roles
 
 Professional-grade skills for specific job roles:
+
+- [potpie](https://github.com/potpie-ai/potpie) - AI agents for engineering use cases: debugging, system design, integration testing, PR review with codebase knowledge graph (⭐ 26, HN Show May 2026) ⭐ NEW
 
 **Executive & Leadership:**
 - [ceo-advisor](https://clawhub.com/skills/ceo-advisor) - Executive leadership toolkit (strategy, board governance, investor relations)
@@ -1262,7 +1268,7 @@ Real projects built with OpenClaw:
 - [convex-skill](https://github.com/fruteroclub/convex-skill) - Convex backend integration for OpenClaw agents
 - [Openclaw-Launcher](https://github.com/ZevinLeo/Openclaw-Launcher) - Universal launcher for OpenClaw (⭐ 7)
 - [nostr-openclaw-dm-plugin](https://github.com/dubzrn/nostr-openclaw-dm-plugin) - Nostr DM integration for OpenClaw
-- [troykelly/openclaw-projects](https://github.com/troykelly/openclaw-projects) - Postgres-backed project + task management for Clawdbot
+- [troykelly/openclaw-projects](https://github.com/troykelly/openclaw-projects) - Postgres-backed project + task management with work graphs, pgvector memory, and dashboard (⭐ 3, May 2026) ⭐ NEW
 - [marian2js/opengoat](https://github.com/marian2js/opengoat) - Orchestrate agents on Codex, Claude Code, Cursor, OpenClaw, Lovable 🐐
 - [trianglegrrl/emotion-engine](https://github.com/trianglegrrl/emotion-engine) - PAD + Ekman + OCEAN emotional model plugin for agents
 - [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) - Cost-optimized personal AI with multi-provider routing 🐚
@@ -1338,6 +1344,7 @@ Real projects built with OpenClaw:
 - [Discord](https://discord.com/invite/clawd) - Real-time chat
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Long-form questions
 - [Blog: Remy COO](https://remy-coo.dev) - Daily insights from an AI COO using OpenClaw *(coming soon)*
+- [webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw (⭐ 618, May 2026) ⭐ NEW
 
 ---
 
@@ -1353,4 +1360,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-04-30T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools - thClaws (Rust agent harness), swarmclaw (multi-agent runtime), gitagent (git-native framework), Claw Cowork (agentic workspace), Diraigent (coding agent orchestration), vestige/engram (memory systems) -->
+<!-- Last updated: 2026-05-01T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 8 new tools - notte (browser agent platform), frigade (in-app AI guide), hallucinating-splines (SimCity AI API), UltraLab Agent Fleet (free-tier automation), potpie (engineering agents), webclaw (fast web client), openclaw-projects (pg-backed PM), plus updated troykelly description -->
