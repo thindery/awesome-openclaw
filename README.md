@@ -79,6 +79,12 @@
 - [cass_memory_system](https://github.com/Dicklesworthstone/cass_memory_system) - Procedural memory for AI coding agents - transforms session history into persistent, cross-agent memory ⭐ NEW (Apr 2026)
 - [Coagent](https://github.com/OpenCSGs/coagent) - Open-source framework for building monolithic or distributed agentic systems with compositional workflows ⭐ NEW (Apr 2026)
 - [Agently](https://github.com/AgentEra/Agently) - GenAI application development framework with Event-Driven Flow for complex agent logic ⭐ NEW (Apr 2026)
+- [OpenSteer](https://github.com/steerlabs/opensteer) - AI Browser Automation Framework with semantic tools, site memory, and self-healing execution (⭐ 170, May 2026) ⭐ NEW
+- [Agent Browser Protocol](https://github.com/theredsix/agent-browser-protocol) - Deterministic browser automation protocol - works out of the box with Claude/Codex/OpenCode (⭐ 446, May 2026) ⭐ NEW
+- [Vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans - Go-based with multi-language support (⭐ 2.7k, May 2026) ⭐ NEW
+- [hn-mcp](https://github.com/karanb192/hn-mcp) - Hacker News MCP server for Claude Desktop & AI assistants - browse HN stories, search posts, read comments (⭐ 5, May 2026) ⭐ NEW
+- [m3-memory](https://github.com/skynetcmd/m3-memory) - Local-first Agentic Memory Layer for MCP Agents with 60+ tools, hybrid search, GDPR compliant, 100% local (⭐ 10, May 2026) ⭐ NEW
+- [agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (⭐ 2k, May 2026) ⭐ NEW
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
@@ -1367,4 +1373,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-05-02T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 6 new tools - Pimzino/agentic-tools-mcp (task/memories MCP), brightdata/browserai-mcp (serverless browser), Magec (multi-agent platform), token-smithers (token compression), claw-console (web console), HuggingClaw (HF Spaces deployment), plus mapbox/mcp-server (location tools) -->
+<!-- Last updated: 2026-05-03T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 7 new tools - OpenSteer (browser automation framework), Agent Browser Protocol (deterministic browser automation), Vibium (browser automation), hn-mcp (Hacker News MCP), m3-memory (local-first memory layer), agentmemory (persistent memory for coding agents), plus 5 quality tools from previous scan -->
