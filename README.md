@@ -949,6 +949,9 @@ Tools that work with or extend OpenClaw:
 - [Midscene.js](https://github.com/web-infra-dev/midscene) - Vision-based UI automation for web, iOS, Android with natural language control ⭐ NEW
 - [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - Open-source multimodal AI agent stack from ByteDance connecting AI models and agent infrastructure ⭐ NEW
 - [Understudy](https://github.com/understudy-ai/understudy) - Local-first desktop agent that learns tasks from GUI demonstrations, then performs them autonomously (411⭐, MIT) ⭐ NEW
+- [OpenSteer](https://github.com/steerlabs/opensteer) - AI Browser Automation Framework with semantic tools, site memory, and self-healing execution (⭐ 170, May 2026) ⭐ NEW
+- [Agent Browser Protocol](https://github.com/theredsix/agent-browser-protocol) - Deterministic browser automation protocol - works out of the box with Claude/Codex/OpenCode (⭐ 446, May 2026) ⭐ NEW
+- [Vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans - Go-based with multi-language support (⭐ 2.7k, May 2026) ⭐ NEW
 
 ### AI Companions & Agents
 
@@ -1373,4 +1376,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-05-03T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 7 new tools - OpenSteer (browser automation framework), Agent Browser Protocol (deterministic browser automation), Vibium (browser automation), hn-mcp (Hacker News MCP), m3-memory (local-first memory layer), agentmemory (persistent memory for coding agents), plus 5 quality tools from previous scan -->
+<!-- Last updated: 2026-05-04T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools - UltraLab Agent Fleet (free tier agent fleet), claw-console (web console), HuggingClaw (HuggingFace deployment), OpenSteer (browser automation), Agent Browser Protocol (deterministic automation), Vibium (Go browser automation), hn-mcp (Hacker News MCP), m3-memory (local-first memory), agentmemory (persistent memory), mapbox-mcp (location tools), unity-mcp (Unity Editor MCP), cursor-talk-to-figma-mcp (Figma MCP) -->
