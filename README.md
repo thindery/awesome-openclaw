@@ -85,6 +85,9 @@
 - [hn-mcp](https://github.com/karanb192/hn-mcp) - Hacker News MCP server for Claude Desktop & AI assistants - browse HN stories, search posts, read comments (⭐ 5, May 2026) ⭐ NEW
 - [m3-memory](https://github.com/skynetcmd/m3-memory) - Local-first Agentic Memory Layer for MCP Agents with 60+ tools, hybrid search, GDPR compliant, 100% local (⭐ 10, May 2026) ⭐ NEW
 - [agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (⭐ 2k, May 2026) ⭐ NEW
+- [webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw (⭐ 618, May 2026) ⭐ NEW
+- [chatclaw](https://github.com/fastclaw-ai/chatclaw) - Chat UI for OpenClaw (⭐ 227, May 2026) ⭐ NEW
+- [mcp-hacker-news](https://github.com/paabloLC/mcp-hacker-news) - MCP server for Hacker News API integration (⭐ 31, May 2026) ⭐ NEW
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
@@ -1265,6 +1268,11 @@ Standalone tools that work with or extend OpenClaw:
 - [gitagent](https://github.com/open-gitagent/gitagent) - Universal git-native AI agent framework - agent lives inside a git repo with version-controlled identity, rules, memory, tools (⭐ 281, Apr 2026) ⭐ NEW
 - [Claw Cowork](https://github.com/ClawCowork/claw-cowork) - Self-hosted agentic AI workspace merging React frontend with full subagent loop, reflection, and MCP support (Reddit r/selfhosted, Apr 2026) ⭐ NEW
 - [Diraigent](https://github.com/dirigent/diraigent) - Self-hosted platform for orchestrating AI coding agents through structured pipelines (Reddit r/selfhosted, Apr 2026) ⭐ NEW
+- [openclaw-crm](https://github.com/giorgosn/openclaw-crm) - The CRM your AI agent already knows how to use. Open-source, self-hosted, with native OpenClaw Bot integration (⭐ 52, May 2026) ⭐ NEW
+- [openclaw-penfield](https://github.com/penfieldlabs/openclaw-penfield) - Persistent memory for OpenClaw - your lobster remembers everything (⭐ 8, May 2026) ⭐ NEW
+- [mcp-hacker-news](https://github.com/paabloLC/mcp-hacker-news) - MCP server for Hacker News API - browse stories, search posts, read comments (⭐ 31, May 2026) ⭐ NEW
+- [google-research-mcp](https://github.com/zoharbabin/google-research-mcp) - MCP server for Google web search, webpage reading, and YouTube transcript extraction (May 2026) ⭐ NEW
+- [MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) - Framework for RL training, benchmarking, and developing AI agents for general tool-use via MCP (⭐ 581, May 2026) ⭐ NEW
 
 ## Example Projects
 
@@ -1360,7 +1368,6 @@ Real projects built with OpenClaw:
 - [Discord](https://discord.com/invite/clawd) - Real-time chat
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Long-form questions
 - [Blog: Remy COO](https://remy-coo.dev) - Daily insights from an AI COO using OpenClaw *(coming soon)*
-- [webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw (⭐ 618, May 2026) ⭐ NEW
 
 ---
 
@@ -1376,4 +1383,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-05-04T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools - UltraLab Agent Fleet (free tier agent fleet), claw-console (web console), HuggingClaw (HuggingFace deployment), OpenSteer (browser automation), Agent Browser Protocol (deterministic automation), Vibium (Go browser automation), hn-mcp (Hacker News MCP), m3-memory (local-first memory), agentmemory (persistent memory), mapbox-mcp (location tools), unity-mcp (Unity Editor MCP), cursor-talk-to-figma-mcp (Figma MCP) -->
+<!-- Last updated: 2026-05-05T15:00Z by Awesome-OpenClaw Updater -->
+<!-- Added: 8 new tools - webclaw (fast web client), openclaw-crm (CRM integration), chatclaw (chat UI), ibelick/webclaw, penfieldlabs/openclaw-penfield (persistent memory), paabloLC/mcp-hacker-news, zoharbabin/google-research-mcp, SalesforceAIResearch/MCP-Universe -->
