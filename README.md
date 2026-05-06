@@ -250,6 +250,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [OctoAlly](https://github.com/ai-genius-automations/octoally) - AI coding session orchestration dashboard — launch, monitor, and manage Claude Code sessions from a web UI (⭐ 87, Apr 2026) ⭐ NEW
 - [Iris](https://github.com/iris/iris) - MCP-native eval and observability tool for AI agents - know when outputs are wrong, not just HTTP 200 (⭐ HN Show Apr 2026) ⭐ NEW
 - [MCPX](https://github.com/lydakis/mcpx) - Turn any MCP server into a composable CLI for agents - Unix-style command composition for agent workflows (⭐ HN Show Apr 2026) ⭐ NEW
+- [MCPRated](https://github.com/mcprated/mcprated) - Agent-readable quality ratings for MCP servers - daily lint, 4 axes (Reliability/Documentation/Trust/Community), composite 0-100 scores with remote MCP endpoint for runtime discovery (May 2026) ⭐ NEW
+- [mcpx](https://github.com/codestz/mcpx) - Control plane for MCP servers - wraps any MCP server into a CLI command with security policies, audit logging, and scoped daemon isolation (⭐ Go, May 2026) ⭐ NEW
 - [Nanobot](https://github.com/nanobot/nanobot) - Turn MCP servers into full AI agents - framework for agent capabilities on top of MCP (⭐ HN Show Apr 2026) ⭐ NEW
 - [Crow](https://github.com/crow-mcp/crow) - Self-hosted MCP platform with persistent memory, research tools, encrypted P2P sharing. Local SQLite, no cloud required (⭐ HN Show Apr 2026) ⭐ NEW
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
@@ -758,6 +760,7 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [ClaudeClaw](https://github.com/moazbuilds/claudeclaw) - Lightweight OpenClaw version built into Claude Code - background daemon with cron jobs, heartbeat automation, Telegram/Discord bridges, and web dashboard (⭐ 1,060, May 2026) ⭐ NEW
 - [Roids](https://github.com/developing-gamer/roids) - Compare UI directions side by side in the browser. Open-source skill + runtime for AI coding agents (Cursor, Claude Code, Codex). When an agent generates multiple layout variants, Roids wires them into a single page with a bar to flip between them (3⭐, Apr 2026) ⭐ NEW
 - [Lilo](https://github.com/abi/lilo) - Agentic personal OS — your apps, memories, files, and agent in one workspace. Ask your agent to build apps, customize your OS, remember things. Reach it from desktop, mobile, WhatsApp, Telegram, or email (Apr 2026) ⭐ NEW
 - [agent-flow](https://github.com/patoles/agent-flow) - Real-time visualization of Claude Code agent orchestration - watch agents think, branch, and coordinate with interactive node graphs ⭐ NEW
