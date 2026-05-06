@@ -321,6 +321,24 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Structural harness for AI agents in real projects with clarification protocols and context budgets (3⭐ HN) ⭐ NEW
 - [solutions-architect-skills](https://github.com/shadowX4fox/solutions-architect-skills) - Professional architecture documentation workflow for Claude Code (18⭐) ⭐ NEW
 - [obsidian-claude-plugins](https://github.com/jlaska/obsidian-claude-plugins) - Obsidian vault integration skills for Claude Code (12⭐) ⭐ NEW
+- [atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Official Atlassian MCP server securely connects Jira and Confluence with your LLM, IDE, or agent platform (507⭐, May 2026) ⭐ NEW
+- [mapbox/mcp-server](https://github.com/mapbox/mcp-server) - Mapbox MCP server for location and mapping tools in AI agents (⭐ 333, May 2026) ⭐ NEW
+- [unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP bridge allowing AI assistants to interact with Unity Editor - manage assets, control scenes, edit scripts (⭐ 8.9k, May 2026) ⭐ NEW
+- [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration for AI agents to read and modify Figma designs programmatically (⭐ 6.7k, May 2026) ⭐ NEW
+- [mcp-context-forge](https://github.com/IBM/mcp-context-forge) - AI Gateway, registry, and proxy for MCP/A2A/REST/gRPC APIs with centralized discovery and guardrails (⭐ 3.6k, May 2026) ⭐ NEW
+- [holaOS](https://github.com/holaboss-ai/holaOS) - The computer for you and your agent - AI-native operating system (⭐ 3.4k, May 2026) ⭐ NEW
+- [Pimzino/agentic-tools-mcp](https://github.com/Pimzino/agentic-tools-mcp) - Task management and agent memories MCP server with project-specific storage (⭐ 81, May 2026) ⭐ NEW
+- [brightdata/browserai-mcp](https://github.com/brightdata/browserai-mcp) - Serverless browser access for AI agents via MCP (⭐ 32, May 2026) ⭐ NEW
+- [hn-mcp](https://github.com/karanb192/hn-mcp) - Hacker News MCP server for Claude Desktop & AI assistants - browse HN stories, search posts, read comments (⭐ 5, May 2026) ⭐ NEW
+- [m3-memory](https://github.com/skynetcmd/m3-memory) - Local-first Agentic Memory Layer for MCP Agents with 60+ tools, hybrid search, GDPR compliant, 100% local (⭐ 10, May 2026) ⭐ NEW
+- [agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks (⭐ 2k, May 2026) ⭐ NEW
+- [webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw (⭐ 618, May 2026) ⭐ NEW
+- [chatclaw](https://github.com/fastclaw-ai/chatclaw) - Chat UI for OpenClaw (⭐ 227, May 2026) ⭐ NEW
+- [mcp-hacker-news](https://github.com/paabloLC/mcp-hacker-news) - MCP server for Hacker News API integration (⭐ 31, May 2026) ⭐ NEW
+- [google-research-mcp](https://github.com/zoharbabin/google-research-mcp) - MCP server for Google web search, webpage reading, and YouTube transcript extraction (May 2026) ⭐ NEW
+- [MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) - Framework for RL training, benchmarking, and developing AI agents for general tool-use via MCP (⭐ 581, May 2026) ⭐ NEW
+- [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway - monitor health, manage sessions, chat with agents, administer cron, logs & approvals (⭐ 3, May 2026) ⭐ NEW
+- [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces for free - any LLM, Telegram support, auto-sync (⭐ 5, May 2026) ⭐ NEW
 
 ### Media & Content
 
