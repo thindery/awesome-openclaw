@@ -195,6 +195,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [DashClaw](https://github.com/ucsandman/DashClaw) - Decision infrastructure for AI agents — intercept actions, enforce guard policies, require approvals, produce audit-ready decision trails. MCP server, CLI, Discord/Telegram approvals (⭐ 252, May 2026) ⭐ NEW
 - [notte](https://github.com/nottelabs/notte) - Full-stack browser agent platform with site interactions, structured output, stealth sessions, and hybrid workflows (⭐ 76, HN Show May 2026) ⭐ NEW
 - [SkillCompass](https://github.com/Evol-ai/SkillCompass) - Diagnose and Improve Claude Code/OpenClaw Skills Across 6 Dimensions - evaluation-driven skill evolution engine (⭐ HN Show Apr 2026) ⭐ NEW
 - [Open-agent-SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Claude Code's internals extracted and open-sourced - drop-in replacement for claude-agent-sdk (⭐ HN Show Apr 2026) ⭐ NEW
@@ -397,6 +398,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Data & Research
 
+- [Zimi](https://github.com/epheterson/zimi) - Offline ZIM archive access for AI agents and humans — UI, API, full-text search. Access Wikipedia, Project Gutenberg, Stack Exchange offline (⭐ HN Show Apr 2026) ⭐ NEW
 - [hallucinating-splines](https://github.com/andrewedunn/hallucinating-splines) - Headless city simulation platform where AI agents play mayor through REST API and MCP server (⭐ 216, HN Show May 2026) ⭐ NEW
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts (49.3k⭐) ⭐ NEW
 - [Zimi](https://github.com/epheterson/zimi) - Offline ZIM archive access for AI agents and humans - UI, API, and more (Apr 2026) ⭐ NEW
@@ -434,6 +436,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
+- [ServiceNow Skill](https://github.com/onlyflowstech/servicenow-openclaw-skill) - First ServiceNow skill for OpenClaw — query, create, update records across any ServiceNow table using natural language. Full CRUD, analytics, schema introspection, attachment management (⭐ 7, May 2026) ⭐ NEW
 - [UltraLab Agent Fleet](https://github.com/UltraLabTW/free-tier-agent-fleet) - Run AI agents on Gemini's free tier ($0/month) - content, sales leads, security scanning, 4 agents on 25 systemd timers (⭐ 16, HN Show May 2026) ⭐ NEW
 - [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway - monitor health, manage sessions, chat with agents, administer cron, logs & approvals (⭐ 3, May 2026) ⭐ NEW
 - [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces for free - any LLM, Telegram support, auto-sync (⭐ 5, May 2026) ⭐ NEW
@@ -778,6 +781,8 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Diraigent](https://github.com/dirigent/diraigent) - Self-hosted platform for orchestrating AI coding agents through structured pipelines — Docker Compose stack with OpenClaw + Open WebUI integration (Reddit r/selfhosted, Apr 2026) ⭐ NEW
+- [OctoAlly](https://github.com/ai-genius-automations/octoally) - Local-first terminal dashboard for AI coding agents with local Whisper voice control and multi-agent orchestration (⭐ 87, Apr 2026) ⭐ NEW
 - [ClaudeClaw](https://github.com/moazbuilds/claudeclaw) - Lightweight OpenClaw version built into Claude Code - background daemon with cron jobs, heartbeat automation, Telegram/Discord bridges, and web dashboard (⭐ 1,060, May 2026) ⭐ NEW
 - [Roids](https://github.com/developing-gamer/roids) - Compare UI directions side by side in the browser. Open-source skill + runtime for AI coding agents (Cursor, Claude Code, Codex). When an agent generates multiple layout variants, Roids wires them into a single page with a bar to flip between them (3⭐, Apr 2026) ⭐ NEW
 - [Lilo](https://github.com/abi/lilo) - Agentic personal OS — your apps, memories, files, and agent in one workspace. Ask your agent to build apps, customize your OS, remember things. Reach it from desktop, mobile, WhatsApp, Telegram, or email (Apr 2026) ⭐ NEW
