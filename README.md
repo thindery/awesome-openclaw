@@ -440,6 +440,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [UltraLab Agent Fleet](https://github.com/UltraLabTW/free-tier-agent-fleet) - Run AI agents on Gemini's free tier ($0/month) - content, sales leads, security scanning, 4 agents on 25 systemd timers (⭐ 16, HN Show May 2026) ⭐ NEW
 - [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway - monitor health, manage sessions, chat with agents, administer cron, logs & approvals (⭐ 3, May 2026) ⭐ NEW
 - [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces for free - any LLM, Telegram support, auto-sync (⭐ 5, May 2026) ⭐ NEW
+- [MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) - Framework for RL training, benchmarking, and developing AI agents for general tool-use via MCP (⭐ 581, May 2026) ⭐ NEW
+- [google-research-mcp](https://github.com/zoharbabin/google-research-mcp) - MCP server for Google web search, webpage reading, and YouTube transcript extraction (May 2026) ⭐ NEW
+- [mcp-hacker-news](https://github.com/paabloLC/mcp-hacker-news) - MCP server for Hacker News API - browse stories, search posts, read comments (⭐ 31, May 2026) ⭐ NEW
 - [Smart Cron](https://github.com/scottgl9/openclaw-smart-cron) - Plugin for gating scheduled OpenClaw runs and executing script-only jobs. Skip expensive model wakes when no work exists, run shell scripts as the job itself (⭐ NEW Apr 2026)
 - [Clawflux](https://github.com/gauravprasadgp/clawflux) - Control plane for deploying OpenClaw instances at scale. Multi-tenant deployment orchestration with Kubernetes backend, async workers, React admin UI, and audit logging (Go, Apr 2026) ⭐ NEW
 - [Scale-OpenClaw](https://github.com/cdxeve/scale-openclaw) - Collect OpenClaw trajectories at scale & Docker-free. Run 100+ parallel sandboxes on a single machine with Docker or chroot backends for SFT, distillation, and RL (Python, Apr 2026) ⭐ NEW
@@ -981,6 +984,9 @@ Tools that work with or extend OpenClaw:
 - [OpenSteer](https://github.com/steerlabs/opensteer) - AI Browser Automation Framework with semantic tools, site memory, and self-healing execution (⭐ 170, May 2026) ⭐ NEW
 - [Agent Browser Protocol](https://github.com/theredsix/agent-browser-protocol) - Deterministic browser automation protocol - works out of the box with Claude/Codex/OpenCode (⭐ 446, May 2026) ⭐ NEW
 - [Vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans - Go-based with multi-language support (⭐ 2.7k, May 2026) ⭐ NEW
+- [Vessel Browser](https://github.com/unmodeled-tyler/quanta-vessel-browser) - Open-source AI browser for Linux/Windows built for agents - durable state, MCP control, BYOK with full autonomous browsing (⭐ 84, May 2026) ⭐ NEW
+- [HyperAgent](https://github.com/hyperbrowserai/hyperagent) - AI Browser Automation with structured output, stealth sessions, and hybrid workflows (⭐ 1.3k, May 2026) ⭐ NEW
+- [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation - multi-agent workflows with your own LLM API key (⭐ 12.9k, May 2026) ⭐ NEW
 
 ### AI Companions & Agents
 
@@ -1283,6 +1289,13 @@ Standalone tools that work with or extend OpenClaw:
 - [prompthistory](https://github.com/junhoyeo/prompthistory) - Search, replay, test, and compare AI coding assistant prompts across OpenClaw, Claude Code, Codex (Apr 2026) ⭐ NEW
 - [claw-console](https://github.com/lincolncpp/claw-console) - Web console for OpenClaw Gateway - monitor health, manage AI agent sessions, chat with agents, administer cron, logs & approvals (⭐ 3, Apr 2026) ⭐ NEW
 - [HuggingClaw](https://github.com/somratpro/HuggingClaw) - Run your own always-on AI assistant on HuggingFace Spaces - for free. Any LLM, Telegram support, auto-sync, built-in keep-alive (⭐ 5, Apr 2026) ⭐ NEW
+- [Nanobot](https://github.com/nanobot-ai/nanobot) - Turn MCP servers into full AI agents with reasoning, system prompts, and orchestration. Supports MCP-UI for interactive components (⭐ 1.3k, May 2026) ⭐ NEW
+- [Vessel Browser](https://github.com/unmodeled-tyler/quanta-vessel-browser) - Open-source AI browser for Linux/Windows built for agents - durable state, MCP control, BYOK with full autonomous browsing (May 2026) ⭐ NEW
+- [HyperAgent](https://github.com/hyperbrowserai/hyperagent) - AI Browser Automation with structured output, stealth sessions, and hybrid workflows (⭐ 1.3k, May 2026) ⭐ NEW
+- [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation - multi-agent workflows with your own LLM API key (⭐ 12.9k, May 2026) ⭐ NEW
+- [ToolMesh](https://github.com/toolmesh/toolmesh) - Turn REST APIs into MCP tools via declarative YAML - transforms 30+ backends into agent tools (May 2026) ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Framework for creating multi-agent systems with coordinated AI collaboration through MCP (May 2026) ⭐ NEW
+- [MCPC](https://github.com/mcpc-tech/mcpc) - Build agentic-MCP servers by composing existing MCP tools (⭐ 89, May 2026) ⭐ NEW
 - [mcp-reticle](https://github.com/azerzeki/mcp-reticle) - Analyze and visualize MCP traffic like Wireshark - debug Model Context Protocol communications (Apr 2026) ⭐ NEW
 - [xno-skills](https://github.com/CasualSecurityInc/xno-skills) - AI agent Skills, CLI and MCP server for Nano (XNO) cryptocurrency - generate wallets, convert units, validate addresses, QR codes (Apr 2026) ⭐ NEW
 - [awesome-agent-skills](https://github.com/jrmapa/awesome-agent-skills) - Explore modular agent skills for dynamic AI development with SKILL.md packages (⭐ 6, Apr 2026) ⭐ NEW
@@ -1409,5 +1422,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-05-05T15:00Z by Awesome-OpenClaw Updater -->
-<!-- Added: 8 new tools - webclaw (fast web client), openclaw-crm (CRM integration), chatclaw (chat UI), ibelick/webclaw, penfieldlabs/openclaw-penfield (persistent memory), paabloLC/mcp-hacker-news, zoharbabin/google-research-mcp, SalesforceAIResearch/MCP-Universe -->
+<!-- Last updated: 2026-05-08T15:00Z by Awesome-OpenClaw Updater -->
+<!-- Added: 10 new tools - Nanobot (MCP-to-agent framework), Vessel Browser, HyperAgent, Nanobrowser, ToolMesh, Agent-MCP, MCPC, Vibium (browser automation), ServiceNow Skill, UltraLab Agent Fleet -->
