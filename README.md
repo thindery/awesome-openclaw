@@ -1297,6 +1297,19 @@ Standalone tools that work with or extend OpenClaw:
 - [Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Framework for creating multi-agent systems with coordinated AI collaboration through MCP (May 2026) ⭐ NEW
 - [MCPC](https://github.com/mcpc-tech/mcpc) - Build agentic-MCP servers by composing existing MCP tools (⭐ 89, May 2026) ⭐ NEW
 - [mcp-reticle](https://github.com/azerzeki/mcp-reticle) - Analyze and visualize MCP traffic like Wireshark - debug Model Context Protocol communications (Apr 2026) ⭐ NEW
+- [AgentSearch](https://github.com/brcrusoe72/agentsearch) - Self-hosted search and MCP for AI agents, no API keys required. Local search with MCP server integration (HN Show May 2026) ⭐ NEW
+- [Tilde.run](https://tilde.run) - Agent sandbox with transactional, versioned filesystem. Git for AI agents - snapshot, branch, and hibernate agent execution (⭐ 199, HN Show May 2026) ⭐ NEW
+- [Airbyte Agents](https://github.com/airbytehq/airbyte) - Context for agents across multiple data sources with data integration platform (⭐ 149, HN Show May 2026) ⭐ NEW
+- [Agent Skills Eval](https://github.com/darkrishabh/agent-skills-eval) - Test whether Agent Skills actually improve outputs. Benchmark framework for skill evaluation (⭐ 75, HN Show May 2026) ⭐ NEW
+- [Kstack](https://github.com/kubetail-org/kstack) - Skill pack for monitoring/troubleshooting Kubernetes in Claude Code. K8s ops as agent skills (⭐ 23, HN Show May 2026) ⭐ NEW
+- [AgentX](https://github.com/anis-marrouchi/agentx) - AI operations layer for SMBs. Route Telegram, WhatsApp, Slack, Discord, GitLab, crons to AI agents on Claude, OpenAI, or any LLM (May 2026) ⭐ NEW
+- [OfficeOS](https://github.com/officeos-co/officeos) - Launch agents in seconds, scale to hundreds. Managed agent platform for teams (May 2026) ⭐ NEW
+- [go-magic](https://github.com/magicwubiao/go-magic) - High-performance, ultra-lightweight Go implementation of AI Agent, inspired by Nous Research's hermes-agent (May 2026) ⭐ NEW
+- [tea2adt](https://github.com/ClarkFieseln/tea2adt) - Command-line utility for Remote Shell, Remote AI Prompt, Chat and File Transfer using encrypted audio connections via minimodem and gpg (May 2026) ⭐ NEW
+- [cligate](https://github.com/codeking-ai/cligate) - Multi-protocol AI proxy server for Claude Code, Codex CLI, Gemini CLI & OpenClaw. Account pooling, API key management, free model routing (May 2026) ⭐ NEW
+- [openclaw-dashboard-chat-mark](https://github.com/TinaQian2017/openclaw-dashboard-chat-mark-plugin) - Mark, bookmark and star past chat messages in OpenClaw conversations. Inject marked history as context into future messages (May 2026) ⭐ NEW
+- [memory-sync-skill](https://github.com/Wildprogrammer/memory-sync-skill) - Build shared memory library between you and your agent, improving memory portability across sessions (May 2026) ⭐ NEW
+- [openclaw-autotrader](https://github.com/JokerJohn/openclaw-autotrader) - 30-day public U.S. stock challenge following a live lobster through market days (May 2026) ⭐ NEW
 - [xno-skills](https://github.com/CasualSecurityInc/xno-skills) - AI agent Skills, CLI and MCP server for Nano (XNO) cryptocurrency - generate wallets, convert units, validate addresses, QR codes (Apr 2026) ⭐ NEW
 - [awesome-agent-skills](https://github.com/jrmapa/awesome-agent-skills) - Explore modular agent skills for dynamic AI development with SKILL.md packages (⭐ 6, Apr 2026) ⭐ NEW
 - [agentmux](https://github.com/adelost/agentmux) - Discord bridge for tmux-based coding agents (Claude Code, Codex) - push-to-talk for your AI pair programmer (Apr 2026) ⭐ NEW
@@ -1422,5 +1435,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-05-08T15:00Z by Awesome-OpenClaw Updater -->
-<!-- Added: 10 new tools - Nanobot (MCP-to-agent framework), Vessel Browser, HyperAgent, Nanobrowser, ToolMesh, Agent-MCP, MCPC, Vibium (browser automation), ServiceNow Skill, UltraLab Agent Fleet -->
+<!-- Last updated: 2026-05-09T15:00Z by Awesome-OpenClaw Updater -->
+<!-- Added: 7 new tools - AgentSearch (self-hosted search/MCP), Git for AI Agents (Tilde.run), Airbyte Agents, Agent Skills Eval, Kstack (K8s monitoring), AgentX (SMB AI ops), OfficeOS (agent platform) -->
