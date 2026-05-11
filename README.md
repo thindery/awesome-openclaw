@@ -98,6 +98,15 @@
 - [thClaws](https://github.com/thClaws/thClaws) - Open-source agent harness platform in Rust, multi-provider, sovereign by design (⭐ 605, Apr 2026) ⭐ NEW
 - [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support, memory, skills, schedules, 23+ LLM providers (⭐ 411, Apr 2026) ⭐ NEW
 - [gitagent](https://github.com/open-gitagent/gitagent) - Universal git-native AI agent framework - agent lives inside a git repo with version-controlled identity, rules, memory, tools (⭐ 281, Apr 2026) ⭐ NEW
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - A Unified Virtual Filesystem For AI Agents - abstraction layer for file operations across storage backends (⭐ 1,881, May 2026) ⭐ NEW
+- [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents - native device automation for mobile testing (⭐ 2,007, May 2026) ⭐ NEW
+- [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents - call any OpenAPI/MCP/GraphQL/custom JS functions in secure environment (⭐ 1,616, May 2026) ⭐ NEW
+- [beenuar/AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI-powered Security Operations Center - alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation (⭐ 454, May 2026) ⭐ NEW
+- [homeassistant-mcp](https://github.com/robbrad/homeassistant-mcp) - Home Assistant MCP Server - Control your smart home with AI assistants via the Model Context Protocol (⭐ 96, May 2026) ⭐ NEW
+- [freee-mcp](https://github.com/freee/freee-mcp) - Model Context Protocol server for freee API integration - accounting and business management for AI agents (⭐ 434, May 2026) ⭐ NEW
+- [darkrishabh/agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval) - A test runner for agentskills.io-style AI agent skills - standardized skill evaluation framework (⭐ 383, May 2026) ⭐ NEW
+- [alvinunreal/openpets](https://github.com/alvinunreal/openpets) - Desktop pets for AI coding agents - install pets, connect Claude Code via MCP, see live coding status on desktop (⭐ 207, May 2026) ⭐ NEW
+- [scrapegraph-py](https://github.com/ScrapeGraphAI/scrapegraph-py) - Smart scraping, search, crawling, markdownify, agentic browser automation, scheduled jobs, structured data extraction (⭐ 73, May 2026) ⭐ NEW
 - [MetaClaw](https://github.com/aiming-lab/metaclaw) - Talk to your agent — it learns and EVOLVES. Self-improving agent with genetic learning (⭐ 3.4k, Apr 2026) ⭐ NEW
 - [openclaw-cc-contrib](https://github.com/Jofiction918/openclaw-cc-contrib) - Memory system skills extracted from Claude Code contributions (⭐ 8, Apr 2026)
 - [context-mode](https://github.com/mksglu/context-mode) - MCP virtualization layer for managing AI agent context (6.4k⭐, Apr 2026)
