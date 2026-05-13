@@ -32,6 +32,9 @@
 ## Official Resources
 
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw) - Main repository
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's official AI agent that brings Gemini power directly to your terminal (⭐ 103k, May 2026) ⭐ NEW
+- [Agency Agents](https://github.com/msitarzewski/agency-agents) - Complete AI agency at your fingertips - specialized expert agents with personality and proven deliverables (⭐ 96.7k, May 2026) ⭐ NEW
+- [Claude Mem](https://github.com/thedotmack/claude-mem) - Persistent context across sessions for every agent - captures, compresses, and injects relevant context into future sessions (⭐ 75.4k, May 2026) ⭐ NEW
 - [IronClaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired Rust implementation focused on privacy/security with WASM sandbox, credential protection, and prompt injection defense (⭐ 12K, Apr 2026) ⭐ NEW
 - [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
 - [HiveBox](https://github.com/TetiAI/hivebox) - Lightweight Linux sandbox for AI agents with kernel-native isolation, MCP bridge, and web dashboard. Single Rust binary (Apr 2026) ⭐ NEW
@@ -40,9 +43,6 @@
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's multi-language framework for building, orchestrating, and deploying AI agents with Python/.NET support, graph-based workflows, and DevUI (⭐ 9.6k) ⭐ NEW
 - [Google A2A Protocol](https://github.com/google/A2A) - Agent2Agent open protocol enabling communication and interoperability between agentic applications (⭐ 23.3k) ⭐ NEW
 - [Mozilla any-agent](https://github.com/mozilla-ai/any-agent) - Single interface to use and evaluate different agent frameworks (TinyAgent, Google ADK, LangChain, LlamaIndex, OpenAI Agents, Smolagents) (⭐ 1.1k) ⭐ NEW
-- [IronClaw](https://github.com/nearai/ironclaw) - OpenClaw-inspired Rust implementation focused on privacy/security with WASM sandbox, credential protection, and prompt injection defense (⭐ 12K, Apr 2026) ⭐ NEW
-- [AgenticMail](https://github.com/agenticmail/agenticmail) - Open-source email & SMS identity for AI agents with 63 tools and multi-agent coordination (Apr 2026) ⭐ NEW
-- [HiveBox](https://github.com/TetiAI/hivebox) - Lightweight Linux sandbox for AI agents with kernel-native isolation, MCP bridge, and web dashboard. Single Rust binary (Apr 2026) ⭐ NEW
 - [Browserbase Stagehand](https://github.com/browserbase/stagehand) - AI browser automation framework with natural language control, auto-caching, and self-healing workflows (⭐ 22.3k) ⭐ NEW
 - [Vercel Agent Browser](https://github.com/vercel-labs/agent-browser) - Fast native Rust CLI for browser automation with CDP, iOS simulator support, and AI chat integration (⭐ 30.5k) ⭐ NEW
 - [Browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents (⭐ 1.2k) ⭐ NEW
@@ -51,6 +51,7 @@
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents with file-system organization, auto-categorization, and cost-efficient long-running memory (⭐ 13.3k, Apr 2026) ⭐ NEW
 - [Memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system, standalone library for any AI agent with hybrid retrieval (⭐ 1.3k, Apr 2026) ⭐ NEW
 - [AgentKeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer for AI agents with cross-model memory continuity (⭐ 115, Apr 2026) ⭐ NEW
+- [Mnemos](https://github.com/mnemos-os/mnemos) - Production-grade memory operating system for agentic AI. Interoperates with every major framework via MCP [⭐ 7, May 2026] ⭐ NEW
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform with TypeScript framework, built-in observability, and multi-LLM support (⭐ 8.4k, Apr 2026) ⭐ NEW
 - [Mastra](https://github.com/takeru/mastra) - TypeScript AI agent framework with RAG, observability, and support for GPT-4, Claude, Gemini, Llama (trending, Apr 2026) ⭐ NEW
 - [Palmier](https://github.com/palmier-ai/palmier) - Dispatch and schedule AI agents from your phone with mobile-first orchestration (HN Show Apr 2026) ⭐ NEW
@@ -88,6 +89,10 @@
 - [webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw (⭐ 618, May 2026) ⭐ NEW
 - [chatclaw](https://github.com/fastclaw-ai/chatclaw) - Chat UI for OpenClaw (⭐ 227, May 2026) ⭐ NEW
 - [mcp-hacker-news](https://github.com/paabloLC/mcp-hacker-news) - MCP server for Hacker News API integration (⭐ 31, May 2026) ⭐ NEW
+- [Beehive PAL MCP](https://github.com/BeehiveInnovations/pal-mcp-server) - Multi-model orchestration layer - Claude Code / GeminiCLI / CodexCLI working as one with any LLM provider [⭐ 11.5k, May 2026] ⭐ NEW
+- [Kuri](https://github.com/justrach/kuri) - Zig-native browser automation and device control for AI agents. Token-efficient CDP snapshots, HAR recording [⭐ 305, May 2026] ⭐ NEW
+- [Site Memory](https://github.com/LittleYier/site-memory) - Persistent memory for browser automation AI agents. Learns site knowledge automatically [⭐ 241, May 2026] ⭐ NEW
+- [Windows MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows - desktop automation for Windows agents [⭐ 5.5k, May 2026] ⭐ NEW
 - [Documentation](https://docs.openclaw.ai) - Official docs
 - [ClawHub](https://clawhub.com) - Skill registry and discovery
 - [Discord Community](https://discord.com/invite/clawd) - Get help, share skills
@@ -1444,5 +1449,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-05-09T15:00Z by Awesome-OpenClaw Updater -->
-<!-- Added: 7 new tools - AgentSearch (self-hosted search/MCP), Git for AI Agents (Tilde.run), Airbyte Agents, Agent Skills Eval, Kstack (K8s monitoring), AgentX (SMB AI ops), OfficeOS (agent platform) -->
+<!-- Last updated: 2026-05-13T15:00Z by Awesome-OpenClaw Updater -->
+<!-- Added: 10 new tools - Gemini CLI (Google's official terminal agent), Agency Agents (AI agency framework), Claude Mem (persistent context), Beehive PAL (multi-model orchestration), Kuri (Zig-native browser automation), Site Memory (persistent browser learning), Windows MCP (Windows computer use), Mnemos (memory OS), AgentKeeper (cognitive persistence), OpenClaw CRM (agent-native CRM) -->
