@@ -208,6 +208,16 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [youtube-transcript](https://clawhub.com/skills/youtube-transcript) - YouTube transcript extraction
 - [mp4-to-mp3-extractor](https://github.com/wangminrui2022/mp4-to-mp3-extractor) - Batch extract MP3 audio from MP4 videos using FFmpeg ⭐ NEW
 
+- [PinchBench](https://github.com/pinchbench/skill) - PinchBench is a benchmarking system for evaluating LLM models as OpenClaw coding agents. Made with 🦀 by the humans at https://kilo.ai (⭐ 1.2k, May 2026) ⭐ NEW
+- [Rewire](https://github.com/farah-boukadida/rewire) - Design custom AI agents that automate daily work tasks by creating ready-to-run Claude Code projects tailored to your workflow (⭐ NEW, May 2026) ⭐ NEW
+- [Thoth](https://github.com/siddsachar/Thoth) - Personal AI Sovereignty. Local-first AI assistant with personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging (⭐ 1.1k, May 2026) ⭐ NEW
+- [rocketride-server](https://github.com/rocketride-org/rocketride-server) - High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration (⭐ 2.9k, May 2026) ⭐ NEW
+- [SolanaClawd](https://github.com/x402agent/solana-clawd) - Open-source Solana AI agent framework — Claude Code architecture × Solana. MCP-native, no private key required (⭐ 19, May 2026) ⭐ NEW
+- [xcode-claw](https://github.com/millon3720/xcode-claw) - Manage iOS and macOS projects using natural language to build, test, archive, and control Xcode and Apple toolchain commands efficiently (⭐ 1, May 2026) ⭐ NEW
+- [kalshi-claw-skill](https://github.com/paah11/kalshi-claw-skill) - Enable trading and position tracking on regulated US prediction markets using Kalshi with OpenClaw and LLM-powered market analysis (⭐ NEW, May 2026) ⭐ NEW
+- [deepseek-claw](https://github.com/Ksalazar29/deepseek-claw) - Enable natural language control of DeepSeek API for chat, reasoning, code generation, multi-turn dialogs, and streaming responses via OpenClaw interface (⭐ NEW, May 2026) ⭐ NEW
+- [clisbot](https://github.com/longbkit/clisbot) - Agentic Coding CLI & chat bot (⭐ 57, May 2026) ⭐ NEW
+
 ### AI & Voice
 
 - [openai-whisper](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) - Local speech-to-text with OpenAI Whisper
@@ -648,6 +658,13 @@ Tools that work with or extend OpenClaw:
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with auto-backups and web dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system plugin for OpenClaw ⭐ NEW
+- [SynapseLayer/essencial](https://github.com/SynapseLayer/essencial) - Zero-Knowledge memory layer for AI agents. MCP-native, LangChain-compatible ⭐ NEW (Apr 2026)
+- [pluribus](https://github.com/johnnyjoy/pluribus) - Persistent memory MCP server for AI agents (MCP + REST) ⭐ NEW (Apr 2026)
+- [aurelius](https://github.com/Blysspeak/aurelius) - Self-hosted knowledge graph memory for developers and AI agents. MCP server with graph UI ⭐ NEW (Apr 2026)
+- [DreamGraph MCP](https://github.com/mmethodz/dreamgraph) - Autonomous cognitive layer with MCP integration ⭐ NEW HN (Apr 2026)
+- [SQLite Memory](https://github.com/sqliteai/sqlite-memory) - Markdown-based AI agent memory with semantic search and offline-first sync (25⭐) ⭐ NEW
+- [Hindsight](https://github.com/vectorize-io/hindsight) - Agent Memory That Learns - adaptive memory system that improves retrieval over time (⭐ 13.3k, May 2026) ⭐ NEW
+- [remindb](https://github.com/radimsem/remindb) - An agentic memory database that cuts session tokens by 75–99%. One portable SQLite file (⭐ 91, May 2026) ⭐ NEW
 
 ### Orchestration & Management
 
