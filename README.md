@@ -286,6 +286,17 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-metacognitive-suite](https://github.com/haneenbassiony26/openclaw-metacognitive-suite) - Enable agents to autonomously learn, remember, reflect, and adapt using composable meta-cognitive plugins (1⭐) ⭐ NEW
 - [openclaw-min-bundle](https://github.com/CyberJhay/openclaw-min-bundle) - Run OpenClaw Gateway with systemd user service, auto-fix crashes, enable Codex deep web search (0⭐) ⭐ NEW
 - [openclaw-ani-installer](https://github.com/wzfukui/openclaw-ani-installer) - Installer and updater for the ANI plugin on OpenClaw (1⭐) ⭐ NEW
+- [gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and pull request crawler for maintainer triage (54⭐, May 2026) ⭐ NEW
+- [cerone-openclaw-plugin](https://github.com/AnantDhavale/cerone-openclaw-plugin) - Cerone plugin that validates tool calls before execution using before_tool_call hook (May 2026) ⭐ NEW
+- [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
+- [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents (6240⭐) ⭐ NEW
+- [superset](https://github.com/superset-sh/superset) - IDE for AI Agents Era - Run army of Claude Code, Codex locally (5452⭐) ⭐ NEW  
+- [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for terminal with hash-anchored edits (1726⭐) ⭐ NEW
+- [emdash](https://github.com/generalaction/emdash) - Agentic Development Environment (YC W26) - Run agents in parallel (2409⭐) ⭐ NEW
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server (3115⭐) ⭐ NEW
+- [openclaw-metacognitive-suite](https://github.com/haneenbassiony26/openclaw-metacognitive-suite) - Enable agents to autonomously learn, remember, reflect, and adapt using composable meta-cognitive plugins (1⭐) ⭐ NEW
+- [openclaw-min-bundle](https://github.com/CyberJhay/openclaw-min-bundle) - Run OpenClaw Gateway with systemd user service, auto-fix crashes, enable Codex deep web search (0⭐) ⭐ NEW
+- [openclaw-ani-installer](https://github.com/wzfukui/openclaw-ani-installer) - Installer and updater for the ANI plugin on OpenClaw (1⭐) ⭐ NEW
 - [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) - Bluetooth device management and control
 - [clawdbot-logs](https://clawhub.com/skills/clawdbot-logs) - Analyze Clawdbot performance, response times, errors
 - [clawddocs-1-2-2](https://clawhub.com/skills/clawddocs-1-2-2) - Clawdbot documentation expert
@@ -607,6 +618,12 @@ Tools that work with or extend OpenClaw:
 - [turbovault](https://github.com/Epistates/turbovault) - MCP server that transforms Obsidian vault into intelligent knowledge system (34⭐) ⭐ NEW
 - [better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) - Markdown-first MCP server for Notion API (13⭐) ⭐ NEW
 - [multicli](https://github.com/osanoai/multicli) - Gemini, Codex, and Claude all in a single MCP tool for coding agents (16⭐) ⭐ NEW
+- [SolidworksMCP](https://github.com/andrewbartels1/SolidworksMCP-python) - Comprehensive MCP server for SolidWorks automation in Python (10⭐, May 2026) ⭐ NEW
+- [run402-mcp](https://github.com/kychee-com/run402) - MCP server for Run402 — AI-native Postgres + REST + auth + storage + static sites. Pay with x402 USDC on Base (2⭐, May 2026) ⭐ NEW
+- [observability-mcp](https://github.com/ThoTischner/observability-mcp) - Unified observability gateway for AI agents — Prometheus, Loki, cross-signal anomaly detection with Web UI (4⭐, May 2026) ⭐ NEW
+- [nexo-rs](https://github.com/lordmacu/nexo-rs) - Rust multi-agent LLM framework — OpenClaw alternative. WhatsApp + Telegram + Gmail + browser on single binary. NATS broker, MCP client+server (2⭐, May 2026) ⭐ NEW
+- [memory_map](https://github.com/kid-sid/memory_map) - Persistent memory & conversation history MCP server for Claude Code. Saves project context as key-value pairs, auto-summarizes (6⭐, May 2026) ⭐ NEW
+- [agent-review-panel](https://github.com/wan-huiyan/agent-review-panel) - Multi-agent adversarial review panel — 4-6 AI reviewers debate code/plans, supreme judge delivers verdict. Anti-groupthink (10⭐, May 2026) ⭐ NEW
 - [GitAgent](https://www.gitagent.sh/) - Open standard that turns any Git repo into an AI agent with 142 points on HN Show ⭐ NEW
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous (405⭐) ⭐ NEW
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw - configuration, model, and skills management (2⭐) ⭐ NEW
@@ -665,6 +682,9 @@ Tools that work with or extend OpenClaw:
 - [SQLite Memory](https://github.com/sqliteai/sqlite-memory) - Markdown-based AI agent memory with semantic search and offline-first sync (25⭐) ⭐ NEW
 - [Hindsight](https://github.com/vectorize-io/hindsight) - Agent Memory That Learns - adaptive memory system that improves retrieval over time (⭐ 13.3k, May 2026) ⭐ NEW
 - [remindb](https://github.com/radimsem/remindb) - An agentic memory database that cuts session tokens by 75–99%. One portable SQLite file (⭐ 91, May 2026) ⭐ NEW
+- [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system standalone library for any AI agent (⭐ NEW, May 2026) ⭐ NEW
+- [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
+- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
 
 ### Orchestration & Management
 
@@ -1098,4 +1118,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-03-27T21:00Z by Awesome-OpenClaw Updater --> <!-- Added: 4 new tools - Security (AgentShield), Deployment (Jetclaw), Desktop Manager (NeemClaw), Meeting Agent, Battle Arena -->
+<!-- Last updated: 2026-05-15T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 14 new tools - MCP servers (SolidworksMCP, run402, observability-mcp, nexo-rs, memory_map, agent-review-panel), Infrastructure (gitcrawl, cerone-plugin), Memory (memsearch, engram, vestige), Agent Tools (plandex, claude-squad, superset) -->
