@@ -1118,4 +1118,42 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add skills, tools, or projec
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
 
-<!-- Last updated: 2026-05-15T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 14 new tools - MCP servers (SolidworksMCP, run402, observability-mcp, nexo-rs, memory_map, agent-review-panel), Infrastructure (gitcrawl, cerone-plugin), Memory (memsearch, engram, vestige), Agent Tools (plandex, claude-squad, superset) -->
+- [JazzCashMCP](https://github.com/TehreemArbab/JazzCashMCP) - MCP server for JazzCash — Pakistan's largest mobile-money platform. Hosted Checkout, Mobile Wallet charges, inquiries, and refunds (⭐ NEW, May 2026) ⭐ NEW
+- [Godot-MCP-Native](https://github.com/yurineko73/Godot-MCP-Native) - Native Godot engine MCP plugin — no dependencies, ready to use out of the box (⭐ NEW, May 2026) ⭐ NEW
+- [homeassistant-mcp](https://github.com/robbrad/homeassistant-mcp) - Home Assistant MCP Server — Control your smart home with AI assistants (⭐ NEW, May 2026) ⭐ NEW
+- [cdp-bridge-mcp](https://github.com/Unagi-cq/cdp-bridge-mcp) - MCP server bridging clients to real browsers through CDP and extension (⭐ NEW, May 2026) ⭐ NEW
+- [skill-manager](https://github.com/wanghuan9/skill-manager) - SkillDock desktop control center for managing AI Skills and MCP servers, syncs to Claude Code/Codex/Cursor/Windsurf/Gemini CLI (⭐ NEW, May 2026) ⭐ NEW
+- [krusch-context-mcp](https://github.com/kruschdev/krusch-context-mcp) - Unified Zero-Trust MCP server with local semantic codebase search, episodic project memory, framework RAG (⭐ NEW, May 2026) ⭐ NEW
+- [markifact-mcp](https://github.com/markifact/markifact-mcp) - MCP server for Google Ads, Meta Ads, GA4, TikTok Ads, LinkedIn Ads — 300+ ad operations (⭐ NEW, May 2026) ⭐ NEW
+- [anansi](https://github.com/mdowis/anansi) - Self-healing web scraper MCP server with hostile site handling, Chrome TLS fingerprinting evasion (⭐ NEW, May 2026) ⭐ NEW
+- [godot-devtool](https://github.com/wangdiandao/godot-devtool) - Godot 4 MCP server for AI-assisted project inspection, editing, validation, runtime automation (⭐ NEW, May 2026) ⭐ NEW
+- [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, CLI. 9 tools for authorized security research (⭐ NEW, May 2026) ⭐ NEW
+- [shokunin](https://github.com/EliasOulkadi/shokunin) - 62 AI agent skills for OpenCode/Claude Code/Cursor/Windsurf. ChromaDB memory, MCP servers, declarative self-updates (⭐ NEW, May 2026) ⭐ NEW
+- [claude-hermes-mcp](https://github.com/mlennie/claude-hermes-mcp) - MCP server delegating tasks from Claude Desktop/mobile to local Hermes Agent — cron, web search, email, docs (⭐ NEW, May 2026) ⭐ NEW
+- [continuum](https://github.com/pouyahasanamreji/continuum) - Shared memory + orchestration for coding agents — one MCP server, persistent vector memory, agent registry (⭐ NEW, May 2026) ⭐ NEW
+- [aula-mcp](https://github.com/Casperjuel/aula-mcp) - MCP server for Denmark's Aula school platform — TypeScript MitID auth, profiles, calendar, messages (⭐ NEW, May 2026) ⭐ NEW
+- [wpf-buddy-mcp](https://github.com/lysiuchenko/wpf-buddy-mcp) - MCP server for AI agents to drive, test, inspect WPF desktop apps via UI Automation (⭐ NEW, May 2026) ⭐ NEW
+- [cord](https://github.com/fosenai/cord) - Cord — distributed agent fabric for LLMs, MCP servers, AI agents. Semantic search discovery in Rust (⭐ NEW, May 2026) ⭐ NEW
+- [ds-pilot](https://github.com/lyse-labs/ds-pilot) - MCP server exposing your design system (components + tokens) to AI agents (⭐ NEW, May 2026) ⭐ NEW
+- [browser-skills](https://github.com/bettyguo/browser-skills) - 15 reusable browser agent recipes + MCP server for handling cookie banners, infinite scroll, calendar widgets (⭐ NEW, May 2026) ⭐ NEW
+- [mobiloop-mcp](https://github.com/enessubass/mobiloop-mcp) - Guarded MCP servers for agentic mobile build-test-fix loops with Appium, device automation (⭐ NEW, May 2026) ⭐ NEW
+- [mcp-captcha-solver](https://github.com/2captcha/mcp-captcha-solver) - MCP server handling captcha bypass workflows — session-based browser automation, reCAPTCHA v2 solving (⭐ NEW, May 2026) ⭐ NEW
+- [kwwk-browser](https://github.com/EYHN/kwwk-browser) - Swift browser automation primitives for AI agents (⭐ NEW, May 2026) ⭐ NEW
+- [anyreach](https://github.com/ayaoplus/anyreach) - Intelligent web access for AI agents — CDP browser automation with site adapters (⭐ NEW, May 2026) ⭐ NEW
+- [byp](https://github.com/nandrzej/byp) - Stealth browser automation library for AI agents. Camoufox + persistent sessions + ARIA tree perception (⭐ NEW, May 2026) ⭐ NEW
+- [site-memory](https://github.com/LittleYier/site-memory) - Persistent memory for browser automation AI Agents. Learns site knowledge automatically (⭐ NEW, May 2026) ⭐ NEW
+- [OpenMantis](https://github.com/LiangNiang/OpenMantis) - Lightweight multi-platform AI agent chat framework. Connect LLMs to Feishu/WeCom/QQ with tools, memory, scheduling (⭐ NEW, May 2026) ⭐ NEW
+- [parallel-browser-mcp](https://github.com/etairl/parallel-browser-mcp) - MCP server for parallel browser automation by AI agents with multiple cloud providers (⭐ NEW, May 2026) ⭐ NEW
+- [browser-automation-skills](https://github.com/hixuanxuan/browser-automation) - Browser automation skills for AI agents — visual diff, DOM assertions, screenshot capture, UI regression detection (⭐ NEW, May 2026) ⭐ NEW
+- [AIOPE](https://github.com/XNet-NGO/aiope) - 46-tool AI agent for Android. Linux terminal, browser automation, SSH, dynamic UI, MCP, any model (⭐ NEW, May 2026) ⭐ NEW
+- [AgentMint](https://github.com/aniketh-maddipati/agentmint-python) - Open-source OWASP compliance for AI agent tool calls (5⭐ HN) ⭐ NEW
+- [Vigil](https://github.com/hexitlabs/vigil) - Zero-dependency safety guardrails for AI agent tool calls. 22 rules across 8 threat categories (2⭐ HN Show) ⭐ NEW
+- [Kvlar](https://github.com/kvlar-io/kvlar) - Open-source firewall for AI agent tool calls. Rust policy engine with YAML policies (1⭐ HN) ⭐ NEW
+- [Plyra-guard](https://github.com/plyraAI/plyra-guard) - Intercepts AI agent tool calls before execution. Works with LangGraph, AutoGen, CrewAI, LangChain (1⭐ HN) ⭐ NEW
+- [Polymcp](https://github.com/poly-mcp/Polymcp) - Turn any Python function into an MCP Tool for AI Agents. Zero-dependency (23⭐ HN Show) ⭐ NEW
+- [Memoh](https://github.com/memohai/Memoh) - Self-hosted, always-on AI agent platform in containers. Multiple bots with long memory, Telegram/Discord/Feishu/Matrix (⭐ NEW, May 2026) ⭐ NEW
+- [vincentlefort/monitoring-openclaw](https://github.com/vincentlefort/monitoring-openclaw) - Monitoring dashboard for OpenClaw infrastructure (⭐ NEW, May 2026) ⭐ NEW
+- [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky) - Token-efficient open-source AI Agent (⭐ NEW, May 2026) ⭐ NEW
+- [officeos-co/officeos](https://github.com/officeos-co/officeos) - Launch agents in seconds. Scale to hundreds (⭐ NEW, May 2026) ⭐ NEW
+
+<!-- Last updated: 2026-05-16T15:00Z by Awesome-OpenClaw Updater --> <!-- Added: 41 new tools - MCP servers (JazzCashMCP, Godot-MCP, homeassistant-mcp, cdp-bridge, skill-manager, markifact, anansi, godot-devtool, OpenOSINT, shokunin, claude-hermes, continuum, aula, wpf-buddy, cord, ds-pilot, browser-skills, mobiloop, captcha-solver, kwwk-browser, anyreach, byp, parallel-browser), Security (AgentMint, Vigil, Kvlar, Plyra-guard, Polymcp), Infrastructure (Memoh, openclacky, officeos), Browser (site-memory, OpenMantis, AIOPE, browser-automation) -->
