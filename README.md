@@ -229,6 +229,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [conversation-summary-api](https://clawhub.com/skills/conversation-summary-api) - Generate conversation summaries with incremental updates
 - [voice-skill-sip](https://github.com/nia-agent-cyber/openai-voice-skill) - Voice skill for AI agents with sub-200ms latency via native SIP ⭐ NEW
 - [sillytavern-cards-skill](https://github.com/pearyj/sillytavern-cards-skill) - OpenClaw skill for importing & roleplaying with SillyTavern character cards. Chat with your favorite characters on WhatsApp, Telegram, Discord (3⭐) ⭐ NEW
+- [openclaw-plugin-voice-chat](https://github.com/levivoelz/openclaw-plugin-voice-chat) - Voice I/O for OpenClaw — STT/TTS brackets your real agent so it keeps its models, memory, and skills. WebSocket-based with OpenAI Whisper/ElevenLabs support (TypeScript, May 2026) ⭐ NEW
 
 ### Data & Research
 
