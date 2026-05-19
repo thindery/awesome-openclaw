@@ -2,6 +2,8 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
+**Last updated:** May 18, 2026 • Added: clawcontrol, browserclaw
+
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
 **Contributions welcome!** See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
@@ -297,6 +299,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server (3115⭐) ⭐ NEW
 - [openclaw-metacognitive-suite](https://github.com/haneenbassiony26/openclaw-metacognitive-suite) - Enable agents to autonomously learn, remember, reflect, and adapt using composable meta-cognitive plugins (1⭐) ⭐ NEW
 - [openclaw-min-bundle](https://github.com/CyberJhay/openclaw-min-bundle) - Run OpenClaw Gateway with systemd user service, auto-fix crashes, enable Codex deep web search (0⭐) ⭐ NEW
+- [clawcontrol](https://github.com/IUDU5/clawcontrol) - Simple CLI/TUI tool to automate VPS provisioning and OpenClaw setup with secure Tailscale access (1⭐, May 2026) ⭐ NEW
+- [browserclaw](https://github.com/Marashumpo/browserclaw) - Browser automation library using typed refs for reliable element targeting without CSS/XPath - AI-friendly snapshot-based approach (1⭐, May 2026) ⭐ NEW
 - [openclaw-ani-installer](https://github.com/wzfukui/openclaw-ani-installer) - Installer and updater for the ANI plugin on OpenClaw (1⭐) ⭐ NEW
 - [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) - Bluetooth device management and control
 - [clawdbot-logs](https://clawhub.com/skills/clawdbot-logs) - Analyze Clawdbot performance, response times, errors
