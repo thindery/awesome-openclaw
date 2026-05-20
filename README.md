@@ -83,6 +83,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [tayyabexe/skills](https://github.com/tayyabexe/skills) - Provide standard AI/ML task definitions as portable skills for use with major coding agents like OpenAI Codex and Claude Code (⭐3) ⭐ NEW
 - [CowAgent](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with thinking, planning, and skill capabilities. Supports OpenClaw MCP and multi-platform (WeChat, Feishu, DingTalk, WeCom, QQ) (42.5k⭐) ⭐ NEW
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
@@ -166,9 +167,15 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Structural harness for AI agents in real projects with clarification protocols and context budgets (3⭐ HN) ⭐ NEW
 - [solutions-architect-skills](https://github.com/shadowX4fox/solutions-architect-skills) - Professional architecture documentation workflow for Claude Code (18⭐) ⭐ NEW
 - [obsidian-claude-plugins](https://github.com/jlaska/obsidian-claude-plugins) - Obsidian vault integration skills for Claude Code (12⭐) ⭐ NEW
+- [remnote-cli](https://github.com/robert7/remnote-cli) - RemNote knowledge base integration via RemNote Bridge for MCP & OpenClaw (2⭐) ⭐ NEW
+- [openclaw-selfdocs](https://github.com/arleyGuoLei/openclaw-selfdocs) - Embeds essential OpenClaw knowledge directly into agent context for faster assistance ⭐ NEW
+- [oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Structural harness for AI agents in real projects with clarification protocols and context budgets (3⭐ HN) ⭐ NEW
+- [solutions-architect-skills](https://github.com/shadowX4fox/solutions-architect-skills) - Professional architecture documentation workflow for Claude Code (18⭐) ⭐ NEW
+- [obsidian-claude-plugins](https://github.com/jlaska/obsidian-claude-plugins) - Obsidian vault integration skills for Claude Code (12⭐) ⭐ NEW
 
 ### Media & Content
 
+- [ClawSpotify](https://github.com/ejatapibeda/ClawSpotify) - Free Spotify API integration skill for OpenClaw ⭐ NEW
 - [ai-ppt-generate](https://clawhub.com/skills/ai-ppt-generate) - Intelligent PowerPoint generation tool
 - [ai-video-gen](https://github.com/openclaw/openclaw/tree/main/skills/ai-video-gen) - End-to-end AI video generation pipeline
 - [ai-video-gen-tools](https://clawhub.com/skills/ai-video-gen-tools) - AI video generation with multiple providers
@@ -219,9 +226,18 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [kalshi-claw-skill](https://github.com/paah11/kalshi-claw-skill) - Enable trading and position tracking on regulated US prediction markets using Kalshi with OpenClaw and LLM-powered market analysis (⭐ NEW, May 2026) ⭐ NEW
 - [deepseek-claw](https://github.com/Ksalazar29/deepseek-claw) - Enable natural language control of DeepSeek API for chat, reasoning, code generation, multi-turn dialogs, and streaming responses via OpenClaw interface (⭐ NEW, May 2026) ⭐ NEW
 - [clisbot](https://github.com/longbkit/clisbot) - Agentic Coding CLI & chat bot (⭐ 57, May 2026) ⭐ NEW
+- [iClawApp/iClaw](https://github.com/iClawApp/iClaw) - A better UI for OpenClaw (⭐5) ⭐ NEW
+
+### Security & Auditing
+
+- [lordmacu/nexo-rs](https://github.com/lordmacu/nexo-rs) - Rust multi-agent LLM framework — OpenClaw alternative with WhatsApp, Telegram, Gmail, browser agents on a single binary. NATS broker, MCP client+server, Claude/Anthropic OAuth, MiniMax, durable TaskFlow workflows (⭐3) ⭐ NEW
+- [salasi1204/aguara](https://github.com/salasi1204/aguara) - Scan AI agent skills and MCP servers for prompt injection, data leaks, and supply-chain threats to secure production environments (⭐0) ⭐ NEW
+- [Midoshy/ironclaw](https://github.com/Midoshy/ironclaw) - Build secure AI agents with a Rust framework that enforces zero trust, sandboxing, and audit for every action in production environments (⭐0) ⭐ NEW
 
 ### AI & Voice
 
+- [joshuaswarren/remnic](https://github.com/joshuaswarren/remnic) - Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access (⭐73) ⭐ NEW
+- [Lilily58/Mem](https://github.com/Lilily58/Mem) - Build persistent, hybrid conversational memory using SQLite, full-text search, and vector similarity with conflict resolution for AI assistants (⭐0) ⭐ NEW
 - [openai-whisper](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) - Local speech-to-text with OpenAI Whisper
 - [openai-whisper-api](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api) - Speech-to-text via OpenAI API
 - [piper-tts](https://clawhub.com/skills/piper-tts) - Local TTS using Piper ONNX voices (fast, private, no cloud)
@@ -302,6 +318,10 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [clawcontrol](https://github.com/IUDU5/clawcontrol) - Simple CLI/TUI tool to automate VPS provisioning and OpenClaw setup with secure Tailscale access (1⭐, May 2026) ⭐ NEW
 - [browserclaw](https://github.com/Marashumpo/browserclaw) - Browser automation library using typed refs for reliable element targeting without CSS/XPath - AI-friendly snapshot-based approach (1⭐, May 2026) ⭐ NEW
 - [openclaw-ani-installer](https://github.com/wzfukui/openclaw-ani-installer) - Installer and updater for the ANI plugin on OpenClaw (1⭐) ⭐ NEW
+- [dr34m-cn/openclaw-docker](https://github.com/dr34m-cn/openclaw-docker) - Automatically sync from ghcr.io/openclaw/openclaw to Docker Hub every 10 minutes. 官方实时同步镜像 (⭐4) ⭐ NEW
+- [nikolapolic/openclaw-assistant-mvp](https://github.com/nikolapolic/openclaw-assistant-mvp) - Build an Electron desktop assistant with voice input, quick email and schedule queries, and simulated OpenClaw data for smart task management (⭐0) ⭐ NEW
+- [easdasd8/DisierTECH-OpenClaw-Stack](https://github.com/easdasd8/DisierTECH-OpenClaw-Stack) - Deploy OpenClaw autonomous agents seamlessly with a production-ready, multi-cloud, kernel-optimized Node.js stack supporting Docker and ARM64/x86_64 (⭐1) ⭐ NEW
+- [simbah7272/personal-memory](https://github.com/simbah7272/personal-memory) - Capture and organize personal data with AI-driven natural language input for tracking finances, health, work, goals, and social activities (⭐1) ⭐ NEW
 - [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) - Bluetooth device management and control
 - [clawdbot-logs](https://clawhub.com/skills/clawdbot-logs) - Analyze Clawdbot performance, response times, errors
 - [clawddocs-1-2-2](https://clawhub.com/skills/clawddocs-1-2-2) - Clawdbot documentation expert
@@ -574,6 +594,11 @@ Skills published to ClawHub by the community:
 ## Tools
 
 Tools that work with or extend OpenClaw:
+
+### Browser & Automation
+
+- [nordbyte/nordrelay](https://github.com/nordbyte/nordrelay) - Secure remote control bridge for coding agents — connects Codex, Pi, Hermes, OpenClaw and Claude Code to Telegram, Discord, Slack, WebUI with streaming replies, sessions, files, voice, queues, artifacts and access controls (⭐6) ⭐ NEW
+- [Cashnaruto/vidclaw](https://github.com/Cashnaruto/vidclaw) - Self-hosted command center for OpenClaw with task boards, usage tracking, and seamless model switching (⭐0) ⭐ NEW
 
 ### Orchestration & Management
 
@@ -907,6 +932,9 @@ Tools that work with or extend OpenClaw:
 - [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform with managed hosting (178⭐) ⭐ NEW
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - MCP security scanner with prompt injection firewall, package hallucination detection (61⭐)
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - MCP servers for offensive security tools — Nmap, Ghidra, Nuclei, SQLMap, Hashcat (453⭐) ⭐ NEW
+- [lordmacu/nexo-rs](https://github.com/lordmacu/nexo-rs) - Rust multi-agent LLM framework — OpenClaw alternative with WhatsApp, Telegram, Gmail, browser agents on a single binary. NATS broker, MCP client+server, Claude/Anthropic OAuth, MiniMax, durable TaskFlow workflows (⭐3) ⭐ NEW
+- [salasi1204/aguara](https://github.com/salasi1204/aguara) - Scan AI agent skills and MCP servers for prompt injection, data leaks, and supply-chain threats to secure production environments (⭐0) ⭐ NEW
+- [Midoshy/ironclaw](https://github.com/Midoshy/ironclaw) - Build secure AI agents with a Rust framework that enforces zero trust, sandboxing, and audit for every action in production environments (⭐0) ⭐ NEW
 - [Superagent](https://github.com/superagent-ai/superagent) - AI security against prompt injection and data leaks (6448⭐) ⭐ NEW
 - [prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) - Comprehensive collection of prompt injection defenses (646⭐) ⭐ NEW
 - [zeroleaks](https://github.com/ZeroLeaks-LLM/zeroleaks) - AI Security Scanner for prompt injection vulnerabilities (510⭐) ⭐ NEW
@@ -922,6 +950,8 @@ Tools that work with or extend OpenClaw:
 - [nanoclaw](https://github.com/qwibitai/nanoclaw) - Lightweight containerized alternative connecting to WhatsApp with memory and scheduled jobs ⭐ NEW
 - [awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Community collection of OpenClaw use cases for making life easier ⭐ NEW
 - [LangBot](https://github.com/langbot-app/LangBot) - Production-grade multi-platform IM bot platform with MCP support, RAG knowledge base, web management panel. Supports Discord, Telegram, Slack, LINE, WeChat, Lark, DingTalk, QQ (⭐ 15.6k) ⭐ NEW
+- [joshuaswarren/remnic](https://github.com/joshuaswarren/remnic) - Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access (⭐73) ⭐ NEW
+- [Lilily58/Mem](https://github.com/Lilily58/Mem) - Build persistent, hybrid conversational memory using SQLite, full-text search, and vector similarity with conflict resolution for AI assistants (⭐0) ⭐ NEW
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent by NousResearch with built-in learning loop, persistent memory, skill auto-creation, multi-platform messaging (Telegram, Discord, Slack, WhatsApp, Signal), and cron scheduling (⭐ 11.1k) ⭐ NEW
 - [poncho](https://github.com/cesr/poncho-ai) - General agent harness for web - version-controlled, git-native, serverless-friendly ⭐ NEW
 - [agentpriv](https://github.com/nichkej/agentpriv) - "Sudo for AI Agents" - permission layer with allow/deny/ask gates ⭐ NEW
@@ -1168,4 +1198,4 @@ To the extent possible under law, the contributors have waived all copyright and
 - [openlegion](https://github.com/openlegion-ai/openlegion) - Secure autonomous AI agent framework and platform. Build AI teams by describing what you want (93⭐, May 2026) ⭐ NEW
 - [hybridclaw](https://github.com/HybridAIOne/hybridclaw) - Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory (94⭐, May 2026) ⭐ NEW
 
-<!-- Last updated: 2026-05-17T10:00Z by Awesome-OpenClaw Updater --> <!-- Added: 41 new tools - MCP servers (JazzCashMCP, Godot-MCP, homeassistant-mcp, cdp-bridge, skill-manager, markifact, anansi, godot-devtool, OpenOSINT, shokunin, claude-hermes, continuum, aula, wpf-buddy, cord, ds-pilot, browser-skills, mobiloop, captcha-solver, kwwk-browser, anyreach, byp, parallel-browser), Security (AgentMint, Vigil, Kvlar, Plyra-guard, Polymcp), Infrastructure (Memoh, openclacky, officeos), Browser (site-memory, OpenMantis, AIOPE, browser-automation) -->
+<!-- Last updated: 2026-05-20T15:02Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools - Browser & Automation (nordbyte/nordrelay, Cashnaruto/vidclaw), Security (nexo-rs, aguara, ironclaw), AI & Voice (remnic, Mem), Development (tayyabexe/skills), Media (iClaw), Infrastructure (openclaw-docker, openclaw-assistant-mvp, DisierTECH-OpenClaw-Stack, personal-memory) -->
