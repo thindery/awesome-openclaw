@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 18, 2026 • Added: clawcontrol, browserclaw
+**Last updated:** May 21, 2026 • Added: forge, codegraph, oh-my-pi, understand-anything, openwa, worldmonitor
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -83,6 +83,10 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [forge](https://github.com/antoinezambelli/forge) - Python framework for self-hosted LLM tool-calling and multi-step agentic workflows. Guardrails (rescue parsing, retry nudges, step enforcement) and context management — lifts 8B local models to top-tier agentic performance (1,380⭐) ⭐ NEW
+- [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode. ~35% cheaper, ~70% fewer tool calls, 100% local — symbol relationships, call graphs, and code structure (12,370⭐) ⭐ NEW
+- [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for the terminal with hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents. 40+ providers, 32 built-in tools, 13 LSP ops (5,723⭐) ⭐ NEW
+- [Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any codebase into an interactive knowledge graph. Multi-agent pipeline builds graphs of every file, function, class, and dependency — explore visually (16,192⭐) ⭐ NEW
 - [tayyabexe/skills](https://github.com/tayyabexe/skills) - Provide standard AI/ML task definitions as portable skills for use with major coding agents like OpenAI Codex and Claude Code (⭐3) ⭐ NEW
 - [CowAgent](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with thinking, planning, and skill capabilities. Supports OpenClaw MCP and multi-platform (WeChat, Feishu, DingTalk, WeCom, QQ) (42.5k⭐) ⭐ NEW
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
@@ -251,6 +255,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Data & Research
 
+- [worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking. 500+ curated feeds, 3D globe visualization, Country Intelligence Index (54.6k⭐) ⭐ NEW
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts (49.3k⭐) ⭐ NEW
 - [my-training-data](https://github.com/ShanksChen/my-training-data) - Automated training data pipeline from Intervals.icu for AI coaching analysis with ACWR, monotony, and phase detection metrics (⭐ 4.2k) ⭐ NEW
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API and agentic skill with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw ⭐ NEW
@@ -358,6 +363,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Social & Community
 
+- [OpenWA](https://github.com/rmyndharis/OpenWA) - Free, open-source, self-hosted WhatsApp API Gateway. Multi-session, webhooks, web dashboard, n8n integration — no vendor lock-in (5,231⭐) ⭐ NEW
 - [bird](https://github.com/openclaw/openclaw/tree/main/skills/bird) - Bluesky social media integration
 - [bluebubbles](https://github.com/openclaw/openclaw/tree/main/skills/bluebubbles) - iMessage integration via BlueBubbles server
 - [browser](https://github.com/openclaw/openclaw/tree/main/skills/browser) - Web browser automation via Playwright
