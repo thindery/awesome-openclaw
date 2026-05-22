@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 21, 2026 • Added: forge, codegraph, oh-my-pi, understand-anything, openwa, worldmonitor
+**Last updated:** May 22, 2026 • Added: Blacknode, AgentRecall, Myco, Runner, Glimpse, ShadowCat, Forge Guardrails, Rmux, Sylph, agent.email, Wocal
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -83,6 +83,12 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [AgentRecall](https://agentrecall.cloud) - Open-source memory layer for agents — persistent context across sessions (HN Show) ⭐ NEW
+- [Myco](https://github.com/primoia/myco) - Coordinate Claude, DeepSeek and other LLMs in one agent swarm — multi-model orchestration (HN Show) ⭐ NEW
+- [Sylph](https://github.com/getnao/sylph) - Open-source company brain behind a YC startup — knowledge management for teams (HN Show) ⭐ NEW
+- [Glimpse](https://apps.apple.com/us/app/glimpse-markdown-viewer/id6761304904?mt=12) - Markdown reader using Apple's on-device foundation model for local AI document processing (HN Show) ⭐ NEW
+- [Wocal](https://wocal.app) - Botless meeting recorder and summarizer that runs in the browser — agent-friendly transcription (HN Show) ⭐ NEW
+- [agent.email](https://agent.email) - Sign up via curl, claim with human OTP — agent-friendly email service (78⭐ HN) ⭐ NEW
 - [forge](https://github.com/antoinezambelli/forge) - Python framework for self-hosted LLM tool-calling and multi-step agentic workflows. Guardrails (rescue parsing, retry nudges, step enforcement) and context management — lifts 8B local models to top-tier agentic performance (1,380⭐) ⭐ NEW
 - [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode. ~35% cheaper, ~70% fewer tool calls, 100% local — symbol relationships, call graphs, and code structure (12,370⭐) ⭐ NEW
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for the terminal with hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents. 40+ providers, 32 built-in tools, 13 LSP ops (5,723⭐) ⭐ NEW
@@ -98,6 +104,11 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor (25.8k⭐) ⭐ NEW
 - [Cq](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - Stack Overflow for AI coding agents (182⭐ HN) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals (15.5k⭐) ⭐ NEW
+- [Rmux](https://github.com/helvesec/rmux) - Programmable terminal multiplexer with Playwright-style SDK for AI agents — spawn, control, automate terminals (180⭐ HN) ⭐ NEW
+- [Blacknode](https://github.com/temiroff/Blacknode) - Visual workflow builder Claude can drive via MCP — node-based agent workflow orchestration (HN Show) ⭐ NEW
+- [Runner](https://github.com/yicheng47/runner) - Desktop app for running Claude Code, Codex as a crew with session management (HN Show) ⭐ NEW
+- [Spec-Driven-Development](https://github.com/FredAntB/Spec-Driven-Development) - Claude skill for spec-driven development with planning, execution, and verification workflows (27⭐ HN) ⭐ NEW
+- [ShadowCat](https://github.com/unprovable/ShadowCat) - File transfer through QR codes in a browser — agent-friendly file sharing (57⭐ HN) ⭐ NEW
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - MCP Agents running 150+ cybersecurity tools for pentesting and vulnerability discovery (7268⭐) ⭐ NEW
 - [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server and CLI for iOS and macOS development tools - build, test, analyze projects (4820⭐) ⭐ NEW
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - MCP server for mobile automation and scraping on iOS, Android, emulators, simulators (4002⭐) ⭐ NEW
