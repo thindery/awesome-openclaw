@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 22, 2026 • Added: Blacknode, AgentRecall, Myco, Runner, Glimpse, ShadowCat, Forge Guardrails, Rmux, Sylph, agent.email, Wocal
+**Last updated:** May 23, 2026 • Added: moltis, web-agent, AgenticX, tweetclaw, harness-cli, GDD, react-native-agentic-ai, openclaw-memory-libravdb, Awesome-Gaussian-Skills, my-farm-advisor, 1Panel
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -105,6 +105,16 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Cq](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - Stack Overflow for AI coding agents (182⭐ HN) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals (15.5k⭐) ⭐ NEW
 - [Rmux](https://github.com/helvesec/rmux) - Programmable terminal multiplexer with Playwright-style SDK for AI agents — spawn, control, automate terminals (180⭐ HN) ⭐ NEW
+- [moltis](https://github.com/moltis-org/moltis) - Secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools (2,701⭐) ⭐ NEW
+- [web-agent](https://github.com/nikola66/web-agent) - Browser-native agent with profiles and tools — zero installs, isolated, secured and self-evolving (21⭐) ⭐ NEW
+- [AgenticX](https://github.com/DemonDamon/AgenticX) - Unified, production-ready multi-agent platform with Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, and IM gateway (122⭐) ⭐ NEW
+- [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin to search tweets, replies, post tweets, export followers, manage media, monitor X/Twitter, and run giveaway draws (59⭐) ⭐ NEW
+- [harness-cli](https://github.com/rexleimo/harness-cli) - Local-first AI agent bootstrap: Playwright Browser MCP + ContextDB for Codex CLI, Claude Code, Gemini CLI, and OpenCode (40⭐) ⭐ NEW
+- [GDD](https://github.com/Cap-of-tea/GDD) - AI-controlled browser farm with 36 MCP tools — run N Chromium instances with device emulation, screenshots, network/geolocation simulation (8⭐) ⭐ NEW
+- [react-native-agentic-ai](https://github.com/mohamed2m2018/react-native-agentic-ai) - Autonomous AI Agent SDK for React Native & Expo — AI reads live UI, acts via natural language, real-time voice agent with Gemini Live (7⭐) ⭐ NEW
+- [openclaw-memory-libravdb](https://github.com/xDarkicex/openclaw-memory-libravdb) - Persistent local memory engine with hybrid vector recall, automatic compaction, and domain-adaptive gating over LibraVDB (9⭐) ⭐ NEW
+- [Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills) - AI Agent Skills for 3D Gaussian Splatting, NeRF & Computer Graphics Research — 531+ methods, 23 categories (71⭐) ⭐ NEW
+- [my-farm-advisor](https://github.com/borealBytes/my-farm-advisor) - Farm + Agricultural Data Science Skills + OpenClaw in Cloudflare Framework (6⭐) ⭐ NEW
 - [Blacknode](https://github.com/temiroff/Blacknode) - Visual workflow builder Claude can drive via MCP — node-based agent workflow orchestration (HN Show) ⭐ NEW
 - [Runner](https://github.com/yicheng47/runner) - Desktop app for running Claude Code, Codex as a crew with session management (HN Show) ⭐ NEW
 - [Spec-Driven-Development](https://github.com/FredAntB/Spec-Driven-Development) - Claude skill for spec-driven development with planning, execution, and verification workflows (27⭐ HN) ⭐ NEW
@@ -300,6 +310,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
+- [1Panel](https://github.com/1Panel-dev/1Panel) - Modern, open-source VPS control panel with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your server stack from one clean web interface (35,552⭐) ⭐ NEW
 - [MacClaw](https://github.com/Habib112233/MacClaw) - macOS global hotkey client for OpenClaw — Spotlight-style quick access without switching apps (1⭐) ⭐ NEW
 - [pizero-openclaw](https://github.com/Edu069/pizero-openclaw) - Voice-controlled AI assistant on Raspberry Pi Zero W with speech transcription and LCD display (1⭐) ⭐ NEW
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (22,889⭐) ⭐ NEW
@@ -1215,4 +1226,4 @@ To the extent possible under law, the contributors have waived all copyright and
 - [openlegion](https://github.com/openlegion-ai/openlegion) - Secure autonomous AI agent framework and platform. Build AI teams by describing what you want (93⭐, May 2026) ⭐ NEW
 - [hybridclaw](https://github.com/HybridAIOne/hybridclaw) - Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory (94⭐, May 2026) ⭐ NEW
 
-<!-- Last updated: 2026-05-20T15:02Z by Awesome-OpenClaw Updater --> <!-- Added: 12 new tools - Browser & Automation (nordbyte/nordrelay, Cashnaruto/vidclaw), Security (nexo-rs, aguara, ironclaw), AI & Voice (remnic, Mem), Development (tayyabexe/skills), Media (iClaw), Infrastructure (openclaw-docker, openclaw-assistant-mvp, DisierTECH-OpenClaw-Stack, personal-memory) -->
+<!-- Last updated: 2026-05-23T15:02Z by Awesome-OpenClaw Updater --> <!-- Added: 11 new tools - Infrastructure (1Panel), Multi-Agent (AgenticX, moltis), Browser (web-agent, GDD, harness-cli), Social (tweetclaw), Memory (openclaw-memory-libravdb), Skills (Awesome-Gaussian-Skills, my-farm-advisor), Mobile (react-native-agentic-ai) -->
