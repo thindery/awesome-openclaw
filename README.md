@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 23, 2026 • Added: moltis, web-agent, AgenticX, tweetclaw, harness-cli, GDD, react-native-agentic-ai, openclaw-memory-libravdb, Awesome-Gaussian-Skills, my-farm-advisor, 1Panel
+**Last updated:** May 24, 2026 • Added: Hermes Agent, ZeroClaw, OpenViking, NanoClaw, AIRI, graphify, Refly, cc-switch
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -83,6 +83,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill. Turn any folder into a queryable knowledge graph for Claude Code, Codex, OpenClaw — code + docs + images in one unified graph ⭐ NEW
 - [AgentRecall](https://agentrecall.cloud) - Open-source memory layer for agents — persistent context across sessions (HN Show) ⭐ NEW
 - [Myco](https://github.com/primoia/myco) - Coordinate Claude, DeepSeek and other LLMs in one agent swarm — multi-model orchestration (HN Show) ⭐ NEW
 - [Sylph](https://github.com/getnao/sylph) - Open-source company brain behind a YC startup — knowledge management for teams (HN Show) ⭐ NEW
@@ -95,6 +96,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any codebase into an interactive knowledge graph. Multi-agent pipeline builds graphs of every file, function, class, and dependency — explore visually (16,192⭐) ⭐ NEW
 - [tayyabexe/skills](https://github.com/tayyabexe/skills) - Provide standard AI/ML task definitions as portable skills for use with major coding agents like OpenAI Codex and Claude Code (⭐3) ⭐ NEW
 - [CowAgent](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with thinking, planning, and skill capabilities. Supports OpenClaw MCP and multi-platform (WeChat, Feishu, DingTalk, WeCom, QQ) (42.5k⭐) ⭐ NEW
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent by NousResearch with learning loop, skill creation from experience, multi-platform messaging (trending⭐) ⭐ NEW
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
