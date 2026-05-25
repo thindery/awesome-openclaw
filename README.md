@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 24, 2026 • Added: Hermes Agent, ZeroClaw, OpenViking, NanoClaw, AIRI, graphify, Refly, cc-switch
+**Last updated:** May 25, 2026 • Added: 14 new tools - MCP servers (Playwright, GitHub, Chrome DevTools), Memory systems (memU, MemMachine), Agent frameworks (ZeroClaw, DeerFlow), Desktop tools (ClawX, AionUi), and more
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -90,7 +90,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Glimpse](https://apps.apple.com/us/app/glimpse-markdown-viewer/id6761304904?mt=12) - Markdown reader using Apple's on-device foundation model for local AI document processing (HN Show) ⭐ NEW
 - [Wocal](https://wocal.app) - Botless meeting recorder and summarizer that runs in the browser — agent-friendly transcription (HN Show) ⭐ NEW
 - [agent.email](https://agent.email) - Sign up via curl, claim with human OTP — agent-friendly email service (78⭐ HN) ⭐ NEW
+- [ProofShot](https://proofshot.argil.io/) - Give AI coding agents eyes to verify the UI they build — screenshot + feedback loop for browser UIs (HN Show) ⭐ NEW
 - [forge](https://github.com/antoinezambelli/forge) - Python framework for self-hosted LLM tool-calling and multi-step agentic workflows. Guardrails (rescue parsing, retry nudges, step enforcement) and context management — lifts 8B local models to top-tier agentic performance (1,380⭐) ⭐ NEW
+- [ProofShot](https://proofshot.argil.io/) - Give AI coding agents eyes to verify the UI they build — screenshot + feedback loop for browser UIs (HN Show) ⭐ NEW
 - [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode. ~35% cheaper, ~70% fewer tool calls, 100% local — symbol relationships, call graphs, and code structure (12,370⭐) ⭐ NEW
 - [oh-my-pi](https://github.com/can1357/oh-my-pi) - AI coding agent for the terminal with hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents. 40+ providers, 32 built-in tools, 13 LSP ops (5,723⭐) ⭐ NEW
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any codebase into an interactive knowledge graph. Multi-agent pipeline builds graphs of every file, function, class, and dependency — explore visually (16,192⭐) ⭐ NEW
@@ -313,6 +315,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Infrastructure
 
 - [1Panel](https://github.com/1Panel-dev/1Panel) - Modern, open-source VPS control panel with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your server stack from one clean web interface (35,552⭐) ⭐ NEW
+- [MimiClaw](https://github.com/memovai/mimiclaw) - Run OpenClaw on a $5 chip. No OS, No Node.js, No Raspberry Pi — hardware agents OS ⭐ NEW
+- [nanoclaw](https://github.com/nanocoai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration and memory ⭐ NEW
 - [MacClaw](https://github.com/Habib112233/MacClaw) - macOS global hotkey client for OpenClaw — Spotlight-style quick access without switching apps (1⭐) ⭐ NEW
 - [pizero-openclaw](https://github.com/Edu069/pizero-openclaw) - Voice-controlled AI assistant on Raspberry Pi Zero W with speech transcription and LCD display (1⭐) ⭐ NEW
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (22,889⭐) ⭐ NEW
@@ -625,6 +629,9 @@ Skills published to ClawHub by the community:
 
 Tools that work with or extend OpenClaw:
 
+- [Moltis](https://github.com/moltis-org/moltis) - Secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, MCP tools (2,701⭐) ⭐ NEW
+- [Poco](https://github.com/poco-ai/poco-claw) - Beautiful alternative to OpenClaw with nicer Web UI, built-in IM support, sandboxed runtime, channel-based team collaboration ⭐ NEW
+
 ### Browser & Automation
 
 - [nordbyte/nordrelay](https://github.com/nordbyte/nordrelay) - Secure remote control bridge for coding agents — connects Codex, Pi, Hermes, OpenClaw and Claude Code to Telegram, Discord, Slack, WebUI with streaming replies, sessions, files, voice, queues, artifacts and access controls (⭐6) ⭐ NEW
@@ -722,6 +729,12 @@ Tools that work with or extend OpenClaw:
 ### Memory & Persistence
 
 - [ClawMem](https://github.com/yoloshii/clawmem) - On-device memory for Claude Code and OpenClaw with hybrid RAG, MCP server, and context-surfacing hooks ⭐ NEW
+- [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. File system-like structure with auto-categorization, cross-references (12.8k⭐) ⭐ NEW
+- [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4.6k⭐) ⭐ NEW
+- [EverOS](https://github.com/EverMind-AI/EverOS) - Build, evaluate, and integrate long-term memory for self-evolving agents ⭐ NEW
+- [AgentRecall](https://agentrecall.cloud) - Open-source memory layer for agents — persistent context across sessions (HN Show) ⭐ NEW
+- [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
+- [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
 - [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
 - [QMD](https://github.com/tobi/qmd) - Mini CLI search engine for docs and notes - BM25 + vector hybrid search with MCP server for agentic workflows ⭐ NEW
 - [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents - instant retrieval, long-term memory (13282⭐) ⭐ NEW
@@ -793,6 +806,8 @@ Tools that work with or extend OpenClaw:
 - [openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free OpenAI API access using your ChatGPT account - local proxy for Codex models (44⭐ HN) ⭐ NEW
 - [ClawHub CLI](https://clawhub.com) - Install, update, and publish skills
 - [OpenClaw Dashboard](https://github.com/openclaw/openclaw) - Web UI for managing agents
+- [ClawX](https://github.com/ValueCell-ai/ClawX) - Desktop app with graphical interface for OpenClaw - turns CLI orchestration into desktop experience ⭐ NEW
+- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI ⭐ NEW
 - [Lobster](https://github.com/openclaw/lobster) - Typed local-first macro engine for composable workflows
 - [LobsterBoard](https://github.com/Curbob/LobsterBoard) - OpenClaw Dashboard Builder - Create custom dashboards
 - [ClawGo](https://github.com/openclaw/clawgo) - Clawd node implementation in Go
