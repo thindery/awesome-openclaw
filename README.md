@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 25, 2026 • Added: 14 new tools - MCP servers (Playwright, GitHub, Chrome DevTools), Memory systems (memU, MemMachine), Agent frameworks (ZeroClaw, DeerFlow), Desktop tools (ClawX, AionUi), and more
+**Last updated:** May 26, 2026 • Added: 6 new tools - Agent runtimes (Nerve, SynapCores), Rust framework (nexo-rs), Reasoning skills (Skills for Humanity), Task manager (Kanban CLI), LLM stack (Harbor)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -83,6 +83,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [Skills for Humanity](https://github.com/human-avatar/skills-for-humanity) - 171 structured reasoning methodologies from history's greatest thinkers, packaged as Claude Code skills. Logic, probability, decision-making, ethics, creativity, systems thinking ⭐ NEW
+- [Kanban CLI](https://codeberg.org/hydrafog/kanban) - Local-first, agent-first CLI for software development workflows. Rust-based task manager built for AI agents with markdown export ⭐ NEW
+- [SynapCores Agent](https://github.com/SynapCores/synapcores-agent) - Framework-free AI agent where the database IS the brain. Memory, RAG, tool routing, generation via SynapCores over plain HTTP with MCP support ⭐ NEW
 - [graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill. Turn any folder into a queryable knowledge graph for Claude Code, Codex, OpenClaw — code + docs + images in one unified graph ⭐ NEW
 - [AgentRecall](https://agentrecall.cloud) - Open-source memory layer for agents — persistent context across sessions (HN Show) ⭐ NEW
 - [Myco](https://github.com/primoia/myco) - Coordinate Claude, DeepSeek and other LLMs in one agent swarm — multi-model orchestration (HN Show) ⭐ NEW
@@ -314,6 +317,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Infrastructure
 
+- [Harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore. Stop configuring, start using ⭐ NEW
+- [Nerve](https://github.com/ClickHouse/nerve) - Self-hosted AI agent runtime — personal assistants, autonomous workers, and everything in between. Built on Claude Agent SDK with persistent memory and scheduled execution ⭐ NEW
+- [nexo-rs](https://github.com/lordmacu/nexo-rs) - Rust multi-agent LLM framework — OpenClaw alternative. WhatsApp + Telegram + Gmail + browser on single binary. NATS broker, MCP client+server, Claude/Anthropic OAuth ⭐ NEW
 - [1Panel](https://github.com/1Panel-dev/1Panel) - Modern, open-source VPS control panel with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your server stack from one clean web interface (35,552⭐) ⭐ NEW
 - [MimiClaw](https://github.com/memovai/mimiclaw) - Run OpenClaw on a $5 chip. No OS, No Node.js, No Raspberry Pi — hardware agents OS ⭐ NEW
 - [nanoclaw](https://github.com/nanocoai/nanoclaw) - Lightweight OpenClaw alternative in containers with WhatsApp, Telegram, Slack, Discord, Gmail integration and memory ⭐ NEW
