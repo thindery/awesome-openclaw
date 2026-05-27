@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 26, 2026 • Added: 6 new tools - Agent runtimes (Nerve, SynapCores), Rust framework (nexo-rs), Reasoning skills (Skills for Humanity), Task manager (Kanban CLI), LLM stack (Harbor)
+**Last updated:** May 27, 2026 • Added: 8 new tools - Live MCP registry, agent observability, terminal UX, memory systems, WhatsApp gateway, self-hosted workspace, and reasoning skills
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -46,6 +46,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [claude-handoff-revive](https://github.com/sofumel/claude-handoff-revive) - Resume Claude Code work without unnecessary context. Skill to preserve and restore session state for long-running projects (3⭐ HN Show May 27) ⭐ NEW
 - [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, openclaw & Gemini CLI (30.5k⭐) ⭐ NEW
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian - create/edit Markdown with wikilinks, Bases with views/filters, JSON Canvas, and Obsidian CLI integration. Compatible with Claude Code, Codex, OpenCode (⭐ 16.1k) ⭐ NEW
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw. Structured project planning using markdown files with persistent context across sessions (⭐ 16.9k) ⭐ NEW
@@ -83,7 +84,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
-- [Skills for Humanity](https://github.com/human-avatar/skills-for-humanity) - 171 structured reasoning methodologies from history's greatest thinkers, packaged as Claude Code skills. Logic, probability, decision-making, ethics, creativity, systems thinking ⭐ NEW
+- [skills-for-humanity](https://github.com/human-avatar/skills-for-humanity) - 171 structured reasoning methodologies from history's greatest thinkers, packaged as Claude Code skills (21⭐ HN Show May 27) ⭐ NEW
 - [Kanban CLI](https://codeberg.org/hydrafog/kanban) - Local-first, agent-first CLI for software development workflows. Rust-based task manager built for AI agents with markdown export ⭐ NEW
 - [SynapCores Agent](https://github.com/SynapCores/synapcores-agent) - Framework-free AI agent where the database IS the brain. Memory, RAG, tool routing, generation via SynapCores over plain HTTP with MCP support ⭐ NEW
 - [graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill. Turn any folder into a queryable knowledge graph for Claude Code, Codex, OpenClaw — code + docs + images in one unified graph ⭐ NEW
@@ -616,6 +617,7 @@ Skills published to ClawHub by the community:
 
 ### Memory & Context
 
+- [agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks. TypeScript-based memory system (⭐ 18.5k trending) ⭐ NEW
 - [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. Structurally organized like a file system with auto-categorization, cross-references, and cost-efficient long-running memory (⭐ 12.8k) ⭐ NEW
 - [Memori Labs](https://github.com/MemoriLabs/Memori) - Memory system hitting 81.95% accuracy on LoCoMo benchmark with only 1,294 tokens per query (vs 26,000+ full-context). 20x cost reduction, 67% fewer tokens than competitors. Switch LLMs and your agent still remembers (Mar 2026) ⭐ NEW
 
@@ -636,6 +638,11 @@ Skills published to ClawHub by the community:
 Tools that work with or extend OpenClaw:
 
 - [Moltis](https://github.com/moltis-org/moltis) - Secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, MCP tools (2,701⭐) ⭐ NEW
+- [mcp-servers-live](https://github.com/linny006/mcp-servers-live) - Auto-updated index of MCP servers shipping on GitHub, refreshed every 15 minutes. Live registry of 100+ MCP servers for agents ⭐ NEW
+- [OpenWA](https://github.com/rmyndharis/OpenWA) - Free, open-source, self-hosted WhatsApp API Gateway. Multi-session, webhooks, web dashboard, n8n integration — no vendor lock-in (6.6k⭐ trending) ⭐ NEW
+- [tinycloud](https://tinycld.org/) - Open-source workspace (mail, docs, spreadsheet, drive) web/iOS — self-hosted alternative to Google Workspace (HN Show May 27) ⭐ NEW
+- [clawmetry](https://github.com/vivekchand/clawmetry) - Real-time observability dashboard for OpenClaw AI agents. See your agent think with live metrics and traces (May 2026) ⭐ NEW
+- [fleet-cost-dashboard](https://github.com/lobodotstreehouse/fleet-cost-dashboard) - Live cost/token dashboard for OpenClaw fleet + Claude Code. Auto-updated every 15 min from local collector (May 2026) ⭐ NEW
 - [Poco](https://github.com/poco-ai/poco-claw) - Beautiful alternative to OpenClaw with nicer Web UI, built-in IM support, sandboxed runtime, channel-based team collaboration ⭐ NEW
 
 ### Browser & Automation
