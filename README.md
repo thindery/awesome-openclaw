@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 27, 2026 • Added: OpenMobius-skill, hermes-edu-skills, engram (NanoFlow)
+**Last updated:** May 28, 2026 • Added: Nango 800+ API integrations, VAEN portable agent packaging, rmux terminal multiplexer, AWS MCP server, Commandable MCP framework
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -323,6 +323,11 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-server-secure-skill](https://clawhub.com/skills/openclaw-server-secure-skill) - Secure server configuration
 - [security-audit](https://github.com/openclaw/openclaw/tree/main/skills/security-audit) - Infrastructure security scanning
 - [AgentShield](https://github.com/Kanevry/openclaw-agentshield) - Real-time AI Agent Security Plugin — Prompt injection defense, tool call guardrails, live security dashboard (Mar 27) ⭐ NEW
+- [Nango](https://github.com/nangoHQ/nango) - Build product integrations with AI. Connect agents to 800+ APIs with managed OAuth, token refresh, and proxy execution (9.3k⭐ trending) ⭐ NEW
+- [VAEN](https://github.com/sjhalani7/vaen) - Package and import portable AI coding harnesses as .agent files. Bundle instructions, skills, MCP config across repos and teams without copy-paste (HN Show May 28) ⭐ NEW
+- [rmux](https://github.com/helveSec/rmux) - Programmable terminal multiplexer with Playwright-style SDK for AI agents — spawn, control, automate terminals (180⭐ HN) ⭐ NEW
+- [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic tool registration for MCP — agents create targeted tools on the fly without context bloat (5⭐ HN) ⭐ NEW
+- [AWS MCP Server](https://github.com/awslabs/mcp) - Official AWS MCP server with 15,000+ API operations for AI agents (GA May 2026) ⭐ NEW
 - [skill-guard](https://clawhub.com/skills/skill-guard) - Skill security vetting and validation
 - [ssh-exec](https://clawhub.com/skills/ssh-exec) - Run commands on remote Tailscale nodes
 - [ssh-tunnel](https://clawhub.com/skills/ssh-tunnel) - SSH tunneling and port forwarding
@@ -668,6 +673,9 @@ Tools that work with or extend OpenClaw:
 
 ### Memory & Persistence
 
+- [remindb](https://github.com/radimsem/remindb) - Agentic memory database that cuts session tokens by 75-99%. One portable SQLite file for persistent agent memory (⭐ 91, May 2026) ⭐ NEW
+- [Hindsight](https://github.com/vectorize-io/hindsight) - Agent memory that learns — adaptive memory system improving retrieval over time (⭐ 13.3k, May 2026) ⭐ NEW
+- [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system standalone library for any AI agent (⭐ NEW, May 2026) ⭐ NEW
 - [ClawMem](https://github.com/yoloshii/clawmem) - On-device memory for Claude Code and OpenClaw with hybrid RAG, MCP server, and context-surfacing hooks ⭐ NEW
 - [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
 - [QMD](https://github.com/tobi/qmd) - Mini CLI search engine for docs and notes - BM25 + vector hybrid search with MCP server for agentic workflows ⭐ NEW
@@ -695,6 +703,11 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [AWS MCP Server](https://github.com/awslabs/mcp) - Official AWS MCP server GA — 15,000+ API operations, CLI commands, skills for agents (May 2026) ⭐ NEW
+- [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic MCP framework — agents build and register their own tools on the fly without context bloat (5⭐ HN) ⭐ NEW
+- [VAEN](https://github.com/sjhalani7/vaen) - Portable CLI for packaging agentic coding setups. Bundle instructions, skills, MCP into .agent files (8⭐ HN Show May 28) ⭐ NEW
+- [Nango](https://github.com/nangoHQ/nango) - Integration platform for AI agents. 800+ APIs with managed auth, proxy execution, TypeScript functions (9.3k⭐ trending) ⭐ NEW
+- [rmux](https://github.com/helveSec/rmux) - Universal Rust multiplexer with typed SDK. Drive any CLI/TUI from code — tmux-compatible for agent orchestration (180⭐ HN Show) ⭐ NEW
 - [Prisma MCP Server](https://github.com/prisma/mcp-server) - Official Prisma MCP server for database operations ⭐ NEW
 - [Activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation with 400+ MCP servers (~21k⭐) ⭐ NEW
 - [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server for Claude to build n8n workflows with 1,084 node documentation ⭐ NEW
