@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 28, 2026 • Added: Nango 800+ API integrations, VAEN portable agent packaging, rmux terminal multiplexer, AWS MCP server, Commandable MCP framework
+**Last updated:** May 29, 2026 • Added: 8 new tools/skills including itdog network diagnostics, ClawSpotify integration, moltbot skills rank index, meeting agent automation, and security tools
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -46,6 +46,11 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [clawkeep](https://github.com/SuperTechGod/clawkeep) - AES-256 encrypted secrets manager for OpenClaw agents. Secure vault for API keys with machine binding, IP restriction, and bot auto-unlock ⭐ NEW
+- [itdog-skill](https://github.com/Ramses1984/itdog-skill) - 🐕 Fast network diagnostics with itdog.cn - batch ping and HTTP response tracking via Clawdbot's Python skill ⭐ NEW
+- [sillytavern-cards-skill](https://github.com/pearyj/sillytavern-cards-skill) - Import & roleplay with SillyTavern character cards. Chat with characters on WhatsApp, Telegram, Discord ⭐ NEW
+- [openclaw-plugin-voice-chat](https://github.com/levivoelz/openclaw-plugin-voice-chat) - Voice I/O for OpenClaw — STT/TTS brackets your real agent keeping models, memory, and skills. WebSocket-based with Whisper/ElevenLabs support ⭐ NEW
+- [Meeting Agent](https://github.com/Smokefarmer/meeting-agent) - AI Meeting Assistant — transcribes, extracts action items, auto-creates GitHub issues and calendar events (Hack_001) (Mar 27) ⭐ NEW
 - [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, openclaw & Gemini CLI (30.5k⭐) ⭐ NEW
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian - create/edit Markdown with wikilinks, Bases with views/filters, JSON Canvas, and Obsidian CLI integration. Compatible with Claude Code, Codex, OpenCode (⭐ 16.1k) ⭐ NEW
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw. Structured project planning using markdown files with persistent context across sessions (⭐ 16.9k) ⭐ NEW
@@ -83,6 +88,12 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [moltbot-skills-rank](https://github.com/Lala0Land/moltbot-skills-rank) - High-performance searchable index for Moltbot skills (Clawdbot) with auto-update and star-based ranking ⭐ NEW
+- [clawdbot-channel-linq](https://github.com/joevr711/clawdbot-channel-linq) - 📱 Connect clawdbot to iMessage, RCS, and SMS using Linq API with media, reactions, and multi-account support ⭐ NEW
+- [clawdbot-kakaotalk](https://github.com/ktaelectronics/clawdbot-kakaotalk) - 🦞 Connect with Clawdbot AI on KakaoTalk for seamless conversation and system control ⭐ NEW
+- [feishu-clawdbot-guide](https://github.com/GHOST0193/feishu-clawdbot-guide) - 🦞 Configure Clawdbot for Feishu with three simple commands — no public access needed ⭐ NEW
+- [clawd-plugin-vault](https://github.com/08Tyrant31/clawd-plugin-vault) - 📁 Transform local directory into structured knowledge vault with fast semantic search and markdown support ⭐ NEW
+- [ClawSpotify](https://github.com/ejatapibeda/ClawSpotify) - Free Spotify API integration skill for OpenClaw ⭐ NEW
 - [CowAgent](https://github.com/zhayujie/chatgpt-on-wechat) - Super AI assistant with thinking, planning, and skill capabilities. Supports OpenClaw MCP and multi-platform (WeChat, Feishu, DingTalk, WeCom, QQ) (42.5k⭐) ⭐ NEW
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system - skills, instincts, memory, security for Claude Code (87.2k⭐) ⭐ NEW
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of awesome Claude Skills, resources, and tools for customizing AI workflows (46k⭐) ⭐ NEW
@@ -586,6 +597,18 @@ Tools that work with or extend OpenClaw:
 
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
+- [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
+- [Memphis](https://github.com/Memphis-Chains/memphis) - OpenClaw Memory Layer - production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
+- [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
+- [Traul](https://github.com/dandaka/traul) - Local-first search engine for all comms - syncs Slack, Telegram, Discord, Gmail, WhatsApp, Linear, Claude Code into SQLite with hybrid search (3⭐ HN) ⭐ NEW
+- [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic tool registration for MCP - agents create targeted tools on the fly without context bloat (5⭐ HN) ⭐ NEW
+- [Odyssey](https://github.com/liquidos-ai/Odyssey) - Run AI agents across environments with proper sandboxing and orchestration (7⭐ HN Show Mar 2026) ⭐ NEW
+- [zbot](https://github.com/LingaoM/zbot) - AI agent for MCU with Telegram chat (runs on Zephyr or Linux) (4⭐ HN Show Mar 2026) ⭐ NEW
+- [Kern](https://github.com/oguzbilgic/kern-ai) - One agent. One folder. One mind. Every channel - minimal agent harness (4⭐ HN Show Mar 2026) ⭐ NEW
+- [FreeFlow](https://github.com/build-trust/freeflow) - Open-source Wispr Flow - voice dictation with sub-200ms latency, self-hosted (3⭐ HN) ⭐ NEW
+- [Puffermind](https://puffermind.com) - Social network where only AI agents can post - register your agent to socialize (2⭐ HN) ⭐ NEW
+- [Kontext](https://kontext.dev) - Runtime credentials for agents - OAuth flows, token storage, refresh logic with scoped short-lived credentials (4⭐ HN) ⭐ NEW
+- [Context Gateway](https://github.com/Compresr-ai/Context-Gateway) - Agentic proxy for instant history compaction and context optimization - sits between agents and LLM APIs (92⭐ HN) ⭐ NEW
 - [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
 - [Memphis](https://github.com/Memphis-Chains/memphis) - OpenClaw Memory Layer - production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
 - [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
