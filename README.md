@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 29, 2026 • Added: 8 new tools/skills including itdog network diagnostics, ClawSpotify integration, moltbot skills rank index, meeting agent automation, and security tools
+**Last updated:** May 29, 2026 • Added: 13 new tools/skills including self-hosted deployment, GitHub Actions agent, Linux desktop automation, update drivers, and a Codex pet
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -405,6 +405,10 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [zeruai](https://clawhub.com/skills/zeruai) - Register agents on Zeru ERC-8004 Identity Registry
 - [finclaw](https://github.com/NeuZhou/finclaw) - AI-Powered Financial Intelligence Engine. 8 Master Strategies, 3 Markets, 227 Tests. Verified +29.1% annual alpha (4⭐) ⭐ NEW
 
+### Fun & Extras
+
+- [openclaw-codex-pet](https://github.com/zknicker/openclaw-codex-pet) - An unofficial OpenClaw lobster pet for Codex App ⭐ NEW
+
 ### Specialized Roles
 
 Professional-grade skills for specific job roles:
@@ -672,6 +676,9 @@ Tools that work with or extend OpenClaw:
 - [Clauductor](https://github.com/clauductor/clauductor) - Web UI for Claude Code with real-time work graph visualization ⭐ NEW
 - [DenchClaw](https://github.com/DenchHQ/DenchClaw) - Fully managed OpenClaw framework for CRM automation and outreach agents with web UI (130⭐) ⭐ NEW
 - [golden-claw](https://github.com/theBlackEndDev/golden-claw) - One-click OpenClaw orchestrator installer with sub-agents (PAI, Gemini CLI, Codex CLI, Claude Code), skills, channels, voice pipeline ⭐ NEW
+- [selfclawy](https://github.com/hbkdad/selfclawy) - 🦞 Free, self-hosted alternative to Clawy (useclawy.com) — deploy OpenClaw on any VPS in 2 minutes. No SaaS fees, full control ⭐ NEW
+- [gitclaw](https://github.com/AnandChowdhary/gitclaw) - Like OpenClaw, but running entirely on GitHub Actions & Issues ⭐ NEW
+- [openclaw-update](https://github.com/motochan/openclaw-update) - Update driver for pnpm/npm drift, plugin cleanup, service regeneration, and post-update health checks ⭐ NEW
 - [codex-gateway](https://github.com/baibairui/codex-gateway) - Codex CLI-based OpenClaw gateway in TypeScript (5⭐) ⭐ NEW
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers with A2A/MCP support, Rust-based (1.9k⭐) ⭐ NEW
 - [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels (505⭐) ⭐ NEW
@@ -691,6 +698,7 @@ Tools that work with or extend OpenClaw:
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
 - [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) - AugmentedMike AI OS layer built on the OpenClaw ecosystem ⭐ NEW
 - [miniclaw](https://github.com/Wscats/miniclaw) - 极简 ReAct Agent 引擎，零依赖、单文件、纯 JavaScript 教学导向 (3⭐) ⭐ NEW
+- [factotum](https://github.com/burgeralexander/factotum) - Control the Linux desktop like a human — read any app's UI via the accessibility tree (no screenshots) and drive mouse+keyboard. MCP server + skill for Claude Code and OpenClaw ⭐ NEW
 - [CloudUI](https://github.com/siteboon/claudecodeui) - Web and mobile GUI for Claude Code, Cursor CLI, and Codex with session management and plugin system ⭐ NEW
 - [Pi Mono](https://github.com/badlogic/pi-mono) - AI agent toolkit with coding agent CLI, unified LLM API, TUI/Web UI libraries, Slack bot, and vLLM pods ⭐ NEW
 
