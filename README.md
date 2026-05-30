@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 29, 2026 • Added: 13 new tools/skills including self-hosted deployment, GitHub Actions agent, Linux desktop automation, update drivers, and a Codex pet
+**Last updated:** May 30, 2026 • Added: 8 new tools including agent orchestration, code intelligence MCPs, academic research skills, and AI design tools
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -88,6 +88,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (⭐ 24.4k) ⭐ NEW
 - [moltbot-skills-rank](https://github.com/Lala0Land/moltbot-skills-rank) - High-performance searchable index for Moltbot skills (Clawdbot) with auto-update and star-based ranking ⭐ NEW
 - [clawdbot-channel-linq](https://github.com/joevr711/clawdbot-channel-linq) - 📱 Connect clawdbot to iMessage, RCS, and SMS using Linq API with media, reactions, and multi-account support ⭐ NEW
 - [clawdbot-kakaotalk](https://github.com/ktaelectronics/clawdbot-kakaotalk) - 🦞 Connect with Clawdbot AI on KakaoTalk for seamless conversation and system control ⭐ NEW
@@ -120,6 +121,12 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [plugin-packager](https://github.com/hummer98/plugin-packager) - Convert Claude Code skill repositories into dual-distributable packages (3⭐) ⭐ NEW
 - [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
 - [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into persistent knowledge graph — 155 languages, sub-ms queries, 99% fewer tokens (⭐ 2.8k) ⭐ NEW
+- [tokensave](https://github.com/aovestdipaperino/tokensave) - Comprehensive code intelligence MCP server with 40+ tools, 30+ languages, pre-indexed semantic knowledge graphs (⭐ 150) ⭐ NEW
+- [lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — cognitive context layer for agentic systems. 62 MCP tools, 10 read modes, up to 99% token savings (⭐ 2.3k) ⭐ NEW
+- [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repos, and PDFs into Claude AI skills with automatic conflict detection (⭐ 13.8k) ⭐ NEW
+- [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Leading token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing (⭐ 1.9k) ⭐ NEW
+- [context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms (⭐ 16.0k) ⭐ NEW
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall and vulnerability detection (61⭐)
 - [agent-autonomy-kit](https://clawhub.com/skills/agent-autonomy-kit) - Self-directed task continuation without waiting for prompts
 - [agent-council](https://clawhub.com/skills/agent-council) - Toolkit for creating autonomous AI agent councils
@@ -137,6 +144,10 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) - Automate web browser interactions using natural language
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) - Gemini CLI integration for AI summaries and generation
 - [openclaw-ollama-proxy](https://github.com/jose-mattew/openclaw-ollama-proxy) - Fix slow Qwen3 thinking mode in OpenClaw + Ollama. Flask proxy that auto-injects think:false for instant responses ⭐ NEW
+- [agentopology](https://github.com/agentopology/agentopology) - The Terraform for AI agents. Define your team once, deploy to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, Kiro (⭐ 83) ⭐ NEW
+- [oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams (⭐ 1.0k) ⭐ NEW
+- [code-abyss](https://github.com/telagod/code-abyss) - Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw (⭐ 217) ⭐ NEW
+- [turbo](https://github.com/tobihagemann/turbo) - Composable dev process for agentic coding harnesses, packaged as modular skills. Sibling editions for Claude Code and Codex (⭐ 312) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals - 12 lessons covering MCP architecture, server/client development, and real-world applications (⭐ 15.5k) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework to develop MCP Apps for ChatGPT/Claude and MCP Servers for AI Agents (⭐ 9.5k) ⭐ NEW
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) - GitHub CLI integration (issues, PRs, actions)
@@ -664,6 +675,7 @@ Tools that work with or extend OpenClaw:
 - [memory_map](https://github.com/kid-sid/memory_map) - Persistent memory & conversation history MCP server for Claude Code. Saves project context as key-value pairs, auto-summarizes (6⭐, May 2026) ⭐ NEW
 - [agent-review-panel](https://github.com/wan-huiyan/agent-review-panel) - Multi-agent adversarial review panel — 4-6 AI reviewers debate code/plans, supreme judge delivers verdict. Anti-groupthink (10⭐, May 2026) ⭐ NEW
 - [GitAgent](https://www.gitagent.sh/) - Open standard that turns any Git repo into an AI agent with 142 points on HN Show ⭐ NEW
+- [hermes-agent](https://github.com/NousResearch/hermes-agent) - Fully open-source AI agent by NousResearch with persistent memory, multi-platform messaging (Telegram, Discord, Slack, WhatsApp), and skill learning (⭐ 9.7k) ⭐ NEW
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous (405⭐) ⭐ NEW
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw - configuration, model, and skills management (2⭐) ⭐ NEW
 - [daneel](https://github.com/fcarucci/daneel) - OpenClaw Live Dashboard and Mission Control (3⭐) ⭐ NEW
@@ -697,7 +709,9 @@ Tools that work with or extend OpenClaw:
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
 - [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) - AugmentedMike AI OS layer built on the OpenClaw ecosystem ⭐ NEW
-- [miniclaw](https://github.com/Wscats/miniclaw) - 极简 ReAct Agent 引擎，零依赖、单文件、纯 JavaScript 教学导向 (3⭐) ⭐ NEW
+- [agentopology](https://github.com/agentopology/agentopology) - The Terraform for AI agents. Define your team once, deploy to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, Kiro (⭐ 83) ⭐ NEW
+- [openclaw-mods](https://github.com/curtismercier/openclaw-mods) - Community mods and extensions for OpenClaw — custom skills, themes, and utilities (⭐ 0.2k) ⭐ NEW
+- [basjoo](https://github.com/haoyiyin/basjoo) - Local AI agent runtime that runs LLMs, MCP servers, and custom tools on local machines (⭐ 1.1k) ⭐ NEW
 - [factotum](https://github.com/burgeralexander/factotum) - Control the Linux desktop like a human — read any app's UI via the accessibility tree (no screenshots) and drive mouse+keyboard. MCP server + skill for Claude Code and OpenClaw ⭐ NEW
 - [CloudUI](https://github.com/siteboon/claudecodeui) - Web and mobile GUI for Claude Code, Cursor CLI, and Codex with session management and plugin system ⭐ NEW
 - [Pi Mono](https://github.com/badlogic/pi-mono) - AI agent toolkit with coding agent CLI, unified LLM API, TUI/Web UI libraries, Slack bot, and vLLM pods ⭐ NEW
