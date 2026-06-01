@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 1, 2026 • Added: 12 new tools including agent harnesses, coding agent tooling, MCP servers, and security tools
+**Last updated:** June 1, 2026 • Added: 8 new quality tools including web search routing, enterprise platform, memory infrastructure, and AI research automation
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -88,6 +88,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [openclaw-enterprise-platform](https://github.com/m-aboud/openclaw-enterprise-platform) - Enterprise platform architecture unifying cloud landing zones, GitOps, zero trust, SRE, platform engineering, and MCP agent infrastructure (⭐ 1, June 2026) ⭐ NEW
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (⭐ 24.4k) ⭐ NEW
 - [moltbot-skills-rank](https://github.com/Lala0Land/moltbot-skills-rank) - High-performance searchable index for Moltbot skills (Clawdbot) with auto-update and star-based ranking ⭐ NEW
 - [clawdbot-channel-linq](https://github.com/joevr711/clawdbot-channel-linq) - 📱 Connect clawdbot to iMessage, RCS, and SMS using Linq API with media, reactions, and multi-account support ⭐ NEW
@@ -260,6 +261,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Data & Research
 
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts (49.3k⭐) ⭐ NEW
+- [nole](https://github.com/dorukardahan/nole) - Free local web search router for AI agents. Go CLI + MCP with BYOK/free-first routing, keyless fallback, and multi-agent support (2⭐, June 2026) ⭐ NEW
+- [Agent Workforce](https://github.com/AgentWorkforce/skills) - Multi-agent skills collection with Agent Relay orchestration patterns, workflow DAGs, and swarm patterns for Claude/Codex/OpenClaw (1⭐, June 2026) ⭐ NEW
 - [my-training-data](https://github.com/ShanksChen/my-training-data) - Automated training data pipeline from Intervals.icu for AI coaching analysis with ACWR, monotony, and phase detection metrics (⭐ 4.2k) ⭐ NEW
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API and agentic skill with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw ⭐ NEW
 - [ai-diff-summary](https://clawhub.com/skills/ai-diff-summary) - Summarize git diffs in plain English
@@ -926,6 +929,9 @@ Tools that work with or extend OpenClaw:
 - [Zetherion](https://github.com/jimtin/zetherion-ai) - Secure personal AI assistant with encrypted memory and privacy-first design ⭐ NEW
 - [vexscan](https://github.com/edimuj/vexscan) - Security scanner for AI agent plugins, skills, MCPs (Rust) ⭐ NEW
 - [Rampart](https://github.com/rampart/rampart) - Open-source firewall for AI agents (v0.8) - control agent access ⭐ NEW
+- [hive-intel/awesome-crypto-mcp-servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) - Curated list of crypto, Web3, DeFi, wallet, and blockchain MCP servers for AI agents (⭐ 7, June 2026) ⭐ NEW
+- [lithium-core](https://github.com/0xJaksun/lithium-core) - PostgreSQL-based storage engine for AI agents. Hierarchical, versioned data with ltree indexing and MCP server (⭐ 1, June 2026) ⭐ NEW
+- [nole](https://github.com/dorukardahan/nole) - Free local web search/extraction router for AI agents. Go CLI + MCP with BYOK/free-first routing and keyless DDGS fallback (⭐ 2, June 2026) ⭐ NEW
 - [Repovex](https://github.com/repovex/repovex) - GitHub repo health scores for your whole organization ⭐ NEW
 - [CanaryAI](https://github.com/jx887/homebrew-canaryai) - Security monitoring on Claude Code actions ⭐ NEW
 - [AgentStack](https://github.com/agentstack-ai/AgentStack) - Scaffold and build robust AI agent projects from the command line ⭐ NEW
