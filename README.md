@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** May 30, 2026 • Added: 8 new tools including agent orchestration, code intelligence MCPs, academic research skills, and AI design tools
+**Last updated:** June 1, 2026 • Added: 12 new tools including agent harnesses, coding agent tooling, MCP servers, and security tools
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -610,6 +610,13 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Agents CLI](https://github.com/phnx-labs/agents-cli) - Meta-harness for CLI agents - run Claude Code, Codex, Antigravity, and others on your subscription (not API costs). Shims, Touch ID secrets, auto-rotation for session limits, and multi-layer dot-agents repos ⭐ NEW
+- [Ouijit](https://github.com/ouijit/ouijit) - Project and task-based terminal session manager for coding agents. Kanban hooks, Git worktrees, VM sandboxing, and supported agents (Claude, Codex, Pi) out of the box ⭐ NEW
+- [Agentpack](https://nexo.sh/posts/agentpack/) - Isolated config layers for Claude Code, Codex, and OpenCode. Manage multiple agent configurations per project ⭐ NEW
+- [GEDD](https://github.com/aws-samples/sample-GEDD) - AWS sample tool to find what your AI agent gets wrong before users do. Agent evaluation and testing framework ⭐ NEW
+- [Deliberate](https://www.deliberate.dev/) - Log what your agent rejected, not just what it ran. Debugging tool for LangGraph/OpenAI Agents in production ⭐ NEW
+- [Screenshotter](https://github.com/mgranados/screenshotter) - Compress screenshots before pasting to AI coding agents. Local macOS utility to save bandwidth ⭐ NEW
+- [Strudai](https://github.com/strudai/strudai) - Browser-based agentic wrapper around Strudel for live coding music. Collab with the agent during live sets ⭐ NEW
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
 - [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
@@ -718,21 +725,23 @@ Tools that work with or extend OpenClaw:
 
 ### Memory & Persistence
 
-- [remindb](https://github.com/radimsem/remindb) - Agentic memory database that cuts session tokens by 75-99%. One portable SQLite file for persistent agent memory (⭐ 91, May 2026) ⭐ NEW
-- [Hindsight](https://github.com/vectorize-io/hindsight) - Agent memory that learns — adaptive memory system improving retrieval over time (⭐ 13.3k, May 2026) ⭐ NEW
-- [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system standalone library for any AI agent (⭐ NEW, May 2026) ⭐ NEW
-- [ClawMem](https://github.com/yoloshii/clawmem) - On-device memory for Claude Code and OpenClaw with hybrid RAG, MCP server, and context-surfacing hooks ⭐ NEW
-- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
-- [QMD](https://github.com/tobi/qmd) - Mini CLI search engine for docs and notes - BM25 + vector hybrid search with MCP server for agentic workflows ⭐ NEW
-- [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents - instant retrieval, long-term memory (13282⭐) ⭐ NEW
-- [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4621⭐) ⭐ NEW
-- [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents like OpenClaw (12759⭐) ⭐ NEW
-- [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (13111⭐) ⭐ NEW
-- [memory-lancedb-mcp](https://github.com/cablate/memory-lancedb-mcp) - MCP server for LanceDB-backed long-term memory with hybrid retrieval (Vector + BM25), cross-encoder rerank, and multi-scope isolation ⭐ NEW
-- [memphis](https://github.com/Memphis-Chains/memphis) - Production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
+- [Hindsight](https://github.com/vectorize-io/hindsight) - Agent memory that learns — adaptive memory system improving retrieval over time (13.3k⭐, May 2026) ⭐ NEW
+- [remindb](https://github.com/radimsem/remindb) - Agentic memory database cutting session tokens by 75-99%. Portable SQLite file (91⭐, May 2026) ⭐ NEW
+- [agentkeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer — memory survives provider switches, crashes, restarts (117⭐, May 2026) ⭐ NEW
+- [memsearch](https://github.com/zilliztech/memsearch) - Markdown-first memory system standalone library for any AI agent (May 2026) ⭐ NEW
+- [memU](https://github.com/NevaMind-AI/memU) - Memory framework for 24/7 proactive agents. Structurally organized like a file system with auto-categorization, cross-references, and cost-efficient long-running memory (12.8k⭐) ⭐ NEW
+- [Memori Labs](https://github.com/MemoriLabs/Memori) - Memory system hitting 81.95% accuracy on LoCoMo benchmark with only 1,294 tokens per query (vs 26,000+ full-context). 20x cost reduction, 67% fewer tokens than competitors. Switch LLMs and your agent still remembers (Mar 2026) ⭐ NEW
 - [engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents with SQLite + FTS5, MCP server, TUI (792⭐) ⭐ NEW
 - [vestige](https://github.com/samvallad33/vestige) - Cognitive memory for AI agents — FSRS-6 spaced repetition, 29 brain modules, 3D dashboard (408⭐) ⭐ NEW
 - [easymemory](https://github.com/JustVugg/easymemory) - 100% local memory layer for chatbots and agents with hybrid retrieval (vector + keyword + graph) and OAuth2 security ⭐ NEW
+- [memvid](https://github.com/memvid/memvid) - Serverless memory layer for AI agents - instant retrieval, long-term memory (13,282⭐) ⭐ NEW
+- [MemMachine](https://github.com/MemMachine/MemMachine) - Universal memory layer for AI agents with scalable storage (4,621⭐) ⭐ NEW
+- [openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System (13,111⭐) ⭐ NEW
+- [memory-lancedb-mcp](https://github.com/cablate/memory-lancedb-mcp) - MCP server for LanceDB-backed long-term memory with hybrid retrieval (Vector + BM25), cross-encoder rerank, and multi-scope isolation ⭐ NEW
+- [memphis](https://github.com/Memphis-Chains/memphis) - Production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
+- [ClawMem](https://github.com/yoloshii/clawmem) - On-device memory for Claude Code and OpenClaw with hybrid RAG, MCP server, and context-surfacing hooks ⭐ NEW
+- [OpenViking](https://github.com/volcengine/OpenViking) - Context database for AI agents - hierarchical memory, resources, and skills via filesystem paradigm ⭐ NEW
+- [QMD](https://github.com/tobi/qmd) - Mini CLI search engine for docs and notes - BM25 + vector hybrid search with MCP server for agentic workflows ⭐ NEW
 - [openclaw-pg-memory](https://github.com/pottertech/openclaw-pg-memory) - Production-ready PostgreSQL + pgvector memory with auto-backups and web dashboard ⭐ NEW
 - [PostClaw](https://github.com/ChristopherLittle51/PostClaw) - PostgreSQL-backed persistent memory system plugin for OpenClaw ⭐ NEW
 - [SynapseLayer/essencial](https://github.com/SynapseLayer/essencial) - Zero-Knowledge memory layer for AI agents. MCP-native, LangChain-compatible ⭐ NEW (Apr 2026)
