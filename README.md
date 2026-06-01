@@ -120,6 +120,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [faire](https://github.com/jack-michaud/faire) - Eval driven Claude Code skills for quality skill development (5⭐) ⭐ NEW
 - [plugin-packager](https://github.com/hummer98/plugin-packager) - Convert Claude Code skill repositories into dual-distributable packages (3⭐) ⭐ NEW
 - [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
+- [deepseek-openclaw](https://github.com/LawmakerTreasure/deepseek-openclaw) - Lightweight starter app for connecting DeepSeek models through OpenClaw with clean UI (191⭐) ⭐ NEW
 - [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into persistent knowledge graph — 155 languages, sub-ms queries, 99% fewer tokens (⭐ 2.8k) ⭐ NEW
 - [tokensave](https://github.com/aovestdipaperino/tokensave) - Comprehensive code intelligence MCP server with 40+ tools, 30+ languages, pre-indexed semantic knowledge graphs (⭐ 150) ⭐ NEW
@@ -414,6 +415,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [x402](https://clawhub.com/skills/x402) - x402 micropayments protocol
 - [yahoo-data-fetcher](https://github.com/openclaw/openclaw/tree/main/skills/yahoo-data-fetcher) - Real-time stock quotes
 - [zeruai](https://clawhub.com/skills/zeruai) - Register agents on Zeru ERC-8004 Identity Registry
+- [metamask-openclaw](https://github.com/veryyoldman/metamask-openclaw) - Safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages, send transactions on EVM chains (198⭐) ⭐ NEW
+- [llmquant-skills](https://github.com/LLMQuant/skills) - Reusable skills for LLMQuant Agent, Claude Code, Hermes Agent, OpenClaw and Codex, grounded in LLMQuant Data (36⭐) ⭐ NEW
 - [finclaw](https://github.com/NeuZhou/finclaw) - AI-Powered Financial Intelligence Engine. 8 Master Strategies, 3 Markets, 227 Tests. Verified +29.1% annual alpha (4⭐) ⭐ NEW
 
 ### Fun & Extras
