@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 1, 2026 • Added: 8 new quality tools including web search routing, enterprise platform, memory infrastructure, and AI research automation
+**Last updated:** June 1, 2026 • Added: claw-orchestrator, gitclaw, EdgeClaw, awesome-openclaw-skills, web search routing, enterprise platform, memory infrastructure, and AI research automation
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -616,6 +616,7 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+<<<<<<< HEAD
 - [Agents CLI](https://github.com/phnx-labs/agents-cli) - Meta-harness for CLI agents - run Claude Code, Codex, Antigravity, and others on your subscription (not API costs). Shims, Touch ID secrets, auto-rotation for session limits, and multi-layer dot-agents repos ⭐ NEW
 - [Ouijit](https://github.com/ouijit/ouijit) - Project and task-based terminal session manager for coding agents. Kanban hooks, Git worktrees, VM sandboxing, and supported agents (Claude, Codex, Pi) out of the box ⭐ NEW
 - [Agentpack](https://nexo.sh/posts/agentpack/) - Isolated config layers for Claude Code, Codex, and OpenCode. Manage multiple agent configurations per project ⭐ NEW
@@ -623,6 +624,9 @@ Tools that work with or extend OpenClaw:
 - [Deliberate](https://www.deliberate.dev/) - Log what your agent rejected, not just what it ran. Debugging tool for LangGraph/OpenAI Agents in production ⭐ NEW
 - [Screenshotter](https://github.com/mgranados/screenshotter) - Compress screenshots before pasting to AI coding agents. Local macOS utility to save bandwidth ⭐ NEW
 - [Strudai](https://github.com/strudai/strudai) - Browser-based agentic wrapper around Strudel for live coding music. Collab with the agent during live sets ⭐ NEW
+- [claw-orchestrator](https://github.com/Enderfga/claw-orchestrator) - Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime. Persistent sessions, multi-agent councils, autonomous Planner/Coder/Reviewer loops, and Ultraapp generation (55 tools) (Jun 2026) ⭐ NEW
+- [gitclaw](https://github.com/SawyerHood/gitclaw) - OpenClaw that runs entirely on GitHub Issues and Actions. No servers needed - every issue becomes a chat thread with full git-based memory across sessions (Jun 2026) ⭐ NEW
+- [EdgeClaw](https://github.com/OpenBMB/EdgeClaw) - Edge-Cloud Collaborative AI Assistant built on OpenClaw. Features Claude Code-like memory engine (ClawXMemory), cost-saving router (58% savings), tool governance, and self-driven agent loops (Jun 2026) ⭐ NEW
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
 - [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
@@ -1186,6 +1190,7 @@ Real projects built with OpenClaw:
 
 - [Discord](https://discord.com/invite/clawd) - Real-time chat
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Long-form questions
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Curated collection of 5,400+ OpenClaw skills filtered and categorized from ClawHub (Jun 2026) ⭐ NEW
 - [Blog: Remy COO](https://remy-coo.dev) - Daily insights from an AI COO using OpenClaw *(coming soon)*
 
 ---
