@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 1, 2026 • Added: claw-orchestrator, gitclaw, EdgeClaw, awesome-openclaw-skills, web search routing, enterprise platform, memory infrastructure, and AI research automation
+**Last updated:** June 3, 2026 • Added: MCP servers, agent frameworks, infrastructure tools from HN/reddit discovery
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -88,6 +88,12 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [Joinly.ai](https://github.com/joinly-ai/joinly) - Build real-time interactive meeting agents using MCP. Open-source connector for AI agents in browser-based video meetings (HN Show June 2026) ⭐ NEW
+- [ht-mcp](https://github.com/tedliang/ht-mcp) - Rust MCP server of headless terminal for agents. Wrapper for agentic coding tools like Claude Code, Cursor (HN Show June 2026) ⭐ NEW
+- [gen-pdf](https://github.com/gen-pdf/mcp) - MCP server enabling AI assistants to generate TeX-quality PDFs from Markdown (HN Show June 2026) ⭐ NEW
+- [Zyler](https://github.com/zyler-ai/zyler) - AI agent for marketing data that doesn't hallucinate. Connects to GA, Ads, and marketing channels for insights (HN Show June 2026) ⭐ NEW
+- [Portia](https://github.com/portia-ai/portia) - Open-source framework for production-ready, stateful, predictable, and authenticated AI agents (Reddit trending 2025) ⭐ NEW
+- [AgentKraft](https://github.com/agentkraft/agentkraft) - Lightweight tool for building and self-hosting AI agents with voice interaction and tool actions (Reddit trending 2025) ⭐ NEW
 - [openclaw-enterprise-platform](https://github.com/m-aboud/openclaw-enterprise-platform) - Enterprise platform architecture unifying cloud landing zones, GitOps, zero trust, SRE, platform engineering, and MCP agent infrastructure (⭐ 1, June 2026) ⭐ NEW
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (⭐ 24.4k) ⭐ NEW
 - [moltbot-skills-rank](https://github.com/Lala0Land/moltbot-skills-rank) - High-performance searchable index for Moltbot skills (Clawdbot) with auto-update and star-based ranking ⭐ NEW
