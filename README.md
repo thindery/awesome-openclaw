@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 3, 2026 • Added: MCP servers, agent frameworks, infrastructure tools from HN/reddit discovery
+**Last updated:** June 3, 2026 • Added: memory-lancedb-pro (hybrid retrieval), openclaw-a2a-gateway (Google A2A protocol), MCP servers, agent frameworks, infrastructure tools
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -323,6 +323,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-min-bundle](https://github.com/CyberJhay/openclaw-min-bundle) - Run OpenClaw Gateway with systemd user service, auto-fix crashes, enable Codex deep web search (0⭐) ⭐ NEW
 - [openclaw-ani-installer](https://github.com/wzfukui/openclaw-ani-installer) - Installer and updater for the ANI plugin on OpenClaw (1⭐) ⭐ NEW
 - [gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and pull request crawler for maintainer triage (54⭐, May 2026) ⭐ NEW
+- [memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin with Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, and Management CLI (⭐ NEW, June 2026) ⭐ NEW
+- [openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) - OpenClaw plugin implementing Google's A2A (Agent-to-Agent) protocol v0.3.0 for bidirectional agent communication (⭐ NEW, June 2026) ⭐ NEW
 - [cerone-openclaw-plugin](https://github.com/AnantDhavale/cerone-openclaw-plugin) - Cerone plugin that validates tool calls before execution using before_tool_call hook (May 2026) ⭐ NEW
 - [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents (6240⭐) ⭐ NEW
