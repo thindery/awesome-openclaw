@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 3, 2026 • Added: memory-lancedb-pro (hybrid retrieval), openclaw-a2a-gateway (Google A2A protocol), MCP servers, agent frameworks, infrastructure tools
+**Last updated:** June 8, 2026 • Added: 10 new MCP frameworks, agent tools, and browser automation projects
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -56,6 +56,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw. Structured project planning using markdown files with persistent context across sessions (⭐ 16.9k) ⭐ NEW
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial NotebookLM API with full programmatic access via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw (⭐ 15.6k) ⭐ NEW
 - [FreeRide](https://github.com/Shaivpidadi/FreeRide) - Unlimited free AI by automatically managing OpenRouter's free models in OpenClaw ⭐ NEW
+- [agent_flywheel_clawdbot_skills_and_integrations](https://github.com/Dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations) - Clawdbot skills for agentic coding workflows - ACFS stack, cloud CLIs, and dev tools (⭐ 62) ⭐ NEW
+- [agent-skills (OperatingSystem-1)](https://github.com/OperatingSystem-1/agent-skills) - Reusable skills for Clawdbot agents - media processing, integrations, and automation ⭐ NEW
 - [1password](https://github.com/openclaw/openclaw/tree/main/skills/1password) - Manage 1Password vault items and passwords
 - [apple-notes](https://github.com/openclaw/openclaw/tree/main/skills/apple-notes) - Read and search Apple Notes on macOS
 - [apple-reminders](https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders) - Manage Apple Reminders on macOS
@@ -153,6 +155,11 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) - Gemini CLI integration for AI summaries and generation
 - [openclaw-ollama-proxy](https://github.com/jose-mattew/openclaw-ollama-proxy) - Fix slow Qwen3 thinking mode in OpenClaw + Ollama. Flask proxy that auto-injects think:false for instant responses ⭐ NEW
 - [agentopology](https://github.com/agentopology/agentopology) - The Terraform for AI agents. Define your team once, deploy to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, Kiro (⭐ 83) ⭐ NEW
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns. Implements all patterns from Anthropic's Building Effective Agents (⭐ 8.4k) ⭐ NEW
+- [Claude-Team-MCP](https://github.com/shalinda-j/Claude-Team-MCP) - Multi-agent MCP coordination system for AI coding assistants with shared state (⭐ 27) ⭐ NEW
+- [production-grade-mcp-agentic-system](https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system) - Production-Grade MCP Server Architecture with Multi-Agent System (⭐ 45) ⭐ NEW
+- [NexusMCP](https://github.com/aavikshit2007-ops/NexusMCP) - Modern Python framework for building MCP-native AI agents, reusable skills, and secure tool-driven workflows ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/agent-mcp) - Framework for creating multi-agent systems with coordinated AI collaboration through MCP ⭐ NEW
 - [oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams (⭐ 1.0k) ⭐ NEW
 - [code-abyss](https://github.com/telagod/code-abyss) - Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw (⭐ 217) ⭐ NEW
 - [turbo](https://github.com/tobihagemann/turbo) - Composable dev process for agentic coding harnesses, packaged as modular skills. Sibling editions for Claude Code and Codex (⭐ 312) ⭐ NEW
@@ -191,11 +198,16 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [voice-call](https://github.com/openclaw/openclaw/tree/main/skills/voice-call) - Voice calling capabilities and management
 - [wacli](https://github.com/openclaw/openclaw/tree/main/skills/wacli) - WhatsApp CLI integration and messaging
 - [weather](https://github.com/openclaw/openclaw/tree/main/skills/weather) - Weather information and forecasts
+- [vector-mcp](https://github.com/knuckles-team/vector-mcp) - Vector MCP Server for AI Agents - supports ChromaDB, Couchbase, MongoDB, Qdrant, and PGVector (⭐ 10) ⭐ NEW
+- [agentos-mcp](https://github.com/Roxmix/agentos-mcp) - Persistent Cognitive Layer for AI Agents — MCP Server with memory, goals, reflection, and autonomous daemon ⭐ NEW
+- [Continuum](https://github.com/redstone-md/Continuum) - Persistent, multi-agent MCP server giving AI coding agents a shared, live view of a codebase with memory that survives across sessions ⭐ NEW
 - [remnote-cli](https://github.com/robert7/remnote-cli) - RemNote knowledge base integration via RemNote Bridge for MCP & OpenClaw (2⭐) ⭐ NEW
 - [openclaw-selfdocs](https://github.com/arleyGuoLei/openclaw-selfdocs) - Embeds essential OpenClaw knowledge directly into agent context for faster assistance ⭐ NEW
 - [oh-my-agent](https://github.com/first-fluke/oh-my-agent) - Structural harness for AI agents in real projects with clarification protocols and context budgets (3⭐ HN) ⭐ NEW
 - [solutions-architect-skills](https://github.com/shadowX4fox/solutions-architect-skills) - Professional architecture documentation workflow for Claude Code (18⭐) ⭐ NEW
 - [obsidian-claude-plugins](https://github.com/jlaska/obsidian-claude-plugins) - Obsidian vault integration skills for Claude Code (12⭐) ⭐ NEW
+- [browserclaw-agent](https://github.com/idan-rubin/browserclaw-agent) - AI browser automation conductor — type a prompt, watch it happen live, get a reusable skill (⭐ 7) ⭐ NEW
+- [gecko-agent](https://github.com/Gecko51/gecko-agent) - AI-powered agentic browser automation assistant (⭐ 16) ⭐ NEW
 
 ### Media & Content
 
@@ -312,6 +324,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, fast OpenClaw deployment — automate the mundane, deploy anywhere. Minimal resource requirements for edge devices (⭐ 22.9k) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway with multi-agent support (⭐ 1,748) ⭐ NEW
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server for secure execution (⭐ 3,115) ⭐ NEW
+- [brow](https://github.com/detrin/brow) - Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands (⭐ 2) ⭐ NEW
+- [agent-browser (smouj)](https://github.com/smouj/agent-browser) - Give any AI agent a real browser. REST API + Web Dashboard + Vision AI. Control browsers via Playwright ⭐ NEW
+- [pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) - Browser-automation agent for Chrome — natural-language tasks with native tool calling, scoped Skills, CDP keyboard control ⭐ NEW
 - [clawhost](https://github.com/bfzli/clawhost) - One-click OpenClaw deployment platform (178⭐)
 - [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents (6240⭐) ⭐ NEW
@@ -323,8 +338,6 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-min-bundle](https://github.com/CyberJhay/openclaw-min-bundle) - Run OpenClaw Gateway with systemd user service, auto-fix crashes, enable Codex deep web search (0⭐) ⭐ NEW
 - [openclaw-ani-installer](https://github.com/wzfukui/openclaw-ani-installer) - Installer and updater for the ANI plugin on OpenClaw (1⭐) ⭐ NEW
 - [gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and pull request crawler for maintainer triage (54⭐, May 2026) ⭐ NEW
-- [memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin with Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, and Management CLI (⭐ NEW, June 2026) ⭐ NEW
-- [openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) - OpenClaw plugin implementing Google's A2A (Agent-to-Agent) protocol v0.3.0 for bidirectional agent communication (⭐ NEW, June 2026) ⭐ NEW
 - [cerone-openclaw-plugin](https://github.com/AnantDhavale/cerone-openclaw-plugin) - Cerone plugin that validates tool calls before execution using before_tool_call hook (May 2026) ⭐ NEW
 - [plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent for large projects (15058⭐) ⭐ NEW
 - [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents (6240⭐) ⭐ NEW
