@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 8, 2026 • Added: 10 new MCP frameworks, agent tools, and browser automation projects
+**Last updated:** June 9, 2026 • Added: 8 new Claude Code integrations, Home Assistant skills, and MCP memory servers
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -46,11 +46,13 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [claude-code-task](https://github.com/VsevolodUstinov/openclaw-skill-claude-code) - Async Claude Code task runner — delegate heavy work to Claude Code with WhatsApp progress notifications and automatic agent wake-up (16⭐) ⭐ NEW
 - [clawkeep](https://github.com/SuperTechGod/clawkeep) - AES-256 encrypted secrets manager for OpenClaw agents. Secure vault for API keys with machine binding, IP restriction, and bot auto-unlock ⭐ NEW
 - [itdog-skill](https://github.com/Ramses1984/itdog-skill) - 🐕 Fast network diagnostics with itdog.cn - batch ping and HTTP response tracking via Clawdbot's Python skill ⭐ NEW
 - [sillytavern-cards-skill](https://github.com/pearyj/sillytavern-cards-skill) - Import & roleplay with SillyTavern character cards. Chat with characters on WhatsApp, Telegram, Discord ⭐ NEW
 - [openclaw-plugin-voice-chat](https://github.com/levivoelz/openclaw-plugin-voice-chat) - Voice I/O for OpenClaw — STT/TTS brackets your real agent keeping models, memory, and skills. WebSocket-based with Whisper/ElevenLabs support ⭐ NEW
-- [Meeting Agent](https://github.com/Smokefarmer/meeting-agent) - AI Meeting Assistant — transcribes, extracts action items, auto-creates GitHub issues and calendar events (Hack_001) (Mar 27) ⭐ NEW
+- [homeassistant-assist](https://github.com/DevelopmentCats/homeassistant-assist) - Token-efficient Home Assistant skill using Assist API — natural language control without entity lookups (11⭐) ⭐ NEW
+- [Meeting Agent](https://github.com/Smokefarmer/meeting-agent) - AI Meeting Assistant — transcribes, extracts action items, auto-creates GitHub issues and calendar events (Hack_001) (Mar 27)
 - [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, openclaw & Gemini CLI (30.5k⭐) ⭐ NEW
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian - create/edit Markdown with wikilinks, Bases with views/filters, JSON Canvas, and Obsidian CLI integration. Compatible with Claude Code, Codex, OpenCode (⭐ 16.1k) ⭐ NEW
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Manus-style persistent markdown planning for Claude Code/OpenClaw. Structured project planning using markdown files with persistent context across sessions (⭐ 16.9k) ⭐ NEW
@@ -64,7 +66,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [bear-notes](https://github.com/openclaw/openclaw/tree/main/skills/bear-notes) - Search and manage Bear notes
 - [chitin](https://clawhub.com/skills/chitin) - Personality persistence for AI agents
 - [cron-scheduling](https://clawhub.com/skills/cron-scheduling) - Schedule recurring tasks with cron and templates
-- [clawkeep](https://github.com/SuperTechGod/clawkeep) - AES-256 encrypted secrets manager for OpenClaw agents. Secure vault for API keys with machine binding, IP restriction, and bot auto-unlock ⭐ NEW
+- [clawkeep](https://github.com/SuperTechGod/clawkeep) - AES-256 encrypted secrets manager for OpenClaw agents. Secure vault for API keys with machine binding, IP restriction, and bot auto-unlock
+- [cron-scheduling](https://clawhub.com/skills/cron-scheduling) - Schedule recurring tasks with cron and templates
 - [credential-manager](https://clawhub.com/skills/credential-manager) - MANDATORY security foundation for OpenClaw credential management
 - [daily-briefing](https://clawhub.com/skills/daily-briefing) - Warm daily briefing with weather, calendar, reminders
 - [focus-deep-work](https://clawhub.com/skills/focus-deep-work) - Deep work and productivity enhancement
@@ -154,8 +157,10 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [agent-browser-stagehand](https://clawhub.com/skills/agent-browser-stagehand) - Automate web browser interactions using natural language
 - [gemini](https://github.com/openclaw/openclaw/tree/main/skills/gemini) - Gemini CLI integration for AI summaries and generation
 - [openclaw-ollama-proxy](https://github.com/jose-mattew/openclaw-ollama-proxy) - Fix slow Qwen3 thinking mode in OpenClaw + Ollama. Flask proxy that auto-injects think:false for instant responses ⭐ NEW
-- [agentopology](https://github.com/agentopology/agentopology) - The Terraform for AI agents. Define your team once, deploy to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, Kiro (⭐ 83) ⭐ NEW
-- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns. Implements all patterns from Anthropic's Building Effective Agents (⭐ 8.4k) ⭐ NEW
+- [agentopology](https://github.com/agentopology/agentopology) - The Terraform for AI agents. Define your team once, deploy to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, Kiro (⭐ 83)
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns. Implements all patterns from Anthropic's Building Effective Agents (⭐ 8.4k)
+- [openclaw-plugin-claude-code](https://github.com/13rac1/openclaw-plugin-claude-code) - Run Claude Code in secure, isolated Podman/Docker containers — rootless, capability-dropped, with webhook notifications (26⭐) ⭐ NEW
+- [claude-code-task](https://github.com/VsevolodUstinov/openclaw-skill-claude-code) - Async Claude Code task runner — delegate heavy work with WhatsApp notifications (16⭐) ⭐ NEW
 - [Claude-Team-MCP](https://github.com/shalinda-j/Claude-Team-MCP) - Multi-agent MCP coordination system for AI coding assistants with shared state (⭐ 27) ⭐ NEW
 - [production-grade-mcp-agentic-system](https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system) - Production-Grade MCP Server Architecture with Multi-Agent System (⭐ 45) ⭐ NEW
 - [NexusMCP](https://github.com/aavikshit2007-ops/NexusMCP) - Modern Python framework for building MCP-native AI agents, reusable skills, and secure tool-driven workflows ⭐ NEW
@@ -628,6 +633,16 @@ Skills published to ClawHub by the community:
 - [membrane](https://github.com/GustyCube/membrane) - Selective learning and memory substrate with typed, revisable, decayable memory
 - [openclaw-memory-sync](https://github.com/mpesavento/openclaw-memory-sync) - OpenClaw skill for parsing session JSONL logs and backfilling/validating memory files
 - [MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM/Agent systems with cross-task skill reuse
+
+### MCP Memory Servers
+
+- [iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) - Best-benchmarked open-source memory for AI assistants — local, ambient, with automatic capture/recall hooks for Claude Code (141⭐) ⭐ NEW
+- [pct-mcp-server](https://github.com/mikhashev/pct-mcp-server) - Personal Context Technology MCP server — persistent memory with privacy controls and section-based access (3⭐) ⭐ NEW
+- [Continuum](https://github.com/redstone-md/Continuum) - Persistent, multi-agent MCP server giving AI coding agents a shared, live view of a codebase with memory that survives across sessions ⭐ NEW
+
+### Home Assistant
+
+- [OpenClawHomeAssistantIntegration](https://github.com/techartdev/OpenClawHomeAssistantIntegration) - Full HA custom integration with conversation agent, Lovelace chat card, voice mode, and tool invocation (79⭐) ⭐ NEW
 
 ---
 
