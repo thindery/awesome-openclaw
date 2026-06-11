@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 10, 2026 • Added: 7 new MCP frameworks, multi-agent tools, and integration platforms
+**Last updated:** June 10, 2026 • Added: git-mcp (8k⭐), SkillClaw (1.8k⭐ skill evolution), hermes-mcp-server (100+ skills), mcp-anything (codebase→MCP)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -94,6 +94,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Development
 
 - [Joinly.ai](https://github.com/joinly-ai/joinly) - Build real-time interactive meeting agents using MCP. Open-source connector for AI agents in browser-based video meetings (HN Show June 2026) ⭐ NEW
+- [SkillClaw](https://github.com/AMAP-ML/skillclaw) - Let Skills Evolve Collectively with Agentic Evolver. Framework for collective skill evolution in AI agents (⭐ 1.8k, June 2026) ⭐ NEW
 - [ht-mcp](https://github.com/tedliang/ht-mcp) - Rust MCP server of headless terminal for agents. Wrapper for agentic coding tools like Claude Code, Cursor (HN Show June 2026) ⭐ NEW
 - [gen-pdf](https://github.com/gen-pdf/mcp) - MCP server enabling AI assistants to generate TeX-quality PDFs from Markdown (HN Show June 2026) ⭐ NEW
 - [Zyler](https://github.com/zyler-ai/zyler) - AI agent for marketing data that doesn't hallucinate. Connects to GA, Ads, and marketing channels for insights (HN Show June 2026) ⭐ NEW
@@ -658,8 +659,10 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
-<<<<<<< HEAD
 - [Agents CLI](https://github.com/phnx-labs/agents-cli) - Meta-harness for CLI agents - run Claude Code, Codex, Antigravity, and others on your subscription (not API costs). Shims, Touch ID secrets, auto-rotation for session limits, and multi-layer dot-agents repos ⭐ NEW
+- [git-mcp](https://github.com/idosal/git-mcp) - Free, open-source remote MCP server for any GitHub project. Put an end to code hallucinations (⭐ 8.2k, June 2026) ⭐ NEW
+- [hermes-mcp-server](https://github.com/pangtongya/hermes-mcp-server) - MCP server exposing 100+ Hermes Agent skills — web search, browser automation, code execution, GitHub, Notion, and more (June 2026) ⭐ NEW
+- [mcp-anything](https://github.com/type-mcp/mcp-anything) - One command to turn any codebase into an MCP server. Python-based with Apache 2.0 license (⭐ 36, June 2026) ⭐ NEW
 - [Ouijit](https://github.com/ouijit/ouijit) - Project and task-based terminal session manager for coding agents. Kanban hooks, Git worktrees, VM sandboxing, and supported agents (Claude, Codex, Pi) out of the box ⭐ NEW
 - [Agentpack](https://nexo.sh/posts/agentpack/) - Isolated config layers for Claude Code, Codex, and OpenCode. Manage multiple agent configurations per project ⭐ NEW
 - [GEDD](https://github.com/aws-samples/sample-GEDD) - AWS sample tool to find what your AI agent gets wrong before users do. Agent evaluation and testing framework ⭐ NEW
