@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 10, 2026 • Added: git-mcp (8k⭐), SkillClaw (1.8k⭐ skill evolution), hermes-mcp-server (100+ skills), mcp-anything (codebase→MCP)
+**Last updated:** June 14, 2026 • Added: 6 new tools - openclaw-graph, GenericAgent, Webwright, mcp-agent, pie-ai-agent, Tasker, Libretto, agent-browser
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -47,6 +47,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Productivity
 
 - [claude-code-task](https://github.com/VsevolodUstinov/openclaw-skill-claude-code) - Async Claude Code task runner — delegate heavy work to Claude Code with WhatsApp progress notifications and automatic agent wake-up (16⭐) ⭐ NEW
+- [openclaw-graph](https://github.com/alphaonedev/openclaw-graph) - Graph-native workspace backend using Neo4j. Replaces flat markdown files with Cypher graph directives — 316 skills across 27 clusters, sub-millisecond queries, 94% token savings (⭐ 5) ⭐ NEW
 - [clawkeep](https://github.com/SuperTechGod/clawkeep) - AES-256 encrypted secrets manager for OpenClaw agents. Secure vault for API keys with machine binding, IP restriction, and bot auto-unlock ⭐ NEW
 - [itdog-skill](https://github.com/Ramses1984/itdog-skill) - 🐕 Fast network diagnostics with itdog.cn - batch ping and HTTP response tracking via Clawdbot's Python skill ⭐ NEW
 - [sillytavern-cards-skill](https://github.com/pearyj/sillytavern-cards-skill) - Import & roleplay with SillyTavern character cards. Chat with characters on WhatsApp, Telegram, Discord ⭐ NEW
@@ -95,11 +96,17 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 - [Joinly.ai](https://github.com/joinly-ai/joinly) - Build real-time interactive meeting agents using MCP. Open-source connector for AI agents in browser-based video meetings (HN Show June 2026) ⭐ NEW
 - [SkillClaw](https://github.com/AMAP-ML/skillclaw) - Let Skills Evolve Collectively with Agentic Evolver. Framework for collective skill evolution in AI agents (⭐ 1.8k, June 2026) ⭐ NEW
+- [GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent framework. Grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption. 9 atomic tools, real browser control, autonomous skill crystallization (⭐ 12.9k) ⭐ NEW
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k) ⭐ NEW
+- [pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) - Browser-automation agent for Chrome extension. Natural-language tasks via native tool calling, scoped Skills, CDP keyboard control, confirm-before-act security. BYOK across 8 LLM providers (Claude, GPT, Gemini, DeepSeek) ⭐ NEW
 - [ht-mcp](https://github.com/tedliang/ht-mcp) - Rust MCP server of headless terminal for agents. Wrapper for agentic coding tools like Claude Code, Cursor (HN Show June 2026) ⭐ NEW
 - [gen-pdf](https://github.com/gen-pdf/mcp) - MCP server enabling AI assistants to generate TeX-quality PDFs from Markdown (HN Show June 2026) ⭐ NEW
 - [Zyler](https://github.com/zyler-ai/zyler) - AI agent for marketing data that doesn't hallucinate. Connects to GA, Ads, and marketing channels for insights (HN Show June 2026) ⭐ NEW
 - [Portia](https://github.com/portia-ai/portia) - Open-source framework for production-ready, stateful, predictable, and authenticated AI agents (Reddit trending 2025) ⭐ NEW
 - [AgentKraft](https://github.com/agentkraft/agentkraft) - Lightweight tool for building and self-hosting AI agents with voice interaction and tool actions (Reddit trending 2025) ⭐ NEW
+- [Microsoft Webwright](https://github.com/microsoft/Webwright) - SOTA browser agent framework achieving 86.7% on Online-Mind2Web. Coding agent with terminal + browser — code-as-action beats coordinate prediction. Ships plugins for Claude Code, Codex, OpenClaw, Hermes (⭐ 5.4k) ⭐ NEW
+- [Libretto](https://github.com/saffron-health/libretto) - Makes AI browser automations deterministic. Uses "development-time AI" — scripts are generated ahead of time as actual code you can read and control, not opaque agent behavior at runtime (⭐ 134 HN) ⭐ NEW
+- [Tasker](https://automatewithtasker.com) - Open-source desktop agent for browser and OS automation. Consumer-friendly, local-first automation that clicks through UIs, copy/pastes between apps, handles messy workflows — not just APIs (HN Show) ⭐ NEW
 - [openclaw-enterprise-platform](https://github.com/m-aboud/openclaw-enterprise-platform) - Enterprise platform architecture unifying cloud landing zones, GitOps, zero trust, SRE, platform engineering, and MCP agent infrastructure (⭐ 1, June 2026) ⭐ NEW
 - [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize (⭐ 24.4k) ⭐ NEW
 - [moltbot-skills-rank](https://github.com/Lala0Land/moltbot-skills-rank) - High-performance searchable index for Moltbot skills (Clawdbot) with auto-update and star-based ranking ⭐ NEW
