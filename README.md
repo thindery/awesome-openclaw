@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 14, 2026 • Added: 6 new tools - openclaw-graph, GenericAgent, Webwright, mcp-agent, pie-ai-agent, Tasker, Libretto, agent-browser
+**Last updated:** June 15, 2026 • Added: 8 new tools - l6e (budget MCP), Cordon (security gateway), Sayou (versioned workspace), Nucleus (control plane), Joinly (meeting agents), AgentLair (identity vault), ht-mcp (terminal), gen-pdf (PDF generation)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -654,6 +654,12 @@ Skills published to ClawHub by the community:
 - [pct-mcp-server](https://github.com/mikhashev/pct-mcp-server) - Personal Context Technology MCP server — persistent memory with privacy controls and section-based access (3⭐) ⭐ NEW
 - [Continuum](https://github.com/redstone-md/Continuum) - Persistent, multi-agent MCP server giving AI coding agents a shared, live view of a codebase with memory that survives across sessions ⭐ NEW
 
+### MCP Security & Governance
+
+- [Cordon](https://github.com/marras0914/cordon) - Security gateway for MCP tool calls with HITL approvals. Transparent proxy with policy-based access control and synchronous human-in-the-loop approvals (HN Show June 2026) ⭐ NEW
+- [Sentinel Gate](https://github.com/sentinelgate/sentinel-gate) - Open-source RBAC firewall for MCP agents. Policy-based access control for agent tool calls (HN Show) ⭐ NEW
+- [l6e](https://github.com/l6e/l6e) - MCP server that gives your agent a budget. Token-aware agent behavior that plans ahead and respects resource limits — works with Cursor, Claude Code, Windsurf, OpenClaw (HN Show June 2026) ⭐ NEW
+
 ### Home Assistant
 
 - [OpenClawHomeAssistantIntegration](https://github.com/techartdev/OpenClawHomeAssistantIntegration) - Full HA custom integration with conversation agent, Lovelace chat card, voice mode, and tool invocation (79⭐) ⭐ NEW
@@ -681,6 +687,10 @@ Tools that work with or extend OpenClaw:
 - [EdgeClaw](https://github.com/OpenBMB/EdgeClaw) - Edge-Cloud Collaborative AI Assistant built on OpenClaw. Features Claude Code-like memory engine (ClawXMemory), cost-saving router (58% savings), tool governance, and self-driven agent loops (Jun 2026) ⭐ NEW
 - [OpenClaw Office](https://github.com/WW-AI-Lab/openclaw-office) - Visual digital twin office for OpenClaw Multi-Agent - real-time 3D/2D visualization of agent collaboration, tool calls, and token usage via WebSocket ⭐ NEW
 - [Jetclaw](https://github.com/ncdrone/jetclaw) - Hardened OpenClaw deployment toolkit — one script from zero to production (Tailscale-only, systemd, UFW, fail2ban) (Mar 27) ⭐ NEW
+- [Sayou](https://github.com/sayou/sayou) - Open-source agent workspace with versioned files and MCP tools. Agents get persistent memory across sessions with structured workspace (HN Show June 2026) ⭐ NEW
+- [Nucleus](https://github.com/nucleus-ai/nucleus) - Sovereign Control Plane for AI Agents. Hypervisor-mediated agent access with governance layer and local engram storage (HN Show June 2026) ⭐ NEW
+- [AgentLair](https://github.com/agentlair/agentlair) - Give your AI agent an email identity and credential vault. Secure credential storage with supply-chain attack protection (HN Show June 2026) ⭐ NEW
+- [Agent Hub MCP](https://github.com/agenthub/agenthub-mcp) - Universal coordination system for AI coding assistants. Message broker + shared state for multi-vendor AI agents (HN Show) ⭐ NEW
 - [NeemClaw](https://github.com/werdoe/neemclaw-reloaded) - OpenClaw Instance Manager & Agent Builder — beautiful, guided, AI-assisted desktop app (Tauri/Rust) (Mar 27) ⭐ NEW
 - [Memphis](https://github.com/Memphis-Chains/memphis) - OpenClaw Memory Layer - production-ready cognitive engine with encrypted chains, HNSW embeddings, and multi-agent sync ⭐ NEW
 - [openclaw-deploy](https://github.com/tardigrde/openclaw-deploy) - Infrastructure-as-code for deploying OpenClaw on Hetzner Cloud - Terraform + Ansible with Docker Compose ⭐ NEW
