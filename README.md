@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 15, 2026 • Added: 8 new tools - l6e (budget MCP), Cordon (security gateway), Sayou (versioned workspace), Nucleus (control plane), Joinly (meeting agents), AgentLair (identity vault), ht-mcp (terminal), gen-pdf (PDF generation)
+**Last updated:** June 16, 2026 • Added: 10 new tools - agent-link-mcp (collaboration), trace-mcp (code intelligence), mcp-anything (codebase→MCP), SkillOpt (skill optimizer), Zuckerman (self-editing agent), GitAgent (repo→agent), plus addyosmani/agent-skills (59.9k⭐), microsoft/skills (2.5k⭐), openclaw/agent-skills, skill-finder
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -137,6 +137,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [stata-skill](https://github.com/dylantmoore/stata-skill) - Claude Code skill for writing correct, idiomatic Stata code (26⭐) ⭐ NEW
 - [oracle-skills-cli](https://github.com/Soul-Brews-Studio/oracle-skills-cli) - Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ agents (27⭐) ⭐ NEW
 - [skillsctl](https://github.com/nebari-dev/skillsctl) - CLI and registry server for discovering, installing, and publishing Claude Code skills (6⭐) ⭐ NEW
+- [skill-finder](https://github.com/yfge/skill-finder) - OpenClaw skill to discover and install agent skills from ClawHub + AgentSkill.work (3⭐) ⭐ NEW
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents (59.9k⭐) ⭐ NEW
 - [faire](https://github.com/jack-michaud/faire) - Eval driven Claude Code skills for quality skill development (5⭐) ⭐ NEW
 - [plugin-packager](https://github.com/hummer98/plugin-packager) - Convert Claude Code skill repositories into dual-distributable packages (3⭐) ⭐ NEW
 - [evals-skills](https://github.com/hamelsmu/evals-skills) - Skills for building LLM evaluations that guard against common mistakes — companion to AI Evals course (424⭐) ⭐ NEW
@@ -676,6 +678,8 @@ Tools that work with or extend OpenClaw:
 - [git-mcp](https://github.com/idosal/git-mcp) - Free, open-source remote MCP server for any GitHub project. Put an end to code hallucinations (⭐ 8.2k, June 2026) ⭐ NEW
 - [hermes-mcp-server](https://github.com/pangtongya/hermes-mcp-server) - MCP server exposing 100+ Hermes Agent skills — web search, browser automation, code execution, GitHub, Notion, and more (June 2026) ⭐ NEW
 - [mcp-anything](https://github.com/type-mcp/mcp-anything) - One command to turn any codebase into an MCP server. Python-based with Apache 2.0 license (⭐ 36, June 2026) ⭐ NEW
+- [agent-link-mcp](https://github.com/mikusnuz/agent-link-mcp) - MCP server for bidirectional AI agent collaboration — 5 tools for spawning and communicating with any agent CLI ⭐ NEW
+- [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - Framework-aware code intelligence MCP server — 15+ framework-specific configurations for faster navigation ⭐ NEW
 - [Ouijit](https://github.com/ouijit/ouijit) - Project and task-based terminal session manager for coding agents. Kanban hooks, Git worktrees, VM sandboxing, and supported agents (Claude, Codex, Pi) out of the box ⭐ NEW
 - [Agentpack](https://nexo.sh/posts/agentpack/) - Isolated config layers for Claude Code, Codex, and OpenCode. Manage multiple agent configurations per project ⭐ NEW
 - [GEDD](https://github.com/aws-samples/sample-GEDD) - AWS sample tool to find what your AI agent gets wrong before users do. Agent evaluation and testing framework ⭐ NEW
@@ -739,6 +743,9 @@ Tools that work with or extend OpenClaw:
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - Convert almost anything to Markdown via MCP (2,436⭐) ⭐ NEW
 - [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP (2,285⭐) ⭐ NEW
 - [contextplus](https://github.com/ForLoopCodes/contextplus) - MCP server for 99% accurate codebase context with RAG, Tree-sitter AST (1,389⭐) ⭐ NEW
+- [SkillOpt](https://github.com/microsoft/SkillOpt) - Text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits (7.3k⭐) ⭐ NEW
+- [GitAgent](https://github.com/gitagent) - Open standard that turns any Git repo into an AI agent via `agent.yaml` and `SOUL.md` files (HN Show June 2026) ⭐ NEW
+- [Zuckerman](https://github.com/zuckerman) - Minimalist personal AI agent that self-edits its own code in real time (HN Show June 2026) ⭐ NEW
 - [sqltools_mcp](https://github.com/Tony-Enninful/sqltools_mcp) - SQLTools MCP for multi-database support without multiple servers - MySQL, PostgreSQL, SQL Server, DM8, SQLite ⭐ NEW
 - [smart-coding-mcp](https://github.com/Moxnyyy/smart-coding-mcp) - Smart Coding MCP with intelligent embeddings for code search (AI-driven) ⭐ NEW
 - [argus-mcp](https://github.com/dykeruv/argus-mcp) - AI-driven code review MCP server using Zero-Trust model ⭐ NEW
@@ -1252,6 +1259,9 @@ Real projects built with OpenClaw:
 - [Discord](https://discord.com/invite/clawd) - Real-time chat
 - [GitHub Discussions](https://github.com/openclaw/openclaw/discussions) - Long-form questions
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Curated collection of 5,400+ OpenClaw skills filtered and categorized from ClawHub (Jun 2026) ⭐ NEW
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents (59.9k⭐) ⭐ NEW
+- [microsoft/skills](https://github.com/microsoft/skills) - Microsoft's official skills, MCP servers, and Agents.md SDKs (2.5k⭐) ⭐ NEW
+- [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Official community skills repository with 789+ stars ⭐ NEW
 - [Blog: Remy COO](https://remy-coo.dev) - Daily insights from an AI COO using OpenClaw *(coming soon)*
 
 ---
