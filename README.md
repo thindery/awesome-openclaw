@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 16, 2026 • Added: 10 new tools - agent-link-mcp (collaboration), trace-mcp (code intelligence), mcp-anything (codebase→MCP), SkillOpt (skill optimizer), Zuckerman (self-editing agent), GitAgent (repo→agent), plus addyosmani/agent-skills (59.9k⭐), microsoft/skills (2.5k⭐), openclaw/agent-skills, skill-finder
+**Last updated:** June 16, 2026 • Evening adds: caveman (72k⭐ token compression), jinn (AI gateway), senderkit-skills (messaging MCP), uniqent (portable agent brains)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -95,6 +95,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ### Development
 
 - [Joinly.ai](https://github.com/joinly-ai/joinly) - Build real-time interactive meeting agents using MCP. Open-source connector for AI agents in browser-based video meetings (HN Show June 2026) ⭐ NEW
+- [caveman](https://github.com/JuliusBrussee/caveman) - Claude Code/Codex skill that cuts ~75% of output tokens by talking like caveman — keeps full technical accuracy while reducing verbosity. HN trending June 13 (⭐ 72.8k) ⭐ NEW
+- [senderkit-skills](https://github.com/senderkit/senderkit-skills) - Transactional email, SMS, push & web-push for AI agents — skills + MCP for Claude Code, Codex, Cursor with no provider lock-in (June 2026) ⭐ NEW
+- [uniqent](https://github.com/RiggdAI/uniqent) - Package an AI agent's whole brain (persona, MCP stack, skills, memory, config) into one open, signed .uniqent file — install into any framework in one click (June 2026) ⭐ NEW
 - [SkillClaw](https://github.com/AMAP-ML/skillclaw) - Let Skills Evolve Collectively with Agentic Evolver. Framework for collective skill evolution in AI agents (⭐ 1.8k, June 2026) ⭐ NEW
 - [GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent framework. Grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption. 9 atomic tools, real browser control, autonomous skill crystallization (⭐ 12.9k) ⭐ NEW
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k) ⭐ NEW
@@ -342,6 +345,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [picoclaw](https://github.com/sipeed/picoclaw) - Tiny, fast OpenClaw deployment — automate the mundane, deploy anywhere. Minimal resource requirements for edge devices (⭐ 22.9k) ⭐ NEW
 - [openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - manage agents via OpenClaw Gateway with multi-agent support (⭐ 1,748) ⭐ NEW
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents combining Browser, Shell, File, MCP and VSCode Server for secure execution (⭐ 3,115) ⭐ NEW
+- [jinn](https://github.com/hristo2612/jinn) - Lightweight AI gateway daemon orchestrating Claude Code, Codex, and Antigravity CLI with routing, scheduling, connectors. Works with Max subscription (⭐ 130) ⭐ NEW
 - [brow](https://github.com/detrin/brow) - Standalone Playwright CLI for AI agent browser automation - control real Chromium with simple commands (⭐ 2) ⭐ NEW
 - [agent-browser (smouj)](https://github.com/smouj/agent-browser) - Give any AI agent a real browser. REST API + Web Dashboard + Vision AI. Control browsers via Playwright ⭐ NEW
 - [pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) - Browser-automation agent for Chrome — natural-language tasks with native tool calling, scoped Skills, CDP keyboard control ⭐ NEW
