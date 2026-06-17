@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 16, 2026 • Evening adds: caveman (72k⭐ token compression), jinn (AI gateway), senderkit-skills (messaging MCP), uniqent (portable agent brains)
+**Last updated:** June 17, 2026 • Added: 12 new tools - Agent Recall (memory), PolyMCP (agent framework), mcp-agent (LastMile), Playwright MCP (Microsoft), GitMCP (repo context), Agent-MCP (collaboration), Agent Recall (SQLite memory), Joinly.ai (meeting agents), CPersona (memory server), sqlite-memory-mcp, polymcp (Python functions→MCP), CowAgent (multi-platform)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -115,6 +115,15 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [moltbot-skills-rank](https://github.com/Lala0Land/moltbot-skills-rank) - High-performance searchable index for Moltbot skills (Clawdbot) with auto-update and star-based ranking ⭐ NEW
 - [clawdbot-channel-linq](https://github.com/joevr711/clawdbot-channel-linq) - 📱 Connect clawdbot to iMessage, RCS, and SMS using Linq API with media, reactions, and multi-account support ⭐ NEW
 - [clawdbot-kakaotalk](https://github.com/ktaelectronics/clawdbot-kakaotalk) - 🦞 Connect with Clawdbot AI on KakaoTalk for seamless conversation and system control ⭐ NEW
+- [Agent Recall](https://github.com/maxoyed/agent-recall) - Open-source, local memory for AI agents (SQLite/MCP). Persistent memory that survives sessions — no more explaining from scratch every morning (HN Show June 2026) ⭐ NEW
+- [PolyMCP](https://github.com/polymcp/polymcp) - Framework for structuring and orchestrating MCP agents. Makes MCP server development and management easier (HN Show June 2026) ⭐ NEW
+- [polymcp](https://github.com/polymcp/polymcp-py) - Turn any Python function into an MCP tool for AI agents. Zero rewriting, zero complex integration (HN Show June 2026) ⭐ NEW
+- [GitMCP](https://github.com/idosal/git-mcp) - Automatic MCP server for every GitHub repo. Change github.com → gitmcp.io for instant AI context — end code hallucinations (⭐ 8.2k HN) ⭐ NEW
+- [CPersona](https://github.com/Cloto-dev/CPersona) - Persistent AI memory server with 3-layer hybrid search, confidence scoring, and 16 MCP tools. MIT licensed (June 2026) ⭐ NEW
+- [sqlite-memory-mcp](https://github.com/RMANOV/sqlite-memory-mcp) - SQLite-backed MCP Memory Server with WAL concurrent safety, FTS5 search, session tracking, and cross-machine bridge sync (June 2026) ⭐ NEW
+- [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search (⭐ 32) ⭐ NEW
+- [MCP Manager](https://github.com/noahdun/mcp-manager) - Open-source CLI to manage MCP servers — add, remove, configure, and organize (HN Show) ⭐ NEW
+- [Sub-agents MCP](https://github.com/cursor-mcp/sub-agents) - Brings Claude Code's sub-agent pattern to Cursor — task-specific specialists in isolated contexts (HN Show June 2026) ⭐ NEW
 - [feishu-clawdbot-guide](https://github.com/GHOST0193/feishu-clawdbot-guide) - 🦞 Configure Clawdbot for Feishu with three simple commands — no public access needed ⭐ NEW
 - [clawd-plugin-vault](https://github.com/08Tyrant31/clawd-plugin-vault) - 📁 Transform local directory into structured knowledge vault with fast semantic search and markdown support ⭐ NEW
 - [ClawSpotify](https://github.com/ejatapibeda/ClawSpotify) - Free Spotify API integration skill for OpenClaw ⭐ NEW
@@ -678,6 +687,14 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Agent Recall](https://github.com/maxoyed/agent-recall) - Open-source, local memory for AI agents (SQLite/MCP). Persistent memory that survives sessions — no more explaining from scratch every morning (HN Show June 2026) ⭐ NEW
+- [PolyMCP](https://github.com/polymcp/polymcp) - Framework for structuring and orchestrating MCP agents. Makes MCP server development and management easier (HN Show June 2026) ⭐ NEW
+- [polymcp](https://github.com/polymcp/polymcp-py) - Turn any Python function into an MCP tool for AI agents. Zero rewriting, zero complex integration (HN Show June 2026) ⭐ NEW
+- [GitMCP](https://github.com/idosal/git-mcp) - Automatic MCP server for every GitHub repo. Change github.com → gitmcp.io for instant AI context — end code hallucinations (⭐ 8.2k HN) ⭐ NEW
+- [CPersona](https://github.com/Cloto-dev/CPersona) - Persistent AI memory server with 3-layer hybrid search, confidence scoring, and 16 MCP tools. MIT licensed (June 2026) ⭐ NEW
+- [sqlite-memory-mcp](https://github.com/RMANOV/sqlite-memory-mcp) - SQLite-backed MCP Memory Server with WAL concurrent safety, FTS5 search, session tracking, and cross-machine bridge sync (June 2026) ⭐ NEW
+- [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search (⭐ 32) ⭐ NEW
+- [MCP Manager](https://github.com/noahdun/mcp-manager) - Open-source CLI to manage MCP servers — add, remove, configure, and organize (HN Show) ⭐ NEW
 - [Agents CLI](https://github.com/phnx-labs/agents-cli) - Meta-harness for CLI agents - run Claude Code, Codex, Antigravity, and others on your subscription (not API costs). Shims, Touch ID secrets, auto-rotation for session limits, and multi-layer dot-agents repos ⭐ NEW
 - [git-mcp](https://github.com/idosal/git-mcp) - Free, open-source remote MCP server for any GitHub project. Put an end to code hallucinations (⭐ 8.2k, June 2026) ⭐ NEW
 - [hermes-mcp-server](https://github.com/pangtongya/hermes-mcp-server) - MCP server exposing 100+ Hermes Agent skills — web search, browser automation, code execution, GitHub, Notion, and more (June 2026) ⭐ NEW
