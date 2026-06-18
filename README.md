@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 17, 2026 • Added: 12 new tools - Agent Recall (memory), PolyMCP (agent framework), mcp-agent (LastMile), Playwright MCP (Microsoft), GitMCP (repo context), Agent-MCP (collaboration), Agent Recall (SQLite memory), Joinly.ai (meeting agents), CPersona (memory server), sqlite-memory-mcp, polymcp (Python functions→MCP), CowAgent (multi-platform)
+**Last updated:** June 18, 2026 • Added: 7 new tools - MCPX (composable MCP CLI), Sub-Agent MCP (sub-agent orchestration), AWS MCP Server (15K+ operations), Nango (800+ APIs), SiYuan Agent MCP (note-taking), Hermes MCP Server (100+ skills), GitHub MCP Server 1.2.0
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -94,6 +94,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [Hermes MCP Server](https://github.com/pangtongya/hermes-mcp-server) - MCP server exposing 100+ Hermes Agent skills — web search, browser automation, code execution, GitHub, Notion, and more to any MCP-compatible AI client (June 2026) ⭐ NEW
+- [SiYuan Agent MCP](https://github.com/LeenixP/siyuan-agent-mcp) - High-quality MCP server for SiYuan Note — Claude Code, OpenCode, Cursor integration for reading, searching, writing and organizing local notes (⭐ trending, June 2026) ⭐ NEW
 - [Joinly.ai](https://github.com/joinly-ai/joinly) - Build real-time interactive meeting agents using MCP. Open-source connector for AI agents in browser-based video meetings (HN Show June 2026) ⭐ NEW
 - [caveman](https://github.com/JuliusBrussee/caveman) - Claude Code/Codex skill that cuts ~75% of output tokens by talking like caveman — keeps full technical accuracy while reducing verbosity. HN trending June 13 (⭐ 72.8k) ⭐ NEW
 - [senderkit-skills](https://github.com/senderkit/senderkit-skills) - Transactional email, SMS, push & web-push for AI agents — skills + MCP for Claude Code, Codex, Cursor with no provider lock-in (June 2026) ⭐ NEW
@@ -122,6 +124,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [CPersona](https://github.com/Cloto-dev/CPersona) - Persistent AI memory server with 3-layer hybrid search, confidence scoring, and 16 MCP tools. MIT licensed (June 2026) ⭐ NEW
 - [sqlite-memory-mcp](https://github.com/RMANOV/sqlite-memory-mcp) - SQLite-backed MCP Memory Server with WAL concurrent safety, FTS5 search, session tracking, and cross-machine bridge sync (June 2026) ⭐ NEW
 - [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search (⭐ 32) ⭐ NEW
+- [MCPX](https://github.com/lydakis/mcpx) - Turn any MCP server into a composable CLI for agent workflows. Shell-first design with tool discovery and pipelining support (HN Show June 2026) ⭐ NEW
+- [Sub-Agent MCP](https://github.com/systemgroupnet/Sub-Agent-MCP) - Production-ready MCP server for LLM delegation and sub-agent orchestration. Define agents in YAML with their own LLM, system prompt, and downstream MCP tools (⭐ 11, June 2026) ⭐ NEW
+- [AWS MCP Server](https://github.com/awslabs/mcp) - Official AWS MCP server with 15,000+ API operations for AI agents. General availability May 2026 (⭐ trending) ⭐ NEW
 - [MCP Manager](https://github.com/noahdun/mcp-manager) - Open-source CLI to manage MCP servers — add, remove, configure, and organize (HN Show) ⭐ NEW
 - [Sub-agents MCP](https://github.com/cursor-mcp/sub-agents) - Brings Claude Code's sub-agent pattern to Cursor — task-specific specialists in isolated contexts (HN Show June 2026) ⭐ NEW
 - [feishu-clawdbot-guide](https://github.com/GHOST0193/feishu-clawdbot-guide) - 🦞 Configure Clawdbot for Feishu with three simple commands — no public access needed ⭐ NEW
@@ -133,7 +138,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors (49.7k⭐) ⭐ NEW
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official Playwright MCP server for browser automation (33.1k⭐) ⭐ NEW  
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents via MCP (28.2k⭐) ⭐ NEW
-- [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server (28.1k⭐) ⭐ NEW
+- [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server v1.2.0 - repos, PRs, issues, actions, code search with comprehensive tool set (30.8k⭐, June 2026) ⭐ NEW
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor (25.8k⭐) ⭐ NEW
 - [Cq](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - Stack Overflow for AI coding agents (182⭐ HN) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals - 12 lessons covering MCP architecture, server/client development, and real-world applications (⭐ 15.5k) ⭐ NEW
