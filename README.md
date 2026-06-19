@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 18, 2026 • Added: 7 new tools - MCPX (composable MCP CLI), Sub-Agent MCP (sub-agent orchestration), AWS MCP Server (15K+ operations), Nango (800+ APIs), SiYuan Agent MCP (note-taking), Hermes MCP Server (100+ skills), GitHub MCP Server 1.2.0
+**Last updated:** June 19, 2026 • Added: 8 new tools - BeamWeaver (Elixir agent workflows), Agent-MCP (multi-agent framework), OSymandias (multi-agent runtime), mcp-agent (8.4k⭐), Wolffish (desktop AI agent), Crawlie (SEO audit), HyperAgent (browser automation), Quorum (hallucination detection)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -821,6 +821,14 @@ Tools that work with or extend OpenClaw:
 - [Superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. locally ⭐ NEW
 - [openclaw-console](https://github.com/xigpz/openclaw-console) - Visual management backend for OpenClaw — configuration, model, and skills management ⭐ NEW
 - [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) - AugmentedMike AI OS layer built on the OpenClaw ecosystem ⭐ NEW
+- [BeamWeaver](https://github.com/caudena/beam_weaver) - LangChain/DeepAgents-style agents and workflows for Elixir. Build multi-agent systems with OTP supervision (HN Show June 2026) ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/agent-mcp) - Multi-agent collaboration framework with persistent knowledge graph and real-time dashboard. "Obsidian for your AI agents" (HN Show June 2026) ⭐ NEW
+- [OSymandias](https://github.com/andreisilva1/OSymandias) - Open-source runtime for multi-agent AI systems with coordination and state management (HN Show June 2026) ⭐ NEW
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability and token accounting (⭐ 8.4k) ⭐ NEW
+- [Wolffish](https://www.wolffi.sh/) - OS personal desktop AI agent for local-first automation (HN Show June 2026) ⭐ NEW
+- [Crawlie](https://github.com/spronta/crawlie) - Free open-source SEO audit tool for humans and agents with MCP integration (HN Show June 2026) ⭐ NEW
+- [HyperAgent](https://github.com/hyperbrowserai/hyperagent) - AI Browser Automation framework built on Playwright with LLM-native controls (⭐ 1.4k) ⭐ NEW
+- [Quorum](https://github.com/jaquelinejaque/quorum-saas-starter) - 11-LLM consensus engine to detect AI hallucination through multi-model voting (HN Show June 2026) ⭐ NEW
 - [agentopology](https://github.com/agentopology/agentopology) - The Terraform for AI agents. Define your team once, deploy to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, Kiro (⭐ 83) ⭐ NEW
 - [openclaw-mods](https://github.com/curtismercier/openclaw-mods) - Community mods and extensions for OpenClaw — custom skills, themes, and utilities (⭐ 0.2k) ⭐ NEW
 - [basjoo](https://github.com/haoyiyin/basjoo) - Local AI agent runtime that runs LLMs, MCP servers, and custom tools on local machines (⭐ 1.1k) ⭐ NEW
