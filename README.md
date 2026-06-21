@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 19, 2026 • Added: 8 new tools - BeamWeaver (Elixir agent workflows), Agent-MCP (multi-agent framework), OSymandias (multi-agent runtime), mcp-agent (8.4k⭐), Wolffish (desktop AI agent), Crawlie (SEO audit), HyperAgent (browser automation), Quorum (hallucination detection)
+**Last updated:** June 21, 2026 • Added: 8 new tools - Agent-Native (framework for agent-native apps), Orca (ADE for parallel agents), Flue (sandbox agent framework), Ruflo (Claude meta-harness with swarms), Hunk (diff viewer for agents), PagePilot (adaptive Playwright agent), CornMCP (token-efficient codebase access), FreeLLMAPI (free tier proxy for 16 LLMs)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -155,6 +155,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [oracle-skills-cli](https://github.com/Soul-Brews-Studio/oracle-skills-cli) - Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ agents (27⭐) ⭐ NEW
 - [skillsctl](https://github.com/nebari-dev/skillsctl) - CLI and registry server for discovering, installing, and publishing Claude Code skills (6⭐) ⭐ NEW
 - [skill-finder](https://github.com/yfge/skill-finder) - OpenClaw skill to discover and install agent skills from ClawHub + AgentSkill.work (3⭐) ⭐ NEW
+- [Hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders — elegant side-by-side diffs optimized for AI coding workflows (5,281⭐, June 2026) ⭐ NEW
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents (59.9k⭐) ⭐ NEW
 - [faire](https://github.com/jack-michaud/faire) - Eval driven Claude Code skills for quality skill development (5⭐) ⭐ NEW
 - [plugin-packager](https://github.com/hummer98/plugin-packager) - Convert Claude Code skill repositories into dual-distributable packages (3⭐) ⭐ NEW
@@ -692,6 +693,10 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [Agent-Native](https://github.com/BuilderIO/agent-native) - Framework for building agent-native applications - opinionated patterns for AI-first app development (1,275⭐, June 2026) ⭐ NEW
+- [Orca](https://github.com/stablyai/orca) - ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription, available on desktop and mobile (5,749⭐, June 2026) ⭐ NEW
+- [Flue](https://github.com/withastro/flue) - Sandbox agent framework from Astro - secure environment for agent experimentation (6,238⭐, June 2026) ⭐ NEW
+- [Ruflo](https://github.com/ruvnet/ruflo) - Agent meta-harness for Claude - deploy multi-agent swarms, coordinate autonomous workflows, RAG integration, native Claude Code/Codex integration (60,680⭐, June 2026) ⭐ NEW
 - [Agent Recall](https://github.com/maxoyed/agent-recall) - Open-source, local memory for AI agents (SQLite/MCP). Persistent memory that survives sessions — no more explaining from scratch every morning (HN Show June 2026) ⭐ NEW
 - [PolyMCP](https://github.com/polymcp/polymcp) - Framework for structuring and orchestrating MCP agents. Makes MCP server development and management easier (HN Show June 2026) ⭐ NEW
 - [polymcp](https://github.com/polymcp/polymcp-py) - Turn any Python function into an MCP tool for AI agents. Zero rewriting, zero complex integration (HN Show June 2026) ⭐ NEW
@@ -776,6 +781,8 @@ Tools that work with or extend OpenClaw:
 - [smart-coding-mcp](https://github.com/Moxnyyy/smart-coding-mcp) - Smart Coding MCP with intelligent embeddings for code search (AI-driven) ⭐ NEW
 - [argus-mcp](https://github.com/dykeruv/argus-mcp) - AI-driven code review MCP server using Zero-Trust model ⭐ NEW
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for terminal control, file system search, diff editing (5.6k⭐) ⭐ NEW
+- [CornMCP](https://github.com/yuki-20/cornmcp) - Token-saving codebase access via MCP — 17x token reduction vs screenshot-based agents for AI coding tools (64⭐, June 2026) ⭐ NEW
+- [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy stacking free tiers of 16 LLM providers (~1.7B tokens/month). Smart routing, automatic failover, encrypted keys (11,253⭐, June 2026) ⭐ NEW
 - [graphthulhu](https://github.com/skridlevsky/graphthulhu) - MCP server for full Logseq/Obsidian knowledge graph access (81⭐) ⭐ NEW
 - [turbovault](https://github.com/Epistates/turbovault) - MCP server that transforms Obsidian vault into intelligent knowledge system (34⭐) ⭐ NEW
 - [better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) - Markdown-first MCP server for Notion API (13⭐) ⭐ NEW
@@ -906,6 +913,7 @@ Tools that work with or extend OpenClaw:
 - [Lumen](https://github.com/lumen/lumen) - Vision-first browser agent - state of the art, open source ⭐ NEW
 - [Draxl](https://github.com/draxl/draxl) - Agent-native source code with stable AST node IDs ⭐ NEW
 - [page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language without browser extensions (trending) ⭐ NEW
+- [PagePilot](https://github.com/page-pilot/pagepilot) - Adaptive, resilient, and autonomous Playwright agent for complex web automation (2⭐, June 2026) ⭐ NEW
 - [Smux](https://github.com/gergomiklos/smux) - Terminal multiplexer built for AI agents with split terminals and notifications (macOS) ⭐ NEW
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent with containerized Linux desktop environment for full computer automation ⭐ NEW
 - [Midscene.js](https://github.com/web-infra-dev/midscene) - Vision-based UI automation for web, iOS, Android with natural language control ⭐ NEW
