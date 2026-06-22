@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 21, 2026 • Added: 8 new tools - Agent-Native (framework for agent-native apps), Orca (ADE for parallel agents), Flue (sandbox agent framework), Ruflo (Claude meta-harness with swarms), Hunk (diff viewer for agents), PagePilot (adaptive Playwright agent), CornMCP (token-efficient codebase access), FreeLLMAPI (free tier proxy for 16 LLMs)
+**Last updated:** June 22, 2026 • Added: 7 new tools - trace-mcp (89⭐), ogcode (120⭐), autohand-code-cli (138⭐), power-platform-skills (365⭐), coding-mcp, forge, mcp-anything
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -94,6 +94,13 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - MCP server that replaces ~42 minutes of agent exploration with one tool call — semantic code navigation for Claude Code and Codex (89⭐) ⭐ NEW
+- [coding-mcp](https://github.com/kieutrongthien/coding-mcp) - Multi-project MCP server for remote coding workflows — agents work across repos without cloning source code (June 2026) ⭐ NEW
+- [forge](https://github.com/ferodrigop/forge) - Terminal MCP server for AI coding agents — spawn, manage, and monitor PTY sessions via MCP (14⭐) ⭐ NEW
+- [mcp-anything](https://github.com/type-mcp/mcp-anything) - One command to turn any codebase into an MCP server (37⭐) ⭐ NEW
+- [ogcode](https://github.com/prasenjeet-symon/ogcode) - Browser-native coding agent that runs entirely on your machine — plans features, executes in parallel across git branches, remembers everything. One binary, zero cloud dependencies (120⭐) ⭐ NEW
+- [autohand-code-cli](https://github.com/autohandai/code-cli) - Ultra fast self-evolving coding agent that runs in your terminal (138⭐) ⭐ NEW
+- [power-platform-skills](https://github.com/microsoft/power-platform-skills) - Microsoft's official Power Platform plugin marketplace for Claude Code/GitHub Copilot — reusable skills, agents, and commands for building and deploying solutions (365⭐) ⭐ NEW
 - [Hermes MCP Server](https://github.com/pangtongya/hermes-mcp-server) - MCP server exposing 100+ Hermes Agent skills — web search, browser automation, code execution, GitHub, Notion, and more to any MCP-compatible AI client (June 2026) ⭐ NEW
 - [SiYuan Agent MCP](https://github.com/LeenixP/siyuan-agent-mcp) - High-quality MCP server for SiYuan Note — Claude Code, OpenCode, Cursor integration for reading, searching, writing and organizing local notes (⭐ trending, June 2026) ⭐ NEW
 - [Joinly.ai](https://github.com/joinly-ai/joinly) - Build real-time interactive meeting agents using MCP. Open-source connector for AI agents in browser-based video meetings (HN Show June 2026) ⭐ NEW
