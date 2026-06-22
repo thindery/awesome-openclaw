@@ -147,6 +147,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - MCP server for mobile automation and scraping on iOS, Android, emulators, simulators (4002⭐) ⭐ NEW
 - [ProofShot](https://proofshot.argil.io/) - Give AI coding agents eyes to verify the UI they build (65⭐ HN) ⭐ NEW
 - [Peekaboo](https://github.com/steipete/Peekaboo) - macOS CLI and MCP server for AI agents to capture screenshots with visual Q&A (2891⭐) ⭐ NEW
+- [openclaw-continuity](https://github.com/redwakame/openclaw-continuity) - Time-aware continuity, carryover, care, and follow-up for OpenClaw agents. Makes agents remember the right thing and reconnect topics after `/new` (4⭐, Jun 2026) ⭐ NEW
+- [openclaw-skill](https://github.com/brabaflow/openclaw-skill) - Complete OpenClaw documentation as a skill for AI coding agents. 333 pages of verbatim official docs for Claude Code, Cursor, Codex, OpenCode (8⭐, Jun 2026) ⭐ NEW
 - [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server for Figma layout info to AI coding agents (13,816⭐) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework for building MCP Apps (interactive widgets) and MCP Servers. TypeScript/Python SDK with inspector and cloud deployment (⭐ 10k) ⭐ NEW
 - [skill-forge](https://github.com/GodModeAI2025/skill-forge) - Autonomous AI skill improvement through iterative experimentation (5⭐) ⭐ NEW
