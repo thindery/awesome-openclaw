@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 22, 2026 • Added: 7 new tools - trace-mcp (89⭐), ogcode (120⭐), autohand-code-cli (138⭐), power-platform-skills (365⭐), coding-mcp, forge, mcp-anything
+**Last updated:** June 23, 2026 • Added: 8 new tools - kubernetes-mcp-server (1700⭐), cortex-hub (57⭐), playwright-mcp (34033⭐), memnos (agent memory), mnemosyne (cognitive memory), BrainDB (memory orchestrator), SochDB (embedded vector DB), pr-agent (11659⭐)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -150,6 +150,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Cq](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - Stack Overflow for AI coding agents (182⭐ HN) ⭐ NEW
 - [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals - 12 lessons covering MCP architecture, server/client development, and real-world applications (⭐ 15.5k) ⭐ NEW
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - MCP Agents running 150+ cybersecurity tools for pentesting and vulnerability discovery (7268⭐) ⭐ NEW
+- [pr-agent](https://github.com/The-PR-Agent/pr-agent) - Open-source PR reviewer with AI-powered code review, auto-description, and issue handling — 11.6k stars, Apache 2.0 (11659⭐) ⭐ NEW
 - [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - MCP server and CLI for iOS and macOS development tools - build, test, analyze projects (4820⭐) ⭐ NEW
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp) - MCP server for mobile automation and scraping on iOS, Android, emulators, simulators (4002⭐) ⭐ NEW
 - [ProofShot](https://proofshot.argil.io/) - Give AI coding agents eyes to verify the UI they build (65⭐ HN) ⭐ NEW
@@ -854,6 +855,10 @@ Tools that work with or extend OpenClaw:
 
 ### Memory & Persistence
 
+- [memnos](https://github.com/thameema/memnos) - Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf (1⭐) ⭐ NEW
+- [mnemosyne](https://github.com/lucasmailland/mnemosyne) - Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector with hybrid recall (BM25 + vectors + graph) (1⭐) ⭐ NEW
+- [BrainDB](https://github.com/beckfexx/BrainDB) - Local-first AI Memory & Multi-Agent Orchestrator — Hybrid Search, Self-Learning, Knowledge Graph. 110 REST endpoints, 51 MCP tools (4⭐) ⭐ NEW
+- [SochDB](https://github.com/sochdb/sochdb) - High-performance embedded vector database purpose-built for AI agents and memory — Rust-based, ACID-compliant (34⭐) ⭐ NEW
 - [Hindsight](https://github.com/vectorize-io/hindsight) - Agent memory that learns — adaptive memory system improving retrieval over time (13.3k⭐, May 2026) ⭐ NEW
 - [remindb](https://github.com/radimsem/remindb) - Agentic memory database cutting session tokens by 75-99%. Portable SQLite file (91⭐, May 2026) ⭐ NEW
 - [agentkeeper](https://github.com/Thinklanceai/agentkeeper) - Cognitive persistence layer — memory survives provider switches, crashes, restarts (117⭐, May 2026) ⭐ NEW
@@ -887,6 +892,9 @@ Tools that work with or extend OpenClaw:
 ### Orchestration & Management
 
 - [AWS MCP Server](https://github.com/awslabs/mcp) - Official AWS MCP server GA — 15,000+ API operations, CLI commands, skills for agents (May 2026) ⭐ NEW
+- [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Powerful Kubernetes MCP server with OpenShift support — auto-detect config changes, CRUD ops, Helm, Tekton, pod logs/exec (1700⭐) ⭐ NEW
+- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft's official MCP server for browser automation using accessibility snapshots, not vision models (34033⭐) ⭐ NEW
+- [cortex-hub](https://github.com/lktiep/cortex-hub) - Self-hosted AI Agent Memory + Code Intelligence — one MCP endpoint for persistent memory, AST-aware code search, shared knowledge (57⭐) ⭐ NEW
 - [Commandable MCP](https://github.com/commandable/commandable-mcp) - Dynamic MCP framework — agents build and register their own tools on the fly without context bloat (5⭐ HN) ⭐ NEW
 - [VAEN](https://github.com/sjhalani7/vaen) - Portable CLI for packaging agentic coding setups. Bundle instructions, skills, MCP into .agent files (8⭐ HN Show May 28) ⭐ NEW
 
