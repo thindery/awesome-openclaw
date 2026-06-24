@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 23, 2026 • Added: 8 new tools - kubernetes-mcp-server (1700⭐), cortex-hub (57⭐), playwright-mcp (34033⭐), memnos (agent memory), mnemosyne (cognitive memory), BrainDB (memory orchestrator), SochDB (embedded vector DB), pr-agent (11659⭐)
+**Last updated:** June 24, 2026 • Added: 7 new tools - oak (git for agents), eve (managed openclaw), clawdtalk (voice calls), gitagent (git→agent standard), clawlink (oauth integrations), agent-mcp (multi-agent), cornmcp (token-saver)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -704,9 +704,16 @@ Tools that work with or extend OpenClaw:
 ### Orchestration & Management
 
 - [Agent-Native](https://github.com/BuilderIO/agent-native) - Framework for building agent-native applications - opinionated patterns for AI-first app development (1,275⭐, June 2026) ⭐ NEW
+- [Oak](https://oak.dev) - Git replacement designed for agents — semantic understanding of code changes with agent-first workflows (HN Show June 2026) ⭐ NEW
+- [Eve](https://openclawcloud.me/) - Managed OpenClaw for work — cloud-hosted instances with secure sandboxing and web terminal (HN Show) ⭐ NEW
+- [ClawdTalk](https://clawdtalk.com/) - Voice calls for Clawdbots — real-time phone integration with ~3s latency, PSTN/STT/TTS pipeline (HN Show) ⭐ NEW
+- [ClawLink](https://github.com/clawlink-hq/clawlink) - One-click OAuth integrations for OpenClaw/Hermes — Gmail, GitHub, Slack, Notion, Shopify, Stripe, 100+ apps (129⭐) ⭐ NEW
 - [Orca](https://github.com/stablyai/orca) - ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription, available on desktop and mobile (5,749⭐, June 2026) ⭐ NEW
 - [Flue](https://github.com/withastro/flue) - Sandbox agent framework from Astro - secure environment for agent experimentation (6,238⭐, June 2026) ⭐ NEW
 - [Ruflo](https://github.com/ruvnet/ruflo) - Agent meta-harness for Claude - deploy multi-agent swarms, coordinate autonomous workflows, RAG integration, native Claude Code/Codex integration (60,680⭐, June 2026) ⭐ NEW
+- [CornMCP](https://github.com/yuki-20/CornMCP) - Token-saving codebase access via MCP — 17x token reduction vs screenshot-based agents for AI coding tools (64⭐, June 2026) ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/agent-mcp) - Multi-agent collaboration framework with persistent knowledge graph, real-time dashboard, parallel execution (HN trending June 2026) ⭐ NEW
+- [agent-link-mcp](https://github.com/mikusnuz/agent-link-mcp) - MCP server for bidirectional AI agent collaboration — 5 tools for spawning and communicating with any agent CLI ⭐ NEW
 - [Agent Recall](https://github.com/maxoyed/agent-recall) - Open-source, local memory for AI agents (SQLite/MCP). Persistent memory that survives sessions — no more explaining from scratch every morning (HN Show June 2026) ⭐ NEW
 - [PolyMCP](https://github.com/polymcp/polymcp) - Framework for structuring and orchestrating MCP agents. Makes MCP server development and management easier (HN Show June 2026) ⭐ NEW
 - [polymcp](https://github.com/polymcp/polymcp-py) - Turn any Python function into an MCP tool for AI agents. Zero rewriting, zero complex integration (HN Show June 2026) ⭐ NEW
