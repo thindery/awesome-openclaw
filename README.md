@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 24, 2026 • Added: 7 new tools - oak (git for agents), eve (managed openclaw), clawdtalk (voice calls), gitagent (git→agent standard), clawlink (oauth integrations), agent-mcp (multi-agent), cornmcp (token-saver)
+**Last updated:** June 25, 2026 • Added: 5 new tools - Neptune MCP (DevOps for agents), MCPX (composable MCP CLI), Agent-MCP (multi-agent framework), GitMCP (auto-docs for any repo), Hermes MCP (100+ skills server)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -209,6 +209,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Agent-MCP](https://github.com/rinadelph/agent-mcp) - Multi-agent collaboration framework with persistent knowledge graph, real-time dashboard, and parallel agent execution. Like "Obsidian for your AI agents" (⭐ HN trending) ⭐ NEW
 - [GitAgent](https://gitagent.sh) - Open standard that turns any Git repo into an AI agent. Portable agent definitions via agent.yaml, SOUL.md, SKILL.md files export to Claude Code, OpenAI Agents SDK, CrewAI, LangChain (⭐ 147 HN) ⭐ NEW
 - [NexusMCP](https://github.com/aavikshit2007-ops/NexusMCP) - Modern Python framework for building MCP-native AI agents with composable skills, orchestrator DAGs, OpenTelemetry observability, and sandboxed execution (⭐ trending) ⭐ NEW
+- [Neptune MCP](https://github.com/shuttle-hq/neptune-mcp) - Give your coding agents DevOps superpowers — AI-powered app deployment platform that reads code, infers infrastructure, and generates IaC for AWS deployment (HN Show June 2026) ⭐ NEW
+- [MCPX](https://github.com/lydakis/mcpx) - Turn any MCP server into a composable CLI for agent workflows — shell-first design with tool discovery, pipelining, and automatic Cursor/Claude/OpenClaw config linking (HN Show June 2026) ⭐ NEW
+- [Sub-Agent MCP](https://github.com/systemgroupnet/Sub-Agent-MCP) - Production-ready MCP server for LLM delegation and sub-agent orchestration — define agents in YAML with their own LLM, system prompt, and downstream MCP tools (⭐ trending, June 2026) ⭐ NEW
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability (⭐ 8.4k) ⭐ NEW
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework for building MCP Apps (interactive widgets) and MCP Servers. TypeScript/Python SDK with inspector and cloud deployment (⭐ 10k) ⭐ NEW
 - [github](https://github.com/openclaw/openclaw/tree/main/skills/github) - GitHub CLI integration (issues, PRs, actions)
