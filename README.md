@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 25, 2026 • Added: 5 new tools - Neptune MCP (DevOps for agents), MCPX (composable MCP CLI), Agent-MCP (multi-agent framework), GitMCP (auto-docs for any repo), Hermes MCP (100+ skills server)
+**Last updated:** June 26, 2026 • Added: 8 new tools - agent-desktop (native desktop automation), understudy (local-first desktop agent), coding-mcp (multi-project remote coding), agent-memory-mcp (persistent memory), claude-skills (337 skills collection), Sub-Agent-MCP (sub-agent orchestration), github-agent (PR review routing), gen-skill (skill generator)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -112,6 +112,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k) ⭐ NEW
 - [pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) - Browser-automation agent for Chrome extension. Natural-language tasks via native tool calling, scoped Skills, CDP keyboard control, confirm-before-act security. BYOK across 8 LLM providers (Claude, GPT, Gemini, DeepSeek) ⭐ NEW
 - [ht-mcp](https://github.com/tedliang/ht-mcp) - Rust MCP server of headless terminal for agents. Wrapper for agentic coding tools like Claude Code, Cursor (HN Show June 2026) ⭐ NEW
+- [gen-skill](https://github.com/gabriel-f-santos/gen-skill) - Interview-driven, portable Agent Skill generator for Claude Code, OpenAI Codex, and opencode. A skill that generates skills (June 2026) ⭐ NEW
+- [claude-skills](https://github.com/avraltod/claude-skills) - 337 Claude Code skills for 30+ agents — engineering, marketing, product, compliance, C-level advisory, research, business operations (June 2026) ⭐ NEW
 - [gen-pdf](https://github.com/gen-pdf/mcp) - MCP server enabling AI assistants to generate TeX-quality PDFs from Markdown (HN Show June 2026) ⭐ NEW
 - [Zyler](https://github.com/zyler-ai/zyler) - AI agent for marketing data that doesn't hallucinate. Connects to GA, Ads, and marketing channels for insights (HN Show June 2026) ⭐ NEW
 - [Portia](https://github.com/portia-ai/portia) - Open-source framework for production-ready, stateful, predictable, and authenticated AI agents (Reddit trending 2025) ⭐ NEW
@@ -706,6 +708,14 @@ Tools that work with or extend OpenClaw:
 
 ### Orchestration & Management
 
+- [agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs (845⭐, HN Show June 2026) ⭐ NEW
+- [understudy](https://github.com/understudy-ai/understudy) - Open-source AI agent that lives on your computer. One instruction controls your entire computer — researches, browses, clicks through desktop apps, manages files (436⭐, HN Show June 2026) ⭐ NEW
+- [coding-mcp](https://github.com/kieutrongthien/coding-mcp) - Multi-project MCP server for remote coding workflows — agents work across repos without cloning source code. HTTP/STDIO transports with safety-first operations (June 2026) ⭐ NEW
+- [Sub-Agent-MCP](https://github.com/systemgroupnet/Sub-Agent-MCP) - Production-ready MCP server for LLM delegation and sub-agent orchestration. Define agents in YAML with their own LLM, system prompt, and downstream MCP tools (June 2026) ⭐ NEW
+- [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search — survives sessions, no more explaining from scratch (32⭐, HN Show June 2026) ⭐ NEW
+- [navagent-mcp](https://github.com/DimitriBouriez/navagent-mcp) - Ultra-light MCP browser navigation — CDP-free, token-efficient and undetectable. Works on any site (SPAs, shadow DOM, iframes) (4⭐, HN Show June 2026) ⭐ NEW
+- [mcp-agent-portal](https://github.com/rnd-pro/mcp-agent-portal) - MCP control plane for AI agents — tool aggregation, orchestration, and browser-based operations (June 2026) ⭐ NEW
+- [github-agent](https://github.com/MarksStuff/github-agent) - MCP-based agent to route PR reviews to coding agents — automate code review workflows (16⭐) ⭐ NEW
 - [Agent-Native](https://github.com/BuilderIO/agent-native) - Framework for building agent-native applications - opinionated patterns for AI-first app development (1,275⭐, June 2026) ⭐ NEW
 - [Oak](https://oak.dev) - Git replacement designed for agents — semantic understanding of code changes with agent-first workflows (HN Show June 2026) ⭐ NEW
 - [Eve](https://openclawcloud.me/) - Managed OpenClaw for work — cloud-hosted instances with secure sandboxing and web terminal (HN Show) ⭐ NEW
