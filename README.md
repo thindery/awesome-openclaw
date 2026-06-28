@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 26, 2026 • Added: 8 new tools - agent-desktop (native desktop automation), understudy (local-first desktop agent), coding-mcp (multi-project remote coding), agent-memory-mcp (persistent memory), claude-skills (337 skills collection), Sub-Agent-MCP (sub-agent orchestration), github-agent (PR review routing), gen-skill (skill generator)
+**Last updated:** June 28, 2026 • Added: 10 new tools - openclaw-master-skills (curated 1209+ skills collection), win4r/OpenClaw-Skill (comprehensive agent skill), Decodo-openclaw-skill (web scraping), SkillClaw (collective skill evolution), Gen-Verse/OpenClaw-RL (train agents by talking), OpenClaw-RL (reinforcement learning), vinaes/succ-openclaw (hybrid memory search), heichaowo/openclaw-amem (A-MEM memory), Felix201209/openclaw-recall (persistent memory), win4r/ClawTeam-OpenClaw (multi-agent swarm)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -94,6 +94,17 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [openclaw-master-skills](https://github.com/leoyeai/openclaw-master-skills) - Curated collection of 1209+ best OpenClaw skills — weekly updated by MyClaw.ai (⭐ 2,038) ⭐ NEW
+- [win4r/OpenClaw-Skill](https://github.com/win4r/openclaw-skill) - Comprehensive agent skill with full OpenClaw integration (⭐ 311) ⭐ NEW
+- [Decodo-openclaw-skill](https://github.com/Decodo/decodo-openclaw-skill) - Web scraping skill using Decodo API for any URL (⭐ 151) ⭐ NEW
+- [SkillClaw](https://github.com/AMAP-ML/SkillClaw) - Let skills evolve collectively with Agentic Evolver — framework for collective skill evolution in AI agents (⭐ 2,029) ⭐ NEW
+- [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) - Train any agent simply by talking — reinforcement learning for OpenClaw (⭐ 5,527) ⭐ NEW
+- [vinaes/succ-openclaw](https://github.com/vinaes/succ-openclaw) - Hybrid search, knowledge graph, and structured memories plugin (⭐ 1) ⭐ NEW
+- [heichaowo/openclaw-amem](https://github.com/heichaowo/openclaw-amem) - First open-source A-MEM memory plugin — agentic memory with dynamic linking & evolution (NeurIPS 2025) ⭐ NEW
+- [openclaw-recall](https://github.com/Felix201209/openclaw-recall) - Persistent memory, context compression & profile visibility (⭐ 3) ⭐ NEW
+- [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - Multi-agent swarm coordination for CLI coding ⭐ NEW
+- [openclaw-skill](https://github.com/brabaflow/openclaw-skill) - Complete OpenClaw documentation as a skill — 333 pages of verbatim official docs (⭐ 8) ⭐ NEW
+- [skill-finder](https://github.com/yfge/skill-finder) - OpenClaw skill to discover and install agent skills from ClawHub + AgentSkill.work (⭐ 3) ⭐ NEW
 - [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - MCP server that replaces ~42 minutes of agent exploration with one tool call — semantic code navigation for Claude Code and Codex (89⭐) ⭐ NEW
 - [coding-mcp](https://github.com/kieutrongthien/coding-mcp) - Multi-project MCP server for remote coding workflows — agents work across repos without cloning source code (June 2026) ⭐ NEW
 - [forge](https://github.com/ferodrigop/forge) - Terminal MCP server for AI coding agents — spawn, manage, and monitor PTY sessions via MCP (14⭐) ⭐ NEW
@@ -710,6 +721,8 @@ Tools that work with or extend OpenClaw:
 
 - [agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs (845⭐, HN Show June 2026) ⭐ NEW
 - [understudy](https://github.com/understudy-ai/understudy) - Open-source AI agent that lives on your computer. One instruction controls your entire computer — researches, browses, clicks through desktop apps, manages files (436⭐, HN Show June 2026) ⭐ NEW
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - Framework for building, orchestrating and deploying AI agents and multi-agent workflows with Python and .NET support (⭐ 11,712) ⭐ NEW
+- [HKUDS/AutoAgent](https://github.com/hkuds/autoagent) - Fully-automated and zero-code LLM agent framework (⭐ 9,384) ⭐ NEW
 - [coding-mcp](https://github.com/kieutrongthien/coding-mcp) - Multi-project MCP server for remote coding workflows — agents work across repos without cloning source code. HTTP/STDIO transports with safety-first operations (June 2026) ⭐ NEW
 - [Sub-Agent-MCP](https://github.com/systemgroupnet/Sub-Agent-MCP) - Production-ready MCP server for LLM delegation and sub-agent orchestration. Define agents in YAML with their own LLM, system prompt, and downstream MCP tools (June 2026) ⭐ NEW
 - [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search — survives sessions, no more explaining from scratch (32⭐, HN Show June 2026) ⭐ NEW
