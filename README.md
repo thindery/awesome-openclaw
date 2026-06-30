@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 29, 2026 • Added: 8 new tools - steipete/claude-code-mcp (1306⭐ agent-in-agent), bytebot-ai/bytebot (11K⭐ desktop automation), steipete/Peekaboo (2891⭐ macOS screenshot MCP), lsdefine/GenericAgent (12.9K⭐ self-evolving), CuaOS/CuaOS (24⭐ Qwen3-VL desktop agent), YV17labs/GhostDesk (133⭐ Docker desktop for agents), mudler/LocalAGI (self-hosted agent platform), Dyan-Dev/loopi (184⭐ desktop automation platform)
+**Last updated:** June 30, 2026 • Added: 10 new tools - Hivekeep (self-hosted AI agent platform), agent-tool (encoding-aware MCP server), agent-link-mcp (bidirectional agent collaboration), Sub-Agent-MCP (production sub-agent orchestration), Index (SOTA browser agent), Understudy (demo-driven desktop agent), AICTL (Rust terminal agent), Sentinel (3x token-efficient browser agent), vix (minified-VFS coding agent), Poncho (web-first agent harness)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -187,6 +187,15 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [deepseek-openclaw](https://github.com/LawmakerTreasure/deepseek-openclaw) - Lightweight starter app for connecting DeepSeek models through OpenClaw with clean UI (191⭐) ⭐ NEW
 - [Fabraix Playground](https://github.com/fabraix/playground) - Live environment to stress-test AI agent defenses through adversarial play with published exploits (27⭐ HN) ⭐ NEW
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into persistent knowledge graph — 155 languages, sub-ms queries, 99% fewer tokens (⭐ 2.8k) ⭐ NEW
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) - Self-hosted platform of autonomous, persistent personal AI agents. Team collaboration, memory, custom tools. One container, zero external infra ⭐ NEW
+- [agent-tool](https://github.com/knewstimek/agent-tool) - MCP tool server with encoding-aware file operations, binary analysis, DAP debugger, SSH/SFTP, memory tools. Fixes tab/encoding issues in agent editors (19⭐) ⭐ NEW
+- [agent-link-mcp](https://github.com/mikusnuz/agent-link-mcp) - MCP server for bidirectional AI agent collaboration. Spawn Claude, Codex, Gemini, Aider as sub-agents with Q&A flow (7⭐) ⭐ NEW
+- [Index](https://github.com/lmnr-ai/index) - SOTA open-source browser agent reaching 92% on WebVoyager with Claude 3.7. Built by Laminar (June 2026) ⭐ NEW
+- [Understudy](https://github.com/understudyai/understudy) - Teach desktop agents by demonstrating tasks once. Local-first, works across native apps, browser, terminal (HN Show June 2026) ⭐ NEW
+- [AICTL](https://github.com/piotrwittchen/aictl) - Native AI agent for terminal and macOS, written in Rust. Fast, lightweight, integrated with system (HN Show June 2026) ⭐ NEW
+- [Sentinel](https://github.com/sentinel-ai/sentinel) - Browser agent using 3x fewer tokens than alternatives. Open benchmark, multi-step flow reliability (HN Show June 2026) ⭐ NEW
+- [vix](https://github.com/vix-ai/vix) - AI coding agent 50% cheaper than Claude Code using virtual filesystem minification. Stem agents for optimal cache hits (HN Show June 2026) ⭐ NEW
+- [Poncho](https://github.com/ponchoai/poncho) - General agent harness built for the web. Version-controlled, local development, serverless deployment (HN Show June 2026) ⭐ NEW
 - [tokensave](https://github.com/aovestdipaperino/tokensave) - Comprehensive code intelligence MCP server with 40+ tools, 30+ languages, pre-indexed semantic knowledge graphs (⭐ 150) ⭐ NEW
 - [lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — cognitive context layer for agentic systems. 62 MCP tools, 10 read modes, up to 99% token savings (⭐ 2.3k) ⭐ NEW
 - [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repos, and PDFs into Claude AI skills with automatic conflict detection (⭐ 13.8k) ⭐ NEW
