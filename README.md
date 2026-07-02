@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** June 30, 2026 • Added: 10 new tools - Hivekeep (self-hosted AI agent platform), agent-tool (encoding-aware MCP server), agent-link-mcp (bidirectional agent collaboration), Sub-Agent-MCP (production sub-agent orchestration), Index (SOTA browser agent), Understudy (demo-driven desktop agent), AICTL (Rust terminal agent), Sentinel (3x token-efficient browser agent), vix (minified-VFS coding agent), Poncho (web-first agent harness)
+**Last updated:** July 2, 2026 • Added: 8 new tools - agent-harness (file-first agent OS), shire (multi-agent collaboration platform), agentwasp (production agent runtime), TITAN (AI operating system with specialists), phantom (teachable AI agent), sento (24/7 self-improving agents), teammcp (MCP-native team collaboration), mcp-agent (framework for effective MCP agents)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -527,6 +527,7 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### MCP Servers & Integrations
 
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k, July 2026) ⭐ NEW
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server — have an agent in your agent (⭐ 1,306) ⭐ NEW
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools to Claude Code and other MCP-compatible clients (⭐ 14) ⭐ NEW
 - [haliphax-ai/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server) - MCP server that exposes OpenClaw tools to ACP agents (⭐ 1, archived) ⭐ NEW
@@ -539,6 +540,13 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### Agent Frameworks & Platforms
 
+- [agent-harness](https://github.com/Phoenixrr2113/agent-harness) - File-first agent operating system. Build AI agents by editing markdown files, not writing code. Self-managing, self-improving, durable with context budgeting and session capture (July 2026) ⭐ NEW
+- [shire](https://github.com/victor36max/shire) - Multi-agent collaboration platform where agents persist, communicate autonomously, and build on yesterday's work. Works with Claude Code, OpenCode, Codex, Pi Agent (33⭐, July 2026) ⭐ NEW
+- [agentwasp](https://github.com/agentwasp/agentwasp) - Production agent runtime with truth-binding response layer, 10+ persistent memory tiers, 41 background jobs, capability tiers, and anticipatory simulation (139⭐, July 2026) ⭐ NEW
+- [TITAN](https://github.com/Djtony707/TITAN) - AI operating system with team of specialists (Scout/Builder/Writer/Analyst/Sage), real-time canvas, autonomous loop, 37 providers, 19 channels, 91 skills (18⭐, July 2026) ⭐ NEW
+- [phantom](https://github.com/borhen68/phantom) - Teachable AI agent for controlled delegation with workflow learning, plan approval, chief-of-staff memory, parallel orchestration, auditable traces (5⭐, July 2026) ⭐ NEW
+- [sento](https://github.com/sentoagent/sento) - 24/7 self-improving AI agents that run on Claude Code. Discord/Telegram/Slack/iMessage control. Guardian bot auto-restart, skill sharing, agent-to-agent messaging (5⭐, July 2026) ⭐ NEW
+- [teammcp](https://github.com/cookjohn/teammcp) - MCP-native collaboration server for AI agent teams — real-time messaging, task management, org structure, approval workflows, audit trails (49⭐, July 2026) ⭐ NEW
 - [Somi-Project/Somi](https://github.com/Somi-Project/Somi) - Local-first AI agent framework with GUI, memory, web search, personality, speech I/O, tools, skills — fully self-hosted via Ollama (⭐ 21) ⭐ NEW
 - [IdeoaLabs/Open-Sable](https://github.com/IdeoaLabs/Open-Sable) - Local-first autonomous agent framework with AGI-inspired cognitive subsystems — goals, memory, metacognition, tool use (June 2026) ⭐ NEW
 - [lthoangg/OpenAgentd](https://github.com/lthoangg/openagentd/) - Self-hosted AI agent OS — streaming chat, tool use, persistent memory, multi-agent teams. Runs entirely on your machine (⭐ 197) ⭐ NEW
@@ -606,4 +614,4 @@ This list is released into the public domain.
 
 ---
 
-*This awesome list is maintained by the OpenClaw community. Last updated: June 29, 2026*
+*This awesome list is maintained by the OpenClaw community. Last updated: July 2, 2026*
