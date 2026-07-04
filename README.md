@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 2, 2026 • Added: 8 new tools - agent-harness (file-first agent OS), shire (multi-agent collaboration platform), agentwasp (production agent runtime), TITAN (AI operating system with specialists), phantom (teachable AI agent), sento (24/7 self-improving agents), teammcp (MCP-native team collaboration), mcp-agent (framework for effective MCP agents)
+**Last updated:** July 4, 2026 • Added: 4 new tools - openclaw-trace (recursive self-improvement pipeline), langclaw (LangChain + OpenClaw production runtime), Agent-MCP (multi-agent collaboration framework), NexusMCP (MCP-native agent framework)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -540,6 +540,10 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### Agent Frameworks & Platforms
 
+- [openclaw-trace](https://github.com/Phantastic-AI/openclaw-trace) - Recursive self-improvement pipeline for OpenClaw session traces. Mines real sessions for errors and friction, clusters them, generates research briefs, and ships verified fixes — evidence-backed and measurable (18⭐, July 2026) ⭐ NEW
+- [langclaw](https://github.com/tisu19021997/langclaw) - LangChain + OpenClaw = production runtime. RBAC, durable workflows, scheduled jobs, persistent memory, subagent delegation — like FastAPI for agents (74⭐, July 2026) ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Multi-agent collaboration framework with persistent knowledge graph, real-time dashboard, and parallel execution. Like "Obsidian for your AI agents" (HN trending, July 2026) ⭐ NEW
+- [NexusMCP](https://github.com/aavikshit2007-ops/NexusMCP) - Modern Python framework for MCP-native AI agents with composable skills, orchestrator DAGs, OpenTelemetry observability, and sandboxed execution (July 2026) ⭐ NEW
 - [agent-harness](https://github.com/Phoenixrr2113/agent-harness) - File-first agent operating system. Build AI agents by editing markdown files, not writing code. Self-managing, self-improving, durable with context budgeting and session capture (July 2026) ⭐ NEW
 - [shire](https://github.com/victor36max/shire) - Multi-agent collaboration platform where agents persist, communicate autonomously, and build on yesterday's work. Works with Claude Code, OpenCode, Codex, Pi Agent (33⭐, July 2026) ⭐ NEW
 - [agentwasp](https://github.com/agentwasp/agentwasp) - Production agent runtime with truth-binding response layer, 10+ persistent memory tiers, 41 background jobs, capability tiers, and anticipatory simulation (139⭐, July 2026) ⭐ NEW
@@ -614,4 +618,4 @@ This list is released into the public domain.
 
 ---
 
-*This awesome list is maintained by the OpenClaw community. Last updated: July 2, 2026*
+*This awesome list is maintained by the OpenClaw community. Last updated: July 4, 2026*
