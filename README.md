@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 4, 2026 • Added: 4 new tools - openclaw-trace (recursive self-improvement pipeline), langclaw (LangChain + OpenClaw production runtime), Agent-MCP (multi-agent collaboration framework), NexusMCP (MCP-native agent framework)
+**Last updated:** July 5, 2026 • Added: 7 new tools - headroom (context compression for AI agents), jcodemunch-mcp (token-efficient code exploration), agent-skills-hub (skill directory with quality scoring), mcp-github-trending (GitHub trending data for agents), tuannvm/codex-mcp-server (Codex CLI wrapper), openrouter-mcp-server (universal model access), X MCP (X API for agents)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -527,8 +527,13 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### MCP Servers & Integrations
 
+- [headroom](https://github.com/headroomlabs-ai/headroom) - Context compression layer for AI agents — 60-95% fewer tokens. Library, proxy, MCP server with cross-agent memory. Works with Claude Code, Codex, Cursor, OpenClaw (⭐ trending, July 2026) ⭐ NEW
+- [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Token-efficient MCP server for GitHub code exploration via tree-sitter AST. Cuts AI token costs 95%+ on code retrieval — 313B+ tokens saved (⭐ 1,975, July 2026) ⭐ NEW
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k, July 2026) ⭐ NEW
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server — have an agent in your agent (⭐ 1,306) ⭐ NEW
+- [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) - MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly (⭐ 488, July 2026) ⭐ NEW
+- [mcp-github-trending](https://github.com/jiyi1990118/mcp-github-trending) - MCP server providing real-time GitHub trending repos and developer data to AI applications. Fuzzy search, language filtering, repo analysis (July 2026) ⭐ NEW
+- [agent-skills-hub](https://github.com/zhuyansen/agent-skills-hub) - Discover and compare 117K+ open-source Agent Skills, tools & MCP servers with quality scoring on 10 dimensions, trending analysis, auto-GitHub sync (⭐ 301, July 2026) ⭐ NEW
 - [Helms-AI/openclaw-mcp-server](https://github.com/Helms-AI/openclaw-mcp-server) - MCP server exposing OpenClaw Gateway tools to Claude Code and other MCP-compatible clients (⭐ 14) ⭐ NEW
 - [haliphax-ai/openclaw-tools-mcp-server](https://github.com/haliphax-openclaw/openclaw-tools-mcp-server) - MCP server that exposes OpenClaw tools to ACP agents (⭐ 1, archived) ⭐ NEW
 - [niglo32432/claude-code-mcp-server](https://github.com/niglo32432/claude-code-mcp-server) - MCP server for Claude Code: 15 dev tools including files, search, shell, Git, GitHub, Docker, HTTP, SQL (⭐ 10) ⭐ NEW
@@ -618,4 +623,4 @@ This list is released into the public domain.
 
 ---
 
-*This awesome list is maintained by the OpenClaw community. Last updated: July 4, 2026*
+*This awesome list is maintained by the OpenClaw community. Last updated: July 5, 2026*
