@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 5, 2026 • Added: 7 new tools - headroom (context compression for AI agents), jcodemunch-mcp (token-efficient code exploration), agent-skills-hub (skill directory with quality scoring), mcp-github-trending (GitHub trending data for agents), tuannvm/codex-mcp-server (Codex CLI wrapper), openrouter-mcp-server (universal model access), X MCP (X API for agents)
+**Last updated:** July 6, 2026 • Added: 10 new tools - openclaw-mem (local-first memory governance), AgentClaw (idea-to-skill builder), memX (self-learning memory), openclaw-engram (unified context engine), agent-link-mcp (bidirectional agent collaboration), WonderMr/Agents (universal MCP server), nexus-mcp (unified MCP with code graph), Agent-MCP (multi-agent framework), mcp-depot (self-hosted MCP hub), chris-openclaw/github-workflow (GitHub automation)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -94,6 +94,12 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [AgentClaw](https://github.com/Negai-ai/AgentClaw) - Turns one-sentence ideas into reusable Claw capabilities with declarative workflows, MCP, Skills, memory, and knowledge bases (⭐ 345) ⭐ NEW
+- [memX](https://github.com/NeoLi00/openclaw-memx) - Self-learning, self-maintaining memory plugin for AI agents with native OpenClaw support (⭐ 141) ⭐ NEW
+- [openclaw-mem](https://github.com/phenomenoner/openclaw-mem) - Local-first memory governance: Store / Pack / Observe cited, inspectable, rollbackable agent context (⭐ 28) ⭐ NEW
+- [WonderMr/Agents](https://github.com/WonderMr/Agents) - Universal MCP Server for AI Agent Roles, Skills & Cognitive Implants (⭐ 13) ⭐ NEW
+- [openclaw-engram](https://github.com/lucassynnott/openclaw-engram) - Unified memory and context engine plugin for OpenClaw (⭐ 3) ⭐ NEW
+- [chris-openclaw/github-workflow](https://github.com/chris-openclaw/github-workflow) - OpenClaw plugin for GitHub PR review, issue triage, release notes, and weekly digest ⭐ NEW
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server — have an agent in your agent (⭐ 1,306) ⭐ NEW
 - [openclaw-master-skills](https://github.com/leoyeai/openclaw-master-skills) - Curated collection of 1209+ best OpenClaw skills — weekly updated by MyClaw.ai (⭐ 2,038) ⭐ NEW
 - [win4r/OpenClaw-Skill](https://github.com/win4r/openclaw-skill) - Comprehensive agent skill with full OpenClaw integration (⭐ 311) ⭐ NEW
@@ -527,6 +533,10 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### MCP Servers & Integrations
 
+- [agent-link-mcp](https://github.com/mikusnuz/agent-link-mcp) - MCP server for bidirectional AI agent collaboration — spawn and communicate with any agent CLI (⭐ 7) ⭐ NEW
+- [mcp-depot](https://github.com/mcp-depot/mcp-depot) - Self-hosted MCP server hub — connect any REST API to AI assistants as tools with built-in web UI (⭐ 3) ⭐ NEW
+- [nexus-mcp](https://github.com/jaggernaut007/nexus-mcp) - Unified MCP server with hybrid search + code graph + semantic memory. 15 tools, <350MB RAM, fully local (⭐ NEW, July 2026) ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/agent-mcp) - Multi-agent collaboration framework with persistent knowledge graph and real-time dashboard (HN trending, July 2026) ⭐ NEW
 - [headroom](https://github.com/headroomlabs-ai/headroom) - Context compression layer for AI agents — 60-95% fewer tokens. Library, proxy, MCP server with cross-agent memory. Works with Claude Code, Codex, Cursor, OpenClaw (⭐ trending, July 2026) ⭐ NEW
 - [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Token-efficient MCP server for GitHub code exploration via tree-sitter AST. Cuts AI token costs 95%+ on code retrieval — 313B+ tokens saved (⭐ 1,975, July 2026) ⭐ NEW
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k, July 2026) ⭐ NEW
