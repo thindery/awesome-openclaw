@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 6, 2026 • Added: 10 new tools - openclaw-mem (local-first memory governance), AgentClaw (idea-to-skill builder), memX (self-learning memory), openclaw-engram (unified context engine), agent-link-mcp (bidirectional agent collaboration), WonderMr/Agents (universal MCP server), nexus-mcp (unified MCP with code graph), Agent-MCP (multi-agent framework), mcp-depot (self-hosted MCP hub), chris-openclaw/github-workflow (GitHub automation)
+**Last updated:** July 7, 2026 • Added: 8 new tools - agent-security-scanner-mcp (AI agent security auditing), browser-harness (self-healing browser automation), mcp-for-beginners (Microsoft MCP curriculum), snyk/mcp-scan (enterprise security scanner), GitMCP (auto MCP server for any GitHub repo), agent-browser (Vercel's browser CLI), Sub-Agent MCP (LLM delegation server), mcp-agent (composable agent framework)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -539,7 +539,9 @@ Standalone tools and utilities that work with OpenClaw.
 - [Agent-MCP](https://github.com/rinadelph/agent-mcp) - Multi-agent collaboration framework with persistent knowledge graph and real-time dashboard (HN trending, July 2026) ⭐ NEW
 - [headroom](https://github.com/headroomlabs-ai/headroom) - Context compression layer for AI agents — 60-95% fewer tokens. Library, proxy, MCP server with cross-agent memory. Works with Claude Code, Codex, Cursor, OpenClaw (⭐ trending, July 2026) ⭐ NEW
 - [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Token-efficient MCP server for GitHub code exploration via tree-sitter AST. Cuts AI token costs 95%+ on code retrieval — 313B+ tokens saved (⭐ 1,975, July 2026) ⭐ NEW
+- [GitMCP](https://github.com/idosal/gitmcp) - Automatic MCP server for every GitHub repo. Change github.com → gitmcp.io for instant AI context — end code hallucinations (⭐ 8.2k HN, July 2026) ⭐ NEW
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k, July 2026) ⭐ NEW
+- [Sub-Agent MCP](https://github.com/systemgroupnet/Sub-Agent-MCP) - Production-ready MCP server for LLM delegation and sub-agent orchestration — define agents in YAML with their own LLM, system prompt, and downstream MCP tools (⭐ trending, July 2026) ⭐ NEW
 - [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) - Claude Code as one-shot MCP server — have an agent in your agent (⭐ 1,306) ⭐ NEW
 - [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) - MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly (⭐ 488, July 2026) ⭐ NEW
 - [mcp-github-trending](https://github.com/jiyi1990118/mcp-github-trending) - MCP server providing real-time GitHub trending repos and developer data to AI applications. Fuzzy search, language filtering, repo analysis (July 2026) ⭐ NEW
@@ -582,6 +584,17 @@ Standalone tools and utilities that work with OpenClaw.
 - [jeffjacobsen/mcpskill](https://github.com/jeffjacobsen/mcpskill) - Direct MCP Wrapper for Claude Code Skills (⭐ 1) ⭐ NEW
 - [mcp-setup](https://skills.cat/skills/yeachan-heo/oh-my-claudecode/mcp-setup) - Configure popular MCP servers for enhanced agent capabilities ⭐ NEW
 
+### Security & Safety
+
+- [snyk/mcp-scan](https://github.com/snyk/mcp-scan) - Enterprise-grade security scanner for AI agents, MCP servers and agent skills — 21 security rules, OWASP Agentic AI Top 10 compliant (⭐ 2,748, July 2026) ⭐ NEW
+- [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall, package hallucination detection, 1000+ vulnerability rules with AST & taint analysis (⭐ 111, July 2026) ⭐ NEW
+- [MCP-Lattice](https://github.com/panavinsingh/MCP-Lattice) - Security scanner for MCP with capability graph analysis — detects emergent attack chains across multi-server AI agent deployments (⭐ 8, July 2026) ⭐ NEW
+
+### Browser Automation
+
+- [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs. Rust-based with Playwright integration (⭐ 36.8k, July 2026) ⭐ NEW
+- [browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness for LLMs — enables agents to complete any web task with semantic understanding and recovery (⭐ 15.7k, July 2026) ⭐ NEW
+
 ---
 
 ## Tutorials
@@ -593,6 +606,7 @@ Standalone tools and utilities that work with OpenClaw.
 - [Building MCP Servers Guide](https://webdeveloper.com/learn/guides/building-mcp-servers/) - TypeScript, Streamable HTTP, Production ⭐ NEW
 - [I Tested 8 MCP Servers With Claude Code](https://medium.com/data-science-collective/the-8-mcp-servers-every-claude-code-setup-needs-in-2026-fac76ac7d013) - Practical MCP server recommendations (June 2026) ⭐ NEW
 - [MCP Quickstart Tutorial](https://modelcontextprotocol.info/docs/quickstart/quickstart/) - Build a simple MCP weather server ⭐ NEW
+- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum introducing MCP fundamentals — 12 lessons covering architecture, server/client development, real-world apps (⭐ 15.5k, July 2026) ⭐ NEW
 
 ---
 
