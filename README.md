@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 7, 2026 • Added: 8 new tools - agent-security-scanner-mcp (AI agent security auditing), browser-harness (self-healing browser automation), mcp-for-beginners (Microsoft MCP curriculum), snyk/mcp-scan (enterprise security scanner), GitMCP (auto MCP server for any GitHub repo), agent-browser (Vercel's browser CLI), Sub-Agent MCP (LLM delegation server), mcp-agent (composable agent framework)
+**Last updated:** July 8, 2026 • Added: 10 new tools - Lilo (Telegram-based personal AI assistant), Moltis (Rust-native AI assistant with self-extending skills), Understudy (teach-by-demonstration desktop agent), Tasker (desktop automation for browser/OS), Operant (self-hosted agents in Slack/Teams), ClawFleet (fleet manager for AI agents), Clawdboss (pre-hardened multi-agent setup), skill-loader (universal skill adapter), openclaw-repo-agent (repository-aware agent), GitHub MCP Server (official GitHub MCP)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -590,10 +590,32 @@ Standalone tools and utilities that work with OpenClaw.
 - [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall, package hallucination detection, 1000+ vulnerability rules with AST & taint analysis (⭐ 111, July 2026) ⭐ NEW
 - [MCP-Lattice](https://github.com/panavinsingh/MCP-Lattice) - Security scanner for MCP with capability graph analysis — detects emergent attack chains across multi-server AI agent deployments (⭐ 8, July 2026) ⭐ NEW
 
+### MCP Servers
+
+- [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server with 15,000+ API operations for AI agents. Repos, PRs, issues, actions, code search with comprehensive tool set (⭐ 31.2k, July 2026) ⭐ NEW
+- [snyk/mcp-scan](https://github.com/snyk/mcp-scan) - Enterprise-grade security scanner for AI agents, MCP servers and agent skills — 21 security rules, OWASP Agentic AI Top 10 compliant (⭐ 2,748, July 2026) ⭐ NEW
+- [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall, package hallucination detection, 1000+ vulnerability rules with AST & taint analysis (⭐ 111, July 2026) ⭐ NEW
+- [MCP-Lattice](https://github.com/panavinsingh/MCP-Lattice) - Security scanner for MCP with capability graph analysis — detects emergent attack chains across multi-server AI agent deployments (⭐ 8, July 2026) ⭐ NEW
+
 ### Browser Automation
 
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs. Rust-based with Playwright integration (⭐ 36.8k, July 2026) ⭐ NEW
 - [browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness for LLMs — enables agents to complete any web task with semantic understanding and recovery (⭐ 15.7k, July 2026) ⭐ NEW
+
+### Alternative Agents & Frameworks
+
+- [Lilo](https://github.com/abi/lilo) - Open source Telegram-based personal AI assistant with memory, skills, and tools. Model-agnostic with persistent workspace, scheduled tasks, and HTML app creation. Multi-channel (Telegram, Email, WhatsApp, Web) (HN Show 2026) ⭐ NEW
+- [Moltis](https://www.moltis.org) - Rust-native AI assistant with memory, tools, and self-extending skills. 150k lines, ~60MB, no runtime deps. Multi-provider LLM routing, MCP tool servers, multi-channel (Web, Telegram, API) (HN Show) ⭐ NEW
+- [Understudy](https://github.com/understudy-ai/understudy) - Teach desktop agents by demonstrating tasks once. Local-first, works across native apps, browser, terminal. Records screen + semantic events, extracts intent for reusable skills (HN Show June 2026) ⭐ NEW
+- [Tasker](https://automatewithtasker.com) - Open-source desktop agent for browser and OS automation. Consumer-friendly, local-first automation that clicks through UIs, copy/pastes between apps, handles messy workflows (HN Show) ⭐ NEW
+- [ClawFleet](https://github.com/clawfleet/clawfleet) - Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes. Use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard (⭐ 157) ⭐ NEW
+- [Clawdboss](https://github.com/NanoFlow-io/Clawdboss) - Pre-hardened, multi-agent OpenClaw setup. One script from zero to fully secured AI assistant on Discord, Telegram, or both (⭐ 113) ⭐ NEW
+- [Operant](https://github.com/tomascupr/operant) - Self-hosted agents in Slack and Teams on your infra. Per-user OAuth, per-human audit, RBAC, approvals, 2,500+ SaaS tools via Pipedream Connect. MIT-licensed control plane for OpenClaw (⭐ 45) ⭐ NEW
+
+### Skills & Tool Adapters
+
+- [skill-loader](https://github.com/ythx-101/skill-loader) - Universal skill adapter for OpenClaw - load Claude Code, Codex, and Gemini CLI skills (⭐ 5) ⭐ NEW
+- [openclaw-repo-agent](https://github.com/AndriiTeterka/openclaw-repo-agent) - Repository-aware agent for OpenClaw that understands codebase structure and context (⭐ NEW) ⭐ NEW
 
 ---
 
