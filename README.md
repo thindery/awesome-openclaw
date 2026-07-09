@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 8, 2026 • Added: 10 new tools - Lilo (Telegram-based personal AI assistant), Moltis (Rust-native AI assistant with self-extending skills), Understudy (teach-by-demonstration desktop agent), Tasker (desktop automation for browser/OS), Operant (self-hosted agents in Slack/Teams), ClawFleet (fleet manager for AI agents), Clawdboss (pre-hardened multi-agent setup), skill-loader (universal skill adapter), openclaw-repo-agent (repository-aware agent), GitHub MCP Server (official GitHub MCP)
+**Last updated:** July 9, 2026 • Added: 6 new tools - Pu.sh (400-line shell coding agent), VT Code (Rust TUI coding agent), kern-ai (agent kernel with observability), AgentArk (Rust personal AI OS), Flowork (self-hosted agents with immune system), Nango (800+ API integrations for agents)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -522,6 +522,8 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### Desktop & Computer Use Agents
 
+- [Pu.sh](https://github.com/pi-autoresearch/pu.sh) - Full coding-agent harness in 400 lines of shell. Anthropic + OpenAI, 7 tools (bash, read, write, edit, grep, find, ls), REPL, auto-compaction, checkpoint/resume, pipe mode, 90 no-API tests. Just sh, curl, awk — truly portable (HN Show July 2026) ⭐ NEW
+- [VT Code](https://github.com/vt-code/vt-code) - Rust TUI coding agent with multi-provider support (Anthropic, OpenAI, Gemini, Codex). Agent Skills, MCP, and ACP ready. Semantic coding with sub-500ms response times (HN Show July 2026) ⭐ NEW
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Self-hosted AI desktop agent in containerized Linux. Automates tasks via natural language — 11K⭐ (June 2026) ⭐ NEW
 - [YV17labs/GhostDesk](https://github.com/yv17labs/ghostdesk) - Give any AI agent a full desktop via Docker. It sees the screen, clicks, types, runs apps — one command deploy (⭐ 133) ⭐ NEW
 - [CuaOS/CuaOS](https://github.com/CuaOS/CuaOS) - Qwen3-VL-based computer use agent on Ubuntu. Local sandbox with GGUF format, keyboard/mouse control (⭐ 24) ⭐ NEW
@@ -533,6 +535,7 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### MCP Servers & Integrations
 
+- [Nango](https://github.com/nangoHQ/nango) - Build product integrations with AI. Connect agents to 800+ APIs with managed OAuth, token refresh, and proxy execution. Self-hostable with SOC 2/GDPR compliance (⭐ 9.3k trending, July 2026) ⭐ NEW
 - [agent-link-mcp](https://github.com/mikusnuz/agent-link-mcp) - MCP server for bidirectional AI agent collaboration — spawn and communicate with any agent CLI (⭐ 7) ⭐ NEW
 - [mcp-depot](https://github.com/mcp-depot/mcp-depot) - Self-hosted MCP server hub — connect any REST API to AI assistants as tools with built-in web UI (⭐ 3) ⭐ NEW
 - [nexus-mcp](https://github.com/jaggernaut007/nexus-mcp) - Unified MCP server with hybrid search + code graph + semantic memory. 15 tools, <350MB RAM, fully local (⭐ NEW, July 2026) ⭐ NEW
@@ -557,6 +560,9 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### Agent Frameworks & Platforms
 
+- [kern-ai](https://github.com/oguzbilgic/kern-ai) - Agent kernel with observability. Agents that do the work and show it — structured traces, receipts, and verifiable outputs (⭐ 55, July 2026) ⭐ NEW
+- [AgentArk](https://github.com/agentark-ai/AgentArk) - Personal AI OS in Rust — secure-first, self-learning via GEPA (Goal-Execution-Plan-Action). Multi-channel support with privacy focus (⭐ 71, July 2026) ⭐ NEW
+- [Flowork](https://github.com/flowork-os/Flowork_Agent) - Self-hosted AI agents that learn from their own past and guard their own code. Per-agent isolated brain (memory, dream, immune), multi-agent orchestration, Telegram + MCP, live security radar. Single Go binary, local-first (⭐ 8, July 2026) ⭐ NEW
 - [openclaw-trace](https://github.com/Phantastic-AI/openclaw-trace) - Recursive self-improvement pipeline for OpenClaw session traces. Mines real sessions for errors and friction, clusters them, generates research briefs, and ships verified fixes — evidence-backed and measurable (18⭐, July 2026) ⭐ NEW
 - [langclaw](https://github.com/tisu19021997/langclaw) - LangChain + OpenClaw = production runtime. RBAC, durable workflows, scheduled jobs, persistent memory, subagent delegation — like FastAPI for agents (74⭐, July 2026) ⭐ NEW
 - [Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Multi-agent collaboration framework with persistent knowledge graph, real-time dashboard, and parallel execution. Like "Obsidian for your AI agents" (HN trending, July 2026) ⭐ NEW
