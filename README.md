@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 9, 2026 • Added: 6 new tools - Pu.sh (400-line shell coding agent), VT Code (Rust TUI coding agent), kern-ai (agent kernel with observability), AgentArk (Rust personal AI OS), Flowork (self-hosted agents with immune system), Nango (800+ API integrations for agents)
+**Last updated:** July 10, 2026 • Added: 8 new tools - Airlock (self-upgrading compiled AI agents), GitAgent (git-native agent standard), AgentLair (email identity & credential vault), KinBot (self-hosted agents building web apps), Sgai (GOAL.md → working code), Auto-Co (14-agent autonomous startup), Mission Control (task management for agents), Agent-MCP (multi-agent coordination framework)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -112,7 +112,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - Multi-agent swarm coordination for CLI coding ⭐ NEW
 - [openclaw-skill](https://github.com/brabaflow/openclaw-skill) - Complete OpenClaw documentation as a skill — 333 pages of verbatim official docs (⭐ 8) ⭐ NEW
 - [skill-finder](https://github.com/yfge/skill-finder) - OpenClaw skill to discover and install agent skills from ClawHub + AgentSkill.work (⭐ 3) ⭐ NEW
-- [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - MCP server that replaces ~42 minutes of agent exploration with one tool call — semantic code navigation for Claude Code and Codex (89⭐) ⭐ NEW
+- [agent-tool](https://github.com/knewstimek/agent-tool) - MCP tool server with encoding-aware file operations, binary analysis, DAP debugger, SSH/SFTP, memory tools. Fixes tab/encoding issues in agent editors (19⭐, July 2026) ⭐ NEW
+- [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search — Go-based with SQLite backend (34⭐, July 2026) ⭐ NEW
+- [agent-workspace-mcp](https://github.com/HrRodan/agent-workspace-mcp) - Sandboxed, agentic workspace providing secure filesystem, bash, and uv-powered Python execution (July 2026) ⭐ NEW
 - [coding-mcp](https://github.com/kieutrongthien/coding-mcp) - Multi-project MCP server for remote coding workflows — agents work across repos without cloning source code (June 2026) ⭐ NEW
 - [forge](https://github.com/ferodrigop/forge) - Terminal MCP server for AI coding agents — spawn, manage, and monitor PTY sessions via MCP (14⭐) ⭐ NEW
 - [mcp-anything](https://github.com/type-mcp/mcp-anything) - One command to turn any codebase into an MCP server (37⭐) ⭐ NEW
@@ -517,6 +519,24 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 ---
 
 ## Tools
+
+### Agent Frameworks & Orchestration
+
+- [Airlock](https://github.com/airlockai/airlock) - Self-upgrading compiled AI agents — cyborg agents that are half-code, half-AI compiled binaries. Containerized autonomous Go binaries that execute code where possible and invoke AI where needed (⭐ trending HN July 2026) ⭐ NEW
+- [GitAgent](https://github.com/GitAgentHQ/gitagent) - Open standard that turns any Git repo into an AI agent. Portable agent definitions via agent.yaml, SOUL.md, SKILL.md files — export to Claude Code, OpenAI Agents SDK, CrewAI, LangChain (⭐ trending HN June 2026) ⭐ NEW
+- [Sgai](https://github.com/sgaihq/sgai) - Goal-driven multi-agent software dev. GOAL.md → working code. Experimental AI-assisted development without step-by-step prompting (⭐ trending HN June 2026) ⭐ NEW
+- [Auto-Co](https://github.com/autoco-ai/autoco) - 14 AI agents that run a startup autonomously (open source). An opinionated autonomous AI company OS, not just a framework (⭐ trending HN June 2026) ⭐ NEW
+- [KinBot](https://github.com/MarlBurroW/hivekeep) - Self-hosted AI agents that build their own web apps — part of the Hivekeep platform for autonomous, persistent personal AI agents (⭐ trending HN June 2026) ⭐ NEW
+- [Mission Control](https://github.com/crshdn/mission-control) - Open-source task management for AI agents. Manage multiple Claude Code sessions with orchestration dashboard (⭐ trending HN June 2026) ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Multi-agent coordination framework with persistent knowledge graph, real-time dashboard, and parallel agent execution. Like "Obsidian for your AI agents" (⭐ trending HN June 2026) ⭐ NEW
+- [AgentLair](https://agentlair.dev) - Give your AI agent an email identity and credential vault. Protects against supply chain attacks with isolated credential storage (⭐ trending HN June 2026) ⭐ NEW
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k) ⭐ NEW
+- [mcpc](https://github.com/mcpc-tech/mcpc) - Build agentic-MCP servers by composing existing MCP tools (⭐ 98) ⭐ NEW
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - Microsoft's official framework for building, orchestrating and deploying AI agents and multi-agent workflows with Python and .NET support (⭐ 12k) ⭐ NEW
+- [NexusMCP](https://github.com/aavikshit2007-ops/NexusMCP) - Modern Python framework for building MCP-native AI agents with composable skills, orchestrator DAGs, OpenTelemetry observability, and sandboxed execution (⭐ trending June 2026) ⭐ NEW
+- [MetaMCP](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, and Gateway in one Docker container. Dynamically compose MCP servers with middleware, auth, rate limiting (⭐ 2.4k) ⭐ NEW
+- [Claude-Team-MCP](https://github.com/shalinda-j/Claude-Team-MCP) - Multi-agent MCP coordination system for AI coding assistants with shared state (⭐ 30, June 2026) ⭐ NEW
+- [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework for building MCP Apps (interactive widgets) and MCP Servers. TypeScript/Python SDK with inspector and cloud deployment (⭐ 10k) ⭐ NEW
 
 Standalone tools and utilities that work with OpenClaw.
 
