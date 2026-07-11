@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 10, 2026 • Added: 8 new tools - Airlock (self-upgrading compiled AI agents), GitAgent (git-native agent standard), AgentLair (email identity & credential vault), KinBot (self-hosted agents building web apps), Sgai (GOAL.md → working code), Auto-Co (14-agent autonomous startup), Mission Control (task management for agents), Agent-MCP (multi-agent coordination framework)
+**Last updated:** July 11, 2026 • Added: 7 new tools - Roundtable (multi-agent orchestration), agent-memory (git-native project memory), agent-memcp (persistent memory MCP), agent-memory-engine (evidence-backed project memory), agent-security-scanner-mcp (security scanner), browserbird (self-hosted agent orchestrator), Talox (stateful browser runtime)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -114,6 +114,11 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [skill-finder](https://github.com/yfge/skill-finder) - OpenClaw skill to discover and install agent skills from ClawHub + AgentSkill.work (⭐ 3) ⭐ NEW
 - [agent-tool](https://github.com/knewstimek/agent-tool) - MCP tool server with encoding-aware file operations, binary analysis, DAP debugger, SSH/SFTP, memory tools. Fixes tab/encoding issues in agent editors (19⭐, July 2026) ⭐ NEW
 - [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search — Go-based with SQLite backend (34⭐, July 2026) ⭐ NEW
+- [agent-memory](https://github.com/xChuCx/agent-memory) - Local, git-native project memory for AI coding agents. Markdown source of truth, MCP interface, safe structured updates — no cloud (6⭐, July 2026) ⭐ NEW
+- [agent-memcp](https://github.com/InnVinceable/agent-memcp) - MCP server that gives your model memory that persists across sessions — semantic search with all-MiniLM-L6-v2 running locally (July 2026) ⭐ NEW
+- [agent-memory-engine](https://github.com/uudam42/agent-memory-engine) - Local-first MCP server for persistent, evidence-backed project memory. Auto-builds knowledge base, retrieves architecture before tasks (July 2026) ⭐ NEW
+- [roundtable](https://github.com/askbudi/roundtable) - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery (HN Show July 2026) ⭐ NEW
+- [agent-security-scanner-mcp](https://github.com/sinewaveai/agent-security-scanner-mcp) - Security scanner MCP server with prompt injection firewall, package hallucination detection, 1000+ vulnerability rules (111⭐, July 2026) ⭐ NEW
 - [agent-workspace-mcp](https://github.com/HrRodan/agent-workspace-mcp) - Sandboxed, agentic workspace providing secure filesystem, bash, and uv-powered Python execution (July 2026) ⭐ NEW
 - [coding-mcp](https://github.com/kieutrongthien/coding-mcp) - Multi-project MCP server for remote coding workflows — agents work across repos without cloning source code (June 2026) ⭐ NEW
 - [forge](https://github.com/ferodrigop/forge) - Terminal MCP server for AI coding agents — spawn, manage, and monitor PTY sessions via MCP (14⭐) ⭐ NEW
@@ -431,6 +436,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [openclaw-min-bundle](https://github.com/CyberJhay/openclaw-min-bundle) - Run OpenClaw Gateway with systemd user service, auto-fix crashes, enable Codex deep web search (0⭐) ⭐ NEW
 - [clawcontrol](https://github.com/IUDU5/clawcontrol) - Simple CLI/TUI tool to automate VPS provisioning and OpenClaw setup with secure Tailscale access (1⭐, May 2026) ⭐ NEW
 - [browserclaw](https://github.com/Marashumpo/browserclaw) - Browser automation library using typed refs for reliable element targeting without CSS/XPath - AI-friendly snapshot-based approach (1⭐, May 2026) ⭐ NEW
+- [browserbird](https://github.com/Owloops/browserbird) - Self-hosted AI agent orchestrator with a real browser, cron scheduler, and web dashboard (18⭐, July 2026) ⭐ NEW
+- [talox](https://github.com/AVANT-ICONIC/Talox) - Stateful browser runtime for AI agents built on Playwright, with stealth interaction, structured page state, resilient automation (11⭐, July 2026) ⭐ NEW
 - [openclaw-ani-installer](https://github.com/wzfukui/openclaw-ani-installer) - Installer and updater for the ANI plugin on OpenClaw (1⭐) ⭐ NEW
 - [blucli](https://github.com/openclaw/openclaw/tree/main/skills/blucli) - Bluetooth device management and control
 - [clawdbot-logs](https://clawhub.com/skills/clawdbot-logs) - Analyze Clawdbot performance, response times, errors
