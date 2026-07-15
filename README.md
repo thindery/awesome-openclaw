@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 14, 2026 • Added: 6 new tools - agent-desktop (structured desktop automation), Statewright (state machine guardrails), Understudy (teachable GUI agent), ClawX (desktop GUI for OpenClaw), Clawdbot-Feishu (Feishu/Lark integration), OpenClaw-Foundry (self-writing meta-extension)
+**Last updated:** July 15, 2026 • Added: 10 new tools - Juggler (GUI coding agent), GitMCP (auto MCP for any GitHub repo), Caveman (token optimizer), Context7 (live code docs), browserbird (self-hosted agent orchestrator), Talox (stealth browser runtime), agent-memory-mcp (persistent memory), Sub-Agent MCP (orchestration), Index (SOTA browser agent), MCPX (MCP as CLI)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -46,6 +46,16 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [Juggler](https://github.com/juggler-ai/juggler) - Open-source GUI coding agent by the creator of JUCE framework. Native GUI for agentic coding with JavaScript/Go backend (362⭐) ⭐ NEW
+- [Index](https://github.com/lmnr-ai/index) - SOTA open-source browser agent reaching 92% on WebVoyager with Claude 3.7. Built by Laminar for autonomous web tasks (2,345⭐, now archived) ⭐ NEW
+- [Caveman](https://github.com/JuliusBrussee/caveman) - Claude Code skill that cuts ~65-75% of output tokens by talking like caveman while keeping full technical accuracy (88,984⭐, trending) ⭐ NEW
+- [GitMCP](https://github.com/idosal/git-mcp) - Automatic MCP server for every GitHub repo. Change github.com → gitmcp.io for instant AI context — end code hallucinations (8,246⭐, HN trending) ⭐ NEW
+- [Context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors. Live docs that stay current with your codebase (59,103⭐) ⭐ NEW
+- [browserbird](https://github.com/Owloops/browserbird) - Self-hosted AI agent orchestrator with real browser, cron scheduler, and web dashboard. TypeScript/Svelte stack (18⭐, July 2026) ⭐ NEW
+- [Talox](https://github.com/AVANT-ICONIC/Talox) - Stateful browser runtime for AI agents built on Playwright with stealth interaction and structured page state (11⭐, July 2026) ⭐ NEW
+- [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search — Go-based with local embeddings (34⭐, July 2026) ⭐ NEW
+- [Sub-Agent MCP](https://github.com/systemgroupnet/Sub-Agent-MCP) - Production-ready MCP server for LLM delegation and sub-agent orchestration with YAML agent definitions (12⭐, July 2026) ⭐ NEW
+- [MCPX](https://github.com/lydakis/mcpx) - Turn any MCP server into a composable CLI for agent workflows. Shell-first design with tool discovery and pipelining (HN Show July 2026) ⭐ NEW
 - [claude-code-task](https://github.com/VsevolodUstinov/openclaw-skill-claude-code) - Async Claude Code task runner — delegate heavy work to Claude Code with WhatsApp progress notifications and automatic agent wake-up (16⭐) ⭐ NEW
 - [openclaw-graph](https://github.com/alphaonedev/openclaw-graph) - Graph-native workspace backend using Neo4j. Replaces flat markdown files with Cypher graph directives — 316 skills across 27 clusters, sub-millisecond queries, 94% token savings (⭐ 5) ⭐ NEW
 - [agent-desktop](https://github.com/lahfir/agent-desktop) - Native desktop automation CLI using OS accessibility APIs (macOS/Windows/Linux). Structured JSON output, 78-96% token reduction vs screenshots, 954⭐ ⭐ NEW
@@ -645,6 +655,9 @@ Standalone tools and utilities that work with OpenClaw.
 
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents by Vercel Labs. Rust-based with Playwright integration (⭐ 36.8k, July 2026) ⭐ NEW
 - [browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness for LLMs — enables agents to complete any web task with semantic understanding and recovery (⭐ 15.7k, July 2026) ⭐ NEW
+- [Talox](https://github.com/AVANT-ICONIC/Talox) - Stateful browser runtime for AI agents built on Playwright with stealth interaction and structured page state (11⭐, July 2026) ⭐ NEW
+- [browserbird](https://github.com/Owloops/browserbird) - Self-hosted AI agent orchestrator with real browser, cron scheduler, and web dashboard. TypeScript/Svelte stack (18⭐, July 2026) ⭐ NEW
+- [Index](https://github.com/lmnr-ai/index) - SOTA open-source browser agent reaching 92% on WebVoyager with Claude 3.7. Built by Laminar for autonomous web tasks (2,345⭐) ⭐ NEW
 
 ### Alternative Agents & Frameworks
 
@@ -652,6 +665,7 @@ Standalone tools and utilities that work with OpenClaw.
 - [Lilo](https://github.com/abi/lilo) - Open source Telegram-based personal AI assistant with memory, skills, and tools. Model-agnostic with persistent workspace, scheduled tasks, and HTML app creation. Multi-channel (Telegram, Email, WhatsApp, Web) (HN Show 2026) ⭐ NEW
 - [Moltis](https://www.moltis.org) - Rust-native AI assistant with memory, tools, and self-extending skills. 150k lines, ~60MB, no runtime deps. Multi-provider LLM routing, MCP tool servers, multi-channel (Web, Telegram, API) (HN Show) ⭐ NEW
 - [Understudy](https://github.com/understudy-ai/understudy) - Teach desktop agents by demonstrating tasks once. Local-first, works across native apps, browser, terminal. Records screen + semantic events, extracts intent for reusable skills (HN Show June 2026) ⭐ NEW
+- [Juggler](https://github.com/juggler-ai/juggler) - Open-source GUI coding agent by the creator of JUCE framework. Native GUI for agentic coding with JavaScript/Go backend (362⭐) ⭐ NEW
 - [Tasker](https://automatewithtasker.com) - Open-source desktop agent for browser and OS automation. Consumer-friendly, local-first automation that clicks through UIs, copy/pastes between apps, handles messy workflows (HN Show) ⭐ NEW
 - [ClawFleet](https://github.com/clawfleet/clawfleet) - Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes. Use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard (⭐ 157) ⭐ NEW
 - [Clawdboss](https://github.com/NanoFlow-io/Clawdboss) - Pre-hardened, multi-agent OpenClaw setup. One script from zero to fully secured AI assistant on Discord, Telegram, or both (⭐ 113) ⭐ NEW
@@ -659,6 +673,11 @@ Standalone tools and utilities that work with OpenClaw.
 
 ### Skills & Tool Adapters
 
+- [GitMCP](https://github.com/idosal/git-mcp) - Automatic MCP server for every GitHub repo. Change github.com → gitmcp.io for instant AI context — end code hallucinations (8,246⭐, HN trending) ⭐ NEW
+- [Context7](https://github.com/upstash/context7) - Up-to-date code documentation for LLMs and AI code editors. Live docs that stay current with your codebase (59,103⭐) ⭐ NEW
+- [agent-memory-mcp](https://github.com/ipiton/agent-memory-mcp) - MCP server that gives AI agents persistent memory with semantic search — Go-based with local embeddings (34⭐, July 2026) ⭐ NEW
+- [Sub-Agent MCP](https://github.com/systemgroupnet/Sub-Agent-MCP) - Production-ready MCP server for LLM delegation and sub-agent orchestration with YAML agent definitions (12⭐, July 2026) ⭐ NEW
+- [Caveman](https://github.com/JuliusBrussee/caveman) - Claude Code skill that cuts ~65-75% of output tokens by talking like caveman while keeping full technical accuracy (88,984⭐, trending) ⭐ NEW
 - [skill-loader](https://github.com/ythx-101/skill-loader) - Universal skill adapter for OpenClaw - load Claude Code, Codex, and Gemini CLI skills (⭐ 5) ⭐ NEW
 - [openclaw-repo-agent](https://github.com/AndriiTeterka/openclaw-repo-agent) - Repository-aware agent for OpenClaw that understands codebase structure and context (⭐ NEW) ⭐ NEW
 
@@ -714,4 +733,4 @@ This list is released into the public domain.
 
 ---
 
-*This awesome list is maintained by the OpenClaw community. Last updated: July 7, 2026*
+*This awesome list is maintained by the OpenClaw community. Last updated: July 15, 2026*
