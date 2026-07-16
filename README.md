@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 15, 2026 • Added: 10 new tools - Juggler (GUI coding agent), GitMCP (auto MCP for any GitHub repo), Caveman (token optimizer), Context7 (live code docs), browserbird (self-hosted agent orchestrator), Talox (stealth browser runtime), agent-memory-mcp (persistent memory), Sub-Agent MCP (orchestration), Index (SOTA browser agent), MCPX (MCP as CLI)
+**Last updated:** July 16, 2026 • Added: 6 new tools - Observational Memory (hybrid memory), OpenClaw Projects (PM backend), Smooth (token-efficient browser), GitAgent (git-native agents), Understudy (teachable desktop agent), SillyTavern Cards (character RP)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -46,6 +46,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [OpenClaw Observational Memory](https://github.com/intertwine/openclaw-observational-memory) - Hybrid memory system (BM25 + vectors + reranking) for OpenClaw. 5-40× token reduction with Observer + Reflector agents — no RAG pipelines, no databases (7⭐, July 2026) ⭐ NEW
+- [OpenClaw Projects](https://github.com/troykelly/openclaw-projects) - Postgres-backed project management with work graphs for OpenClaw: projects, initiatives, epics, tasks, dependencies, dashboard (3⭐, July 2026) ⭐ NEW
+- [Smooth](https://www.smooth.sh) - Serverless browser agent API — 5× faster, 7× cheaper than alternatives. State-of-the-art reliability with 92% WebVoyager score (HN Show July 2026) ⭐ NEW
 - [Juggler](https://github.com/juggler-ai/juggler) - Open-source GUI coding agent by the creator of JUCE framework. Native GUI for agentic coding with JavaScript/Go backend (362⭐) ⭐ NEW
 - [Index](https://github.com/lmnr-ai/index) - SOTA open-source browser agent reaching 92% on WebVoyager with Claude 3.7. Built by Laminar for autonomous web tasks (2,345⭐, now archived) ⭐ NEW
 - [Caveman](https://github.com/JuliusBrussee/caveman) - Claude Code skill that cuts ~65-75% of output tokens by talking like caveman while keeping full technical accuracy (88,984⭐, trending) ⭐ NEW
@@ -69,6 +72,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [sillytavern-cards-skill](https://github.com/pearyj/sillytavern-cards-skill) - Import & roleplay with SillyTavern character cards. Chat with characters on WhatsApp, Telegram, Discord ⭐ NEW
 - [openclaw-plugin-voice-chat](https://github.com/levivoelz/openclaw-plugin-voice-chat) - Voice I/O for OpenClaw — STT/TTS brackets your real agent keeping models, memory, and skills. WebSocket-based with Whisper/ElevenLabs support ⭐ NEW
 - [homeassistant-assist](https://github.com/DevelopmentCats/homeassistant-assist) - Token-efficient Home Assistant skill using Assist API — natural language control without entity lookups (11⭐) ⭐ NEW
+- [Understudy](https://github.com/understudy-ai/understudy) - Teachable GUI agent — demonstrate a task once, replay forever. Local-first, works across native apps/browser/terminal, 444⭐ ⭐ NEW
 - [Meeting Agent](https://github.com/Smokefarmer/meeting-agent) - AI Meeting Assistant — transcribes, extracts action items, auto-creates GitHub issues and calendar events (Hack_001) (Mar 27)
 - [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, openclaw & Gemini CLI (30.5k⭐) ⭐ NEW
 - [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian - create/edit Markdown with wikilinks, Bases with views/filters, JSON Canvas, and Obsidian CLI integration. Compatible with Claude Code, Codex, OpenCode (⭐ 16.1k) ⭐ NEW
@@ -110,6 +114,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [GitAgent](https://gitagent.sh) - Open standard that turns any Git repo into an AI agent. Portable via agent.yaml, SOUL.md, SKILL.md files — exports to Claude Code, OpenAI Agents SDK, CrewAI, LangChain (147⭐ HN) ⭐ NEW
 - [AgentClaw](https://github.com/Negai-ai/AgentClaw) - Turns one-sentence ideas into reusable Claw capabilities with declarative workflows, MCP, Skills, memory, and knowledge bases (⭐ 345) ⭐ NEW
 - [memX](https://github.com/NeoLi00/openclaw-memx) - Self-learning, self-maintaining memory plugin for AI agents with native OpenClaw support (⭐ 141) ⭐ NEW
 - [openclaw-mem](https://github.com/phenomenoner/openclaw-mem) - Local-first memory governance: Store / Pack / Observe cited, inspectable, rollbackable agent context (⭐ 28) ⭐ NEW
@@ -331,6 +336,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [gemini-image-gen](https://clawhub.com/skills/gemini-image-gen) - Generate and edit images via Google Gemini API
 - [banana-claws](https://github.com/snowcrab-dev/banana-claws) - OpenRouter image generation skill with queue-first workflow ⭐ NEW
 - [mp4-to-mp3-extractor](https://github.com/wangminrui2022/mp4-to-mp3-extractor) - Batch extract MP3 audio from MP4 videos using FFmpeg - simple CLI tool for OpenClaw (⭐ 1.8k) ⭐ NEW
+- [win4r/OpenClaw-Skill](https://github.com/win4r/OpenClaw-Skill) - Comprehensive Agent Skill for installing, configuring, operating, and troubleshooting OpenClaw — includes architecture docs, troubleshooting, and best practices (⭐ 313) ⭐ NEW
 - [gemini-nano-banana-pro-portraits](https://clawhub.com/skills/gemini-nano-banana-pro-portraits) - Portrait generation with Gemini Nano Banana Pro
 - [gifgrep](https://github.com/openclaw/openclaw/tree/main/skills/gifgrep) - Search and manage GIFs from Giphy
 - [image-cog](https://clawhub.com/skills/image-cog) - Image cognition and analysis
