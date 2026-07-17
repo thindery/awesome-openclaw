@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 16, 2026 • Added: 6 new tools - Observational Memory (hybrid memory), OpenClaw Projects (PM backend), Smooth (token-efficient browser), GitAgent (git-native agents), Understudy (teachable desktop agent), SillyTavern Cards (character RP)
+**Last updated:** July 17, 2026 • Added: 8 new tools - Scribe (repo memory), Sentinel (QA agent), Wolbarg (SQLite memory), Hearth (local AI), Clawk (agent VM), TeamMCP (agent collaboration), Agent-MCP (multi-agent framework), AlphaClaw (deployment harness)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -46,6 +46,7 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [AlphaClaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes, stay running for months. No CLI required (1,425⭐, July 2026) ⭐ NEW
 - [OpenClaw Observational Memory](https://github.com/intertwine/openclaw-observational-memory) - Hybrid memory system (BM25 + vectors + reranking) for OpenClaw. 5-40× token reduction with Observer + Reflector agents — no RAG pipelines, no databases (7⭐, July 2026) ⭐ NEW
 - [OpenClaw Projects](https://github.com/troykelly/openclaw-projects) - Postgres-backed project management with work graphs for OpenClaw: projects, initiatives, epics, tasks, dependencies, dashboard (3⭐, July 2026) ⭐ NEW
 - [Smooth](https://www.smooth.sh) - Serverless browser agent API — 5× faster, 7× cheaper than alternatives. State-of-the-art reliability with 92% WebVoyager score (HN Show July 2026) ⭐ NEW
@@ -114,7 +115,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [Scribe](https://getscribe.dev/) - CLI that builds AI agent memory from your repos and sessions. Persistent codebase context that survives across sessions (HN Show July 2026) ⭐ NEW
 - [GitAgent](https://gitagent.sh) - Open standard that turns any Git repo into an AI agent. Portable via agent.yaml, SOUL.md, SKILL.md files — exports to Claude Code, OpenAI Agents SDK, CrewAI, LangChain (147⭐ HN) ⭐ NEW
+- [Sentinel](https://blog.simbastack.com/announcing-sentinel/) - Open-source QA agent that reads your code before it clicks. Reduces tokens by understanding your codebase first (15⭐, HN Show July 2026) ⭐ NEW
 - [AgentClaw](https://github.com/Negai-ai/AgentClaw) - Turns one-sentence ideas into reusable Claw capabilities with declarative workflows, MCP, Skills, memory, and knowledge bases (⭐ 345) ⭐ NEW
 - [memX](https://github.com/NeoLi00/openclaw-memx) - Self-learning, self-maintaining memory plugin for AI agents with native OpenClaw support (⭐ 141) ⭐ NEW
 - [openclaw-mem](https://github.com/phenomenoner/openclaw-mem) - Local-first memory governance: Store / Pack / Observe cited, inspectable, rollbackable agent context (⭐ 28) ⭐ NEW
@@ -155,6 +158,8 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [uniqent](https://github.com/RiggdAI/uniqent) - Package an AI agent's whole brain (persona, MCP stack, skills, memory, config) into one open, signed .uniqent file — install into any framework in one click (June 2026) ⭐ NEW
 - [SkillClaw](https://github.com/AMAP-ML/skillclaw) - Let Skills Evolve Collectively with Agentic Evolver. Framework for collective skill evolution in AI agents (⭐ 1.8k, June 2026) ⭐ NEW
 - [GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent framework. Grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption. 9 atomic tools, real browser control, autonomous skill crystallization (⭐ 12.9k) ⭐ NEW
+- [TeamMCP](https://github.com/cookjohn/teammcp) - MCP-native collaboration server for AI agent teams — real-time messaging, task management, and web dashboard with just 1 npm dependency (51⭐, July 2026) ⭐ NEW
+- [Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Framework for creating multi-agent systems with coordinated AI collaboration through MCP. Persistent knowledge graph with real-time dashboard (⭐ HN trending July 2026) ⭐ NEW
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k) ⭐ NEW
 - [pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) - Browser-automation agent for Chrome extension. Natural-language tasks via native tool calling, scoped Skills, CDP keyboard control, confirm-before-act security. BYOK across 8 LLM providers (Claude, GPT, Gemini, DeepSeek) ⭐ NEW
 - [ht-mcp](https://github.com/tedliang/ht-mcp) - Rust MCP server of headless terminal for agents. Wrapper for agentic coding tools like Claude Code, Cursor (HN Show June 2026) ⭐ NEW
@@ -162,6 +167,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [claude-skills](https://github.com/avraltod/claude-skills) - 337 Claude Code skills for 30+ agents — engineering, marketing, product, compliance, C-level advisory, research, business operations (June 2026) ⭐ NEW
 - [gen-pdf](https://github.com/gen-pdf/mcp) - MCP server enabling AI assistants to generate TeX-quality PDFs from Markdown (HN Show June 2026) ⭐ NEW
 - [Zyler](https://github.com/zyler-ai/zyler) - AI agent for marketing data that doesn't hallucinate. Connects to GA, Ads, and marketing channels for insights (HN Show June 2026) ⭐ NEW
+- [Wolbarg](https://wolbarg.com/blog/why-sqlite-is-enough-for-local-ai-agent-memory) - Local-first shared memory for AI agents using SQLite. Simple, fast, and durable agent memory (HN Show July 2026) ⭐ NEW
+- [Hearth](https://github.com/0pen-Sourcer/Hearth) - Open-source local AI that runs your PC — files, apps, voice. Personal AI assistant for desktop automation (HN Show July 2026) ⭐ NEW
+- [Clawk](https://github.com/clawkwork/clawk) - Give coding agents a disposable Linux VM, not your laptop. Secure sandboxed environment for agent execution (223⭐, HN Show July 2026) ⭐ NEW
 - [Portia](https://github.com/portia-ai/portia) - Open-source framework for production-ready, stateful, predictable, and authenticated AI agents (Reddit trending 2025) ⭐ NEW
 - [AgentKraft](https://github.com/agentkraft/agentkraft) - Lightweight tool for building and self-hosting AI agents with voice interaction and tool actions (Reddit trending 2025) ⭐ NEW
 - [Microsoft Webwright](https://github.com/microsoft/Webwright) - SOTA browser agent framework achieving 86.7% on Online-Mind2Web. Coding agent with terminal + browser — code-as-action beats coordinate prediction. Ships plugins for Claude Code, Codex, OpenClaw, Hermes (⭐ 5.4k) ⭐ NEW
