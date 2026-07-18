@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 17, 2026 • Added: 8 new tools - Scribe (repo memory), Sentinel (QA agent), Wolbarg (SQLite memory), Hearth (local AI), Clawk (agent VM), TeamMCP (agent collaboration), Agent-MCP (multi-agent framework), AlphaClaw (deployment harness)
+**Last updated:** July 18, 2026 • Added: 8 new tools - l6e (token budgeting), cuba-memorys (Rust memory), Microsoft Agent Framework, Omnigent (meta-harness), Trae Agent (ByteDance), Open Multi-Agent, GitAgent, Vercel Eve
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -115,7 +115,15 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's official framework for building, orchestrating and deploying AI agents and multi-agent workflows with Python and .NET support (12.2k⭐, July 2026) ⭐ NEW
+- [Omnigent](https://github.com/omnigent-ai/omnigent) - Meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents. Swap harnesses without rewriting, enforce policies and sandboxing (7.4k⭐, July 2026) ⭐ NEW
+- [Trae Agent](https://github.com/ByteDance/trae-agent) - ByteDance's LLM-based agent for general purpose software engineering tasks. MIT licensed (11.8k⭐, July 2026) ⭐ NEW
+- [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph — coordinator plans task DAG at runtime (6.6k⭐, July 2026) ⭐ NEW
+- [GitAgent](https://github.com/open-gitagent/gitagent) - Universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files (608⭐, July 2026) ⭐ NEW
+- [Vercel Eve](https://github.com/vercel/eve) - Vercel's framework for building agents. Apache 2.0 licensed (3.8k⭐, July 2026) ⭐ NEW
 - [Scribe](https://getscribe.dev/) - CLI that builds AI agent memory from your repos and sessions. Persistent codebase context that survives across sessions (HN Show July 2026) ⭐ NEW
+- [l6e](https://github.com/l6e-ai/l6e-mcp) - MCP server that gives your agent a budget. Token-aware planning reduces costs while improving output quality. Works with Cursor, Claude Code, Windsurf, OpenClaw (HN Show July 2026) ⭐ NEW
+- [cuba-memorys](https://github.com/leandropg19/cuba-memorys) - Persistent memory MCP server in Rust with 19 tools, knowledge graph, Hebbian learning, episodic memory, and Bayesian calibration (26⭐, July 2026) ⭐ NEW
 - [GitAgent](https://gitagent.sh) - Open standard that turns any Git repo into an AI agent. Portable via agent.yaml, SOUL.md, SKILL.md files — exports to Claude Code, OpenAI Agents SDK, CrewAI, LangChain (147⭐ HN) ⭐ NEW
 - [Sentinel](https://blog.simbastack.com/announcing-sentinel/) - Open-source QA agent that reads your code before it clicks. Reduces tokens by understanding your codebase first (15⭐, HN Show July 2026) ⭐ NEW
 - [AgentClaw](https://github.com/Negai-ai/AgentClaw) - Turns one-sentence ideas into reusable Claw capabilities with declarative workflows, MCP, Skills, memory, and knowledge bases (⭐ 345) ⭐ NEW
