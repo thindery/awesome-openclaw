@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 18, 2026 • Added: 8 new tools - l6e (token budgeting), cuba-memorys (Rust memory), Microsoft Agent Framework, Omnigent (meta-harness), Trae Agent (ByteDance), Open Multi-Agent, GitAgent, Vercel Eve
+**Last updated:** July 19, 2026 • Added: 10 new tools - mcp-agent (MCP framework), mcpc (agentic MCP composition), Agent-MCP (multi-agent), Ultimate MCP Server (comprehensive), MCPHub (embeddable MCP), Nexus Agent (self-evolving local), GenericAgent (13.5k⭐ self-evolving), MetaMCP (aggregator), MCPX (composable CLI), mcp-use (fullstack)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -577,8 +577,11 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 - [Mission Control](https://github.com/crshdn/mission-control) - Open-source task management for AI agents. Manage multiple Claude Code sessions with orchestration dashboard (⭐ trending HN June 2026) ⭐ NEW
 - [Agent-MCP](https://github.com/rinadelph/Agent-MCP) - Multi-agent coordination framework with persistent knowledge graph, real-time dashboard, and parallel agent execution. Like "Obsidian for your AI agents" (⭐ trending HN June 2026) ⭐ NEW
 - [AgentLair](https://agentlair.dev) - Give your AI agent an email identity and credential vault. Protects against supply chain attacks with isolated credential storage (⭐ trending HN June 2026) ⭐ NEW
-- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k) ⭐ NEW
-- [mcpc](https://github.com/mcpc-tech/mcpc) - Build agentic-MCP servers by composing existing MCP tools (⭐ 98) ⭐ NEW
+- [Ultimate MCP Server](https://github.com/Dicklesworthstone/ultimate_mcp_server) - Comprehensive MCP server exposing dozens of capabilities: multi-provider LLM delegation, browser automation, document processing, vector ops, and cognitive memory systems (155⭐, July 2026) ⭐ NEW
+- [MCPHub](https://github.com/Cognitive-Stack/mcphub) - Embeddable MCP solution for AI services. Seamlessly integrate MCP servers with OpenAI Agents, LangChain, and Autogen through unified interface (⭐ trending, July 2026) ⭐ NEW
+- [Nexus Agent](https://github.com/rudra496/nexus-agent) - Zero-config, self-evolving local AI agent framework. Multi-agent orchestration, GraphRAG memory, IDE integration. Runs 100% local with Ollama (6⭐, July 2026) ⭐ NEW
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Simple, composable framework to build effective agents using MCP. Implements Anthropic's "Building Effective Agents" patterns with Temporal durability, structured logging, token accounting (⭐ 8.4k, July 2026) ⭐ NEW
+- [mcpc](https://github.com/mcpc-tech/mcpc) - Build agentic-MCP servers by composing existing MCP tools (⭐ 99, July 2026) ⭐ NEW
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - Microsoft's official framework for building, orchestrating and deploying AI agents and multi-agent workflows with Python and .NET support (⭐ 12k) ⭐ NEW
 - [NexusMCP](https://github.com/aavikshit2007-ops/NexusMCP) - Modern Python framework for building MCP-native AI agents with composable skills, orchestrator DAGs, OpenTelemetry observability, and sandboxed execution (⭐ trending June 2026) ⭐ NEW
 - [MetaMCP](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, and Gateway in one Docker container. Dynamically compose MCP servers with middleware, auth, rate limiting (⭐ 2.4k) ⭐ NEW
