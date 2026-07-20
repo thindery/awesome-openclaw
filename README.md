@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 19, 2026 • Added: 10 new tools - mcp-agent (MCP framework), mcpc (agentic MCP composition), Agent-MCP (multi-agent), Ultimate MCP Server (comprehensive), MCPHub (embeddable MCP), Nexus Agent (self-evolving local), GenericAgent (13.5k⭐ self-evolving), MetaMCP (aggregator), MCPX (composable CLI), mcp-use (fullstack)
+**Last updated:** July 20, 2026 • Added: 8 new tools - Teros (agent OS), Synkora (AI teammates), Daemora (multi-channel agents), Nodal Agents (team orchestration), YourHQ (ops platform), Cogitator (TypeScript framework), Orkestr (skill sync), agent-browser Vercel (Rust browser automation)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -569,6 +569,13 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Agent Frameworks & Orchestration
 
+- [Teros](https://github.com/teros-hq/teros) - The open-source AI agent operating system. Build, run, and extend AI agents with real tool capabilities — agents are persistent, multi-tool, and autonomous (40⭐, July 2026) ⭐ NEW
+- [Synkora](https://github.com/getsynkora/synkora-ai) - Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Support, Marketing) with 50+ integrations, self-hosted (⭐ trending, July 2026) ⭐ NEW
+- [Daemora](https://github.com/CodeAndCanvasLabs/Daemora) - Open-source AI agent platform — any LLM, any MCP server, any channel. Self-hosted, autonomous, multi-tenant with 52 built-in tools and 20 channels (13⭐, July 2026) ⭐ NEW
+- [Nodal Agents](https://github.com/Kwintspiracy/nodal-agents) - Self-hosted AI agent platform for orchestrating teams of specialized agents on your own hardware. Router + Planner patterns, full Google Workspace adapters, no Docker required (⭐ trending, July 2026) ⭐ NEW
+- [YourHQ](https://github.com/yourhq/yourhq) - Self-hosted AI agent operations platform. One UI, many agents, your infrastructure. Operational workspace with CRM, tasks, knowledge base, routines (9⭐, July 2026) ⭐ NEW
+- [Cogitator](https://github.com/cogitator-ai/Cogitator-AI) - Kubernetes for AI Agents. Self-hosted, production-grade TypeScript runtime for orchestrating LLM swarms and autonomous agents (37⭐, July 2026) ⭐ NEW
+- [Orkestr](https://github.com/eooo-io/orkestr) - Open-source harness engineering platform — define, compose, and sync AI skills across providers (Claude, Cursor, Copilot, Windsurf, Cline, OpenAI) from a single source of truth (2⭐, July 2026) ⭐ NEW
 - [Airlock](https://github.com/airlockai/airlock) - Self-upgrading compiled AI agents — cyborg agents that are half-code, half-AI compiled binaries. Containerized autonomous Go binaries that execute code where possible and invoke AI where needed (⭐ trending HN July 2026) ⭐ NEW
 - [GitAgent](https://github.com/GitAgentHQ/gitagent) - Open standard that turns any Git repo into an AI agent. Portable agent definitions via agent.yaml, SOUL.md, SKILL.md files — export to Claude Code, OpenAI Agents SDK, CrewAI, LangChain (⭐ trending HN June 2026) ⭐ NEW
 - [Sgai](https://github.com/sgaihq/sgai) - Goal-driven multi-agent software dev. GOAL.md → working code. Experimental AI-assisted development without step-by-step prompting (⭐ trending HN June 2026) ⭐ NEW
