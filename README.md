@@ -2,7 +2,7 @@
 
 > Curated list of OpenClaw resources, skills, tools, and example projects.
 
-**Last updated:** July 20, 2026 • Added: 8 new tools - Teros (agent OS), Synkora (AI teammates), Daemora (multi-channel agents), Nodal Agents (team orchestration), YourHQ (ops platform), Cogitator (TypeScript framework), Orkestr (skill sync), agent-browser Vercel (Rust browser automation)
+**Last updated:** July 21, 2026 • Added: 6 new tools - LoopGain (agent loop control), Clawdboss (pre-hardened multi-agent setup), Daedalus (self-hosted teachable agent), Agent Orchestrator (self-building agent system), Sgai (goal-driven multi-agent dev), NullClaw (IRC transport agent)
 
 [OpenClaw](https://github.com/openclaw/openclaw) is an open-source framework for building AI agents that can use tools, spawn sub-agents, and coordinate complex workflows. Think of it as your AI team's operating system.
 
@@ -46,6 +46,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Productivity
 
+- [LoopGain](https://github.com/loopgain-ai/loopgain) - Stop agent loops with control theory, not max_iterations. PID-based loop detection and termination for AI agents (HN Show July 2026) ⭐ NEW
+- [Clawdboss](https://github.com/NanoFlow-io/Clawdboss) - Pre-hardened, multi-agent OpenClaw setup. One script from zero to fully secured AI assistant on Discord/Telegram with WAL Protocol, security audits, and optional web dashboard (114⭐) ⭐ NEW
+- [Daedalus](https://github.com/Shahzar07/daedalus) - Self-hosted, teachable AI agent that remembers across sessions, writes its own skills, and reaches you on every surface (terminal, web, Telegram, WhatsApp, voice). $0 with local models (July 2026) ⭐ NEW
 - [AlphaClaw](https://github.com/chrysb/alphaclaw) - The ultimate setup harness for OpenClaw. Deploy in minutes, stay running for months. No CLI required (1,425⭐, July 2026) ⭐ NEW
 - [OpenClaw Observational Memory](https://github.com/intertwine/openclaw-observational-memory) - Hybrid memory system (BM25 + vectors + reranking) for OpenClaw. 5-40× token reduction with Observer + Reflector agents — no RAG pipelines, no databases (7⭐, July 2026) ⭐ NEW
 - [OpenClaw Projects](https://github.com/troykelly/openclaw-projects) - Postgres-backed project management with work graphs for OpenClaw: projects, initiatives, epics, tasks, dependencies, dashboard (3⭐, July 2026) ⭐ NEW
@@ -115,6 +118,9 @@ Skills are OpenClaw's superpower - they give your agents tools to interact with 
 
 ### Development
 
+- [Agent Orchestrator](https://github.com/pr2d4/agent-orchestrator) - Built using the agents it orchestrates. Self-building multi-agent system that merged 80+ of its own PRs in 8 days. 2,700+ GitHub stars in two weeks (HN Show July 2026) ⭐ NEW
+- [Sgai](https://github.com/sgai-dev/sgai) - Goal-driven multi-agent software dev. GOAL.md → working code. Describe what you want, agents plan and execute the implementation (HN Show July 2026) ⭐ NEW
+- [NullClaw](https://github.com/colinmarc/nullclaw) - AI agent on a $7/month VPS with IRC as transport layer. 678 KB Zig binary using ~1 MB RAM, connected to Ergo IRC server with web client (HN Show July 2026) ⭐ NEW
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Microsoft's official framework for building, orchestrating and deploying AI agents and multi-agent workflows with Python and .NET support (12.2k⭐, July 2026) ⭐ NEW
 - [Omnigent](https://github.com/omnigent-ai/omnigent) - Meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents. Swap harnesses without rewriting, enforce policies and sandboxing (7.4k⭐, July 2026) ⭐ NEW
 - [Trae Agent](https://github.com/ByteDance/trae-agent) - ByteDance's LLM-based agent for general purpose software engineering tasks. MIT licensed (11.8k⭐, July 2026) ⭐ NEW
